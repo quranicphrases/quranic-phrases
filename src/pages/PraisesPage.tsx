@@ -1,8 +1,21 @@
 import React from 'react';
 import { Container, Typography, Box, Paper, Divider } from '@mui/material';
 import { aboutPraisesText } from '../assets/aboutPraisesText';
+import praisesData from '../assets/praises.json';
+import PhraseCard from '../components/PhraseCard';
+import type { PraisesData } from '../types/praisesTypes';
+import { formatReferences } from '../types/praisesTypes';
 
 const PraisesPage: React.FC = () => {
+  // Type assertion for imported JSON data
+  const { phrases } = praisesData as PraisesData;
+
+  // Handle reference click for accessibility and user interaction
+  const handleReferenceClick = (reference: string) => {
+    console.log(`Navigating to reference: ${reference}`);
+    // Could implement actual navigation to verse details or external Quran sites
+  };
+
   return (
     <Container
       maxWidth={false}
@@ -72,33 +85,120 @@ const PraisesPage: React.FC = () => {
         </Typography>
       </Paper>
 
-      {/* Placeholder for future praise phrases content */}
+      {/* Phrases Cards Section */}
       <Box
+        component='section'
+        aria-labelledby='phrases-section-title'
         sx={{
           flexGrow: 1,
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
         }}
       >
-        <Paper
-          elevation={1}
+        <Typography
+          id='phrases-section-title'
+          variant='h4'
+          component='h2'
+          align='center'
+          gutterBottom
           sx={{
-            p: 3,
-            textAlign: 'center',
-            backgroundColor: 'grey.50',
-            border: '2px dashed',
-            borderColor: 'grey.300',
+            mb: 4,
+            color: 'primary.main',
+            fontWeight: 'medium',
           }}
         >
-          <Typography variant='h6' color='text.secondary' gutterBottom>
-            Praise Phrases Coming Soon
-          </Typography>
-          <Typography variant='body2' color='text.secondary'>
-            This section will contain beautiful Quranic phrases of praise in
-            Arabic, English, Hindi, and Urdu.
-          </Typography>
-        </Paper>
+          Quranic Praise Phrases
+        </Typography>
+
+        {/* Responsive Flexbox Grid for Phrase Cards */}
+        <Box
+          sx={{
+            display: 'flex',
+            flexWrap: 'wrap',
+            gap: { xs: 2, sm: 3, md: 4 },
+            justifyContent: 'flex-start',
+            alignItems: 'stretch',
+          }}
+          role='group'
+          aria-label={`Collection of ${phrases.length} Quranic praise phrases with translations`}
+        >
+          {phrases.map((phrase, index) => (
+            <Box
+              key={`phrase-${index}`}
+              sx={{
+                flex: {
+                  xs: '1 1 100%', // Mobile: 1 card per row
+                  sm: '1 1 calc(50% - 12px)', // Tablet: 2 cards per row
+                  md: '1 1 calc(33.333% - 16px)', // Small desktop: 3 cards per row
+                  lg: '1 1 calc(25% - 18px)', // Large desktop: 4 cards per row
+                  xl: '1 1 calc(20% - 19.2px)', // Extra large: 5 cards per row
+                },
+                minWidth: { xs: '280px', sm: '320px' }, // Ensure minimum readable width
+                maxWidth: '100%',
+              }}
+            >
+              <PhraseCard
+                arabic={{
+                  text: phrase.arabicText,
+                  edition: 'القرآن الكريم',
+                  editionEnglish: 'The Holy Quran',
+                }}
+                english={{
+                  text: phrase.englishText,
+                  edition: 'Sahih International',
+                }}
+                hindi={{
+                  text: phrase.hindiText || 'Translation not available',
+                  edition: 'फारूकी',
+                  editionEnglish: 'Faruqi',
+                }}
+                urdu={{
+                  text: phrase.urduText,
+                  edition: 'احمد علی',
+                  editionEnglish: 'Ahmed Ali',
+                }}
+                references={formatReferences(phrase.references)}
+                onReferenceClick={handleReferenceClick}
+                elevation={2}
+                sx={{
+                  height: '100%',
+                  display: 'flex',
+                  flexDirection: 'column',
+                  transition: 'all 0.2s ease-in-out',
+                  '&:hover': {
+                    elevation: 4,
+                    transform: 'translateY(-2px)',
+                  },
+                  '&:focus-within': {
+                    outline: '3px solid',
+                    outlineColor: 'primary.main',
+                    outlineOffset: '2px',
+                  },
+                }}
+                id={`praise-phrase-${index + 1}`}
+              />
+            </Box>
+          ))}
+        </Box>
+
+        {/* Screen Reader Summary */}
+        <Box
+          sx={{
+            position: 'absolute',
+            width: '1px',
+            height: '1px',
+            padding: 0,
+            margin: '-1px',
+            overflow: 'hidden',
+            clip: 'rect(0, 0, 0, 0)',
+            whiteSpace: 'nowrap',
+            border: 0,
+          }}
+          aria-live='polite'
+        >
+          Displaying {phrases.length} Quranic praise phrases with Arabic text
+          and translations in English, Hindi, and Urdu. Each card includes
+          relevant verse references and can be navigated using keyboard or
+          screen reader.
+        </Box>
       </Box>
     </Container>
   );
