@@ -1,5 +1,5 @@
 import { ThemeProvider, createTheme, CssBaseline } from '@mui/material';
-import PraisesPage from './pages/PraisesPage';
+import SecondaryPraisesPage from './pages/SecondaryPraisesPage';
 
 const theme = createTheme({
   typography: {
@@ -11,7 +11,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <PraisesPage />
+      <SecondaryPraisesPage />
     </ThemeProvider>
   );
 }
