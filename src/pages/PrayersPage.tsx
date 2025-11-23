@@ -8,7 +8,7 @@ const PrayersPage: React.FC = () => {
       pageTitle='Prayers from the Quran'
       aboutTitle='About Quranic Prayers'
       aboutText={aboutTexts.prayers}
-      phrases={[]}
+      phrases={{ phrases: [], totalPhrases: 0, exportDate: '' }}
       idPrefix='prayer-phrase'
       sectionTitle='Quranic Prayer Phrases'
       collectionAriaLabel='Collection of Quranic prayer phrases with translations'

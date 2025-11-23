@@ -1,71 +1,22 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { aboutTexts } from '../assets/aboutText';
 import PhraseDisplayPage from '../components/PhraseDisplayPage';
-import type { PraisesData } from '../types/praisesTypes';
+import useFetchPhrases from '../hooks/useFetchPhrases';
 
 const SecondaryPraisesPage: React.FC = () => {
-  const [phrasesData, setPhrasesData] = useState<PraisesData | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-
-  useEffect(() => {
-    const fetchPhrases = async () => {
-      try {
-        const response = await fetch('/phrases-praise-1.json');
-        if (!response.ok) {
-          throw new Error('Failed to fetch extended praise phrases');
-        }
-        const data = await response.json();
-        setPhrasesData(data);
-      } catch (err) {
-        setError(err instanceof Error ? err.message : 'Unknown error occurred');
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    fetchPhrases();
-  }, []);
-
-  if (loading) {
-    return (
-      <div
-        style={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          minHeight: '100vh',
-        }}
-      >
-        Loading...
-      </div>
-    );
-  }
-
-  if (error || !phrasesData) {
-    return (
-      <div
-        style={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          minHeight: '100vh',
-        }}
-      >
-        Error: {error || 'No data available'}
-      </div>
-    );
-  }
+  const { data, loading, error } = useFetchPhrases('/phrases-praise-1.json');
 
   return (
     <PhraseDisplayPage
       pageTitle='Extended Praises from the Quran'
       aboutTitle='About Extended Quranic Praises'
       aboutText={aboutTexts.secondaryPraises}
-      phrases={phrasesData}
+      phrases={data || { phrases: [], totalPhrases: 0, exportDate: '' }}
       idPrefix='extended-phrase'
       sectionTitle='Extended Quranic Praise Phrases'
       collectionAriaLabel='Collection of extended Quranic praise phrases with translations'
+      loading={loading}
+      error={error}
     />
   );
 };

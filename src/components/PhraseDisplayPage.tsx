@@ -21,6 +21,10 @@ export interface PhraseDisplayPageProps {
   collectionAriaLabel?: string;
   /** Custom click handler for reference badges */
   onReferenceClick?: (reference: string) => void;
+  /** Loading state */
+  loading?: boolean;
+  /** Error message */
+  error?: string | null;
 }
 
 const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
@@ -32,6 +36,8 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
   sectionTitle,
   collectionAriaLabel,
   onReferenceClick,
+  loading = false,
+  error = null,
 }) => {
   // Extract phrases array from either format
   const phrasesArray = Array.isArray(phrases) ? phrases : phrases.phrases;
@@ -140,96 +146,155 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
           {sectionTitle}
         </Typography>
 
+        {/* Loading State */}
+        {loading && (
+          <Paper
+            elevation={2}
+            sx={{
+              p: { xs: 3, sm: 4, md: 5 },
+              backgroundColor: 'background.default',
+              borderRadius: 2,
+              textAlign: 'center',
+            }}
+          >
+            <Typography variant='h6' color='text.secondary'>
+              Loading phrases...
+            </Typography>
+          </Paper>
+        )}
+
+        {/* Error State */}
+        {error && !loading && (
+          <Paper
+            elevation={2}
+            sx={{
+              p: { xs: 3, sm: 4, md: 5 },
+              backgroundColor: 'error.light',
+              borderRadius: 2,
+              textAlign: 'center',
+            }}
+          >
+            <Typography variant='h6' color='error.dark' gutterBottom>
+              Error Loading Phrases
+            </Typography>
+            <Typography variant='body1' color='error.dark'>
+              {error}
+            </Typography>
+          </Paper>
+        )}
+
         {/* Responsive Flexbox Grid for Phrase Cards */}
-        <Box
-          sx={{
-            display: 'flex',
-            flexWrap: 'wrap',
-            gap: { xs: 2, sm: 3, md: 4 },
-            justifyContent: 'flex-start',
-            alignItems: 'stretch',
-          }}
-          role='group'
-          aria-label={collectionAriaLabel || defaultAriaLabel}
-        >
-          {phrasesArray.map((phrase, index) => (
-            <Box
-              key={`${idPrefix}-${index}`}
-              sx={{
-                flex: {
-                  xs: '1 1 100%', // Mobile: 1 card per row
-                  sm: '1 1 calc(50% - 12px)', // Tablet: 2 cards per row
-                  md: '1 1 calc(33.333% - 16px)', // Small desktop: 3 cards per row
-                  lg: '1 1 calc(25% - 18px)', // Large desktop: 4 cards per row
-                  xl: '1 1 calc(20% - 19.2px)', // Extra large: 5 cards per row
-                },
-                minWidth: { xs: '280px', sm: '320px' }, // Ensure minimum readable width
-                maxWidth: '100%',
-              }}
-            >
-              <PhraseCard
-                arabic={{
-                  text: phrase.arabicText,
-                  edition: 'القرآن الكريم',
-                  editionEnglish: 'The Holy Quran',
-                }}
-                english={{
-                  text: phrase.englishText,
-                  edition: 'Sahih International',
-                }}
-                hindi={{
-                  text: phrase.hindiText || 'Translation not available',
-                  edition: 'फारूकी',
-                  editionEnglish: 'Faruqi',
-                }}
-                urdu={{
-                  text: phrase.urduText,
-                  edition: 'احمद علی',
-                  editionEnglish: 'Ahmed Ali',
-                }}
-                references={formatReferences(phrase.references)}
-                onReferenceClick={handleReferenceClick}
-                elevation={2}
+        {!loading && !error && phrasesArray.length > 0 && (
+          <Box
+            sx={{
+              display: 'flex',
+              flexWrap: 'wrap',
+              gap: { xs: 2, sm: 3, md: 4 },
+              justifyContent: 'flex-start',
+              alignItems: 'stretch',
+            }}
+            role='group'
+            aria-label={collectionAriaLabel || defaultAriaLabel}
+          >
+            {phrasesArray.map((phrase, index) => (
+              <Box
+                key={`${idPrefix}-${index}`}
                 sx={{
-                  height: '100%',
-                  display: 'flex',
-                  flexDirection: 'column',
-                  transition: 'all 0.2s ease-in-out',
-                  '&:hover': {
-                    elevation: 4,
-                    transform: 'translateY(-2px)',
+                  flex: {
+                    xs: '1 1 100%', // Mobile: 1 card per row
+                    sm: '1 1 calc(50% - 12px)', // Tablet: 2 cards per row
+                    md: '1 1 calc(33.333% - 16px)', // Small desktop: 3 cards per row
+                    lg: '1 1 calc(25% - 18px)', // Large desktop: 4 cards per row
+                    xl: '1 1 calc(20% - 19.2px)', // Extra large: 5 cards per row
                   },
-                  '&:focus-within': {
-                    outline: '3px solid',
-                    outlineColor: 'primary.main',
-                    outlineOffset: '2px',
-                  },
+                  minWidth: { xs: '280px', sm: '320px' }, // Ensure minimum readable width
+                  maxWidth: '100%',
                 }}
-                id={`${idPrefix}-${index + 1}`}
-              />
-            </Box>
-          ))}
-        </Box>
+              >
+                <PhraseCard
+                  arabic={{
+                    text: phrase.arabicText,
+                    edition: 'القرآن الكريم',
+                    editionEnglish: 'The Holy Quran',
+                  }}
+                  english={{
+                    text: phrase.englishText,
+                    edition: 'Sahih International',
+                  }}
+                  hindi={{
+                    text: phrase.hindiText || 'Translation not available',
+                    edition: 'फारूकी',
+                    editionEnglish: 'Faruqi',
+                  }}
+                  urdu={{
+                    text: phrase.urduText,
+                    edition: 'احمद علی',
+                    editionEnglish: 'Ahmed Ali',
+                  }}
+                  references={formatReferences(phrase.references)}
+                  onReferenceClick={handleReferenceClick}
+                  elevation={2}
+                  sx={{
+                    height: '100%',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    transition: 'all 0.2s ease-in-out',
+                    '&:hover': {
+                      elevation: 4,
+                      transform: 'translateY(-2px)',
+                    },
+                    '&:focus-within': {
+                      outline: '3px solid',
+                      outlineColor: 'primary.main',
+                      outlineOffset: '2px',
+                    },
+                  }}
+                  id={`${idPrefix}-${index + 1}`}
+                />
+              </Box>
+            ))}
+          </Box>
+        )}
+
+        {/* No Data State */}
+        {!loading && !error && phrasesArray.length === 0 && (
+          <Paper
+            elevation={2}
+            sx={{
+              p: { xs: 3, sm: 4, md: 5 },
+              backgroundColor: 'background.default',
+              borderRadius: 2,
+              textAlign: 'center',
+            }}
+          >
+            <Typography variant='h6' color='text.secondary'>
+              No phrases available at this time.
+            </Typography>
+          </Paper>
+        )}
 
         {/* Screen Reader Summary */}
-        <Box
-          sx={{
-            position: 'absolute',
-            width: '1px',
-            height: '1px',
-            padding: 0,
-            margin: '-1px',
-            overflow: 'hidden',
-            clip: 'rect(0, 0, 0, 0)',
-            whiteSpace: 'nowrap',
-            border: 0,
-          }}
-          aria-live='polite'
-        >
-          Displaying {phrasesArray.length} Quranic phrases with Arabic text and
-          translations in English, Hindi, and Urdu. Each card includes relevant
-          verse references and can be navigated using keyboard or screen reader.
-        </Box>
+        {!loading && !error && phrasesArray.length > 0 && (
+          <Box
+            sx={{
+              position: 'absolute',
+              width: '1px',
+              height: '1px',
+              padding: 0,
+              margin: '-1px',
+              overflow: 'hidden',
+              clip: 'rect(0, 0, 0, 0)',
+              whiteSpace: 'nowrap',
+              border: 0,
+            }}
+            aria-live='polite'
+          >
+            Displaying {phrasesArray.length} Quranic phrases with Arabic text
+            and translations in English, Hindi, and Urdu. Each card includes
+            relevant verse references and can be navigated using keyboard or
+            screen reader.
+          </Box>
+        )}
       </Box>
     </Container>
   );

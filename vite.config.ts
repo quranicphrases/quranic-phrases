@@ -4,7 +4,9 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/quranic-phrases/', // Change this to your repo name for GitHub Pages
+  // Use base path only for production (GitHub Pages)
+  // For local dev, this will be '/', for production set via --base flag or env variable
+  base: process.env.NODE_ENV === 'production' ? '/quranic-phrases/' : '/',
   build: {
     outDir: 'dist',
     sourcemap: false,
