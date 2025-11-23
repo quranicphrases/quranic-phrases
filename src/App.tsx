@@ -7,6 +7,7 @@ import {
 import { ThemeProvider, createTheme, CssBaseline, Box } from '@mui/material';
 import ListOfPages from './components/ListOfPages';
 import OverviewPage from './pages/OverviewPage';
+import AnonymousPage from './pages/AnonymousPage';
 import PraisesPage from './pages/PraisesPage';
 import SecondaryPraisesPage from './pages/SecondaryPraisesPage';
 import PrayersPage from './pages/PrayersPage';
@@ -48,6 +49,7 @@ function App() {
 
               {/* Page routes */}
               <Route path='/overview' element={<OverviewPage />} />
+              <Route path='/anonymous' element={<AnonymousPage />} />
               <Route path='/praises' element={<PraisesPage />} />
               <Route
                 path='/extended-praises'

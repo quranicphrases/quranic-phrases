@@ -3,7 +3,7 @@ import { aboutTexts } from '../assets/aboutText';
 import PhraseDisplayPage from '../components/PhraseDisplayPage';
 import type { PraisesData } from '../types/praisesTypes';
 
-const SecondaryPraisesPage: React.FC = () => {
+const AnonymousPage: React.FC = () => {
   const [phrasesData, setPhrasesData] = useState<PraisesData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -11,9 +11,9 @@ const SecondaryPraisesPage: React.FC = () => {
   useEffect(() => {
     const fetchPhrases = async () => {
       try {
-        const response = await fetch('/phrases-praise-1.json');
+        const response = await fetch('/phrases-anonymous.json');
         if (!response.ok) {
-          throw new Error('Failed to fetch extended praise phrases');
+          throw new Error('Failed to fetch anonymous phrases');
         }
         const data = await response.json();
         setPhrasesData(data);
@@ -59,15 +59,15 @@ const SecondaryPraisesPage: React.FC = () => {
 
   return (
     <PhraseDisplayPage
-      pageTitle='Extended Praises from the Quran'
-      aboutTitle='About Extended Quranic Praises'
-      aboutText={aboutTexts.secondaryPraises}
+      pageTitle='Anonymous Quranic Phrases'
+      aboutTitle='About Anonymous Phrases'
+      aboutText={aboutTexts.anonymous}
       phrases={phrasesData}
-      idPrefix='extended-phrase'
-      sectionTitle='Extended Quranic Praise Phrases'
-      collectionAriaLabel='Collection of extended Quranic praise phrases with translations'
+      idPrefix='anonymous-phrase'
+      sectionTitle='Anonymous Quranic Phrases'
+      collectionAriaLabel='Collection of anonymous Quranic phrases with translations'
     />
   );
 };
 
-export default SecondaryPraisesPage;
+export default AnonymousPage;

@@ -4,6 +4,18 @@
  */
 
 export const aboutTexts = {
+  anonymous: `
+Welcome to the Anonymous Quranic Phrases collection. This unique section features a special compilation of verses from the Holy Quran that have been carefully curated to provide spiritual guidance and inspiration while maintaining the timeless wisdom and beauty of divine revelation.
+
+This collection represents a diverse array of Quranic expressions that transcend specific categorical boundaries, offering verses that encompass various themes of faith, guidance, reflection, and divine wisdom. Each phrase has been selected for its universal message and profound spiritual significance, making this section accessible to seekers of knowledge from all backgrounds.
+
+The anonymous designation reflects the inclusive and universal nature of these verses, emphasizing that the message of the Quran speaks to all of humanity regardless of specific contexts or categorizations. These phrases are presented in their original Arabic form alongside carefully translated meanings in English, Hindi, and Urdu, ensuring that the profound messages remain accessible across linguistic and cultural boundaries.
+
+Each verse in this collection includes precise Quranic references, allowing you to explore the broader context within which these divine words were revealed. This approach enables a deeper understanding of the circumstances and wisdom behind each revelation while maintaining the integrity of the sacred text.
+
+Whether you are seeking daily inspiration, exploring the Quran's universal messages, or simply appreciating the linguistic beauty and spiritual depth of divine revelation, this anonymous collection offers a valuable resource for reflection, learning, and spiritual growth.
+`,
+
   praises: `
 Welcome to the Praises section of our Quranic Phrases collection. This section is dedicated to showcasing the beautiful expressions of praise and glorification found throughout the Holy Quran.
 
@@ -39,15 +51,15 @@ Whether you seek personal guidance, wish to enhance your prayer life, or simply 
 `,
 
   overview: `
-Welcome to our comprehensive Quranic Phrases collection. This overview section serves as your gateway to exploring the rich linguistic and spiritual treasures found throughout the Holy Quran, presenting a carefully curated selection of verses that showcase the beauty and depth of divine revelation.
+Welcome to our comprehensive Quranic Phrases collection. This overview section serves as your gateway to exploring the rich linguistic and spiritual treasures found throughout the Holy Quran.
 
-This collection represents our most diverse compilation, featuring verses that span multiple themes including praise, supplication, guidance, and spiritual reflection. Each phrase has been selected for its linguistic beauty, spiritual significance, and educational value, making this section perfect for both newcomers and seasoned students of Quranic studies.
+This platform provides access to multiple collections of Quranic verses, each carefully organized by theme and purpose. Navigate through our specialized sections including Anonymous Phrases, Praises, Extended Praises, and Prayers to discover verses that resonate with your spiritual journey and learning objectives.
 
-The phrases in this overview collection are presented with the same meticulous attention to accuracy and cultural sensitivity that characterizes our entire platform. Each verse includes its original Arabic text alongside thoughtful translations in English, Hindi, and Urdu, allowing readers to appreciate both the universal messages and the nuanced beauty of the original language.
+Our mission is to make the profound wisdom and beauty of the Quran accessible to speakers of multiple languages while maintaining the integrity and reverence that these sacred texts deserve. Each collection features verses in their original Arabic text alongside thoughtful translations in English, Hindi, and Urdu, allowing readers to appreciate both the universal messages and the nuanced beauty of the original language.
 
-Whether you're beginning your journey with Quranic phrases, seeking inspiration for daily reflection, or exploring the interconnected themes that run throughout the Quran, this overview provides an excellent starting point. From here, you can navigate to our specialized collections for more focused study of specific themes like praises, prayers, and extended praise collections.
+Whether you're beginning your journey with Quranic phrases, seeking inspiration for daily reflection, or exploring the interconnected themes that run throughout the Quran, this platform provides the tools and resources you need for meaningful engagement with the divine message.
 
-This section embodies our commitment to making the profound wisdom and beauty of the Quran accessible to speakers of multiple languages while maintaining the integrity and reverence that these sacred texts deserve.
+Explore our various collections to find verses that speak to your heart and mind, and discover the timeless wisdom that has guided millions of believers throughout the centuries.
 `
 };
 

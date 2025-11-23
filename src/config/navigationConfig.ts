@@ -18,6 +18,11 @@ export const pages: PageLink[] = [
     ariaLabel: 'Navigate to Extended Praises from the Quran page',
   },
   {
+    path: '/anonymous',
+    label: 'Anonymous',
+    ariaLabel: 'Navigate to Anonymous Quranic Phrases page',
+  },
+  {
     path: '/prayers',
     label: 'Prayers',
     ariaLabel: 'Navigate to Prayers from the Quran page',
