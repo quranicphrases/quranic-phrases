@@ -5,8 +5,8 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // Use base path only for production (GitHub Pages)
-  // For local dev, this will be '/', for production build uses '/quranicphrases/'
-  base: process.env.NODE_ENV === 'production' ? '/quranicphrases/' : '/',
+  // For local dev, this will be '/', for production build uses '/quranic-phrases/'
+  base: process.env.NODE_ENV === 'production' ? '/quranic-phrases/' : '/',
   server: {
     // Configure dev server headers for optimal caching
     headers: {

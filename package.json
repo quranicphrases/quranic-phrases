@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "build:gh-pages": "tsc -b && vite build --base=/quranicphrases/",
+    "build:gh-pages": "tsc -b && vite build --base=/quranic-phrases/",
     "lint": "eslint .",
     "preview": "vite preview"
   },
