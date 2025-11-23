@@ -4,7 +4,7 @@ A modern web application showcasing beautiful Quranic phrases with translations 
 
 ## 🌐 Live Demo
 
-[https://quranicphrases.github.io/quranicphrases/](https://quranicphrases.github.io/quranicphrases/)
+[https://quranicphrases.github.io/quranic-phrases/](https://quranicphrases.github.io/quranic-phrases/)
 
 ## 🚀 Deployment to GitHub Pages
 
@@ -21,13 +21,13 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/quranicphrases/quranicphrases.git
+   git remote add origin https://github.com/quranicphrases/quranic-phrases.git
    git push -u origin main
    ```
 
 2. **Enable GitHub Pages:**
 
-   - Go to your repo: `https://github.com/quranicphrases/quranicphrases`
+   - Go to your repo: `https://github.com/quranicphrases/quranic-phrases`
    - Navigate to: **Settings** → **Pages**
    - Under **Source**, select: **GitHub Actions**
    - Save
@@ -35,7 +35,7 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 3. **Automatic Deployment:**
    - Every push to `main` branch triggers automatic build and deployment
    - Check deployment status in **Actions** tab
-   - Site will be live at: `https://quranicphrases.github.io/quranicphrases/`
+   - Site will be live at: `https://quranicphrases.github.io/quranic-phrases/`
 
 ### Manual Deployment
 
