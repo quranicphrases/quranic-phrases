@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://quranicphrases.github.io/quranic-phrases/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
