@@ -85,6 +85,10 @@ const useFetchPhrases = (
       try {
         const response = await fetch(url, {
           signal: abortController.signal,
+          // force-cache: Use cached version if available, fetch only if not cached
+          // In production: ETags handle updates automatically
+          // In development: Cache persists, use hard refresh (Cmd+Shift+R) to clear
+          cache: 'force-cache',
         });
 
         if (!response.ok) {

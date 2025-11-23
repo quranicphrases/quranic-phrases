@@ -7,6 +7,14 @@ export default defineConfig({
   // Use base path only for production (GitHub Pages)
   // For local dev, this will be '/', for production set via --base flag or env variable
   base: process.env.NODE_ENV === 'production' ? '/quranic-phrases/' : '/',
+  server: {
+    // Configure dev server headers for optimal caching
+    headers: {
+      // Cache indefinitely, but revalidate with server on each request
+      // stale-while-revalidate: Serve cached version immediately, check for updates in background
+      'Cache-Control': 'public, max-age=31536000, stale-while-revalidate=86400',
+    },
+  },
   build: {
     outDir: 'dist',
     sourcemap: false,
