@@ -8,9 +8,9 @@ A modern web application showcasing beautiful Quranic phrases with translations 
 
 ## 🚀 Deployment to GitHub Pages
 
-### Automatic Deployment (Recommended)
+### Manual Deployment via GitHub Actions
 
-This project is configured for automatic deployment to GitHub Pages using GitHub Actions.
+This project is configured for manual deployment to GitHub Pages using GitHub Actions.
 
 **Setup Steps:**
 
@@ -32,22 +32,14 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
    - Under **Source**, select: **GitHub Actions**
    - Save
 
-3. **Automatic Deployment:**
-   - Every push to `main` branch triggers automatic build and deployment
-   - Check deployment status in **Actions** tab
+3. **Manual Deployment:**
+   - Go to **Actions** tab
+   - Select **Deploy to GitHub Pages** workflow
+   - Click **Run workflow** button
+   - Select branch **main**
+   - Click green **Run workflow** button
+   - Wait for deployment to complete
    - Site will be live at: `https://quranicphrases.github.io/quranic-phrases/`
-
-### Manual Deployment
-
-If you prefer manual deployment:
-
-```bash
-# Build for GitHub Pages
-npm run build:gh-pages
-
-# The dist folder is ready to deploy
-# You can use gh-pages package or upload manually
-```
 
 ## 💻 Local Development
 
@@ -107,9 +99,9 @@ The app uses intelligent caching to provide fast loading:
 ## 🔄 Updating Phrase Data
 
 1. Update JSON files in `/public` folder
-2. Push changes to GitHub
-3. GitHub Actions automatically rebuilds and deploys
-4. ETags ensure users get updated content
+2. Commit and push changes to GitHub
+3. Manually trigger deployment via GitHub Actions
+4. ETags ensure users get updated content after deployment
 
 ## 📄 License
 
