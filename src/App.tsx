@@ -1,5 +1,5 @@
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
   Navigate,
@@ -23,7 +23,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Router basename={import.meta.env.DEV ? '/' : '/quranic-phrases/'}>
+      <Router>
         <Box
           sx={{
             minHeight: '100vh',
