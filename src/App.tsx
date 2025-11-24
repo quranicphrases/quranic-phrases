@@ -23,7 +23,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Router basename={import.meta.env.DEV ? "/" : "/quranic-phrases"}>
+      <Router basename={import.meta.env.DEV ? '/' : '/quranic-phrases/'}>
         <Box
           sx={{
             minHeight: '100vh',
