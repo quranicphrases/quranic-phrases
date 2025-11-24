@@ -83,7 +83,9 @@ const useFetchPhrases = (
       setError(null);
 
       try {
-        const response = await fetch(url, {
+        const baseUrl = import.meta.env.DEV ? '' : '/quranic-phrases';
+        const fullUrl = `${baseUrl}${url}`;
+        const response = await fetch(fullUrl, {
           signal: abortController.signal,
           // force-cache: Use cached version if available, fetch only if not cached
           // In production: ETags handle updates automatically
