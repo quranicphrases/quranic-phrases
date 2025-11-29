@@ -5,61 +5,93 @@
 
 export const aboutTexts = {
   anonymous: `
-Welcome to the Anonymous Quranic Phrases collection. This unique section features a special compilation of verses from the Holy Quran that have been carefully curated to provide spiritual guidance and inspiration while maintaining the timeless wisdom and beauty of divine revelation.
+Welcome to the Anonymous Phrases collection. This section contains verses and phrases from the Holy Quran that have profoundly impacted me during my journey of studying the divine text—verses so powerful and moving that I could not bring myself to ignore them, yet they don't fit neatly into other thematic categories.
 
-This collection represents a diverse array of Quranic expressions that transcend specific categorical boundaries, offering verses that encompass various themes of faith, guidance, reflection, and divine wisdom. Each phrase has been selected for its universal message and profound spiritual significance, making this section accessible to seekers of knowledge from all backgrounds.
+These are the ayahs that stopped me in my tracks, that made me pause and reflect, that touched my heart in ways I cannot fully articulate. Each phrase here represents a moment of spiritual connection, a glimpse of divine wisdom that resonated deeply within my soul.
 
-The anonymous designation reflects the inclusive and universal nature of these verses, emphasizing that the message of the Quran speaks to all of humanity regardless of specific contexts or categorizations. These phrases are presented in their original Arabic form alongside carefully translated meanings in English, Hindi, and Urdu, ensuring that the profound messages remain accessible across linguistic and cultural boundaries.
+The "anonymous" designation reflects their diverse nature—some speak of faith and guidance, others of reflection and mercy, and some offer profound truths that defy simple categorization. What unites them is their power to move the heart and awaken the soul.
 
-Each verse in this collection includes precise Quranic references, allowing you to explore the broader context within which these divine words were revealed. This approach enables a deeper understanding of the circumstances and wisdom behind each revelation while maintaining the integrity of the sacred text.
+These phrases are presented in their original Arabic alongside translations in English, Urdu, and Hindi, with precise Quranic references so you can explore their full context. Click on any reference badge to open the complete verse on Quran.com with all three translations.
 
-Whether you are seeking daily inspiration, exploring the Quran's universal messages, or simply appreciating the linguistic beauty and spiritual depth of divine revelation, this anonymous collection offers a valuable resource for reflection, learning, and spiritual growth.
+May these verses that touched my heart also touch yours, and may they serve as a source of guidance, comfort, and inspiration on your own spiritual journey.
 `,
 
   praises: `
-Welcome to the Praises section of our Quranic Phrases collection. This section is dedicated to showcasing the beautiful expressions of praise and glorification found throughout the Holy Quran.
+Welcome to the Praises collection. This section is dedicated to verses and phrases that tell us who Allah is—beautiful expressions that describe His attributes, His names, and His magnificence.
 
-The Quran contains numerous verses that praise Allah, celebrate His attributes, and guide believers in expressing gratitude and reverence. These praises serve as both spiritual guidance and linguistic beauty, offering profound meaning in Arabic and inspiring translations in multiple languages.
+What started as a personal quest to collect all 99 Names of Allah from the Quran evolved into something more comprehensive. I began including other profound phrases that follow the pattern "Allah is ___" or describe His divine attributes in ways that deepen our understanding of the Creator.
 
-In this section, you will find carefully curated phrases of praise, each presented in Arabic with their meanings in English, Hindi, and Urdu. Each phrase includes its Quranic references, allowing you to explore the context and deepen your understanding of these sacred expressions.
+These phrases serve a special purpose in our spiritual practice. Before we make du'a (supplication) to Allah, we can recite these praises to glorify Him and acknowledge His greatness—following the beautiful tradition of "Sami Allahu liman hamidah" (Allah hears those who praise Him). By praising Allah with His own words about Himself, we prepare our hearts to humbly ask for His mercy and blessings.
 
-These phrases of praise are not only spiritually enriching but also serve as excellent examples of the eloquence and depth of Quranic Arabic. Whether you're studying the language, seeking spiritual inspiration, or simply appreciating the beauty of divine expression, these praises offer a window into the rich heritage of Islamic literature and devotion.
+Each phrase is presented in Arabic with translations in English, Urdu, and Hindi. The Quranic references are clickable—simply click any reference badge to view the complete verse on Quran.com with all three translations displayed.
+
+Whether you're memorizing Allah's attributes, seeking phrases to beautify your prayers, or simply deepening your knowledge of who Allah is, this collection offers authentic expressions directly from the divine revelation.
 `,
 
   secondaryPraises: `
-Welcome to the Extended Praises section of our Quranic Phrases collection. This special section presents an additional collection of divine expressions and sacred verses that complement our main praises compilation.
+Welcome to the Extended Praises collection. Like the main Praises section, these verses also reveal who Allah is and describe His divine attributes—but with an important difference that affects how we use them in our prayers.
 
-This curated selection features verses that emphasize different aspects of divine worship, spiritual reflection, and theological understanding. While maintaining the same multilingual approach, these phrases offer unique perspectives on praise, gratitude, and recognition of Allah's magnificence as found throughout the Quran.
+In this collection, Allah speaks in the first person ("I am...") or addresses others directly. While these phrases beautifully tell us about Allah's nature and magnificence, we cannot recite them word-for-word in our personal prayers because that would be inappropriate. For example, if Allah says "I am the Most Merciful," we cannot say "I am the Most Merciful" in our du'a—that would be a serious error.
 
-The verses in this section have been carefully selected to provide a deeper exploration of Quranic themes related to divine attributes, spiritual guidance, and the believer's relationship with Allah. Each phrase is presented with the same attention to linguistic accuracy and cultural sensitivity that characterizes our main collection.
+However, these verses remain incredibly valuable for understanding Allah's attributes, learning how He describes Himself, and deepening our knowledge of His divine nature. They complement the main Praises collection by showing us different dimensions of Allah's self-revelation in the Quran.
 
-These additional praise phrases serve to broaden your understanding of the diverse ways the Quran expresses devotion and reverence. They complement the primary collection by offering alternative expressions, different contexts, and varying linguistic styles that showcase the rich tapestry of Quranic Arabic and its profound meanings across multiple languages.
+Each phrase includes Arabic text with English, Urdu, and Hindi translations. Click any reference badge to open the full verse on Quran.com with all translations.
 
-Whether you are continuing your study from the main praises section or exploring these verses independently, this collection provides valuable insights into the depth and breadth of divine praise as expressed in the Holy Quran.
+Note: There may be other verses in the Quran that describe Allah which I haven't included yet—this collection represents my personal journey through the divine text, and it continues to grow as I discover more.
 `,
 
   prayers: `
-Welcome to the Prayers section of our Quranic Phrases collection. This section is dedicated to the beautiful supplications and invocations found throughout the Holy Quran, offering believers direct access to the divine conversations between humanity and Allah.
+Welcome to the Prayers collection. This section contains beautiful supplications (du'as) revealed in the Quran—divine guidance on how we should pray to Allah and what we should ask for.
 
-The Quran contains numerous prayers and du'as that serve as perfect examples of how believers should communicate with their Creator. These prayers encompass requests for guidance, forgiveness, protection, and blessings, providing a comprehensive framework for spiritual communication and personal supplication.
+Some of these prayers were made by prophets and righteous people in moments of need, difficulty, or gratitude, and Allah preserved them in the Quran as examples for us. When I encounter such prayers, I extract the exact phrase or supplication so that I too can pray to Allah using these blessed words.
 
-Each prayer in this collection represents a profound moment of divine-human interaction, capturing the essence of worship, humility, and dependence on Allah. These sacred invocations have been recited by millions of believers throughout history and continue to provide comfort, guidance, and spiritual strength to those who seek Allah's mercy and guidance.
+Other prayers in this collection were revealed directly by Allah, teaching us what to ask for and how to express our needs and hopes. These divine instructions show us the most beautiful and effective ways to communicate with our Creator.
 
-The prayers are presented in their original Arabic form alongside carefully translated meanings in English, Hindi, and Urdu. Each prayer includes its Quranic context and references, allowing you to understand the circumstances of revelation and the deeper spiritual significance of these divine communications.
+By collecting these Quranic prayers, I've created a treasure of authentic supplications that we can use in our own prayers—whether we're seeking guidance, forgiveness, protection, provision, or any other need. These are the very words that Allah has taught us or approved of, making them the most perfect prayers we could offer.
 
-Whether you seek personal guidance, wish to enhance your prayer life, or simply want to explore the rich tradition of Quranic supplication, this collection offers authentic and spiritually enriching content that connects you directly with the divine wisdom of the Holy Quran.
+Each prayer is presented in Arabic with translations in English, Urdu, and Hindi, along with Quranic references. Click any reference to view the complete context on Quran.com.
+
+May these blessed prayers bring you closer to Allah and help you express your deepest hopes and needs in the most beautiful way.
 `,
 
   overview: `
-Welcome to our comprehensive Quranic Phrases collection. This overview section serves as your gateway to exploring the rich linguistic and spiritual treasures found throughout the Holy Quran.
+Welcome to Quranic Phrases—a personal collection born from my journey through the Holy Quran.
 
-This platform provides access to multiple collections of Quranic verses, each carefully organized by theme and purpose. Navigate through our specialized sections including Anonymous Phrases, Praises, Extended Praises, and Prayers to discover verses that resonate with your spiritual journey and learning objectives.
+## About This Project
 
-Our mission is to make the profound wisdom and beauty of the Quran accessible to speakers of multiple languages while maintaining the integrity and reverence that these sacred texts deserve. Each collection features verses in their original Arabic text alongside thoughtful translations in English, Hindi, and Urdu, allowing readers to appreciate both the universal messages and the nuanced beauty of the original language.
+As I studied the Quran, certain verses and phrases would stop me in my tracks. Some revealed the magnificent attributes of Allah, others taught me how to pray, and some simply touched my heart in profound ways I cannot fully express. Rather than let these precious discoveries fade from memory, I began collecting them—and this website is the result.
 
-Whether you're beginning your journey with Quranic phrases, seeking inspiration for daily reflection, or exploring the interconnected themes that run throughout the Quran, this platform provides the tools and resources you need for meaningful engagement with the divine message.
+## The Collections
 
-Explore our various collections to find verses that speak to your heart and mind, and discover the timeless wisdom that has guided millions of believers throughout the centuries.
+- **Praises**: Phrases that tell us who Allah is, following patterns like "Allah is ___". Use these to glorify Him in your prayers.
+- **Extended Praises**: Similar to Praises, but where Allah speaks in first person or addresses others—beautiful for understanding, though not for direct recitation in du'a.
+- **Prayers**: Supplications from prophets and righteous people, or prayers taught directly by Allah—authentic du'as you can use in your own worship.
+- **Anonymous**: Powerful verses that deeply impacted me but don't fit other categories—the ones I simply couldn't ignore.
+
+## Translations Used
+
+- **Arabic**: Quranic text as revealed
+- **English**: Sahih International
+- **Urdu**: Bayan-ul-Quran by Dr. Israr Ahmed
+- **Hindi**: Maulana Aziz-ul-Haq al-Umari
+
+## Website Features
+
+- **Click any phrase card** to open it in a modal with full, readable text
+- **Click reference badges** (e.g., 2:255) to view the complete verse on Quran.com with all three translations
+- **Screen reader accessible**: Full ARIA support for visually impaired users
+- **Keyboard navigation**: Navigate and interact using keyboard only
+- **Multi-line display**: In modals, multi-verse phrases display clearly line by line
+
+## Note
+
+This is a personal, ongoing collection. There may be verses I've missed or haven't categorized yet. The collection grows as I continue my journey through the Quran.
+
+## Contact & Suggestions
+
+Have a suggestion for improvement? Found a verse I should include? Please email: **quranphrases@gmail.com**
+
+May Allah accept this humble effort and make it a means of benefit for all who visit.
 `
 };
 

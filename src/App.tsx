@@ -70,8 +70,6 @@ function App() {
 export default App;
 
 /*
-reference link
 accessibility screen card reader and keyboard navigation focus indicators by simulating blind users
-improve about text
 google and bing search setup
 */
