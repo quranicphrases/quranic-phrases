@@ -9,7 +9,6 @@ export interface PhraseCardProps {
   arabic: {
     text: string;
     edition: string;
-    editionEnglish?: string;
   };
   /** English text content */
   english: {
@@ -20,13 +19,11 @@ export interface PhraseCardProps {
   hindi: {
     text: string;
     edition: string;
-    editionEnglish?: string;
   };
   /** Urdu text content */
   urdu: {
     text: string;
     edition: string;
-    editionEnglish?: string;
   };
   /** Array of reference strings */
   references: string[];
@@ -93,10 +90,6 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
         {/* Arabic Text - Primary content */}
         <Box sx={{ mb: 1.5 }}>
           <PhraseText
-            language='العربية'
-            languageEnglish='Arabic'
-            edition={arabic.edition}
-            editionEnglish={arabic.editionEnglish}
             text={arabic.text}
             textAlign='right'
             direction='rtl'
@@ -121,8 +114,6 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
         {/* English Translation */}
         <Box sx={{ mb: 1.5 }}>
           <PhraseText
-            language='English'
-            edition={english.edition}
             text={english.text}
             textAlign='left'
             direction='ltr'
@@ -144,10 +135,6 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
         {/* Hindi Translation */}
         <Box sx={{ mb: 1.5 }}>
           <PhraseText
-            language='हिन्दी'
-            languageEnglish='Hindi'
-            edition={hindi.edition}
-            editionEnglish={hindi.editionEnglish}
             text={hindi.text}
             textAlign='left'
             direction='ltr'
@@ -170,10 +157,6 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
         {/* Urdu Translation */}
         <Box sx={{ mb: 1.5 }}>
           <PhraseText
-            language='اردو'
-            languageEnglish='Urdu'
-            edition={urdu.edition}
-            editionEnglish={urdu.editionEnglish}
             text={urdu.text}
             textAlign='right'
             direction='rtl'

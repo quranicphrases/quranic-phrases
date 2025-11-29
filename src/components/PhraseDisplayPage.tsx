@@ -237,7 +237,6 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
                   arabic={{
                     text: phrase.arabicText,
                     edition: 'القرآن الكريم',
-                    editionEnglish: 'The Holy Quran',
                   }}
                   english={{
                     text: phrase.englishText,
@@ -245,13 +244,11 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
                   }}
                   hindi={{
                     text: phrase.hindiText || 'Translation not available',
-                    edition: 'फारूकी',
-                    editionEnglish: 'Faruqi',
+                    edition: 'फ़ारूकी',
                   }}
                   urdu={{
                     text: phrase.urduText,
-                    edition: 'احمद علی',
-                    editionEnglish: 'Ahmed Ali',
+                    edition: 'احمد علی',
                   }}
                   references={formatReferences(phrase.references)}
                   onReferenceClick={handleReferenceClick}
@@ -288,7 +285,6 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
               arabic: {
                 text: selectedPhrase.arabicText,
                 edition: 'القرآن الكريم',
-                editionEnglish: 'The Holy Quran',
               },
               english: {
                 text: selectedPhrase.englishText,
@@ -296,13 +292,11 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
               },
               hindi: {
                 text: selectedPhrase.hindiText || 'Translation not available',
-                edition: 'फारूकी',
-                editionEnglish: 'Faruqi',
+                edition: 'फ़ारूकी',
               },
               urdu: {
                 text: selectedPhrase.urduText,
                 edition: 'احمد علی',
-                editionEnglish: 'Ahmed Ali',
               },
               references: formatReferences(selectedPhrase.references),
               onReferenceClick: handleReferenceClick,

@@ -3,14 +3,6 @@ import { Box, Typography, Paper } from '@mui/material';
 import type { SxProps, Theme } from '@mui/material/styles';
 
 export interface PhraseTextProps {
-  /** The language name in its native script */
-  language: string;
-  /** The language name in English for accessibility */
-  languageEnglish?: string;
-  /** The edition or source name in its native script */
-  edition: string;
-  /** The edition name in English for accessibility */
-  editionEnglish?: string;
   /** The main text content to display */
   text: string;
   /** Text alignment - defaults to 'left' */
@@ -32,10 +24,6 @@ export interface PhraseTextProps {
 }
 
 const PhraseText: React.FC<PhraseTextProps> = ({
-  language,
-  languageEnglish,
-  edition,
-  editionEnglish,
   text,
   textAlign = 'left',
   direction = 'ltr',
@@ -46,29 +34,12 @@ const PhraseText: React.FC<PhraseTextProps> = ({
   usePaper = false,
   multiLine = false,
 }) => {
-  // Create accessible labels for screen readers
-  const languageLabel =
-    languageEnglish && language !== languageEnglish
-      ? `${language} (${languageEnglish})`
-      : language;
-
-  const editionLabel =
-    editionEnglish && edition !== editionEnglish
-      ? `${edition} (${editionEnglish})`
-      : edition;
-
   // Determine Material-UI text alignment
   const muiTextAlign = textAlign as 'left' | 'right' | 'center';
 
-  // Handle text display based on multiLine mode
-  const displayText = multiLine
-    ? text
-    : (() => {
-        // Replace newlines with appropriate separator for inline display
-        // ۝ (U+06DD) is the traditional Arabic End of Ayah marker
-        const separator = direction === 'rtl' ? ' ۝ ' : ' • ';
-        return text.replace(/\n/g, separator);
-      })();
+  // Replace newlines with separator for inline display, or preserve for multi-line
+  const separator = direction === 'rtl' ? ' ۝ ' : ' • ';
+  const displayText = multiLine ? text : text.replace(/\n/g, separator);
 
   const content = (
     <Box

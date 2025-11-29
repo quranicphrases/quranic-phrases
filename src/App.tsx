@@ -71,9 +71,7 @@ export default App;
 
 /*
 reference link
-accessibility screen card reader
-keyboard navigation focus indicators
-searching and filtering via google find duplicate results
+accessibility screen card reader and keyboard navigation focus indicators by simulating blind users
 improve about text
 google and bing search setup
 */
