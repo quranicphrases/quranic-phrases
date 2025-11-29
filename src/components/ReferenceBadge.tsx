@@ -20,7 +20,10 @@ const ReferenceBadge: React.FC<ReferenceBadgeProps> = ({
   chipProps = {},
   redirectUrl = 'https://google.com',
 }) => {
-  const handleClick = () => {
+  const handleClick = (event: React.MouseEvent) => {
+    // Stop event from bubbling up to parent card
+    event.stopPropagation();
+    
     if (onClick) {
       onClick();
     } else {

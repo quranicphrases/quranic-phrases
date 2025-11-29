@@ -68,3 +68,12 @@ function App() {
 }
 
 export default App;
+
+/*
+reference link
+accessibility screen card reader
+keyboard navigation focus indicators
+searching and filtering via google find duplicate results
+improve about text
+google and bing search setup
+*/

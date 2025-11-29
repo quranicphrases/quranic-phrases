@@ -1,6 +1,7 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Container, Typography, Box, Paper, Divider } from '@mui/material';
 import PhraseCard from '../components/PhraseCard';
+import PhraseModal from '../components/PhraseModal';
 import type { PraisesData, QuranicPhrase } from '../types/praisesTypes';
 import { formatReferences } from '../types/praisesTypes';
 
@@ -41,6 +42,25 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
 }) => {
   // Extract phrases array from either format
   const phrasesArray = Array.isArray(phrases) ? phrases : phrases.phrases;
+
+  // Modal state
+  const [selectedPhrase, setSelectedPhrase] = useState<QuranicPhrase | null>(
+    null
+  );
+  const [modalOpen, setModalOpen] = useState(false);
+
+  // Handle phrase card click
+  const handlePhraseClick = (phrase: QuranicPhrase) => {
+    setSelectedPhrase(phrase);
+    setModalOpen(true);
+  };
+
+  // Handle modal close
+  const handleModalClose = () => {
+    setModalOpen(false);
+    // Delay clearing selected phrase for smooth close animation
+    setTimeout(() => setSelectedPhrase(null), 200);
+  };
 
   // Default reference click handler
   const handleReferenceClick =
@@ -199,6 +219,7 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
             {phrasesArray.map((phrase, index) => (
               <Box
                 key={`${idPrefix}-${index}`}
+                onClick={() => handlePhraseClick(phrase)}
                 sx={{
                   flex: {
                     xs: '1 1 100%', // Mobile: 1 card per row
@@ -209,6 +230,7 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
                   },
                   minWidth: { xs: '280px', sm: '320px' }, // Ensure minimum readable width
                   maxWidth: '100%',
+                  cursor: 'pointer',
                 }}
               >
                 <PhraseCard
@@ -242,6 +264,7 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
                     '&:hover': {
                       elevation: 4,
                       transform: 'translateY(-2px)',
+                      cursor: 'pointer',
                     },
                     '&:focus-within': {
                       outline: '3px solid',
@@ -254,6 +277,37 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
               </Box>
             ))}
           </Box>
+        )}
+
+        {/* Phrase Modal */}
+        {selectedPhrase && (
+          <PhraseModal
+            open={modalOpen}
+            onClose={handleModalClose}
+            phraseCardProps={{
+              arabic: {
+                text: selectedPhrase.arabicText,
+                edition: 'القرآن الكريم',
+                editionEnglish: 'The Holy Quran',
+              },
+              english: {
+                text: selectedPhrase.englishText,
+                edition: 'Sahih International',
+              },
+              hindi: {
+                text: selectedPhrase.hindiText || 'Translation not available',
+                edition: 'फारूकी',
+                editionEnglish: 'Faruqi',
+              },
+              urdu: {
+                text: selectedPhrase.urduText,
+                edition: 'احمد علی',
+                editionEnglish: 'Ahmed Ali',
+              },
+              references: formatReferences(selectedPhrase.references),
+              onReferenceClick: handleReferenceClick,
+            }}
+          />
         )}
 
         {/* No Data State */}

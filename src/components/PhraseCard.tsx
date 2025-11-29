@@ -40,6 +40,8 @@ export interface PhraseCardProps {
   elevation?: number;
   /** Custom ID for the card for accessibility */
   id?: string;
+  /** Display multi-line text with newlines preserved (true) or use inline separators (false) */
+  multiLine?: boolean;
 }
 
 const PhraseCard: React.FC<PhraseCardProps> = ({
@@ -53,6 +55,7 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
   sx = {},
   elevation = 2,
   id,
+  multiLine = false,
 }) => {
   // Generate unique IDs for accessibility
   const cardId = id || `phrase-card-${Date.now()}`;
@@ -100,6 +103,7 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
             variant='h4'
             languageCode='ar'
             fontFamily="'Amiri', 'Times New Roman', serif"
+            multiLine={multiLine}
             sx={{
               '& #phrase-content': {
                 id: arabicId,
@@ -124,6 +128,7 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
             direction='ltr'
             variant='body1'
             languageCode='en'
+            multiLine={multiLine}
             sx={{
               '& #phrase-content': {
                 id: englishId,
@@ -149,6 +154,7 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
             variant='body1'
             languageCode='hi'
             fontFamily="'Noto Sans Devanagari', sans-serif"
+            multiLine={multiLine}
             sx={{
               '& #phrase-content': {
                 id: hindiId,
@@ -174,6 +180,7 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
             variant='body1'
             languageCode='ur'
             fontFamily="'Noto Nastaliq Urdu', 'Times New Roman', serif"
+            multiLine={multiLine}
             sx={{
               '& #phrase-content': {
                 id: urduId,

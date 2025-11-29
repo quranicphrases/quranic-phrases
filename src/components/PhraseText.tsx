@@ -27,6 +27,8 @@ export interface PhraseTextProps {
   variant?: 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6' | 'body1' | 'body2';
   /** Use Paper component as wrapper */
   usePaper?: boolean;
+  /** Display multi-line text with newlines preserved (true) or use inline separators (false) */
+  multiLine?: boolean;
 }
 
 const PhraseText: React.FC<PhraseTextProps> = ({
@@ -42,6 +44,7 @@ const PhraseText: React.FC<PhraseTextProps> = ({
   sx = {},
   variant = 'body1',
   usePaper = false,
+  multiLine = false,
 }) => {
   // Create accessible labels for screen readers
   const languageLabel =
@@ -57,6 +60,16 @@ const PhraseText: React.FC<PhraseTextProps> = ({
   // Determine Material-UI text alignment
   const muiTextAlign = textAlign as 'left' | 'right' | 'center';
 
+  // Handle text display based on multiLine mode
+  const displayText = multiLine
+    ? text
+    : (() => {
+        // Replace newlines with appropriate separator for inline display
+        // ۝ (U+06DD) is the traditional Arabic End of Ayah marker
+        const separator = direction === 'rtl' ? ' ۝ ' : ' • ';
+        return text.replace(/\n/g, separator);
+      })();
+
   const content = (
     <Box
       role='article'
@@ -69,7 +82,7 @@ const PhraseText: React.FC<PhraseTextProps> = ({
       {/* Main Text Content */}
       <Box
         sx={{
-          overflowX: 'auto',
+          overflowX: multiLine ? 'visible' : 'auto',
           overflowY: 'hidden',
           '&::-webkit-scrollbar': {
             height: '4px',
@@ -102,8 +115,8 @@ const PhraseText: React.FC<PhraseTextProps> = ({
             textAlign: muiTextAlign,
             direction,
             fontFamily: fontFamily || 'inherit',
-            whiteSpace: 'nowrap',
-            minWidth: 'fit-content',
+            whiteSpace: multiLine ? 'pre-line' : 'nowrap',
+            minWidth: multiLine ? 'auto' : 'fit-content',
             lineHeight:
               variant === 'h4' ? 2.2 : variant === 'body1' ? 1.8 : 'inherit',
             '&:focus': {
@@ -114,7 +127,7 @@ const PhraseText: React.FC<PhraseTextProps> = ({
             },
           }}
         >
-          {text}
+          {displayText}
         </Typography>
       </Box>
 
