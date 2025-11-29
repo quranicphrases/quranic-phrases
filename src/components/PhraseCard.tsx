@@ -204,27 +204,6 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
             </Box>
           </>
         )}
-
-        {/* Screen Reader Summary */}
-        <Box
-          sx={{
-            position: 'absolute',
-            width: '1px',
-            height: '1px',
-            padding: 0,
-            margin: '-1px',
-            overflow: 'hidden',
-            clip: 'rect(0, 0, 0, 0)',
-            whiteSpace: 'nowrap',
-            border: 0,
-          }}
-          aria-live='polite'
-        >
-          Quranic phrase card containing Arabic text:{' '}
-          {arabic.text.substring(0, 50)}..., with translations in English,
-          Hindi, and Urdu,
-          {references.length > 0 && `and ${references.length} references`}
-        </Box>
       </CardContent>
     </Card>
   );

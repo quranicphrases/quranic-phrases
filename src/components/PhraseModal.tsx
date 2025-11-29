@@ -66,96 +66,106 @@ const PhraseModal: React.FC<PhraseModalProps> = ({
         },
       }}
     >
-      {/* Close Button */}
-      <Box
-        sx={{
-          position: 'sticky',
-          top: 0,
-          zIndex: 1,
-          display: 'flex',
-          justifyContent: 'flex-end',
-          p: 1,
-          backgroundColor: 'background.paper',
-          borderBottom: '1px solid',
-          borderColor: 'divider',
-        }}
-      >
-        <IconButton
-          onClick={onClose}
-          aria-label='Close phrase details modal'
-          size='large'
-          sx={{
-            color: 'text.secondary',
-            '&:hover': {
-              backgroundColor: 'action.hover',
-              color: 'primary.main',
-            },
-            '&:focus': {
-              outline: '2px solid',
-              outlineColor: 'primary.main',
-              outlineOffset: '2px',
-            },
-          }}
-        >
-          <CloseIcon fontSize='large' />
-        </IconButton>
-      </Box>
-
-      {/* Modal Content */}
-      <DialogContent
-        sx={{
-          p: { xs: 2, sm: 3, md: 4 },
-          overflowY: 'auto',
-          '&::-webkit-scrollbar': {
-            width: '8px',
-          },
-          '&::-webkit-scrollbar-track': {
-            backgroundColor: 'rgba(0,0,0,0.05)',
-            borderRadius: '4px',
-          },
-          '&::-webkit-scrollbar-thumb': {
-            backgroundColor: 'rgba(0,0,0,0.2)',
-            borderRadius: '4px',
-            '&:hover': {
-              backgroundColor: 'rgba(0,0,0,0.3)',
-            },
-          },
-          scrollbarWidth: 'thin',
-          scrollbarColor: 'rgba(0,0,0,0.2) rgba(0,0,0,0.05)',
-        }}
-      >
-        <Box id='phrase-modal-description' role='document' aria-live='polite'>
-          <PhraseCard
-            {...phraseCardProps}
-            multiLine={true}
-            elevation={0}
+      {/* Only render content when modal is open */}
+      {open && (
+        <>
+          {/* Close Button */}
+          <Box
             sx={{
-              boxShadow: 'none',
-              border: 'none',
-              ...phraseCardProps.sx,
+              position: 'sticky',
+              top: 0,
+              zIndex: 1,
+              display: 'flex',
+              justifyContent: 'flex-end',
+              p: 1,
+              backgroundColor: 'background.paper',
+              borderBottom: '1px solid',
+              borderColor: 'divider',
             }}
-          />
-        </Box>
+          >
+            <IconButton
+              onClick={onClose}
+              aria-label='Close phrase details modal'
+              size='large'
+              sx={{
+                color: 'text.secondary',
+                '&:hover': {
+                  backgroundColor: 'action.hover',
+                  color: 'primary.main',
+                },
+                '&:focus': {
+                  outline: '2px solid',
+                  outlineColor: 'primary.main',
+                  outlineOffset: '2px',
+                },
+              }}
+            >
+              <CloseIcon fontSize='large' />
+            </IconButton>
+          </Box>
 
-        {/* Screen Reader Instructions */}
-        <Box
-          sx={{
-            position: 'absolute',
-            width: '1px',
-            height: '1px',
-            padding: 0,
-            margin: '-1px',
-            overflow: 'hidden',
-            clip: 'rect(0, 0, 0, 0)',
-            whiteSpace: 'nowrap',
-            border: 0,
-          }}
-          aria-live='polite'
-        >
-          Modal opened with full phrase details. Press Escape key or click the
-          close button to dismiss this modal and return to the phrases list.
-        </Box>
-      </DialogContent>
+          {/* Modal Content */}
+          <DialogContent
+            sx={{
+              p: { xs: 2, sm: 3, md: 4 },
+              overflowY: 'auto',
+              '&::-webkit-scrollbar': {
+                width: '8px',
+              },
+              '&::-webkit-scrollbar-track': {
+                backgroundColor: 'rgba(0,0,0,0.05)',
+                borderRadius: '4px',
+              },
+              '&::-webkit-scrollbar-thumb': {
+                backgroundColor: 'rgba(0,0,0,0.2)',
+                borderRadius: '4px',
+                '&:hover': {
+                  backgroundColor: 'rgba(0,0,0,0.3)',
+                },
+              },
+              scrollbarWidth: 'thin',
+              scrollbarColor: 'rgba(0,0,0,0.2) rgba(0,0,0,0.05)',
+            }}
+          >
+            <Box
+              id='phrase-modal-description'
+              role='document'
+              aria-live='polite'
+            >
+              <PhraseCard
+                {...phraseCardProps}
+                multiLine={true}
+                elevation={0}
+                sx={{
+                  boxShadow: 'none',
+                  border: 'none',
+                  ...phraseCardProps.sx,
+                }}
+              />
+            </Box>
+
+            {/* Screen Reader Instructions */}
+            <Box
+              sx={{
+                position: 'absolute',
+                width: '1px',
+                height: '1px',
+                padding: 0,
+                margin: '-1px',
+                overflow: 'hidden',
+                clip: 'rect(0, 0, 0, 0)',
+                whiteSpace: 'nowrap',
+                border: 0,
+              }}
+              aria-live='polite'
+            >
+              Modal opened with full phrase details. Press Escape key or click
+              the close button to dismiss this modal and return to the phrases
+              list.
+            </Box>
+          </DialogContent>
+        </>
+      )}
     </Dialog>
   );
 };

@@ -130,23 +130,6 @@ const PhraseText: React.FC<PhraseTextProps> = ({
           {displayText}
         </Typography>
       </Box>
-
-      {/* Screen Reader Only - Comprehensive Description */}
-      <Box
-        sx={{
-          position: 'absolute',
-          width: '1px',
-          height: '1px',
-          padding: 0,
-          margin: '-1px',
-          overflow: 'hidden',
-          clip: 'rect(0, 0, 0, 0)',
-          whiteSpace: 'nowrap',
-          border: 0,
-        }}
-      >
-        Text in {languageLabel}, from {editionLabel}: {text}
-      </Box>
     </Box>
   );
 
