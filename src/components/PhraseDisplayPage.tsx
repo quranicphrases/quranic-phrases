@@ -216,6 +216,18 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
               <Box
                 key={`${idPrefix}-${index}`}
                 onClick={() => handlePhraseClick(phrase)}
+                onKeyDown={e => {
+                  if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    handlePhraseClick(phrase);
+                  }
+                }}
+                tabIndex={0}
+                role='button'
+                aria-label={`Phrase ${index + 1}: ${phrase.arabicText.substring(
+                  0,
+                  50
+                )}... Click or press Enter to view full details`}
                 sx={{
                   flex: {
                     xs: '1 1 100%', // Mobile: 1 card per row
@@ -227,6 +239,12 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
                   minWidth: { xs: '280px', sm: '320px' }, // Ensure minimum readable width
                   maxWidth: '100%',
                   cursor: 'pointer',
+                  '&:focus': {
+                    outline: '3px solid',
+                    outlineColor: 'primary.main',
+                    outlineOffset: '4px',
+                    borderRadius: '4px',
+                  },
                 }}
               >
                 <PhraseCard

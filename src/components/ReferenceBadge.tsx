@@ -42,10 +42,20 @@ const ReferenceBadge: React.FC<ReferenceBadgeProps> = ({
     }
   };
 
+  const handleKeyDown = (event: React.KeyboardEvent) => {
+    // Activate on Enter or Space
+    if (event.key === 'Enter' || event.key === ' ') {
+      event.preventDefault();
+      event.stopPropagation();
+      handleClick(event as any);
+    }
+  };
+
   return (
     <Chip
       label={reference}
       onClick={handleClick}
+      onKeyDown={handleKeyDown}
       clickable
       color='primary'
       variant='filled'

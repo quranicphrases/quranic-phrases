@@ -6,6 +6,7 @@ import {
 } from 'react-router-dom';
 import { ThemeProvider, createTheme, CssBaseline, Box } from '@mui/material';
 import ListOfPages from './components/ListOfPages';
+import KeyboardGuide from './components/KeyboardGuide';
 import OverviewPage from './pages/OverviewPage';
 import AnonymousPage from './pages/AnonymousPage';
 import PraisesPage from './pages/PraisesPage';
@@ -61,6 +62,9 @@ function App() {
               <Route path='*' element={<Navigate to='/overview' replace />} />
             </Routes>
           </Box>
+
+          {/* Keyboard Navigation Guide - Shows on first visit */}
+          <KeyboardGuide showOnMount={true} />
         </Box>
       </Router>
     </ThemeProvider>
