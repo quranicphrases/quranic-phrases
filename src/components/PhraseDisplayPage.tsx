@@ -4,6 +4,7 @@ import PhraseCard from '../components/PhraseCard';
 import PhraseModal from '../components/PhraseModal';
 import type { PraisesData, QuranicPhrase } from '../types/praisesTypes';
 import { formatReferences } from '../types/praisesTypes';
+import { navigateToQuranReference } from '../utils/quranReference';
 
 export interface PhraseDisplayPageProps {
   /** Main page title */
@@ -63,12 +64,7 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
   };
 
   // Default reference click handler
-  const handleReferenceClick =
-    onReferenceClick ||
-    ((reference: string) => {
-      console.log(`Navigating to reference: ${reference}`);
-      // Could implement actual navigation to verse details or external Quran sites
-    });
+  const handleReferenceClick = onReferenceClick || navigateToQuranReference;
 
   // Generate unique IDs for accessibility
   const sectionTitleId = `${idPrefix}-section-title`;

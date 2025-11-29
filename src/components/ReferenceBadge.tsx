@@ -2,15 +2,16 @@ import React from 'react';
 import { Chip } from '@mui/material';
 import type { ChipProps } from '@mui/material';
 import { Link as LinkIcon } from '@mui/icons-material';
+import { getQuranVerseUrl } from '../utils/quranReference';
 
 export interface ReferenceBadgeProps {
   /** Reference in format "surahNo:verseNo" (e.g., "2:255") */
   reference: string;
-  /** Custom click handler - if not provided, redirects to google.com */
+  /** Custom click handler - if not provided, navigates to AlQuran.cloud */
   onClick?: () => void;
   /** Additional Material-UI Chip props */
   chipProps?: Omit<ChipProps, 'label' | 'onClick' | 'clickable'>;
-  /** Custom URL to redirect to instead of google.com */
+  /** Custom URL to redirect to instead of AlQuran.cloud */
   redirectUrl?: string;
 }
 
@@ -18,16 +19,26 @@ const ReferenceBadge: React.FC<ReferenceBadgeProps> = ({
   reference,
   onClick,
   chipProps = {},
-  redirectUrl = 'https://google.com',
+  redirectUrl,
 }) => {
   const handleClick = (event: React.MouseEvent) => {
     // Stop event from bubbling up to parent card
     event.stopPropagation();
-    
+
     if (onClick) {
       onClick();
     } else {
-      window.open(redirectUrl, '_blank', 'noopener,noreferrer');
+      // Use custom redirect URL or generate AlQuran.cloud URL from reference
+      const url =
+        redirectUrl ||
+        (() => {
+          const [surahStr, verseStr] = reference.split(':');
+          const surahNo = parseInt(surahStr, 10);
+          const verseNo = parseInt(verseStr, 10);
+          return getQuranVerseUrl(surahNo, verseNo);
+        })();
+
+      window.open(url, '_blank', 'noopener,noreferrer');
     }
   };
 
