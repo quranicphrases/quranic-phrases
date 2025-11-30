@@ -160,25 +160,33 @@ const KeyboardGuide: React.FC<KeyboardGuideProps> = ({
             <TableBody>
               <TableRow>
                 <TableCell>
-                  <strong>Tab to navigation bar</strong>
+                  <strong>Tab / Shift+Tab</strong>
                 </TableCell>
                 <TableCell>
-                  Navigate through page tabs (Overview, Anonymous, Praises,
-                  etc.)
+                  Move between navigation menu and page content
                 </TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell>
+                  <strong>Arrow Left / Right</strong>
+                </TableCell>
+                <TableCell>
+                  Navigate between page links in the menu (Overview, Anonymous,
+                  Praises, etc.)
+                </TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell>
+                  <strong>Home / End</strong>
+                </TableCell>
+                <TableCell>Jump to first/last page link in menu</TableCell>
               </TableRow>
               <TableRow>
                 <TableCell>
                   <strong>Enter / Space</strong>
                 </TableCell>
-                <TableCell>Open the focused page tab</TableCell>
-              </TableRow>
-              <TableRow>
                 <TableCell>
-                  <strong>Arrow Left/Right</strong>
-                </TableCell>
-                <TableCell>
-                  Move between page tabs (when navigation bar is focused)
+                  Navigate to selected page (focus moves to About section)
                 </TableCell>
               </TableRow>
             </TableBody>
@@ -187,7 +195,7 @@ const KeyboardGuide: React.FC<KeyboardGuideProps> = ({
           <Divider sx={{ my: 2 }} />
 
           <Typography variant='h6' gutterBottom>
-            Phrase Cards
+            Phrase Cards Grid
           </Typography>
           <Table size='small' sx={{ mb: 3 }}>
             <TableBody>
@@ -195,7 +203,23 @@ const KeyboardGuide: React.FC<KeyboardGuideProps> = ({
                 <TableCell>
                   <strong>Tab</strong>
                 </TableCell>
-                <TableCell>Navigate through phrase cards on the page</TableCell>
+                <TableCell>
+                  Enter the phrase cards grid (focuses first card)
+                </TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell>
+                  <strong>Arrow Keys</strong>
+                </TableCell>
+                <TableCell>
+                  Navigate between cards (↑↓ for rows, ←→ for columns)
+                </TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell>
+                  <strong>Home / End</strong>
+                </TableCell>
+                <TableCell>Jump to first/last phrase card</TableCell>
               </TableRow>
               <TableRow>
                 <TableCell>
@@ -207,11 +231,11 @@ const KeyboardGuide: React.FC<KeyboardGuideProps> = ({
               </TableRow>
               <TableRow>
                 <TableCell>
-                  <strong>Focus on card</strong>
+                  <strong>Single Tab Stop</strong>
                 </TableCell>
                 <TableCell>
-                  Screen reader automatically reads: Arabic → English → Hindi →
-                  Urdu
+                  Each card is one focusable element (no need to tab through
+                  text/references)
                 </TableCell>
               </TableRow>
             </TableBody>
@@ -220,7 +244,7 @@ const KeyboardGuide: React.FC<KeyboardGuideProps> = ({
           <Divider sx={{ my: 2 }} />
 
           <Typography variant='h6' gutterBottom>
-            Reference Badges
+            Reference Badges (in Modal)
           </Typography>
           <Table size='small' sx={{ mb: 3 }}>
             <TableBody>
@@ -229,7 +253,7 @@ const KeyboardGuide: React.FC<KeyboardGuideProps> = ({
                   <strong>Tab</strong>
                 </TableCell>
                 <TableCell>
-                  Navigate through reference badges (e.g., 2:255, 3:18)
+                  Navigate through reference badges when viewing phrase in modal
                 </TableCell>
               </TableRow>
               <TableRow>
@@ -281,20 +305,26 @@ const KeyboardGuide: React.FC<KeyboardGuideProps> = ({
           <Box component='ul' sx={{ pl: 2 }}>
             <li>
               <Typography variant='body2'>
-                Each phrase card is announced with language labels (Arabic,
-                English, Hindi, Urdu)
+                <strong>Page Navigation:</strong> After selecting a page, focus
+                automatically moves to the About section
               </Typography>
             </li>
             <li>
               <Typography variant='body2'>
-                Reference badges announce the verse location and action (e.g.,
-                "Reference 2:255 - Click to view")
+                <strong>Phrase Cards:</strong> Each card is a single focusable
+                element with proper language tags (Arabic, English, Hindi, Urdu)
               </Typography>
             </li>
             <li>
               <Typography variant='body2'>
-                Modal opening/closing is announced with context about available
-                actions
+                <strong>References:</strong> Announced as a group (e.g., "3
+                Quran references") before individual verse numbers
+              </Typography>
+            </li>
+            <li>
+              <Typography variant='body2'>
+                <strong>Arrow Keys:</strong> Navigate between cards in grid and
+                page links in menu
               </Typography>
             </li>
             <li>
@@ -306,9 +336,9 @@ const KeyboardGuide: React.FC<KeyboardGuideProps> = ({
           </Box>
 
           <Alert severity='success' sx={{ mt: 3 }}>
-            <strong>Pro Tip:</strong> All interactive elements have visible
-            focus indicators (blue outline). Follow the focus as you press Tab
-            to understand what's selected.
+            <strong>Pro Tip:</strong> Arrow keys provide efficient navigation!
+            Use ←→ in the menu, and ←→↑↓ to move between phrase cards in the
+            grid.
           </Alert>
         </DialogContent>
       </Dialog>

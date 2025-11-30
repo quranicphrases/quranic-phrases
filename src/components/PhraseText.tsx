@@ -43,8 +43,6 @@ const PhraseText: React.FC<PhraseTextProps> = ({
 
   const content = (
     <Box
-      role='article'
-      aria-labelledby='phrase-content'
       sx={{
         direction,
         ...sx,
@@ -77,11 +75,8 @@ const PhraseText: React.FC<PhraseTextProps> = ({
         <Typography
           id='phrase-content'
           variant={variant}
-          component='div'
+          component='p'
           lang={languageCode}
-          role='main'
-          aria-live='polite'
-          tabIndex={0}
           sx={{
             textAlign: muiTextAlign,
             direction,
@@ -90,12 +85,6 @@ const PhraseText: React.FC<PhraseTextProps> = ({
             minWidth: multiLine ? 'auto' : 'fit-content',
             lineHeight:
               variant === 'h4' ? 2.2 : variant === 'body1' ? 1.8 : 'inherit',
-            '&:focus': {
-              outline: '2px solid',
-              outlineColor: 'primary.main',
-              outlineOffset: '2px',
-              borderRadius: 1,
-            },
           }}
         >
           {displayText}

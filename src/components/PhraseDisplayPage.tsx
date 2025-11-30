@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { Container, Typography, Box, Paper, Divider } from '@mui/material';
 import PhraseCard from '../components/PhraseCard';
-import PhraseModal from '../components/PhraseModal';
+import PhraseModalEnhanced from '../components/PhraseModalEnhanced';
 import type { PraisesData, QuranicPhrase } from '../types/praisesTypes';
 import { formatReferences } from '../types/praisesTypes';
 import { navigateToQuranReference } from '../utils/quranReference';
@@ -44,11 +44,49 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
   // Extract phrases array from either format
   const phrasesArray = Array.isArray(phrases) ? phrases : phrases.phrases;
 
+  // Refs for focus management
+  const mainContentRef = useRef<HTMLDivElement>(null);
+  const aboutSectionRef = useRef<HTMLDivElement>(null);
+  const phrasesGridRef = useRef<HTMLDivElement>(null);
+
+  // Card focus and selection state
+  const [focusedCardIndex, setFocusedCardIndex] = useState<number>(0);
+  const [selectedCardIndex, setSelectedCardIndex] = useState<number | null>(
+    null
+  );
+
   // Modal state
   const [selectedPhrase, setSelectedPhrase] = useState<QuranicPhrase | null>(
     null
   );
   const [modalOpen, setModalOpen] = useState(false);
+
+  // Update focus when focusedCardIndex changes
+  useEffect(() => {
+    console.log(
+      '🔄 useEffect triggered - focusedCardIndex changed to:',
+      focusedCardIndex
+    );
+    if (phrasesGridRef.current && focusedCardIndex >= 0) {
+      // Use a more specific selector to get only phrase cards
+      const cards =
+        phrasesGridRef.current.querySelectorAll('[data-phrase-card]');
+      console.log(
+        '📦 Found cards:',
+        cards.length,
+        'Trying to focus index:',
+        focusedCardIndex
+      );
+      if (cards[focusedCardIndex]) {
+        (cards[focusedCardIndex] as HTMLElement).focus();
+        console.log('✅ Focused card:', focusedCardIndex);
+      } else {
+        console.log('❌ Card not found at index:', focusedCardIndex);
+      }
+    } else {
+      console.log('⚠️ Grid ref not available or invalid index');
+    }
+  }, [focusedCardIndex]);
 
   // Handle phrase card click
   const handlePhraseClick = (phrase: QuranicPhrase) => {
@@ -66,13 +104,96 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
   // Default reference click handler
   const handleReferenceClick = onReferenceClick || navigateToQuranReference;
 
+  // Handle arrow key navigation in phrase grid
+  const handleGridKeyDown = (
+    event: React.KeyboardEvent,
+    currentIndex: number
+  ) => {
+    console.log('🎯 handleGridKeyDown called:', {
+      key: event.key,
+      currentIndex,
+      focusedCardIndex,
+      totalCards: phrasesArray.length,
+    });
+
+    const totalCards = phrasesArray.length;
+    let newIndex = currentIndex;
+    let handled = false;
+
+    switch (event.key) {
+      case 'ArrowRight':
+      case 'ArrowDown':
+        // Move to next card (sequential, left to right, top to bottom)
+        event.preventDefault();
+        newIndex = currentIndex + 1;
+        if (newIndex >= totalCards) {
+          newIndex = totalCards - 1; // Stay on last card
+        }
+        handled = true;
+        console.log('➡️ Moving right/down to:', newIndex);
+        break;
+
+      case 'ArrowLeft':
+      case 'ArrowUp':
+        // Move to previous card (sequential, right to left, bottom to top)
+        event.preventDefault();
+        newIndex = currentIndex - 1;
+        if (newIndex < 0) {
+          newIndex = 0; // Stay on first card
+        }
+        handled = true;
+        console.log('⬅️ Moving left/up to:', newIndex);
+        break;
+
+      case 'Home':
+        event.preventDefault();
+        newIndex = 0;
+        handled = true;
+        console.log('🏠 Moving to Home (0)');
+        break;
+
+      case 'End':
+        event.preventDefault();
+        newIndex = totalCards - 1;
+        handled = true;
+        console.log('🔚 Moving to End:', newIndex);
+        break;
+
+      case 'Escape':
+        // Exit selection mode
+        event.preventDefault();
+        setSelectedCardIndex(null);
+        console.log('🚪 Escape - clearing selection');
+        return;
+
+      default:
+        console.log('❌ Unhandled key:', event.key);
+        return;
+    }
+
+    // Update focused index - useEffect will handle actual focus
+    if (handled && newIndex !== currentIndex) {
+      console.log(
+        '✅ Updating focusedCardIndex from',
+        currentIndex,
+        'to',
+        newIndex
+      );
+      setFocusedCardIndex(newIndex);
+    } else {
+      console.log('⚠️ No change:', { handled, newIndex, currentIndex });
+    }
+  };
+
   // Generate unique IDs for accessibility
   const sectionTitleId = `${idPrefix}-section-title`;
+  const aboutSectionId = `${idPrefix}-about-section`;
   const defaultAriaLabel = `Collection of ${phrasesArray.length} Quranic phrases with translations`;
 
   return (
     <Container
       maxWidth={false}
+      ref={mainContentRef}
       sx={{
         py: 3,
         px: { xs: 2, sm: 3, md: 4, lg: 6, xl: 8 },
@@ -83,6 +204,28 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
         width: '100%',
       }}
     >
+      {/* Skip to main content link - visually hidden but accessible */}
+      <Box
+        component='a'
+        href='#main-content'
+        sx={{
+          position: 'absolute',
+          left: '-9999px',
+          zIndex: 999,
+          padding: '1rem',
+          backgroundColor: 'primary.main',
+          color: 'white',
+          textDecoration: 'none',
+          borderRadius: 1,
+          '&:focus': {
+            left: '1rem',
+            top: '1rem',
+          },
+        }}
+      >
+        Skip to main content
+      </Box>
+
       {/* Page Title */}
       <Typography
         variant='h3'
@@ -100,6 +243,9 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
 
       {/* About Section */}
       <Paper
+        id={aboutSectionId}
+        ref={aboutSectionRef}
+        tabIndex={0}
         elevation={3}
         sx={{
           p: { xs: 3, sm: 4, md: 5, lg: 6, xl: 8 },
@@ -109,6 +255,11 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
           width: '100%',
           maxWidth: '100%',
           mx: { xs: 0, xl: 'auto' },
+          '&:focus': {
+            outline: '3px solid',
+            outlineColor: 'primary.main',
+            outlineOffset: '2px',
+          },
         }}
       >
         <Typography
@@ -128,12 +279,16 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
 
         <Typography
           variant='body1'
+          component='div'
+          lang='en'
           sx={{
             lineHeight: 1.8,
             color: 'text.primary',
             textAlign: 'justify',
             whiteSpace: 'pre-line',
           }}
+          role='region'
+          aria-label={aboutTitle}
         >
           {aboutText}
         </Typography>
@@ -142,6 +297,7 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
       {/* Phrases Cards Section */}
       <Box
         component='section'
+        id='main-content'
         aria-labelledby={sectionTitleId}
         sx={{
           flexGrow: 1,
@@ -202,6 +358,7 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
         {/* Responsive Flexbox Grid for Phrase Cards */}
         {!loading && !error && phrasesArray.length > 0 && (
           <Box
+            ref={phrasesGridRef}
             sx={{
               display: 'flex',
               flexWrap: 'wrap',
@@ -209,25 +366,49 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
               justifyContent: 'flex-start',
               alignItems: 'stretch',
             }}
-            role='group'
+            role='grid'
             aria-label={collectionAriaLabel || defaultAriaLabel}
           >
             {phrasesArray.map((phrase, index) => (
               <Box
+                data-phrase-card='true'
                 key={`${idPrefix}-${index}`}
                 onClick={() => handlePhraseClick(phrase)}
                 onKeyDown={e => {
-                  if (e.key === 'Enter' || e.key === ' ') {
+                  console.log('⌨️ Card onKeyDown:', {
+                    key: e.key,
+                    cardIndex: index,
+                    focusedCardIndex,
+                    hasTabIndex: index === focusedCardIndex ? 0 : -1,
+                  });
+
+                  if (e.key === 'Enter') {
                     e.preventDefault();
+                    console.log(
+                      '🎯 Enter pressed - opening modal for card:',
+                      index
+                    );
                     handlePhraseClick(phrase);
+                  } else if (e.key === ' ') {
+                    e.preventDefault();
+                    console.log('⭐ Space pressed - selecting card:', index);
+                    setSelectedCardIndex(index);
+                  } else {
+                    console.log(
+                      '🔀 Arrow key detected, calling handleGridKeyDown'
+                    );
+                    handleGridKeyDown(e, index);
                   }
                 }}
-                tabIndex={0}
+                tabIndex={index === focusedCardIndex ? 0 : -1}
                 role='button'
-                aria-label={`Phrase ${index + 1}: ${phrase.arabicText.substring(
+                aria-label={`Phrase ${index + 1} of ${
+                  phrasesArray.length
+                }. ${phrase.arabicText.substring(
                   0,
                   50
-                )}... Click or press Enter to view full details`}
+                )}... Press Enter to open modal, Space to select, arrow keys to navigate.`}
+                aria-pressed={selectedCardIndex === index}
                 sx={{
                   flex: {
                     xs: '1 1 100%', // Mobile: 1 card per row
@@ -245,6 +426,12 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
                     outlineOffset: '4px',
                     borderRadius: '4px',
                   },
+                  ...(selectedCardIndex === index && {
+                    outline: '3px dashed',
+                    outlineColor: 'secondary.main',
+                    outlineOffset: '4px',
+                    backgroundColor: 'action.selected',
+                  }),
                 }}
               >
                 <PhraseCard
@@ -292,7 +479,7 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
 
         {/* Phrase Modal */}
         {selectedPhrase && (
-          <PhraseModal
+          <PhraseModalEnhanced
             open={modalOpen}
             onClose={handleModalClose}
             phraseCardProps={{

@@ -23,29 +23,54 @@ The Quranic Phrases web app has been enhanced with comprehensive keyboard naviga
 | `Shift + Tab` | Navigate backward through interactive elements |
 | `Shift + ?`   | Open keyboard navigation guide                 |
 | `Escape`      | Close modals, dialogs, or the keyboard guide   |
+| `Enter`       | Activate focused element                       |
+| `Space`       | Activate focused button or link                |
 
 ### 3. **Page Navigation**
 
 - **Navigation Bar**: Located at the top of the page
-  - `Tab` to navigate between page links (Overview, Anonymous, Praises, etc.)
-  - `Enter` or `Space` to activate a link
+  - `Tab` / `Shift+Tab` to move between navigation menu and page content
+  - **Within the menu:**
+    - `Left Arrow` / `Right Arrow` to navigate between page links
+    - `Home` to jump to first page link
+    - `End` to jump to last page link
+    - `Enter` or `Space` to navigate to selected page
+  - **After selecting a page:**
+    - Focus automatically moves to the "About" section
+    - Press `Tab` to continue to phrase cards
   - Visual focus indicator: Blue border with light blue background
   - Active page indicator: Bold text + blue border + dot indicator below
 
-### 4. **Phrase Cards**
+### 4. **About Section**
 
-- **Keyboard activation**:
-  - `Tab` to focus on a phrase card
-  - `Enter` or `Space` to open the phrase in a modal
-  - Clear focus indicator: 3px solid blue outline with 4px offset
-- **ARIA labels**: Each card announces phrase preview for screen readers
-- **Role**: Properly labeled as `button` for semantic clarity
+- **Automatic focus**: When you navigate to a page, focus moves to the About section
+- **Screen reader**: Reads the about text with proper language announcements
+- Press `Tab` to move to the phrases section
+
+### 5. **Phrase Cards**
+
+- **Grid navigation**:
+  - `Tab` to enter the phrase cards grid (focuses first card)
+  - **Within the grid:**
+    - `Right Arrow` / `Left Arrow` to navigate between cards horizontally
+    - `Down Arrow` / `Up Arrow` to navigate between rows
+    - `Home` to jump to first card
+    - `End` to jump to last card
+    - `Enter` or `Space` to open phrase in modal
+- **Single Tab stop**: Each phrase card is a single focusable element (no need to tab through individual text elements)
+- Clear focus indicator: 3px solid blue outline with 4px offset
+- **ARIA announcements**: Screen reader announces card number, Arabic text preview, and instructions
+- **Screen reader optimization**:
+  - Card announced as single unit
+  - Arabic, English, Hindi, and Urdu text read with proper language tags
+  - References announced as a group
 
 ### 5. **Reference Badges**
 
 - **Quran verse links**: Clickable badges showing verse references (e.g., "2:255")
 - **Keyboard activation**:
-  - `Tab` to focus on a badge
+  - Reference badges are within phrase cards but do NOT require separate tab stops
+  - When viewing a phrase in the modal, references can be accessed via `Tab`
   - `Enter` or `Space` to open the verse on Quran.com
   - Event bubbling prevented to avoid triggering parent card
 - **Focus style**: Light blue outline with 2px offset
@@ -53,6 +78,7 @@ The Quranic Phrases web app has been enhanced with comprehensive keyboard naviga
   - Translation 20: Sahih International (English)
   - Translation 158: Bayan-ul-Quran (Urdu)
   - Translation 122: Aziz-ul-Haq (Hindi)
+- **Screen reader**: Announces total number of references, then reads each reference
 
 ### 6. **Phrase Modal**
 
@@ -132,52 +158,73 @@ The Quranic Phrases web app has been enhanced with comprehensive keyboard naviga
 
 ## Screen Reader Support
 
-### Tested Patterns
+### VoiceOver / NVDA / JAWS Tested Patterns
 
-- **Navigation**: "Main navigation, 4 items. Overview, Praises, Extended Praises, Prayers"
-- **Phrase cards**: "Button. Bismillah ir-Rahman ir-Rahim. In the name of Allah..."
-- **Reference badges**: "Button. Reference 1:1. Click to view"
+- **Navigation**: "Main navigation menubar. 4 items. Use left and right arrow keys to navigate."
+- **About Section**: Automatically focused on page load. "About section. [Full about text in English]"
+- **Phrase Cards Grid**: "Grid with [X] phrases. Use arrow keys to navigate."
+- **Individual Phrase**: "Button. Phrase 1 of [X]. [Arabic text]... Press Enter or Space to view full details. Use arrow keys to navigate between phrases."
+- **Phrase Translations**:
+  - Arabic text read with `lang="ar"`
+  - English text read with `lang="en"`
+  - Hindi text read with `lang="hi"`
+  - Urdu text read with `lang="ur"`
+- **Reference Badges**: "[X] Quran references: [list of references]"
 - **Modal**: "Dialog. Phrase details. Close button. Press Escape to close"
 
 ### Best Practices
 
-- Hidden screen reader text for contextual information
-- No duplicate content (fixed Ctrl+F issue)
-- Proper heading hierarchy (though currently using Typography components)
-- Live regions for dynamic content announcements
+- Hidden screen reader text for contextual information (not visible, only announced)
+- No duplicate content (fixed Ctrl+F search issue)
+- Proper heading hierarchy using Typography components
+- Live regions (`aria-live="polite"`) for dynamic content announcements
+- Language tags (`lang` attribute) ensure proper pronunciation
+- Single tab stop per card reduces navigation overhead
+- Arrow keys provide efficient grid navigation
 
 ## Testing Checklist
 
 ### Manual Testing
 
 - [x] Tab through all navigation links
-- [x] Tab through phrase cards and verify focus indicators
+- [x] Use Left/Right arrow keys in navigation menu
+- [x] Navigate to page and verify focus moves to About section
+- [x] Tab to phrase cards grid
+- [x] Use arrow keys to navigate between phrase cards
 - [x] Press Enter/Space on focused cards to open modal
 - [x] Press Escape to close modal
-- [x] Tab to reference badges and press Enter/Space
+- [x] Tab to reference badges in modal and press Enter/Space
 - [x] Press Shift+? to open keyboard guide
 - [x] Verify guide doesn't auto-show on subsequent visits
 - [x] Build succeeds without errors
+- [x] Single tab stop per phrase card (no need to tab through individual elements)
 
 ### Recommended Testing
 
 - [ ] Test with screen reader (NVDA, JAWS, VoiceOver)
+  - [ ] Verify navigation menu announces correctly
+  - [ ] Verify about text is read on page load
+  - [ ] Verify phrase cards announce with proper language tags
+  - [ ] Verify references announced as a group
+  - [ ] Verify modal interaction announcements
 - [ ] Test across browsers (Chrome, Firefox, Safari, Edge)
 - [ ] Test on mobile devices (touch vs keyboard)
 - [ ] Test with high contrast mode
 - [ ] Test with browser zoom (200%+)
-- [ ] Test with keyboard-only navigation (no mouse)
+- [ ] Test complete keyboard-only navigation (unplug mouse)
+- [ ] Test arrow key navigation in different screen sizes
 
 ## Future Enhancements
 
 ### Potential Additions
 
-1. **Arrow key navigation**: Navigate between phrase cards using arrow keys
-2. **Skip to content link**: Jump directly to main content area
+1. ~~**Arrow key navigation**~~: ✅ **IMPLEMENTED** - Navigate between phrase cards using arrow keys
+2. ~~**Skip to content link**~~: ✅ **IMPLEMENTED** - Jump directly to main content area
 3. **Keyboard shortcut to jump to search** (if search functionality is added)
 4. **Focus trap in modal**: Prevent Tab from escaping modal content
 5. **Keyboard shortcuts for page navigation**: e.g., `1` for Overview, `2` for Anonymous
 6. **Customizable keyboard shortcuts**: Allow users to set their own shortcuts
+7. **Roving tabindex**: Alternative pattern for grid navigation (currently using arrow keys with single tabstop)
 
 ## Files Modified
 

@@ -17,7 +17,30 @@ const References: React.FC<ReferencesProps> = ({
   redirectUrl,
 }) => {
   return (
-    <Box sx={{ width: '100%' }}>
+    <Box
+      sx={{ width: '100%' }}
+      role='group'
+      aria-label={`Quran references: ${references.join(', ')}`}
+    >
+      {/* Screen reader announcement */}
+      <Box
+        sx={{
+          position: 'absolute',
+          width: '1px',
+          height: '1px',
+          padding: 0,
+          margin: '-1px',
+          overflow: 'hidden',
+          clip: 'rect(0, 0, 0, 0)',
+          whiteSpace: 'nowrap',
+          border: 0,
+        }}
+        aria-live='polite'
+      >
+        {references.length} Quran{' '}
+        {references.length === 1 ? 'reference' : 'references'}
+      </Box>
+
       {/* Horizontally Scrollable Reference Badges */}
       <Box
         sx={{

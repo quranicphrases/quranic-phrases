@@ -1,5 +1,5 @@
-import React from 'react';
-import { Link, useLocation } from 'react-router-dom';
+import React, { useRef } from 'react';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { Box, Typography, Paper } from '@mui/material';
 
 export interface PageLink {
@@ -17,12 +17,75 @@ export interface ListOfPagesProps {
 
 const ListOfPages: React.FC<ListOfPagesProps> = ({ pages, sx = {} }) => {
   const location = useLocation();
+  const navigate = useNavigate();
+  const navRef = useRef<HTMLDivElement>(null);
+  const [focusedIndex, setFocusedIndex] = React.useState<number>(() => {
+    // Initialize with current page index
+    const currentIndex = pages.findIndex(
+      page => page.path === location.pathname
+    );
+    return currentIndex >= 0 ? currentIndex : 0;
+  });
+
+  // Update focused index when location changes
+  React.useEffect(() => {
+    const currentIndex = pages.findIndex(
+      page => page.path === location.pathname
+    );
+    if (currentIndex >= 0) {
+      setFocusedIndex(currentIndex);
+    }
+  }, [location.pathname, pages]);
+
+  // Handle keyboard navigation
+  const handleKeyDown = (event: React.KeyboardEvent, index: number) => {
+    let newIndex = index;
+
+    switch (event.key) {
+      case 'ArrowRight':
+        event.preventDefault();
+        newIndex = (index + 1) % pages.length;
+        break;
+      case 'ArrowLeft':
+        event.preventDefault();
+        newIndex = (index - 1 + pages.length) % pages.length;
+        break;
+      case 'Home':
+        event.preventDefault();
+        newIndex = 0;
+        break;
+      case 'End':
+        event.preventDefault();
+        newIndex = pages.length - 1;
+        break;
+      case 'Enter':
+      case ' ':
+        event.preventDefault();
+        navigate(pages[index].path);
+        // Keep focus on the selected menu item
+        return;
+      default:
+        return;
+    }
+
+    // Update focused index and focus the new link
+    if (newIndex !== index) {
+      setFocusedIndex(newIndex);
+      if (navRef.current) {
+        const links = navRef.current.querySelectorAll('a');
+        if (links[newIndex]) {
+          (links[newIndex] as HTMLElement).focus();
+        }
+      }
+    }
+  };
 
   return (
     <Box
       component='nav'
       role='navigation'
       aria-label='Main navigation'
+      ref={navRef}
       sx={{
         position: 'sticky',
         top: 0,
@@ -43,6 +106,8 @@ const ListOfPages: React.FC<ListOfPagesProps> = ({ pages, sx = {} }) => {
         }}
       >
         <Box
+          role='menubar'
+          aria-label='Page navigation menu'
           sx={{
             display: 'flex',
             overflowX: 'auto',
@@ -72,12 +137,13 @@ const ListOfPages: React.FC<ListOfPagesProps> = ({ pages, sx = {} }) => {
             scrollbarColor: 'rgba(25, 118, 210, 0.4) rgba(0, 0, 0, 0.1)',
           }}
         >
-          {pages.map(page => {
+          {pages.map((page, index) => {
             const isActive = location.pathname === page.path;
 
             return (
               <Box
                 key={page.path}
+                role='none'
                 sx={{
                   flexShrink: 0,
                   minWidth: 'fit-content',
@@ -87,6 +153,12 @@ const ListOfPages: React.FC<ListOfPagesProps> = ({ pages, sx = {} }) => {
                   component={Link}
                   to={page.path}
                   variant='h6'
+                  role='menuitem'
+                  onKeyDown={e => handleKeyDown(e, index)}
+                  onClick={e => {
+                    e.preventDefault();
+                    navigate(page.path);
+                  }}
                   sx={{
                     textDecoration: 'none',
                     color: '#1976d2', // Blue text color for all links
@@ -134,7 +206,7 @@ const ListOfPages: React.FC<ListOfPagesProps> = ({ pages, sx = {} }) => {
                   }}
                   aria-label={page.ariaLabel || `Navigate to ${page.label}`}
                   aria-current={isActive ? 'page' : undefined}
-                  tabIndex={0}
+                  tabIndex={index === focusedIndex ? 0 : -1}
                 >
                   {page.label}
                 </Typography>
@@ -158,9 +230,11 @@ const ListOfPages: React.FC<ListOfPagesProps> = ({ pages, sx = {} }) => {
           border: 0,
         }}
         aria-live='polite'
+        aria-atomic='true'
       >
-        Navigation menu with {pages.length} pages. Use arrow keys or tab to
-        navigate between links. Current page:{' '}
+        Navigation menu with {pages.length} pages. Use left and right arrow keys
+        to navigate between pages, or press Tab. Press Enter or Space to
+        activate. Current page:{' '}
         {pages.find(page => location.pathname === page.path)?.label ||
           'Unknown'}
       </Box>
