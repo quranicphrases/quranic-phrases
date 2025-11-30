@@ -49,11 +49,8 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
   const aboutSectionRef = useRef<HTMLDivElement>(null);
   const phrasesGridRef = useRef<HTMLDivElement>(null);
 
-  // Card focus and selection state
+  // Card focus state
   const [focusedCardIndex, setFocusedCardIndex] = useState<number>(0);
-  const [selectedCardIndex, setSelectedCardIndex] = useState<number | null>(
-    null
-  );
 
   // Modal state
   const [selectedPhrase, setSelectedPhrase] = useState<QuranicPhrase | null>(
@@ -63,28 +60,13 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
 
   // Update focus when focusedCardIndex changes
   useEffect(() => {
-    console.log(
-      '🔄 useEffect triggered - focusedCardIndex changed to:',
-      focusedCardIndex
-    );
     if (phrasesGridRef.current && focusedCardIndex >= 0) {
       // Use a more specific selector to get only phrase cards
       const cards =
         phrasesGridRef.current.querySelectorAll('[data-phrase-card]');
-      console.log(
-        '📦 Found cards:',
-        cards.length,
-        'Trying to focus index:',
-        focusedCardIndex
-      );
       if (cards[focusedCardIndex]) {
         (cards[focusedCardIndex] as HTMLElement).focus();
-        console.log('✅ Focused card:', focusedCardIndex);
-      } else {
-        console.log('❌ Card not found at index:', focusedCardIndex);
       }
-    } else {
-      console.log('⚠️ Grid ref not available or invalid index');
     }
   }, [focusedCardIndex]);
 
@@ -109,13 +91,6 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
     event: React.KeyboardEvent,
     currentIndex: number
   ) => {
-    console.log('🎯 handleGridKeyDown called:', {
-      key: event.key,
-      currentIndex,
-      focusedCardIndex,
-      totalCards: phrasesArray.length,
-    });
-
     const totalCards = phrasesArray.length;
     let newIndex = currentIndex;
     let handled = false;
@@ -130,7 +105,6 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
           newIndex = totalCards - 1; // Stay on last card
         }
         handled = true;
-        console.log('➡️ Moving right/down to:', newIndex);
         break;
 
       case 'ArrowLeft':
@@ -142,46 +116,27 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
           newIndex = 0; // Stay on first card
         }
         handled = true;
-        console.log('⬅️ Moving left/up to:', newIndex);
         break;
 
       case 'Home':
         event.preventDefault();
         newIndex = 0;
         handled = true;
-        console.log('🏠 Moving to Home (0)');
         break;
 
       case 'End':
         event.preventDefault();
         newIndex = totalCards - 1;
         handled = true;
-        console.log('🔚 Moving to End:', newIndex);
         break;
 
-      case 'Escape':
-        // Exit selection mode
-        event.preventDefault();
-        setSelectedCardIndex(null);
-        console.log('🚪 Escape - clearing selection');
-        return;
-
       default:
-        console.log('❌ Unhandled key:', event.key);
         return;
     }
 
     // Update focused index - useEffect will handle actual focus
     if (handled && newIndex !== currentIndex) {
-      console.log(
-        '✅ Updating focusedCardIndex from',
-        currentIndex,
-        'to',
-        newIndex
-      );
       setFocusedCardIndex(newIndex);
-    } else {
-      console.log('⚠️ No change:', { handled, newIndex, currentIndex });
     }
   };
 
@@ -375,28 +330,10 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
                 key={`${idPrefix}-${index}`}
                 onClick={() => handlePhraseClick(phrase)}
                 onKeyDown={e => {
-                  console.log('⌨️ Card onKeyDown:', {
-                    key: e.key,
-                    cardIndex: index,
-                    focusedCardIndex,
-                    hasTabIndex: index === focusedCardIndex ? 0 : -1,
-                  });
-
                   if (e.key === 'Enter') {
                     e.preventDefault();
-                    console.log(
-                      '🎯 Enter pressed - opening modal for card:',
-                      index
-                    );
                     handlePhraseClick(phrase);
-                  } else if (e.key === ' ') {
-                    e.preventDefault();
-                    console.log('⭐ Space pressed - selecting card:', index);
-                    setSelectedCardIndex(index);
                   } else {
-                    console.log(
-                      '🔀 Arrow key detected, calling handleGridKeyDown'
-                    );
                     handleGridKeyDown(e, index);
                   }
                 }}
@@ -407,8 +344,7 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
                 }. ${phrase.arabicText.substring(
                   0,
                   50
-                )}... Press Enter to open modal, Space to select, arrow keys to navigate.`}
-                aria-pressed={selectedCardIndex === index}
+                )}... Press Enter to open modal, arrow keys to navigate.`}
                 sx={{
                   flex: {
                     xs: '1 1 100%', // Mobile: 1 card per row
@@ -426,12 +362,6 @@ const PhraseDisplayPage: React.FC<PhraseDisplayPageProps> = ({
                     outlineOffset: '4px',
                     borderRadius: '4px',
                   },
-                  ...(selectedCardIndex === index && {
-                    outline: '3px dashed',
-                    outlineColor: 'secondary.main',
-                    outlineOffset: '4px',
-                    backgroundColor: 'action.selected',
-                  }),
                 }}
               >
                 <PhraseCard
