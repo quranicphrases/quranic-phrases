@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://quranicphrases.github.io/quranic-phrases/</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Overview Page -->
+  <url>
+    <loc>https://quranicphrases.github.io/quranic-phrases/#/overview</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Praises Page -->
+  <url>
+    <loc>https://quranicphrases.github.io/quranic-phrases/#/praises</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Secondary Praises Page -->
+  <url>
+    <loc>https://quranicphrases.github.io/quranic-phrases/#/secondary-praises</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Prayers Page -->
+  <url>
+    <loc>https://quranicphrases.github.io/quranic-phrases/#/prayers</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Anonymous Page -->
+  <url>
+    <loc>https://quranicphrases.github.io/quranic-phrases/#/anonymous</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

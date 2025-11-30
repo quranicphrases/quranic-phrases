@@ -57,39 +57,25 @@ May these blessed prayers bring you closer to Allah and help you express your de
   overview: `
 Welcome to Quranic Phrases—a personal collection born from my journey through the Holy Quran.
 
-## About This Project
-
 As I studied the Quran, certain verses and phrases would stop me in my tracks. Some revealed the magnificent attributes of Allah, others taught me how to pray, and some simply touched my heart in profound ways I cannot fully express. Rather than let these precious discoveries fade from memory, I began collecting them—and this website is the result.
 
-## The Collections
+Below Translations have been used
 
-- **Praises**: Phrases that tell us who Allah is, following patterns like "Allah is ___". Use these to glorify Him in your prayers.
-- **Extended Praises**: Similar to Praises, but where Allah speaks in first person or addresses others—beautiful for understanding, though not for direct recitation in du'a.
-- **Prayers**: Supplications from prophets and righteous people, or prayers taught directly by Allah—authentic du'as you can use in your own worship.
-- **Anonymous**: Powerful verses that deeply impacted me but don't fit other categories—the ones I simply couldn't ignore.
+- English: Sahih International
+- Urdu: Bayan-ul-Quran by Dr. Israr Ahmed
+- Hindi: Maulana Aziz-ul-Haq al-Umari
 
-## Translations Used
+Below are some website features
 
-- **Arabic**: Quranic text as revealed
-- **English**: Sahih International
-- **Urdu**: Bayan-ul-Quran by Dr. Israr Ahmed
-- **Hindi**: Maulana Aziz-ul-Haq al-Umari
+- Click any phrase card to open it in a modal with full, readable text
+- Click reference badges (e.g., 2:255) to view the complete verse on Quran.com with all three translations
+- Screen reader accessible: Full ARIA support for visually impaired users
+- Keyboard navigation: Navigate and interact using keyboard only
+- Multi-line display: In modals, multi-verse phrases display clearly line by line
 
-## Website Features
+Please note that this is a personal, ongoing collection. There may be verses I've missed or haven't categorized yet. The collection grows as I continue my journey through the Quran.
 
-- **Click any phrase card** to open it in a modal with full, readable text
-- **Click reference badges** (e.g., 2:255) to view the complete verse on Quran.com with all three translations
-- **Screen reader accessible**: Full ARIA support for visually impaired users
-- **Keyboard navigation**: Navigate and interact using keyboard only
-- **Multi-line display**: In modals, multi-verse phrases display clearly line by line
-
-## Note
-
-This is a personal, ongoing collection. There may be verses I've missed or haven't categorized yet. The collection grows as I continue my journey through the Quran.
-
-## Contact & Suggestions
-
-Have a suggestion for improvement? Found a verse I should include? Please email: **quranphrases@gmail.com**
+If you have any suggestion for improvement please email at quranphrases@gmail.com
 
 May Allah accept this humble effort and make it a means of benefit for all who visit.
 `
