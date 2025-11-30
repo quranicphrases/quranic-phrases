@@ -1,2 +1,5 @@
+git remote add origin https://github.com/quranicphrases/quranic-phrases.git
+git config user.email "quranicphrases@users.noreply.github.com"
+git config user.name "quranicphrases"
 python -m git_filter_repo --force --commit-callback "commit.author_name=b'quranicphrases';commit.author_email=b'quranicphrases@users.noreply.github.com';commit.committer_name=b'quranicphrases';commit.committer_email=b'quranicphrases@users.noreply.github.com'"
 git push --force origin refs/heads/main:refs/heads/main
