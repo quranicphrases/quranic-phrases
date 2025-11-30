@@ -62,8 +62,8 @@ As I studied the Quran, certain verses and phrases would stop me in my tracks. S
 Below Translations have been used
 
 - English: Sahih International
-- Urdu: Bayan-ul-Quran by Dr. Israr Ahmed
-- Hindi: Maulana Aziz-ul-Haq al-Umari
+- Urdu: Muhammad Junagarhi
+- Hindi: Suhel Farooq Khan and Saifur Rahman Nadwi
 
 Below are some website features
 
@@ -75,7 +75,7 @@ Below are some website features
 
 Please note that this is a personal, ongoing collection. There may be verses I've missed or haven't categorized yet. The collection grows as I continue my journey through the Quran.
 
-If you have any suggestion for improvement please email at quranphrases@gmail.com
+If you have any suggestion for improvement please email at quranicphrases@gmail.com
 
 May Allah accept this humble effort and make it a means of benefit for all who visit.
 `
