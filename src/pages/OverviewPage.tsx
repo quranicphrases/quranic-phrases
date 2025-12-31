@@ -1,13 +1,13 @@
 import type { FC } from 'react';
-import PhraseDisplayPage from '../components/PhraseDisplayPage';
+import PhrasePageTemplate from '../templates/PhrasePageTemplate';
 import { aboutTexts } from '../assets/aboutText';
-import useFetchPhrases from '../hooks/useFetchPhrases';
+import useFetchPhrases from '../features/phrases/hooks/useFetchPhrases';
 
 const OverviewPage: FC = () => {
-  const { data, loading, error } = useFetchPhrases('/phrases-overview.json');
+  const { data, loading, error } = useFetchPhrases('/phrases-default.json');
 
   return (
-    <PhraseDisplayPage
+    <PhrasePageTemplate
       pageTitle='Quranic Phrases Overview'
       aboutTitle='About This Collection'
       aboutText={aboutTexts.overview}

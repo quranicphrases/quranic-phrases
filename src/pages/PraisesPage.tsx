@@ -1,13 +1,13 @@
 import React from 'react';
 import { aboutTexts } from '../assets/aboutText';
-import PhraseDisplayPage from '../components/PhraseDisplayPage';
-import useFetchPhrases from '../hooks/useFetchPhrases';
+import PhrasePageTemplate from '../templates/PhrasePageTemplate';
+import useFetchPhrases from '../features/phrases/hooks/useFetchPhrases';
 
 const PraisesPage: React.FC = () => {
   const { data, loading, error } = useFetchPhrases('/phrases-praise-0.json');
 
   return (
-    <PhraseDisplayPage
+    <PhrasePageTemplate
       pageTitle='Praises from the Quran'
       aboutTitle='About Quranic Praises'
       aboutText={aboutTexts.praises}

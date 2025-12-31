@@ -21,6 +21,8 @@ export interface PhraseTextProps {
   usePaper?: boolean;
   /** Display multi-line text with newlines preserved (true) or use inline separators (false) */
   multiLine?: boolean;
+  /** Whether text is interactive (focusable) - true for modal, false for grid */
+  isInteractive?: boolean;
 }
 
 const PhraseText: React.FC<PhraseTextProps> = ({
@@ -33,6 +35,7 @@ const PhraseText: React.FC<PhraseTextProps> = ({
   variant = 'body1',
   usePaper = false,
   multiLine = false,
+  isInteractive = true,
 }) => {
   // Determine Material-UI text alignment
   const muiTextAlign = textAlign as 'left' | 'right' | 'center';
@@ -43,6 +46,7 @@ const PhraseText: React.FC<PhraseTextProps> = ({
 
   const content = (
     <Box
+      {...(!isInteractive && { tabIndex: -1 })}
       sx={{
         direction,
         ...sx,
@@ -50,6 +54,7 @@ const PhraseText: React.FC<PhraseTextProps> = ({
     >
       {/* Main Text Content */}
       <Box
+        {...(!isInteractive && { tabIndex: -1 })}
         sx={{
           overflowX: multiLine ? 'visible' : 'auto',
           overflowY: 'hidden',

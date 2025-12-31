@@ -16,6 +16,20 @@ These phrases are presented in their original Arabic alongside translations in E
 May these verses that touched my heart also touch yours, and may they serve as a source of guidance, comfort, and inspiration on your own spiritual journey.
 `,
 
+  names: `
+Welcome to the 99 Names collection. This section is dedicated to Quranic phrases that contain the beautiful Names of Allah—expressions that follow the pattern "And Allah is ___" or "Indeed Allah is ___".
+
+These phrases are particularly special because they serve a dual purpose in our spiritual practice. They tell us who Allah is by mentioning His divine attributes and Names, and at the same time, they can be recited directly in our prayers to praise Allah before making du'a (supplication).
+
+When we stand before Allah to ask for His mercy, guidance, or blessings, these phrases help us begin with praise and acknowledgment of His greatness—following the beautiful tradition that Allah hears those who praise Him. By using Allah's own words about Himself from the Quran, we glorify Him in the most authentic and beloved way.
+
+The pattern "And Allah is..." or "Indeed Allah is..." makes these phrases ready to use in our prayers. We can say them exactly as they appear, preparing our hearts and minds to humbly present our needs before the All-Knowing, All-Merciful Creator.
+
+Each phrase is presented in Arabic with translations in English, Urdu, and Hindi. Click any reference badge to view the complete verse on Quran.com with all three translations.
+
+May these blessed Names and attributes help you know Allah better and beautify your prayers with His most beloved words.
+`,
+
   praises: `
 Welcome to the Praises collection. This section is dedicated to verses and phrases that tell us who Allah is—beautiful expressions that describe His attributes, His names, and His magnificence.
 
@@ -28,16 +42,22 @@ Each phrase is presented in Arabic with translations in English, Urdu, and Hindi
 Whether you're memorizing Allah's attributes, seeking phrases to beautify your prayers, or simply deepening your knowledge of who Allah is, this collection offers authentic expressions directly from the divine revelation.
 `,
 
-  secondaryPraises: `
-Welcome to the Extended Praises collection. Like the main Praises section, these verses also reveal who Allah is and describe His divine attributes—but with an important difference that affects how we use them in our prayers.
+  info: `
+Welcome to the Info collection. This section contains additional profound revelations about Allah's attributes and nature—verses where Allah describes Himself, sometimes in the first person ("I am...") or third person, or where He addresses others directly about His divine qualities.
 
-In this collection, Allah speaks in the first person ("I am...") or addresses others directly. While these phrases beautifully tell us about Allah's nature and magnificence, we cannot recite them word-for-word in our personal prayers because that would be inappropriate. For example, if Allah says "I am the Most Merciful," we cannot say "I am the Most Merciful" in our du'a—that would be a serious error.
+Unlike the 99 Names and Praises collections, these phrases cannot be recited word-for-word in our personal prayers because of their grammatical structure. For example, if Allah says "I am the Most Merciful," we cannot say "I am the Most Merciful" in our du'a—that would be inappropriate and a serious error.
 
-However, these verses remain incredibly valuable for understanding Allah's attributes, learning how He describes Himself, and deepening our knowledge of His divine nature. They complement the main Praises collection by showing us different dimensions of Allah's self-revelation in the Quran.
+However, these verses remain incredibly valuable for:
+- Understanding Allah's attributes and how He describes Himself
+- Learning about Allah's divine nature and magnificence  
+- Deepening our knowledge of what Allah has revealed about Himself
+- Gaining insight into how Allah addresses humanity
+
+This collection includes verses where Allah speaks about Himself in different contexts—sometimes describing His power and knowledge, sometimes His mercy and forgiveness, and sometimes warning about His justice and might. Each verse adds another dimension to our understanding of the Creator.
 
 Each phrase includes Arabic text with English, Urdu, and Hindi translations. Click any reference badge to open the full verse on Quran.com with all translations.
 
-Note: There may be other verses in the Quran that describe Allah which I haven't included yet—this collection represents my personal journey through the divine text, and it continues to grow as I discover more.
+Note: There may be other verses in the Quran that describe Allah which I haven't included yet—this collection represents my ongoing journey through the divine text.
 `,
 
   prayers: `
@@ -83,4 +103,4 @@ May Allah accept this humble effort and make it a means of benefit for all who v
 
 // Legacy exports for backward compatibility (can be removed after migration)
 export const aboutPraisesText = aboutTexts.praises;
-export const aboutSecondaryPraisesText = aboutTexts.secondaryPraises;
+export const aboutSecondaryPraisesText = aboutTexts.info;

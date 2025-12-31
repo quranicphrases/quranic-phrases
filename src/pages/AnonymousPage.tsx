@@ -1,13 +1,13 @@
 import React from 'react';
 import { aboutTexts } from '../assets/aboutText';
-import PhraseDisplayPage from '../components/PhraseDisplayPage';
-import useFetchPhrases from '../hooks/useFetchPhrases';
+import PhrasePageTemplate from '../templates/PhrasePageTemplate';
+import useFetchPhrases from '../features/phrases/hooks/useFetchPhrases';
 
 const AnonymousPage: React.FC = () => {
   const { data, loading, error } = useFetchPhrases('/phrases-anonymous.json');
 
   return (
-    <PhraseDisplayPage
+    <PhrasePageTemplate
       pageTitle='Anonymous Quranic Phrases'
       aboutTitle='About Anonymous Phrases'
       aboutText={aboutTexts.anonymous}

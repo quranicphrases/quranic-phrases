@@ -1,8 +1,8 @@
 import React from 'react';
 import { Card, CardContent, Box, Divider } from '@mui/material';
 import type { SxProps, Theme } from '@mui/material/styles';
-import PhraseText from './PhraseText';
-import References from './References';
+import PhraseText from '../../../components/ui/PhraseText';
+import References from '../../../features/references/components/References';
 
 export interface PhraseCardProps {
   /** Arabic text content */
@@ -39,6 +39,8 @@ export interface PhraseCardProps {
   id?: string;
   /** Display multi-line text with newlines preserved (true) or use inline separators (false) */
   multiLine?: boolean;
+  /** Whether content is interactive (focusable and clickable) - true for modal, false for grid */
+  isInteractive?: boolean;
 }
 
 const PhraseCard: React.FC<PhraseCardProps> = ({
@@ -53,6 +55,7 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
   elevation = 2,
   id,
   multiLine = false,
+  isInteractive = true,
 }) => {
   // Generate unique IDs for accessibility
   const cardId = id || `phrase-card-${Date.now()}`;
@@ -66,6 +69,7 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
     <Card
       elevation={elevation}
       id={cardId}
+      {...(!isInteractive && { tabIndex: -1 })}
       role='article'
       aria-labelledby={arabicId}
       aria-describedby={`${englishId} ${hindiId} ${urduId} ${referencesId}`}
@@ -80,6 +84,7 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
       }}
     >
       <CardContent
+        {...(!isInteractive && { tabIndex: -1 })}
         sx={{
           p: 1.5,
           '&:last-child': {
@@ -88,7 +93,24 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
         }}
       >
         {/* Arabic Text - Primary content */}
-        <Box sx={{ mb: 1.5 }}>
+        <Box
+          id={arabicId}
+          {...(isInteractive && { tabIndex: 0 })}
+          {...(!isInteractive && { tabIndex: -1 })}
+          sx={{
+            mb: 1.5,
+            ...(isInteractive && {
+              '&:focus': {
+                outline: '2px solid',
+                outlineColor: 'primary.main',
+                outlineOffset: '2px',
+                borderRadius: '4px',
+              },
+            }),
+          }}
+          role='text'
+          aria-label={`Arabic Phrase: ${arabic.text}`}
+        >
           <PhraseText
             text={arabic.text}
             textAlign='right'
@@ -97,6 +119,7 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
             languageCode='ar'
             fontFamily="'Amiri', 'Times New Roman', serif"
             multiLine={multiLine}
+            isInteractive={isInteractive}
             sx={{
               '& #phrase-content': {
                 id: arabicId,
@@ -112,7 +135,24 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
         <Divider sx={{ my: 1 }} aria-hidden='true' />
 
         {/* English Translation */}
-        <Box sx={{ mb: 1.5 }}>
+        <Box
+          id={englishId}
+          {...(isInteractive && { tabIndex: 0 })}
+          {...(!isInteractive && { tabIndex: -1 })}
+          sx={{
+            mb: 1.5,
+            ...(isInteractive && {
+              '&:focus': {
+                outline: '2px solid',
+                outlineColor: 'primary.main',
+                outlineOffset: '2px',
+                borderRadius: '4px',
+              },
+            }),
+          }}
+          role='text'
+          aria-label={`English Translation: ${english.text}`}
+        >
           <PhraseText
             text={english.text}
             textAlign='left'
@@ -120,6 +160,7 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
             variant='body1'
             languageCode='en'
             multiLine={multiLine}
+            isInteractive={isInteractive}
             sx={{
               '& #phrase-content': {
                 id: englishId,
@@ -133,7 +174,24 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
         <Divider sx={{ my: 1 }} aria-hidden='true' />
 
         {/* Hindi Translation */}
-        <Box sx={{ mb: 1.5 }}>
+        <Box
+          id={hindiId}
+          {...(isInteractive && { tabIndex: 0 })}
+          {...(!isInteractive && { tabIndex: -1 })}
+          sx={{
+            mb: 1.5,
+            ...(isInteractive && {
+              '&:focus': {
+                outline: '2px solid',
+                outlineColor: 'primary.main',
+                outlineOffset: '2px',
+                borderRadius: '4px',
+              },
+            }),
+          }}
+          role='text'
+          aria-label={`Hindi Translation: ${hindi.text}`}
+        >
           <PhraseText
             text={hindi.text}
             textAlign='left'
@@ -142,6 +200,7 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
             languageCode='hi'
             fontFamily="'Noto Sans Devanagari', sans-serif"
             multiLine={multiLine}
+            isInteractive={isInteractive}
             sx={{
               '& #phrase-content': {
                 id: hindiId,
@@ -155,7 +214,24 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
         <Divider sx={{ my: 1 }} aria-hidden='true' />
 
         {/* Urdu Translation */}
-        <Box sx={{ mb: 1.5 }}>
+        <Box
+          id={urduId}
+          {...(isInteractive && { tabIndex: 0 })}
+          {...(!isInteractive && { tabIndex: -1 })}
+          sx={{
+            mb: 1.5,
+            ...(isInteractive && {
+              '&:focus': {
+                outline: '2px solid',
+                outlineColor: 'primary.main',
+                outlineOffset: '2px',
+                borderRadius: '4px',
+              },
+            }),
+          }}
+          role='text'
+          aria-label={`Urdu Translation: ${urdu.text}`}
+        >
           <PhraseText
             text={urdu.text}
             textAlign='right'
@@ -164,6 +240,7 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
             languageCode='ur'
             fontFamily="'Noto Nastaliq Urdu', 'Times New Roman', serif"
             multiLine={multiLine}
+            isInteractive={isInteractive}
             sx={{
               '& #phrase-content': {
                 id: urduId,
@@ -178,11 +255,12 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
         {references.length > 0 && (
           <>
             <Divider sx={{ my: 1.5 }} aria-hidden='true' />
-            <Box id={referencesId}>
+            <Box id={referencesId} {...(!isInteractive && { tabIndex: -1 })}>
               <References
                 references={references}
                 onReferenceClick={onReferenceClick}
                 redirectUrl={redirectUrl}
+                isInteractive={isInteractive}
               />
             </Box>
           </>

@@ -9,15 +9,19 @@ export interface ReferencesProps {
   onReferenceClick?: (reference: string) => void;
   /** Custom redirect URL for reference badges */
   redirectUrl?: string;
+  /** Whether references are interactive (focusable and clickable) - true for modal, false for grid */
+  isInteractive?: boolean;
 }
 
 const References: React.FC<ReferencesProps> = ({
   references,
   onReferenceClick,
   redirectUrl,
+  isInteractive = true,
 }) => {
   return (
     <Box
+      {...(!isInteractive && { tabIndex: -1 })}
       sx={{ width: '100%' }}
       role='group'
       aria-label={`Quran references: ${references.join(', ')}`}
@@ -43,6 +47,7 @@ const References: React.FC<ReferencesProps> = ({
 
       {/* Horizontally Scrollable Reference Badges */}
       <Box
+        {...(!isInteractive && { tabIndex: -1 })}
         sx={{
           display: 'flex',
           gap: 0.5,
@@ -71,6 +76,7 @@ const References: React.FC<ReferencesProps> = ({
         {references.map((reference, index) => (
           <Box
             key={`${reference}-${index}`}
+            {...(!isInteractive && { tabIndex: -1 })}
             sx={{
               flexShrink: 0, // Prevent badges from shrinking
             }}
@@ -81,6 +87,7 @@ const References: React.FC<ReferencesProps> = ({
                 onReferenceClick ? () => onReferenceClick(reference) : undefined
               }
               redirectUrl={redirectUrl}
+              isInteractive={isInteractive}
             />
           </Box>
         ))}

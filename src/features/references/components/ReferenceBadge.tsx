@@ -13,6 +13,8 @@ export interface ReferenceBadgeProps {
   chipProps?: Omit<ChipProps, 'label' | 'onClick' | 'clickable'>;
   /** Custom URL to redirect to instead of AlQuran.cloud */
   redirectUrl?: string;
+  /** Whether badge is interactive (focusable and clickable) - true for modal, false for grid */
+  isInteractive?: boolean;
 }
 
 const ReferenceBadge: React.FC<ReferenceBadgeProps> = ({
@@ -20,7 +22,9 @@ const ReferenceBadge: React.FC<ReferenceBadgeProps> = ({
   onClick,
   chipProps = {},
   redirectUrl,
+  isInteractive = true,
 }) => {
+  const tabIndex = isInteractive ? 0 : -1;
   const handleClick = (event: React.MouseEvent) => {
     // Stop event from bubbling up to parent card
     event.stopPropagation();
@@ -51,12 +55,41 @@ const ReferenceBadge: React.FC<ReferenceBadgeProps> = ({
     }
   };
 
+  // Convert reference to screen reader friendly format
+  // \"10:20\" becomes \"Reference Ten Twenty\"
+  const getScreenReaderLabel = (ref: string) => {
+    const [surah, verse] = ref.split(':');
+    const words = [
+      'Zero',
+      'One',
+      'Two',
+      'Three',
+      'Four',
+      'Five',
+      'Six',
+      'Seven',
+      'Eight',
+      'Nine',
+    ];
+    const surahWords = surah
+      .split('')
+      .map(digit => words[parseInt(digit)])
+      .join(' ');
+    const verseWords = verse
+      .split('')
+      .map(digit => words[parseInt(digit)])
+      .join(' ');
+    return `Reference ${surahWords} colon ${verseWords}`;
+  };
+
   return (
     <Chip
       label={reference}
-      onClick={handleClick}
-      onKeyDown={handleKeyDown}
-      clickable
+      {...(isInteractive && {
+        onClick: handleClick,
+        onKeyDown: handleKeyDown,
+      })}
+      clickable={isInteractive}
       color='primary'
       variant='filled'
       size='small'
@@ -66,20 +99,22 @@ const ReferenceBadge: React.FC<ReferenceBadgeProps> = ({
         color: 'white',
         fontWeight: 'medium',
         fontSize: '0.875rem',
-        '&:hover': {
-          backgroundColor: '#1565c0',
-        },
-        '&:focus': {
-          backgroundColor: '#1565c0',
-          outline: '2px solid #90caf9',
-          outlineOffset: '2px',
-        },
-        cursor: 'pointer',
+        ...(isInteractive && {
+          '&:hover': {
+            backgroundColor: '#1565c0',
+          },
+          '&:focus': {
+            backgroundColor: '#1565c0',
+            outline: '2px solid #90caf9',
+            outlineOffset: '2px',
+          },
+          cursor: 'pointer',
+        }),
         ...chipProps?.sx,
       }}
-      aria-label={`Reference ${reference} - Click to view`}
-      role='button'
-      tabIndex={0}
+      aria-label={getScreenReaderLabel(reference)}
+      {...(isInteractive && { role: 'button' })}
+      tabIndex={tabIndex}
       {...chipProps}
     />
   );

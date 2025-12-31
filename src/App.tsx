@@ -5,12 +5,13 @@ import {
   Navigate,
 } from 'react-router-dom';
 import { ThemeProvider, createTheme, CssBaseline, Box } from '@mui/material';
-import ListOfPages from './components/ListOfPages';
-import KeyboardGuide from './components/KeyboardGuide';
+import ListOfPages from './components/layout/ListOfPages';
+import KeyboardGuide from './components/layout/KeyboardGuide';
 import OverviewPage from './pages/OverviewPage';
+import NamesPage from './pages/NamesPage';
 import AnonymousPage from './pages/AnonymousPage';
 import PraisesPage from './pages/PraisesPage';
-import SecondaryPraisesPage from './pages/SecondaryPraisesPage';
+import InfoPage from './pages/InfoPage';
 import PrayersPage from './pages/PrayersPage';
 import { pages } from './config/navigationConfig';
 
@@ -50,13 +51,11 @@ function App() {
 
               {/* Page routes */}
               <Route path='/overview' element={<OverviewPage />} />
-              <Route path='/anonymous' element={<AnonymousPage />} />
+              <Route path='/99-names' element={<NamesPage />} />
               <Route path='/praises' element={<PraisesPage />} />
-              <Route
-                path='/extended-praises'
-                element={<SecondaryPraisesPage />}
-              />
               <Route path='/prayers' element={<PrayersPage />} />
+              <Route path='/info' element={<InfoPage />} />
+              <Route path='/anonymous' element={<AnonymousPage />} />
 
               {/* Fallback route for unknown paths */}
               <Route path='*' element={<Navigate to='/overview' replace />} />
