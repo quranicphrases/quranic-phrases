@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-31T17:49:25.726Z",
+  "timestamp": "2025-12-31T18:38:07.765Z",
   "phraseType": "99-names",
-  "totalPhrases": 59,
+  "totalPhrases": 58,
   "phrases": [
     {
       "arabicText": "إِنَّ اللَّهَ عَلىٰ كُلِّ شَيءٍ قَديرٌ",
@@ -953,10 +953,10 @@
       ]
     },
     {
-      "arabicText": "إِنَّ اللَّهَ لَسَميعٌ عَليمٌ",
-      "englishText": "",
-      "hindiText": "",
-      "urduText": "",
+      "arabicText": "وَإِنَّ اللَّهَ لَسَميعٌ عَليمٌ",
+      "englishText": "And indeed, Allah is Hearing and Knowing.",
+      "hindiText": "और ख़ुदा यक़ीनी सुनने वाला ख़बरदार है",
+      "urduText": "بیشک اللہ بہت سننے واﻻ خوب جاننے واﻻ ہے",
       "phraseType": "99-names",
       "references": [
         {
@@ -997,9 +997,9 @@
     },
     {
       "arabicText": "إِنَّ اللَّهَ عَليمٌ حَكيمٌ",
-      "englishText": "",
-      "hindiText": "",
-      "urduText": "",
+      "englishText": "Indeed, Allah is Knowing and Wise.",
+      "hindiText": "बेशक ख़ुदा बड़ा वाक़िफकार हिकमत वाला है",
+      "urduText": "اللہ علم وحکمت واﻻ ہے",
       "phraseType": "99-names",
       "references": [
         {
@@ -1009,23 +1009,10 @@
       ]
     },
     {
-      "arabicText": "وَاعلَموا أَنَّ اللَّهَ مَعَ المُتَّقينَ",
-      "englishText": "",
-      "hindiText": "",
-      "urduText": "",
-      "phraseType": "99-names",
-      "references": [
-        {
-          "surahNumber": 9,
-          "ayahNumber": 36
-        }
-      ]
-    },
-    {
       "arabicText": "إِنَّ اللَّهَ هُوَ التَّوّابُ الرَّحيمُ",
-      "englishText": "",
-      "hindiText": "",
-      "urduText": "",
+      "englishText": "Indeed, Allah is the Accepting of repentance, the Merciful.",
+      "hindiText": "बेशक ख़ुदा ही बड़ा तौबा क़ुबूल करने वाला मेहरबान है",
+      "urduText": "بیشک اللہ تعالیٰ بہت توبہ قبول کرنے واﻻ بڑا رحم واﻻ ہے",
       "phraseType": "99-names",
       "references": [
         {

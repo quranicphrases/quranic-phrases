@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-31T17:49:25.690Z",
+  "timestamp": "2025-12-31T18:38:07.743Z",
   "phraseType": "default",
-  "totalPhrases": 43,
+  "totalPhrases": 44,
   "phrases": [
     {
       "arabicText": "بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ",
@@ -651,6 +651,19 @@
         {
           "surahNumber": 8,
           "ayahNumber": 48
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاعلَموا أَنَّ اللَّهَ مَعَ المُتَّقينَ",
+      "englishText": "And know that Allah is with the righteous [who fear Him].",
+      "hindiText": "और ये जान लो कि ख़ुदा तो यक़ीनन परहेज़गारों के साथ है",
+      "urduText": "اور جان رکھو کہ اللہ تعالی متقیوں کے ساتھ ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 9,
+          "ayahNumber": 36
         }
       ]
     }
