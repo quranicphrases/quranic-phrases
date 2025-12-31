@@ -1,0 +1,658 @@
+{
+  "timestamp": "2025-12-25T07:54:08.799Z",
+  "phraseType": "default",
+  "totalPhrases": 43,
+  "phrases": [
+    {
+      "arabicText": "بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ",
+      "englishText": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+      "hindiText": "अल्लाह के नाम से जो रहमान व रहीम है।",
+      "urduText": "شروع کرتا ہوں اللہ تعالیٰ کے نام سے جو بڑا مہربان نہایت رحم واﻻ ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 1,
+          "ayahNumber": 1
+        }
+      ]
+    },
+    {
+      "arabicText": "قالَ أَسلَمتُ لِرَبِّ العالَمينَ",
+      "englishText": "\"I have submitted [in Islam] to the Lord of the worlds.\"",
+      "hindiText": "में सारे जहाँ के परवरदिगार पर इस्लाम लाया",
+      "urduText": "میں نے رب العالمین کی فرمانبرداری کی",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 131
+        }
+      ]
+    },
+    {
+      "arabicText": "صِبغَةَ اللَّهِ ۖ وَمَن أَحسَنُ مِنَ اللَّهِ صِبغَةً ۖ وَنَحنُ لَهُ عابِدونَ",
+      "englishText": "[And say, \"Ours is] the religion of Allah. And who is better than Allah in [ordaining] religion? And we are worshippers of Him.\"",
+      "hindiText": "(मुसलमानों से कहो कि) रंग तो खुदा ही का रंग है जिसमें तुम रंगे गए और खुदाई रंग से बेहतर कौन रंग होगा और हम तो उसी की इबादत करते हैं",
+      "urduText": "اللہ کا رنگ اختیار کرو اور اللہ تعالیٰ سے اچھا رنگ کس کا ہوگا؟ ہم تو اسی کی عبادت کرنے والے ہیں",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 138
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنّا لِلَّهِ وَإِنّا إِلَيهِ راجِعونَ",
+      "englishText": "\"Indeed we belong to Allah, and indeed to Him we will return.\"",
+      "hindiText": "हम तो ख़ुदा ही के हैं और हम उसी की तरफ लौट कर जाने वाले हैं",
+      "urduText": "ہم تو خود اللہ تعالیٰ کی ملکیت ہیں اور ہم اسی کی طرف لوٹنے والے ہیں",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 156
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلا تَتَّبِعوا خُطُواتِ الشَّيطانِ ۚ إِنَّهُ لَكُم عَدُوٌّ مُبينٌ\nإِنَّما يَأمُرُكُم بِالسّوءِ وَالفَحشاءِ وَأَن تَقولوا عَلَى اللَّهِ ما لا تَعلَمونَ",
+      "englishText": "And do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.\nHe only orders you to evil and immorality and to say about Allah what you do not know.",
+      "hindiText": "और शैतान के क़दम ब क़दम न चलो वह तो तुम्हारा ज़ाहिर ब ज़ाहिर दुश्मन है\nवह तो तुम्हें बुराई और बदकारी ही का हुक्म करेगा और ये चाहेगा कि तुम बे जाने बूझे ख़ुदा पर बोहतान बाँधों",
+      "urduText": "اور شیطانی راه پر نہ چلو، وه تمہارا کھلا ہوا دشمن ہے\nوه تمہیں صرف برائی اور بےحیائی کا اور اللہ تعالیٰ پر ان باتوں کے کہنے کا حکم دیتا ہے جن کا تمہیں علم نہیں",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 168
+        },
+        {
+          "surahNumber": 2,
+          "ayahNumber": 169
+        }
+      ]
+    },
+    {
+      "arabicText": "۞ لَيسَ البِرَّ أَن تُوَلّوا وُجوهَكُم قِبَلَ المَشرِقِ وَالمَغرِبِ وَلٰكِنَّ البِرَّ مَن آمَنَ بِاللَّهِ وَاليَومِ الآخِرِ وَالمَلائِكَةِ وَالكِتابِ وَالنَّبِيّينَ وَآتَى المالَ عَلىٰ حُبِّهِ ذَوِي القُربىٰ وَاليَتامىٰ وَالمَساكينَ وَابنَ السَّبيلِ وَالسّائِلينَ وَفِي الرِّقابِ وَأَقامَ الصَّلاةَ وَآتَى الزَّكاةَ وَالموفونَ بِعَهدِهِم إِذا عاهَدوا ۖ وَالصّابِرينَ فِي البَأساءِ وَالضَّرّاءِ وَحينَ البَأسِ ۗ أُولٰئِكَ الَّذينَ صَدَقوا ۖ وَأُولٰئِكَ هُمُ المُتَّقونَ",
+      "englishText": "Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allah, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakah; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.",
+      "hindiText": "नेकी कुछ यही थोड़ी है कि नमाज़ में अपने मुँह पूरब या पश्चिम की तरफ़ कर लो बल्कि नेकी तो उसकी है जो ख़ुदा और रोज़े आख़िरत और फ़रिश्तों और ख़ुदा की किताबों और पैग़म्बरों पर ईमान लाए और उसकी उलफ़त में अपना माल क़राबत दारों और यतीमों और मोहताजो और परदेसियों और माँगने वालों और लौन्डी ग़ुलाम (के गुलू खलासी) में सर्फ करे और पाबन्दी से नमाज़ पढे और ज़कात देता रहे और जब कोई एहद किया तो अपने क़ौल के पूरे हो और फ़क्र व फाक़ा रन्ज और घुटन के वक्त साबित क़दम रहे यही लोग वह हैं जो दावए ईमान में सच्चे निकले और यही लोग परहेज़गार है",
+      "urduText": "ساری اچھائی مشرق ومغرب کی طرف منھ کرنے میں ہی نہیں بلکہ حقیقتاً اچھا وه شخص ہے جو اللہ تعالی پر، قیامت کے دن پر، فرشتوں پر، کتاب اللہ پر اور نبیوں پر ایمان رکھنے واﻻ ہو، جو مال سے محبت کرنے کے باوجود قرابت داروں، یتیموں، مسکینوں، مسافروں اور سوال کرنے والے کو دے، غلاموں کو آزاد کرے، نماز کی پابندی اور زکوٰة کی ادائیگی کرے، جب وعده کرے تب اسے پورا کرے، تنگدستی، دکھ درد اور لڑائی کے وقت صبر کرے، یہی سچے لوگ ہیں اور یہی پرہیزگار ہیں",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 177
+        }
+      ]
+    },
+    {
+      "arabicText": "وَأَن تَصوموا خَيرٌ لَكُم ۖ إِن كُنتُم تَعلَمونَ",
+      "englishText": "But to fast is best for you, if you only knew.",
+      "hindiText": "और अगर तुम समझदार हो तो (समझ लो कि फिदये से) रोज़ा रखना तुम्हारे हक़ में बहरहाल अच्छा है",
+      "urduText": "لیکن تمہارے حق میں بہتر کام روزے رکھنا ہی ہے اگر تم باعلم ہو",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 184
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاتَّقُوا اللَّهَ لَعَلَّكُم تُفلِحونَ",
+      "englishText": "And fear Allah that you may succeed.",
+      "hindiText": "और ख़ुदा से डरते रहो ताकि तुम मुराद को पहुँचो",
+      "urduText": "اور اللہ سے ڈرتے رہو، تاکہ تم کامیاب ہوجاؤ",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 189
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاتَّقُوا اللَّهَ وَاعلَموا أَنَّ اللَّهَ مَعَ المُتَّقينَ",
+      "englishText": "And fear Allah and know that Allah is with those who fear Him.",
+      "hindiText": "और ख़ुदा से डरते रहो और खूब समझ लो कि ख़ुदा परहेज़गारों का साथी है",
+      "urduText": "اور اللہ تعالیٰ سے ڈرتے رہا کرو اور جان رکھو کہ اللہ تعالیٰ پرہیزگاروں کے ساتھ ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 194
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاعلَموا أَنَّ اللَّهَ شَديدُ العِقابِ",
+      "englishText": "And know that Allah is severe in penalty.",
+      "hindiText": "और यक़ीन मानों कि ख़ुदा बड़ा सख्त अज़ाब करने वाला है",
+      "urduText": "اور یہ جان رکھو کہ اللہ سخت سزا دینے واﻻ ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 196
+        },
+        {
+          "surahNumber": 8,
+          "ayahNumber": 25
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاتَّقُوا اللَّهَ",
+      "englishText": "And fear Allah",
+      "hindiText": "और ख़ुदा से डरते रहो",
+      "urduText": "اور اللہ تعالیٰ سے ڈرتے رہا کرو",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 196
+        },
+        {
+          "surahNumber": 2,
+          "ayahNumber": 231
+        },
+        {
+          "surahNumber": 2,
+          "ayahNumber": 233
+        },
+        {
+          "surahNumber": 2,
+          "ayahNumber": 282
+        },
+        {
+          "surahNumber": 5,
+          "ayahNumber": 2
+        },
+        {
+          "surahNumber": 5,
+          "ayahNumber": 7
+        },
+        {
+          "surahNumber": 5,
+          "ayahNumber": 8
+        },
+        {
+          "surahNumber": 5,
+          "ayahNumber": 11
+        },
+        {
+          "surahNumber": 5,
+          "ayahNumber": 57
+        },
+        {
+          "surahNumber": 5,
+          "ayahNumber": 88
+        },
+        {
+          "surahNumber": 5,
+          "ayahNumber": 96
+        },
+        {
+          "surahNumber": 5,
+          "ayahNumber": 108
+        },
+        {
+          "surahNumber": 8,
+          "ayahNumber": 69
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاتَّقُوا اللَّهَ وَاعلَموا أَنَّكُم إِلَيهِ تُحشَرونَ",
+      "englishText": "And fear Allah and know that unto Him you will be gathered.",
+      "hindiText": "और खुदा से डरते रहो और यक़ीन जानो कि एक दिन तुम सब के सब उसकी तरफ क़ब्रों से उठाए जाओगे",
+      "urduText": "اور اللہ تعالیٰ سے ڈرتے رہو اور جان رکھو کہ تم سب اسی کی طرف جمع کئے جاؤ گے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 203
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلا تَتَّبِعوا خُطُواتِ الشَّيطانِ ۚ إِنَّهُ لَكُم عَدُوٌّ مُبينٌ",
+      "englishText": "And do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.",
+      "hindiText": "और शैतान के क़दम ब क़दम न चलो वह तुम्हारा यक़ीनी ज़ाहिर ब ज़ाहिर दुश्मन है",
+      "urduText": "اور شیطان کے قدموں کی تابعداری نہ کرو وه تمہارا کھلا دشمن ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 208
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ شَديدُ العِقابِ",
+      "englishText": "Indeed, Allah is severe in penalty.",
+      "hindiText": "बेशक़ ख़ुदा सख्त अज़ाब वाला है",
+      "urduText": "اللہ تعالیٰ بھی سخت عذابوں واﻻ ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 211
+        },
+        {
+          "surahNumber": 5,
+          "ayahNumber": 2
+        },
+        {
+          "surahNumber": 8,
+          "ayahNumber": 13
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاتَّقُوا اللَّهَ وَاعلَموا أَنَّكُم مُلاقوهُ",
+      "englishText": "And fear Allah and know that you will meet Him.",
+      "hindiText": "और ख़ुदा से डरते रहो और ये भी समझ रखो कि एक दिन तुमको उसके सामने जाना है",
+      "urduText": "اور اللہ تعالیٰ سے ڈرتے رہا کرو اور جان رکھو کہ تم اس سے ملنے والے ہو",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 223
+        }
+      ]
+    },
+    {
+      "arabicText": "يا أَيُّهَا الَّذينَ آمَنوا أَنفِقوا مِمّا رَزَقناكُم مِن قَبلِ أَن يَأتِيَ يَومٌ لا بَيعٌ فيهِ وَلا خُلَّةٌ وَلا شَفاعَةٌ",
+      "englishText": "O you who have believed, spend from that which We have provided for you before there comes a Day in which there is no exchange and no friendship and no intercession.",
+      "hindiText": "ऐ ईमानदारों जो कुछ हमने तुमको दिया है उस दिन के आने से पहले (ख़ुदा की राह में) ख़र्च करो जिसमें न तो ख़रीदो फरोख्त होगी और न यारी (और न आशनाई) और न सिफ़ारिश (ही काम आयेगी)",
+      "urduText": "اے ایمان والو! جو ہم نے تمہیں دے رکھا ہے اس میں سے خرچ کرتے رہو اس سے پہلے کہ وه دن آئے جس میں نہ تجارت ہے نہ دوستی اور شفاعت",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 254
+        }
+      ]
+    },
+    {
+      "arabicText": "الشَّيطانُ يَعِدُكُمُ الفَقرَ وَيَأمُرُكُم بِالفَحشاءِ ۖ وَاللَّهُ يَعِدُكُم مَغفِرَةً مِنهُ وَفَضلًا",
+      "englishText": "Satan threatens you with poverty and orders you to immorality, while Allah promises you forgiveness from Him and bounty.",
+      "hindiText": "शैतान तमुको तंगदस्ती से डराता है और बुरी बात (बुख्ल) का तुमको हुक्म करता है और ख़ुदा तुमसे अपनी बख्शिश और फ़ज़ल (व करम) का वायदा करता है",
+      "urduText": "شیطان تمہیں فقیری سے دھمکاتا ہے اور بےحیائی کا حکم دیتا ہے، اور اللہ تعالیٰ تم سے اپنی بخشش اور فضل کا وعده کرتا ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 268
+        }
+      ]
+    },
+    {
+      "arabicText": "الَّذينَ يَأكُلونَ الرِّبا لا يَقومونَ إِلّا كَما يَقومُ الَّذي يَتَخَبَّطُهُ الشَّيطانُ مِنَ المَسِّ ۚ ذٰلِكَ بِأَنَّهُم قالوا إِنَّمَا البَيعُ مِثلُ الرِّبا ۗ وَأَحَلَّ اللَّهُ البَيعَ وَحَرَّمَ الرِّبا ۚ فَمَن جاءَهُ مَوعِظَةٌ مِن رَبِّهِ فَانتَهىٰ فَلَهُ ما سَلَفَ وَأَمرُهُ إِلَى اللَّهِ ۖ وَمَن عادَ فَأُولٰئِكَ أَصحابُ النّارِ ۖ هُم فيها خالِدونَ",
+      "englishText": "Those who consume interest cannot stand [on the Day of Resurrection] except as one stands who is being beaten by Satan into insanity. That is because they say, \"Trade is [just] like interest.\" But Allah has permitted trade and has forbidden interest. So whoever has received an admonition from his Lord and desists may have what is past, and his affair rests with Allah. But whoever returns to [dealing in interest or usury] - those are the companions of the Fire; they will abide eternally therein.",
+      "hindiText": "जो लोग सूद खाते हैं वह (क़यामत में) खड़े न हो सकेंगे मगर उस शख्स की तरह खड़े होंगे जिस को शैतान ने लिपट कर मख़बूतुल हवास (पागल) बना दिया है ये इस वजह से कि वह उसके क़ायल हो गए कि जैसा बिक्री का मामला वैसा ही सूद का मामला हालॉकि बिक्री को तो खुदा ने हलाल और सूद को हराम कर दिया बस जिस शख्स के पास उसके परवरदिगार की तरफ़ से नसीहत (मुमानियत) आये और वह बाज़ आ गया तो इस हुक्म के नाज़िल होने से पहले जो सूद ले चुका वह तो उस का हो चुका और उसका अम्र (मामला) ख़ुदा के हवाले है और जो मनाही के बाद फिर सूद ले (या बिक्री के माले को यकसा बताए जाए) तो ऐसे ही लोग जहन्नुम में रहेंगे",
+      "urduText": "سود خور لوگ نہ کھڑے ہوں گے مگر اسی طرح جس طرح وہ کھڑا ہوتا ہے جسے شیطان چھو کر خبطی بنا دے یہ اس لئے کہ یہ کہا کرتے تھے کہ تجارت بھی تو سود ہی کی طرح ہے، حالانکہ اللہ تعالیٰ نے تجارت کو حلال کیا اور سود کو حرام، جو شخص اپنے پاس آئی ہوئی اللہ تعالیٰ کی نصیحت سن کر رک گیا اس کے لئے وہ ہے جو گزرا اور اس کا معاملہ اللہ تعالیٰ کی طرف ہے، اور جو پھر دوبارہ ﴿حرام کی طرف﴾ لوٹا، وہ جہنمی ہے، ایسے لوگ ہمیشہ ہی اس میں رہیں گے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 275
+        }
+      ]
+    },
+    {
+      "arabicText": "يا أَيُّهَا الَّذينَ آمَنُوا اتَّقُوا اللَّهَ وَذَروا ما بَقِيَ مِنَ الرِّبا إِن كُنتُم مُؤمِنينَ",
+      "englishText": "O you who have believed, fear Allah and give up what remains [due to you] of interest, if you should be believers.",
+      "hindiText": "ऐ ईमानदारों ख़ुदा से डरो और जो सूद लोगों के ज़िम्मे बाक़ी रह गया है अगर तुम सच्चे मोमिन हो तो छोड़ दो",
+      "urduText": "اے ایمان والو! اللہ تعالیٰ سے ڈرو اور جو سود باقی رہ گیا ہے وہ چھوڑ دو، اگر تم سچ مچ ایمان والے ہو",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 278
+        }
+      ]
+    },
+    {
+      "arabicText": "يا أَيُّهَا الَّذينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقاتِهِ وَلا تَموتُنَّ إِلّا وَأَنتُم مُسلِمونَ",
+      "englishText": "O you who have believed, fear Allah as He should be feared and do not die except as Muslims [in submission to Him].",
+      "hindiText": "ऐ ईमान वालों ख़ुदा से डरो जितना उससे डरने का हक़ है और तुम (दीन) इस्लाम के सिवा किसी और दीन पर हरगिज़ न मरना",
+      "urduText": "اے ایمان والو! اللہ تعالیٰ سے اتنا ڈرو جتنا اس سے ڈرنا چاہئیے اور دیکھو مرتے دم تک مسلمان ہی رہنا",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 102
+        }
+      ]
+    },
+    {
+      "arabicText": "فَاتَّقُوا اللَّهَ لَعَلَّكُم تَشكُرونَ",
+      "englishText": "Then fear Allah; perhaps you will be grateful.",
+      "hindiText": "",
+      "urduText": "اللہ ہی سے ڈرو! (نہ کسی اور سے) تاکہ تمہیں شکر گزاری کی توفیق ہو",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 123
+        }
+      ]
+    },
+    {
+      "arabicText": "يا أَيُّهَا الَّذينَ آمَنوا لا تَأكُلُوا الرِّبا أَضعافًا مُضاعَفَةً ۖ وَاتَّقُوا اللَّهَ لَعَلَّكُم تُفلِحونَ",
+      "englishText": "O you who have believed, do not consume usury, doubled and multiplied, but fear Allah that you may be successful.",
+      "hindiText": "ऐ ईमानदारों सूद दनादन खाते न चले जाओ और ख़ुदा से डरो कि तुम छुटकारा पाओ",
+      "urduText": "اے ایمان والو! بڑھا چڑھا کر سود نہ کھاؤ، اور اللہ تعالیٰ سے ڈرو تاکہ تمہیں نجات ملے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 130
+        }
+      ]
+    },
+    {
+      "arabicText": "وَأَطيعُوا اللَّهَ وَالرَّسولَ لَعَلَّكُم تُرحَمونَ",
+      "englishText": "And obey Allah and the Messenger that you may obtain mercy.",
+      "hindiText": "और ख़ुदा और रसूल की फ़रमाबरदारी करो ताकि तुम पर रहम किया जाए",
+      "urduText": "اور اللہ اور اس کے رسول کی فرمانبرداری کرو تاکہ تم پر رحم کیا جائے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 132
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ كانَ عَليمًا حَكيمًا",
+      "englishText": "Indeed, Allah is ever Knowing and Wise.",
+      "hindiText": "ख़ुदा तो ज़रूर हर चीज़ को जानता और तदबीर वाला है",
+      "urduText": "بے شک اللہ تعالیٰ پورے علم اور کامل حکمتوں واﻻ ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 11
+        },
+        {
+          "surahNumber": 4,
+          "ayahNumber": 24
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّمَا التَّوبَةُ عَلَى اللَّهِ لِلَّذينَ يَعمَلونَ السّوءَ بِجَهالَةٍ ثُمَّ يَتوبونَ مِن قَريبٍ فَأُولٰئِكَ يَتوبُ اللَّهُ عَلَيهِم ۗ وَكانَ اللَّهُ عَليمًا حَكيمًا",
+      "englishText": "The repentance accepted by Allah is only for those who do wrong in ignorance [or carelessness] and then repent soon after. It is those to whom Allah will turn in forgiveness, and Allah is ever Knowing and Wise.",
+      "hindiText": "मगर ख़ुदा की बारगाह में तौबा तो सिर्फ उन्हीं लोगों की (ठीक) है जो नादानिस्ता बुरी हरकत कर बैठे (और) फिर जल्दी से तौबा कर ले तो ख़ुदा भी ऐसे लोगों की तौबा क़ुबूल कर लेता है और ख़ुदा तो बड़ा जानने वाला हकीम है",
+      "urduText": "اللہ تعالیٰ صرف انہی لوگوں کی توبہ قبول فرماتا ہے جو بوجہ نادانی کوئی برائی کر گزریں پھر جلد اس سے باز آ جائیں اور توبہ کریں تو اللہ تعالیٰ بھی ان کی توبہ قبول کرتا ہے، اللہ تعالیٰ بڑے علم واﻻ حکمت واﻻ ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 17
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ لا يُحِبُّ مَن كانَ مُختالًا فَخورًا\nالَّذينَ يَبخَلونَ وَيَأمُرونَ النّاسَ بِالبُخلِ وَيَكتُمونَ ما آتاهُمُ اللَّهُ مِن فَضلِهِ ۗ وَأَعتَدنا لِلكافِرينَ عَذابًا مُهينًا\nوَالَّذينَ يُنفِقونَ أَموالَهُم رِئَاءَ النّاسِ وَلا يُؤمِنونَ بِاللَّهِ وَلا بِاليَومِ الآخِرِ ۗ وَمَن يَكُنِ الشَّيطانُ لَهُ قَرينًا فَساءَ قَرينًا\nوَماذا عَلَيهِم لَو آمَنوا بِاللَّهِ وَاليَومِ الآخِرِ وَأَنفَقوا مِمّا رَزَقَهُمُ اللَّهُ ۚ وَكانَ اللَّهُ بِهِم عَليمًا",
+      "englishText": "Indeed, Allah does not like those who are self-deluding and boastful.\nWho are stingy and enjoin upon [other] people stinginess and conceal what Allah has given them of His bounty - and We have prepared for the disbelievers a humiliating punishment -\nAnd [also] those who spend of their wealth to be seen by the people and believe not in Allah nor in the Last Day. And he to whom Satan is a companion - then evil is he as a companion.\nAnd what [harm would come] upon them if they believed in Allah and the Last Day and spent out of what Allah provided for them? And Allah is ever, about them, Knowing.",
+      "hindiText": "बेशक ख़ुदा अकड़ के चलने वालों और शेख़ीबाज़ों को दोस्त नहीं रखता\nये वह लोग हैं जो ख़ुद तो बुख्ल करते ही हैं और लोगों को भी बुख्ल का हुक्म देते हैं और जो माल ख़ुदा ने अपने फ़ज़ल व (करम) से उन्हें दिया है उसे छिपाते हैं और हमने तो कुफ़राने नेअमत करने वालों के वास्ते सख्त ज़िल्लत का अज़ाब तैयार कर रखा है\nऔर जो लोग महज़ लोगों को दिखाने के वास्ते अपने माल ख़र्च करते हैं और न खुदा ही पर ईमान रखते हैं और न रोजे आख़ेरत पर ख़ुदा भी उनके साथ नहीं क्योंकि उनका साथी तो शैतान है और जिसका साथी शैतान हो तो क्या ही बुरा साथी है\nअगर ये लोग ख़ुदा और रोज़े आख़िरत पर ईमान लाते और जो कुछ ख़ुदा ने उन्हें दिया है उसमें से राहे ख़ुदा में ख़र्च करते तो उन पर क्या आफ़त आ जाती और ख़ुदा तो उनसे ख़ूब वाक़िफ़ है",
+      "urduText": "یقیناً اللہ تعالیٰ تکبر کرنے والوں اور شیخی خوروں کو پسند نہیں فرماتا\nجو لوگ خود بخیلی کرتے ہیں اور دوسروں کو بھی بخیلی کرنے کو کہتے ہیں اور اللہ تعالیٰ نے جو اپنا فضل انہیں دے رکھا ہے اسے چھپا لیتے ہیں ہم نے ان کافروں کے لئے ذلت کی مار تیار کر رکھی ہے\nاور جو لوگ اپنا مال لوگوں کے دکھاوے کے لئے خرچ کرتے ہیں اور اللہ تعالیٰ پر اور قیامت کے دن پر ایمان نہیں رکھتے اور جس کا ہم نشین اور ساتھی شیطان ہو، وه بدترین ساتھی ہے\nبھلا ان کا کیا نقصان تھا اگر یہ اللہ تعالیٰ پر اور قیامت کے دن پر ایمان ﻻتے اور اللہ تعالیٰ نے جو انہیں دے رکھا ہے اس میں خرچ کرتے، اللہ تعالیٰ انہیں خوب جاننے واﻻ ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 36
+        },
+        {
+          "surahNumber": 4,
+          "ayahNumber": 37
+        },
+        {
+          "surahNumber": 4,
+          "ayahNumber": 38
+        },
+        {
+          "surahNumber": 4,
+          "ayahNumber": 39
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ لا يَغفِرُ أَن يُشرَكَ بِهِ وَيَغفِرُ ما دونَ ذٰلِكَ لِمَن يَشاءُ ۚ وَمَن يُشرِك بِاللَّهِ فَقَدِ افتَرىٰ إِثمًا عَظيمًا",
+      "englishText": "Indeed, Allah does not forgive association with Him, but He forgives what is less than that for whom He wills. And he who associates others with Allah has certainly fabricated a tremendous sin.",
+      "hindiText": "और ख़ुदा का हुक्म किया कराया हुआ काम समझो ख़ुदा उस जुर्म को तो अलबत्ता नहीं माफ़ करता कि उसके साथ शिर्क किया जाए हॉ उसके सिवा जो गुनाह हो जिसको चाहे माफ़ कर दे और जिसने (किसी को) ख़ुदा का शरीक बनाया तो उसने बड़े गुनाह का तूफान बॉधा",
+      "urduText": "یقیناً اللہ تعالیٰ اپنے ساتھ شریک کئے جانے کو نہیں بخشتا اور اس کے سوا جسے چاہے بخش دیتا ہے اور جو اللہ تعالیٰ کے ساتھ شریک مقرر کرے اس نے بہت بڑا گناه اور بہتان باندھا",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 48
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ لا يَغفِرُ أَن يُشرَكَ بِهِ وَيَغفِرُ ما دونَ ذٰلِكَ لِمَن يَشاءُ ۚ وَمَن يُشرِك بِاللَّهِ فَقَد ضَلَّ ضَلالًا بَعيدًا",
+      "englishText": "Indeed, Allah does not forgive association with Him, but He forgives what is less than that for whom He wills. And he who associates others with Allah has certainly gone far astray.",
+      "hindiText": "ख़ुदा बेशक उसको तो नहीं बख्शता कि उसका कोई और शरीक बनाया जाए हॉ उसके सिवा जो गुनाह हो जिसको चाहे बख्श दे और (माज़ अल्लाह) जिसने किसी को ख़ुदा का शरीक बनाया तो वह बस भटक के बहुत दूर जा पड़ा",
+      "urduText": "اسے اللہ تعالیٰ قطعاً نہ بخشے گا کہ اس کے ساتھ شرک مقرر کیا جائے، ہاں شرک کے علاوه گناه جس کے چاہے معاف فرما دیتا ہے اور اللہ کے ساتھ شریک کرنے واﻻ بہت دور کی گمراہی میں جا پڑا",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 116
+        }
+      ]
+    },
+    {
+      "arabicText": "وَمَن يَكفُر بِاللَّهِ وَمَلائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَاليَومِ الآخِرِ فَقَد ضَلَّ ضَلالًا بَعيدًا",
+      "englishText": "And whoever disbelieves in Allah, His angels, His books, His messengers, and the Last Day has certainly gone far astray.",
+      "hindiText": "जो शख्स ख़ुदा और उसके फ़रिश्तों और उसकी किताबों और उसके रसूलों और रोज़े आख़िरत का मुन्किर हुआ तो वह राहे रास्त से भटक के जूर जा पड़ा",
+      "urduText": "جو شخص اللہ تعالیٰ سے اور اس کے فرشتوں سے اور اس کی کتابوں سے اور اس کے رسولوں سے اور قیامت کے دن سے کفر کرے وه تو بہت بڑی دور کی گمراہی میں جا پڑا",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 136
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ الَّذينَ آمَنوا ثُمَّ كَفَروا ثُمَّ آمَنوا ثُمَّ كَفَروا ثُمَّ ازدادوا كُفرًا لَم يَكُنِ اللَّهُ لِيَغفِرَ لَهُم وَلا لِيَهدِيَهُم سَبيلًا",
+      "englishText": "Indeed, those who have believed then disbelieved, then believed, then disbelieved, and then increased in disbelief - never will Allah forgive them, nor will He guide them to a way.",
+      "hindiText": "बेशक जो लोग ईमान लाए उसके बाद फ़िर काफ़िर हो गए फिर ईमान लाए और फिर उसके बाद काफ़िर हो गये और कुफ़्र में बढ़ते चले गए तो ख़ुदा उनकी मग़फ़िरत करेगा और न उन्हें राहे रास्त की हिदायत ही करेगा",
+      "urduText": "جن لوگوں نے ایمان قبول کر کے پھر کفر کیا، پھر ایمان ﻻکر پھر کفر کیا، پھر اپنے کفر میں بڑھ گئے، اللہ تعالیٰ یقیناً انہیں نہ بخشے گا اور نہ انہیں راه ہدایت سمجھائے گا",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 137
+        }
+      ]
+    },
+    {
+      "arabicText": "اعلَموا أَنَّ اللَّهَ شَديدُ العِقابِ وَأَنَّ اللَّهَ غَفورٌ رَحيمٌ",
+      "englishText": "Know that Allah is severe in penalty and that Allah is Forgiving and Merciful.",
+      "hindiText": "जान लो कि यक़ीनन ख़ुदा बड़ा अज़ाब वाला है और ये (भी) कि बड़ा बख्शने वाला मेहरबान है",
+      "urduText": "تم یقین جانو کہ اللہ تعالیٰ سزا بھی سخت دینے واﻻ ہے اور اللہ تعالیٰ بڑی مغفرت اور بڑی رحمت واﻻ بھی ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 5,
+          "ayahNumber": 98
+        }
+      ]
+    },
+    {
+      "arabicText": "وَإِن تُطِع أَكثَرَ مَن فِي الأَرضِ يُضِلّوكَ عَن سَبيلِ اللَّهِ ۚ إِن يَتَّبِعونَ إِلَّا الظَّنَّ وَإِن هُم إِلّا يَخرُصونَ",
+      "englishText": "And if you obey most of those upon the earth, they will mislead you from the way of Allah. They follow not except assumption, and they are not but falsifying.",
+      "hindiText": "और (ऐ रसूल) दुनिया में तो बहुतेरे लोग ऐसे हैं कि तुम उनके कहने पर चलो तो तुमको ख़ुदा की राह से बहका दें ये लोग तो सिर्फ अपने ख्यालात की पैरवी करते हैं और ये लोग तो बस अटकल पच्चू बातें किया करते हैं",
+      "urduText": "اور دنیا میں زیاده لوگ ایسے ہیں کہ اگر آپ ان کا کہنا ماننے لگیں تو وه آپ کو اللہ کی راه سے بے راه کردیں وه محض بے اصل خیاﻻت پر چلتے ہیں اور بالکل قیاسی باتیں کرتے ہیں",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 6,
+          "ayahNumber": 116
+        }
+      ]
+    },
+    {
+      "arabicText": "وَرَبُّكَ الغَنِيُّ ذُو الرَّحمَةِ ۚ إِن يَشَأ يُذهِبكُم وَيَستَخلِف مِن بَعدِكُم ما يَشاءُ كَما أَنشَأَكُم مِن ذُرِّيَّةِ قَومٍ آخَرينَ",
+      "englishText": "And your Lord is the Free of need, the possessor of mercy. If He wills, he can do away with you and give succession after you to whomever He wills, just as He produced you from the descendants of another people.",
+      "hindiText": "और जो कुछ वह लोग करते हैं तुम्हारा परवरदिगार उससे बेख़बर नहीं और तुम्हारा परवरदिगार बे परवाह रहम वाला है - अगर चाहे तो तुम सबके सबको (दुनिया से उड़ा) ले लाए और तुम्हारे बाद जिसको चाहे तुम्हार जानशीन बनाए जिस तरह आख़िर तुम्हें दूसरे लोगों की औलाद से पैदा किया है",
+      "urduText": "اور آپ کا رب بالکل غنی ہے رحمت واﻻ ہے۔ اگر وه چاہے تو تم سب کو اٹھا لے اور تمہارے بعد جس کو چاہے تمہاری جگہ آباد کردے جیسا کہ تم کو ایک دوسری قوم کی نسل سے پیدا کیا ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 6,
+          "ayahNumber": 133
+        }
+      ]
+    },
+    {
+      "arabicText": "كُلوا مِمّا رَزَقَكُمُ اللَّهُ وَلا تَتَّبِعوا خُطُواتِ الشَّيطانِ ۚ إِنَّهُ لَكُم عَدُوٌّ مُبينٌ",
+      "englishText": "Eat of what Allah has provided for you and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.",
+      "hindiText": "ख़ुदा ने जो तुम्हें रोज़ी दी है उस में से खाओ और शैतान के क़दम ब क़दम न चलो",
+      "urduText": "جو کچھ اللہ نے تم کو دیا ہے کھاؤ اور شیطان کے قدم بقدم مت چلو، بلاشک وه تمہارا صریح دشمن ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 6,
+          "ayahNumber": 142
+        }
+      ]
+    },
+    {
+      "arabicText": "يا بَني آدَمَ لا يَفتِنَنَّكُمُ الشَّيطانُ كَما أَخرَجَ أَبَوَيكُم مِنَ الجَنَّةِ يَنزِعُ عَنهُما لِباسَهُما لِيُرِيَهُما سَوآتِهِما ۗ إِنَّهُ يَراكُم هُوَ وَقَبيلُهُ مِن حَيثُ لا تَرَونَهُم ۗ إِنّا جَعَلنَا الشَّياطينَ أَولِياءَ لِلَّذينَ لا يُؤمِنونَ",
+      "englishText": "O children of Adam, let not Satan tempt you as he removed your parents from Paradise, stripping them of their clothing to show them their private parts. Indeed, he sees you, he and his tribe, from where you do not see them. Indeed, We have made the devils allies to those who do not believe.",
+      "hindiText": "ताकि लोग नसीहत व इबरत हासिल करें ऐ औलादे आदम (होशियार रहो) कहीं तुम्हें शैतान बहका न दे जिस तरह उसने तुम्हारे बाप माँ आदम व हव्वा को बेहश्त से निकलवा छोड़ा उसी ने उन दोनों से (बेहश्ती) पोशाक उतरवाई ताकि उन दोनों को उनकी शर्मगाहें दिखा दे वह और उसका क़ुनबा ज़रूर तुम्हें इस तरह देखता रहता है कि तुम उन्हे नहीं देखने पाते हमने शैतानों को उन्हीं लोगों का रफीक़ क़रार दिया है",
+      "urduText": "اے اوﻻد آدم! شیطان تم کو کسی خرابی میں نہ ڈال دے جیسا اس نے تمہارے ماں باپ کو جنت سے باہر کرا دیا ایسی حالت میں ان کا لباس بھی اتروا دیا تاکہ وه ان کو ان کی شرم گاہیں دکھائے۔ وه اور اس کا لشکر تم کو ایسے طور پر دیکھتا ہے کہ تم ان کو نہیں دیکھتے ہو۔ ہم نے شیطانوں کو ان ہی لوگوں کا دوست بنایا ہے جو ایمان نہیں ﻻتے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 7,
+          "ayahNumber": 27
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاتلُ عَلَيهِم نَبَأَ الَّذي آتَيناهُ آياتِنا فَانسَلَخَ مِنها فَأَتبَعَهُ الشَّيطانُ فَكانَ مِنَ الغاوينَ\nوَلَو شِئنا لَرَفَعناهُ بِها وَلٰكِنَّهُ أَخلَدَ إِلَى الأَرضِ وَاتَّبَعَ هَواهُ ۚ فَمَثَلُهُ كَمَثَلِ الكَلبِ إِن تَحمِل عَلَيهِ يَلهَث أَو تَترُكهُ يَلهَث ۚ ذٰلِكَ مَثَلُ القَومِ الَّذينَ كَذَّبوا بِآياتِنا ۚ فَاقصُصِ القَصَصَ لَعَلَّهُم يَتَفَكَّرونَ",
+      "englishText": "And recite to them, [O Muhammad], the news of him to whom we gave [knowledge of] Our signs, but he detached himself from them; so Satan pursued him, and he became of the deviators.\nAnd if We had willed, we could have elevated him thereby, but he adhered [instead] to the earth and followed his own desire. So his example is like that of the dog: if you chase him, he pants, or if you leave him, he [still] pants. That is the example of the people who denied Our signs. So relate the stories that perhaps they will give thought.",
+      "hindiText": "और (ऐ रसूल) तुम उन लोगों को उस शख़्श का हाल पढ़ कर सुना दो जिसे हमने अपनी आयतें अता की थी फिर वह उनसे निकल भागा तो शैतान ने उसका पीछा पकड़ा और आख़िरकार वह गुमराह हो गया\nऔर अगर हम चाहें तो हम उसे उन्हें आयतों की बदौलत बुलन्द मरतबा कर देते मगर वह तो ख़ुद ही पस्ती (नीचे) की तरफ झुक पड़ा और अपनी नफसानी ख्वाहिश का ताबेदार बन बैठा तो उसकी मसल है कि अगर उसको धुत्कार दो तो भी ज़बान निकाले रहे और उसको छोड़ दो तो भी ज़बान निकले रहे ये मसल उन लोगों की है जिन्होंने हमारी आयतों को झुठलाया तो (ऐ रसूल) ये क़िस्से उन लोगों से बयान कर दो ताकि ये लोग खुद भी ग़ौर करें",
+      "urduText": "اور ان لوگوں کو اس شخص کا حال پڑھ کر سنائیے کہ جس کو ہم نے اپنی آیتیں دیں پھر وه ان سے بالکل ہی نکل گیا، پھر شیطان اس کے پیچھے لگ گیا سو وه گمراه لوگوں میں شامل ہوگیا\nاور اگر ہم چاہتے تو اس کو ان آیتوں کی بدولت بلند مرتبہ کر دیتے لیکن وه تو دنیا کی طرف مائل ہوگیا اور اپنی نفسانی خواہش کی پیروی کرنے لگا سو اس کی حالت کتے کی سی ہوگئی کہ اگر تو اس پر حملہ کرے تب بھی ہانپے یا اس کو چھوڑ دے تب بھی ہانپے، یہی حالت ان لوگوں کی ہے جنہوں نے ہماری آیتوں کو جھٹلایا۔ سو آپ اس حال کو بیان کر دیجئے شاید وه لوگ کچھ سوچیں",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 7,
+          "ayahNumber": 175
+        },
+        {
+          "surahNumber": 7,
+          "ayahNumber": 176
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلِلَّهِ الأَسماءُ الحُسنىٰ فَادعوهُ بِها ۖ وَذَرُوا الَّذينَ يُلحِدونَ في أَسمائِهِ ۚ سَيُجزَونَ ما كانوا يَعمَلونَ",
+      "englishText": "And to Allah belong the best names, so invoke Him by them. And leave [the company of] those who practice deviation concerning His names. They will be recompensed for what they have been doing.",
+      "hindiText": "और अच्छे (अच्छे) नाम ख़ुदा ही के ख़ास हैं तो उसे उन्हीं नामों में पुकारो और जो लोग उसके नामों में कुफ्र करते हैं उन्हें (उनके हाल पर) छोड़ दो और वह बहुत जल्द अपने करतूत की सज़ाएं पाएंगें",
+      "urduText": "اور اچھے اچھے نام اللہ ہی کے لیے ہیں سو ان ناموں سے اللہ ہی کو موسوم کیا کرو اور ایسے لوگوں سے تعلق بھی نہ رکھو جو اس کے ناموں میں کج روی کرتے ہیں، ان لوگوں کو ان کے کئے کی ضرور سزا ملے گی",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 7,
+          "ayahNumber": 180
+        }
+      ]
+    },
+    {
+      "arabicText": "يَسأَلونَكَ عَنِ السّاعَةِ أَيّانَ مُرساها ۖ قُل إِنَّما عِلمُها عِندَ رَبّي ۖ لا يُجَلّيها لِوَقتِها إِلّا هُوَ ۚ ثَقُلَت فِي السَّماواتِ وَالأَرضِ ۚ لا تَأتيكُم إِلّا بَغتَةً ۗ يَسأَلونَكَ كَأَنَّكَ حَفِيٌّ عَنها ۖ قُل إِنَّما عِلمُها عِندَ اللَّهِ وَلٰكِنَّ أَكثَرَ النّاسِ لا يَعلَمونَ",
+      "englishText": "They ask you, [O Muhammad], about the Hour: when is its arrival? Say, \"Its knowledge is only with my Lord. None will reveal its time except Him. It lays heavily upon the heavens and the earth. It will not come upon you except unexpectedly.\" They ask you as if you are familiar with it. Say, \"Its knowledge is only with Allah, but most of the people do not know.\"",
+      "hindiText": "(ऐ रसूल) तुमसे लोग क़यामत के बारे में पूछा करते हैं कि कहीं उसका कोई वक्त भी तय है तुम कह दो कि उसका इल्म बस फक़त पररवदिगार ही को है वही उसके वक्त मुअय्यन पर उसको ज़ाहिर कर देगा। वह सारे आसमान व ज़मीन में एक कठिन वक्त होगा वह तुम्हारे पास पस अचानक आ जाएगी तुमसे लोग इस तरह पूछते हैं गोया तुम उनसे बखूबी वाक़िफ हो तुम (साफ) कह दो कि उसका इल्म बस ख़ुदा ही को है मगर बहुतेरे लोग नहीं जानते",
+      "urduText": "یہ لوگ آپ سے قیامت کے متعلق سوال کرتے ہیں کہ اس کا وقوع کب ہوگا؟ آپ فرما دیجئے کہ اس کا علم صرف میرے رب ہی کے پاس ہے، اس کے وقت پر اس کو سوا اللہ کے کوئی اور ﻇاہر نہ کرے گا۔ وه آسمانوں اور زمین میں بڑا بھاری (حادﺛہ) ہوگا وه تم پر محض اچانک آپڑے گی۔ وه آپ سے اس طرح پوچھتے ہیں جیسے گویا آپ اس کی تحقیقات کرچکے ہیں۔ آپ فرما دیجئے کہ اس کا علم خاص اللہ ہی کے پاس ہے لیکن اکثر لوگ نہیں جانتے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 7,
+          "ayahNumber": 187
+        }
+      ]
+    },
+    {
+      "arabicText": "وَإِمّا يَنزَغَنَّكَ مِنَ الشَّيطانِ نَزغٌ فَاستَعِذ بِاللَّهِ ۚ إِنَّهُ سَميعٌ عَليمٌ",
+      "englishText": "And if an evil suggestion comes to you from Satan, then seek refuge in Allah. Indeed, He is Hearing and Knowing.",
+      "hindiText": "अगर शैतान की तरफ से तुम्हारी (उम्मत के) दिल में किसी तरह का (वसवसा (शक) पैदा हो तो ख़ुदा से पनाह मॉगों (क्योंकि) उसमें तो शक़ ही नहीं कि वह बड़ा सुनने वाला वाक़िफकार है",
+      "urduText": "اور اگر آپ کو کوئی وسوسہ شیطان کی طرف سے آنے لگے تو اللہ کی پناه مانگ لیا کیجئے بلاشبہ وه خوب سننے واﻻ خوب جاننے واﻻ ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 7,
+          "ayahNumber": 200
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّمَا المُؤمِنونَ الَّذينَ إِذا ذُكِرَ اللَّهُ وَجِلَت قُلوبُهُم وَإِذا تُلِيَت عَلَيهِم آياتُهُ زادَتهُم إيمانًا وَعَلىٰ رَبِّهِم يَتَوَكَّلونَ\nالَّذينَ يُقيمونَ الصَّلاةَ وَمِمّا رَزَقناهُم يُنفِقونَ\nأُولٰئِكَ هُمُ المُؤمِنونَ حَقًّا ۚ لَهُم دَرَجاتٌ عِندَ رَبِّهِم وَمَغفِرَةٌ وَرِزقٌ كَريمٌ",
+      "englishText": "The believers are only those who, when Allah is mentioned, their hearts become fearful, and when His verses are recited to them, it increases them in faith; and upon their Lord they rely -\nThe ones who establish prayer, and from what We have provided them, they spend.\nThose are the believers, truly. For them are degrees [of high position] with their Lord and forgiveness and noble provision.",
+      "hindiText": "सच्चे ईमानदार तो बस वही लोग हैं कि जब (उनके सामने) ख़ुदा का ज़िक्र किया जाता है तो उनके दिल हिल जाते हैं और जब उनके सामने उसकी आयतें पढ़ी जाती हैं तो उनके ईमान को और भी ज्यादा कर देती हैं और वह लोग बस अपने परवरदिगार ही पर भरोसा रखते हैं\nनमाज़ को पाबन्दी से अदा करते हैं और जो हम ने उन्हें दिया हैं उसमें से (राहे ख़ुदा में) ख़र्च करते हैं\nयही तो सच्चे ईमानदार हैं उन्हीं के लिए उनके परवरदिगार के हॉ (बड़े बड़े) दरजे हैं और बख्शिश और इज्ज़त और आबरू के साथ रोज़ी है (ये माले ग़नीमत का झगड़ा वैसा ही है)",
+      "urduText": "بس ایمان والے تو ایسے ہوتے ہیں کہ جب اللہ تعالیٰ کا ذکر آتا ہے تو ان کے قلوب ڈر جاتے ہیں اور جب اللہ کی آیتیں ان کو پڑھ کر سنائی جاتیں ہیں تو وه آیتیں ان کے ایمان کو اور زیاده کردیتی ہیں اور وه لوگ اپنے رب پر توکل کرتے ہیں\nجو کہ نماز کی پابندی کرتے ہیں اور ہم نے ان کو جو کچھ دیا ہے وه اس میں سے خرچ کرتے ہیں\nسچے ایمان والے یہ لوگ ہیں ان کے لیے بڑے درجے ہیں ان کے رب کے پاس اور مغفرت اور عزت کی روزی ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 8,
+          "ayahNumber": 2
+        },
+        {
+          "surahNumber": 8,
+          "ayahNumber": 3
+        },
+        {
+          "surahNumber": 8,
+          "ayahNumber": 4
+        }
+      ]
+    },
+    {
+      "arabicText": "۞ إِنَّ شَرَّ الدَّوابِّ عِندَ اللَّهِ الصُّمُّ البُكمُ الَّذينَ لا يَعقِلونَ",
+      "englishText": "Indeed, the worst of living creatures in the sight of Allah are the deaf and dumb who do not use reason.",
+      "hindiText": "इसमें शक़ नहीं कि ज़मीन पर चलने वाले तमाम हैवानात से बदतर ख़ुदा के नज़दीक वह बहरे गूँगे (कुफ्फार) हैं जो कुछ नहीं समझते",
+      "urduText": "بےشک بدترین خلائق اللہ تعالیٰ کے نزدیک وه لوگ ہیں جو بہرے ہیں گونگے ہیں جو کہ (ذرا) نہیں سمجھتے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 8,
+          "ayahNumber": 22
+        }
+      ]
+    },
+    {
+      "arabicText": "يا أَيُّهَا الَّذينَ آمَنوا إِن تَتَّقُوا اللَّهَ يَجعَل لَكُم فُرقانًا وَيُكَفِّر عَنكُم سَيِّئَاتِكُم وَيَغفِر لَكُم",
+      "englishText": "O you who have believed, if you fear Allah, He will grant you a criterion and will remove from you your misdeeds and forgive you.",
+      "hindiText": "और यक़ीनन ख़ुदा के हॉ बड़ी मज़दूरी है ऐ ईमानदारों अगर तुम ख़ुदा से डरते रहोगे तो वह तुम्हारे वास्ते इम्तियाज़ पैदा करे देगा और तुम्हारी तरफ से तुम्हारे गुनाह का कफ्फ़ारा क़रार देगा और तुम्हें बख्श देगा",
+      "urduText": "اے ایمان والو! اگر تم اللہ سے ڈرتے رہو گے تو اللہ تعالیٰ تم کو ایک فیصلہ کی چیز دے گا اور تم سے تمہارے گناه دور کر دے گا اور تم کو بخش دے گا",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 8,
+          "ayahNumber": 29
+        }
+      ]
+    },
+    {
+      "arabicText": "وَإِذ زَيَّنَ لَهُمُ الشَّيطانُ أَعمالَهُم وَقالَ لا غالِبَ لَكُمُ اليَومَ مِنَ النّاسِ وَإِنّي جارٌ لَكُم ۖ فَلَمّا تَراءَتِ الفِئَتانِ نَكَصَ عَلىٰ عَقِبَيهِ وَقالَ إِنّي بَريءٌ مِنكُم إِنّي أَرىٰ ما لا تَرَونَ إِنّي أَخافُ اللَّهَ ۚ وَاللَّهُ شَديدُ العِقابِ",
+      "englishText": "And [remember] when Satan made their deeds pleasing to them and said, \"No one can overcome you today from among the people, and indeed, I am your protector.\" But when the two armies sighted each other, he turned on his heels and said, \"Indeed, I am disassociated from you. Indeed, I see what you do not see; indeed I fear Allah. And Allah is severe in penalty.\"",
+      "hindiText": "और जब शैतान ने उनकी कारस्तानियों को उम्दा कर दिखाया और उनके कान में फूंक दिया कि लोगों में आज कोई ऐसा नहीं जो तुम पर ग़ालिब आ सके और मै तुम्हारा मददगार हूं फिर जब दोनों लश्कर मुकाबिल हुए तो अपने उलटे पॉव भाग निकला और कहने लगा कि मै तो तुम से अलग हूं मै वह चीजें देख रहा हूं जो तुम्हें नहीं सूझती मैं तो ख़ुदा से डरता हूं और ख़ुदा बहुत सख्त अज़ाब वाला है",
+      "urduText": "جبکہ ان کے اعمال کو شیطان انہیں زینت دار دکھا رہا تھا اور کہہ رہا تھا کہ لوگوں میں سے کوئی بھی آج تم پر غالب نہیں آسکتا، میں خود بھی تمہارا حمایتی ہوں لیکن جب دونوں جماعتیں نمودار ہوئیں تو اپنی ایڑیوں کے بل پیچھے ہٹ گیا اور کہنے لگا میں تم سے بری ہوں۔ میں وه دیکھ رہا ہوں جو تم نہیں دیکھ رہے۔ میں اللہ سے ڈرتا ہوں، اور اللہ تعالیٰ سخت عذاب واﻻ ہے",
+      "phraseType": "default",
+      "references": [
+        {
+          "surahNumber": 8,
+          "ayahNumber": 48
+        }
+      ]
+    }
+  ]
+}

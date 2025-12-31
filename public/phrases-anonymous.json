@@ -1,17 +1,117 @@
 {
-  "timestamp": "2025-11-23T12:53:53.370Z",
+  "timestamp": "2025-12-25T07:54:08.819Z",
   "phraseType": "anonymous",
-  "totalPhrases": 21,
+  "totalPhrases": 76,
   "phrases": [
     {
-      "arabicText": "وَلَتَجِدَنَّهُم أَحرَصَ النّاسِ عَلىٰ حَياةٍ وَمِنَ الَّذينَ أَشرَكوا ۚ يَوَدُّ أَحَدُهُم لَو يُعَمَّرُ أَلفَ سَنَةٍ وَما هُوَ بِمُزَحزِحِهِ مِنَ العَذابِ أَن يُعَمَّرَ ۗ وَاللَّهُ بَصيرٌ بِما يَعمَلونَ",
-      "englishText": "And you will surely find them the most greedy of people for life - [even] more than those who associate others with Allah. One of them wishes that he could be granted life a thousand years, but it would not remove him in the least from the [coming] punishment that he should be granted life. And Allah is Seeing of what they do.",
-      "hindiText": "और (ऐ रसूल) तुम उन ही को ज़िन्दगी का सबसे ज्यादा हरीस पाओगे और मुशरिक़ों में से हर एक शख्स चाहता है कि काश उसको हज़ार बरस की उम्र दी जाती हालाँकि अगर इतनी तूलानी उम्र भी दी जाए तो वह ख़ुदा के अज़ाब से छुटकारा देने वाली नहीं, और जो कुछ वह लोग करते हैं खुदा उसे देख रहा है",
-      "urduText": "بلکہ سب سے زیاده دنیا کی زندگی کا حریص اے نبی! آپ انہیں کو پائیں گے۔ یہ حرص زندگی میں مشرکوں سے بھی زیاده ہیں ان میں سے تو ہر شخص ایک ایک ہزار سال کی عمر چاہتا ہے، گویا یہ عمر دیا جانا بھی انہیں عذاب سے نہیں چھڑا سکتا، اللہ تعالیٰ ان کے کاموں کو بخوبی دیکھ رہا ہے",
+      "arabicText": "فَلا تَجعَلوا لِلَّهِ أَندادًا وَأَنتُم تَعلَمونَ",
+      "englishText": "So do not attribute to Allah equals while you know [that there is nothing similar to Him].",
+      "hindiText": "पस किसी को खुदा का हमसर न बनाओ हालाँकि तुम खूब जानते हो",
+      "urduText": "خبردار باوجود جاننے کے اللہ کے شریک مقرر نہ کرو",
+      "phraseType": "anonymous",
       "references": [
         {
           "surahNumber": 2,
-          "ayahNumber": 96
+          "ayahNumber": 22
+        }
+      ]
+    },
+    {
+      "arabicText": "وَما يُضِلُّ بِهِ إِلَّا الفاسِقينَ\nالَّذينَ يَنقُضونَ عَهدَ اللَّهِ مِن بَعدِ ميثاقِهِ وَيَقطَعونَ ما أَمَرَ اللَّهُ بِهِ أَن يوصَلَ وَيُفسِدونَ فِي الأَرضِ ۚ أُولٰئِكَ هُمُ الخاسِرونَ",
+      "englishText": "And He misleads not except the defiantly disobedient\nWho break the covenant of Allah after contracting it and sever that which Allah has ordered to be joined and cause corruption on earth. It is those who are the losers.",
+      "hindiText": "मगर गुमराही में छोड़ता भी है तो ऐसे बदकारों को\nजो लोग खुदा के एहदो पैमान को मज़बूत हो जाने के बाद तोड़ डालते हैं और जिन (ताल्लुक़ात) का खुदा ने हुक्म दिया है उनको क़ताआ कर देते हैं और मुल्क में फसाद करते फिरते हैं, यही लोग घाटा उठाने वाले हैं",
+      "urduText": "اور گمراه تو صرف فاسقوں کو ہی کرتا ہے\nجو لوگ اللہ تعالیٰ کے مضبوط عہد کو توڑ دیتے ہیں اور اللہ تعالیٰ نے جن چیزوں کے جوڑنے کا حکم دیا ہے، انہیں کاٹتے اور زمین میں فساد پھیلاتے ہیں، یہی لوگ نقصان اٹھانے والے ہیں",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 26
+        },
+        {
+          "surahNumber": 2,
+          "ayahNumber": 27
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاستَعينوا بِالصَّبرِ وَالصَّلاةِ ۚ وَإِنَّها لَكَبيرَةٌ إِلّا عَلَى الخاشِعينَ\nالَّذينَ يَظُنّونَ أَنَّهُم مُلاقو رَبِّهِم وَأَنَّهُم إِلَيهِ راجِعونَ",
+      "englishText": "And seek help through patience and prayer, and indeed, it is difficult except for the humbly submissive [to Allah]\nWho are certain that they will meet their Lord and that they will return to Him.",
+      "hindiText": "और (मुसीबत के वक्त) सब्र और नमाज़ का सहारा पकड़ो और अलबत्ता नमाज़ दूभर तो है मगर उन ख़ाक़सारों पर (नहीं) जो बख़ूबी जानते हैं\nकि वह अपने परवरदिगार की बारगाह में हाज़िर होंगे और ज़रूर उसकी तरफ लौट जाएँगे",
+      "urduText": "اور صبر اور نماز کے ساتھ مدد طلب کرو یہ چیز شاق ہے، مگر ڈر رکھنے والوں پر\nجو جانتے ہیں کہ بے شک وه اپنے رب سے ملاقات کرنے والے اور یقیناً وہ اسی کی طرف لوٹ کر جانے والے ہیں",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 45
+        },
+        {
+          "surahNumber": 2,
+          "ayahNumber": 46
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ هُدَى اللَّهِ هُوَ الهُدىٰ",
+      "englishText": "\"Indeed, the guidance of Allah is the [only] guidance.\"",
+      "hindiText": "बस खुदा ही की हिदायत तो हिदायत है",
+      "urduText": "اللہ کی ہدایت ہی ہدایت ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 120
+        }
+      ]
+    },
+    {
+      "arabicText": "۞ وَإِذِ ابتَلىٰ إِبراهيمَ رَبُّهُ بِكَلِماتٍ فَأَتَمَّهُنَّ ۖ قالَ إِنّي جاعِلُكَ لِلنّاسِ إِمامًا ۖ قالَ وَمِن ذُرِّيَّتي ۖ قالَ لا يَنالُ عَهدِي الظّالِمينَ",
+      "englishText": "And [mention, O Muhammad], when Abraham was tried by his Lord with commands and he fulfilled them. [Allah] said, \"Indeed, I will make you a leader for the people.\" [Abraham] said, \"And of my descendants?\" [Allah] said, \"My covenant does not include the wrongdoers.\"",
+      "hindiText": "(ऐ रसूल) बनी इसराईल को वह वक्त भी याद दिलाओ जब इबराहीम को उनके परवरदिगार ने चन्द बातों में आज़माया और उन्होंने पूरा कर दिया तो खुदा ने फरमाया मैं तुमको (लोगों का) पेशवा बनाने वाला हूँ (हज़रत इबराहीम ने) अर्ज़ की और मेरी औलाद में से फरमाया (हाँ मगर) मेरे इस अहद पर ज़ालिमों में से कोई शख्स फ़ायज़ नहीं हो सकता",
+      "urduText": "جب ابراہیم ﴿علیہ السلام﴾ کو ان کے رب نے کئی کئی باتوں سے آزمایا اور انہوں نے سب کو پورا کردیا تو اللہ نے فرمایا کہ میں تمہیں لوگوں کا امام بنا دوں گا، عرض کرنے لگے: اور میری اوﻻد کو، فرمایا میرا وعده ﻇالموں سے نہیں",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 124
+        }
+      ]
+    },
+    {
+      "arabicText": "قُل لِلَّهِ المَشرِقُ وَالمَغرِبُ ۚ يَهدي مَن يَشاءُ إِلىٰ صِراطٍ مُستَقيمٍ",
+      "englishText": "To Allah belongs the east and the west. He guides whom He wills to a straight path.",
+      "hindiText": "पूरब पश्चिम सब ख़ुदा का है जिसे चाहता है सीधे रास्ते की तरफ हिदायत करता है",
+      "urduText": "مشرق ومغرب کا مالک اللہ تعالیٰ ہی ہے وه جسے چاہے سیدھی راه کی ہدایت کردے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 142
+        }
+      ]
+    },
+    {
+      "arabicText": "أَينَ ما تَكونوا يَأتِ بِكُمُ اللَّهُ جَميعًا",
+      "englishText": "Wherever you may be, Allah will bring you forth [for judgement] all together.",
+      "hindiText": "तुम जहाँ कहीं होगे ख़ुदा तुम सबको अपनी तरफ ले आऐगा",
+      "urduText": "جہاں کہیں بھی تم ہوگے، اللہ تمہیں لے آئے گا",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 148
+        }
+      ]
+    },
+    {
+      "arabicText": "وَمَن تَطَوَّعَ خَيرًا فَإِنَّ اللَّهَ شاكِرٌ عَليمٌ",
+      "englishText": "And whoever volunteers good - then indeed, Allah is appreciative and Knowing.",
+      "hindiText": "और जो शख्स खुश खुश नेक काम करे तो फिर ख़ुदा भी क़दरदाँ (और) वाक़िफ़कार है",
+      "urduText": "اپنی خوشی سے بھلائی کرنے والوں کا اللہ قدردان ہے اور انہیں خوب جاننے واﻻ ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 158
         }
       ]
     },
@@ -20,6 +120,7 @@
       "englishText": "He has only forbidden to you dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], there is no sin upon him. Indeed, Allah is Forgiving and Merciful.",
       "hindiText": "उसने तो तुम पर बस मुर्दा जानवर और खून और सूअर का गोश्त और वह जानवर जिस पर ज़बह के वक्त ख़ुदा के सिवा और किसी का नाम लिया गया हो हराम किया है पस जो शख्स मजबूर हो और सरकशी करने वाला और ज्यादती करने वाला न हो (और उनमे से कोई चीज़ खा ले) तो उसपर गुनाह नहीं है बेशक ख़ुदा बड़ा बख्शने वाला मेहरबान है",
       "urduText": "تم پر مرده اور (بہا ہوا) خون اور سور کا گوشت اور ہر وه چیز جس پر اللہ کے سوا دوسروں کا نام پکارا گیا ہو حرام ہے پھر جو مجبور ہوجائے اور وه حد سے بڑھنے واﻻ اور زیادتی کرنے واﻻ نہ ہو، اس پر ان کے کھانے میں کوئی گناه نہیں، اللہ تعالیٰ بخشش کرنے واﻻ مہربان ہے",
+      "phraseType": "anonymous",
       "references": [
         {
           "surahNumber": 2,
@@ -28,10 +129,89 @@
       ]
     },
     {
-      "arabicText": "يَسأَلونَكَ ماذا يُنفِقونَ ۖ قُل ما أَنفَقتُم مِن خَيرٍ فَلِلوالِدَينِ وَالأَقرَبينَ وَاليَتامىٰ وَالمَساكينِ وَابنِ السَّبيلِ ۗ وَما تَفعَلوا مِن خَيرٍ فَإِنَّ اللَّهَ بِهِ عَليمٌ",
-      "englishText": "They ask you, [O Muhammad], what they should spend. Say, \"Whatever you spend of good is [to be] for parents and relatives and orphans and the needy and the traveler. And whatever you do of good - indeed, Allah is Knowing of it.\"",
-      "hindiText": "(ऐ रसूल) तुमसे लोग पूछते हैं कि हम ख़ुदा की राह में क्या खर्च करें (तो तुम उन्हें) जवाब दो कि तुम अपनी नेक कमाई से जो कुछ खर्च करो तो (वह तुम्हारे माँ बाप और क़राबतदारों और यतीमों और मोहताजो और परदेसियों का हक़ है और तुम कोई नेक सा काम करो ख़ुदा उसको ज़रुर जानता है",
-      "urduText": "آپ سے پوچھتے ہیں کہ وه کیا خرچ کریں؟ آپ کہہ دیجیئے جو مال تم خرچ کرو وه ماں باپ کے لئے ہے اور رشتہداروں اور یتیموں اور مسکینوں اور مسافروں کے لئے ہے اور تم جو کچھ بھلائی کرو گے اللہ تعالیٰ کو اس کا علم ہے",
+      "arabicText": "وَلا تَأكُلوا أَموالَكُم بَينَكُم بِالباطِلِ وَتُدلوا بِها إِلَى الحُكّامِ لِتَأكُلوا فَريقًا مِن أَموالِ النّاسِ بِالإِثمِ وَأَنتُم تَعلَمونَ",
+      "englishText": "And do not consume one another's wealth unjustly or send it [in bribery] to the rulers in order that [they might aid] you [to] consume a portion of the wealth of the people in sin, while you know [it is unlawful].",
+      "hindiText": "और आपस में एक दूसरे का माल नाहक़ न खाओ और न माल को (रिश्वत में) हुक्काम के यहाँ झोंक दो ताकि लोगों के माल में से (जो) कुछ हाथ लगे नाहक़ ख़ुर्द बुर्द कर जाओ हालाकि तुम जानते हो",
+      "urduText": "اور ایک دوسرے کا مال ناحق نہ کھایا کرو، نہ حاکموں کو رشوت پہنچا کر کسی کا کچھ مال ﻇلم وستم سے اپنا کر لیا کرو، حاﻻنکہ تم جانتے ہو",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 188
+        }
+      ]
+    },
+    {
+      "arabicText": "وَقاتِلوا في سَبيلِ اللَّهِ الَّذينَ يُقاتِلونَكُم وَلا تَعتَدوا ۚ إِنَّ اللَّهَ لا يُحِبُّ المُعتَدينَ",
+      "englishText": "Fight in the way of Allah those who fight you but do not transgress. Indeed. Allah does not like transgressors.",
+      "hindiText": "और जो लोग तुम से लड़े तुम (भी) ख़ुदा की राह में उनसे लड़ो और ज्यादती न करो (क्योंकि) ख़ुदा ज्यादती करने वालों को हरगिज़ दोस्त नहीं रखता",
+      "urduText": "لڑو اللہ کی راه میں ان سے جو تم سے لڑتے ہیں اور زیادتی نہ کرو، اللہ تعالیٰ زیادتی کرنے والوں کو پسند نہیں فرماتا",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 190
+        }
+      ]
+    },
+    {
+      "arabicText": "وَأَنفِقوا في سَبيلِ اللَّهِ وَلا تُلقوا بِأَيديكُم إِلَى التَّهلُكَةِ ۛ وَأَحسِنوا ۛ إِنَّ اللَّهَ يُحِبُّ المُحسِنينَ",
+      "englishText": "And spend in the way of Allah and do not throw [yourselves] with your [own] hands into destruction [by refraining]. And do good; indeed, Allah loves the doers of good.",
+      "hindiText": "और ख़ुदा की राह में ख़र्च करो और अपने हाथ जान हलाकत मे न डालो और नेकी करो बेशक ख़ुदा नेकी करने वालों को दोस्त रखता है",
+      "urduText": "اللہ تعالیٰ کی راه میں خرچ کرو اور اپنے ہاتھوں ہلاکت میں نہ پڑو اور سلوک واحسان کرو، اللہ تعالیٰ احسان کرنے والوں کو دوست رکھتا ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 195
+        }
+      ]
+    },
+    {
+      "arabicText": "وَما تَفعَلوا مِن خَيرٍ يَعلَمهُ اللَّهُ",
+      "englishText": "And whatever good you do - Allah knows it.",
+      "hindiText": "नेकी का कोई सा काम भी करों तो ख़ुदा उस को खूब जानता है",
+      "urduText": "تم جو نیکی کرو گے اس سے اللہ تعالیٰ باخبر ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 197
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاللَّهُ يَرزُقُ مَن يَشاءُ بِغَيرِ حِسابٍ",
+      "englishText": "And Allah gives provision to whom He wills without account.",
+      "hindiText": "और ख़ुदा जिस को चाहता है बे हिसाब रोज़ी अता फरमाता है",
+      "urduText": "اللہ تعالیٰ جسے چاہتا ہے بےحساب روزی دیتا ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 212
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاللَّهُ يَهدي مَن يَشاءُ إِلىٰ صِراطٍ مُستَقيمٍ",
+      "englishText": "And Allah guides whom He wills to a straight path.",
+      "hindiText": "और ख़ुदा जिस को चाहे राहे रास्त की हिदायत करता है",
+      "urduText": "اور اللہ جس کو چاہے سیدھی راه کی طرف رہبری کرتا ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 213
+        }
+      ]
+    },
+    {
+      "arabicText": "وَما تَفعَلوا مِن خَيرٍ فَإِنَّ اللَّهَ بِهِ عَليمٌ",
+      "englishText": "Whatever you do of good - indeed, Allah is Knowing of it.",
+      "hindiText": "तुम कोई नेक सा काम करो ख़ुदा उसको ज़रुर जानता है",
+      "urduText": "اور تم جو کچھ بھلائی کرو گے اللہ تعالیٰ کو اس کا علم ہے",
+      "phraseType": "anonymous",
       "references": [
         {
           "surahNumber": 2,
@@ -40,166 +220,11 @@
       ]
     },
     {
-      "arabicText": "كُتِبَ عَلَيكُمُ القِتالُ وَهُوَ كُرهٌ لَكُم ۖ وَعَسىٰ أَن تَكرَهوا شَيئًا وَهُوَ خَيرٌ لَكُم ۖ وَعَسىٰ أَن تُحِبّوا شَيئًا وَهُوَ شَرٌّ لَكُم ۗ وَاللَّهُ يَعلَمُ وَأَنتُم لا تَعلَمونَ",
-      "englishText": "Fighting has been enjoined upon you while it is hateful to you. But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah Knows, while you know not.",
-      "hindiText": "(मुसलमानों) तुम पर जिहाद फर्ज क़िया गया अगरचे तुम पर शाक़ ज़रुर है और अजब नहीं कि तुम किसी चीज़ (जिहाद) को नापसन्द करो हालॉकि वह तुम्हारे हक़ में बेहतर हो और अजब नहीं कि तुम किसी चीज़ को पसन्द करो हालॉकि वह तुम्हारे हक़ में बुरी हो और ख़ुदा (तो) जानता ही है मगर तुम नही जानते हो",
-      "urduText": "تم پر جہاد فرض کیا گیا گو وه تمہیں دشوار معلوم ہو، ممکن ہے کہ تم کسی چیز کو بری جانو اور دراصل وہی تمہارے لئے بھلی ہو اور یہ بھی ممکن ہے کہ تم کسی چیز کو اچھی سمجھو، حاﻻنکہ وه تمہارے لئے بری ہو، حقیقی علم اللہ ہی کو ہے، تم محض بےخبر ہو",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 216
-        }
-      ]
-    },
-    {
-      "arabicText": "وَلا تَجعَلُوا اللَّهَ عُرضَةً لِأَيمانِكُم أَن تَبَرّوا وَتَتَّقوا وَتُصلِحوا بَينَ النّاسِ ۗ وَاللَّهُ سَميعٌ عَليمٌ",
-      "englishText": "And do not make [your oath by] Allah an excuse against being righteous and fearing Allah and making peace among people. And Allah is Hearing and Knowing.",
-      "hindiText": "और (मुसलमानों) तुम अपनी क़समों (के हीले) से ख़ुदा (के नाम) को लोगों के साथ सुलूक करने और ख़ुदा से डरने और लोगों के दरमियान सुलह करवा देने का मानेअ न ठहराव और ख़ुदा सबकी सुनता और सब को जानता है",
-      "urduText": "اور اللہ تعالیٰ کو اپنی قسموں کا (اس طرح) نشانہ نہ بناؤ کہ بھلائی اور پرہیزگاری اور لوگوں کے درمیان کی اصلاح کو چھوڑ بیٹھو اور اللہ تعالیٰ سننے واﻻ جاننے واﻻ ہے",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 224
-        }
-      ]
-    },
-    {
-      "arabicText": "وَلا تَتَّخِذوا آياتِ اللَّهِ هُزُوًا ۚ وَاذكُروا نِعمَتَ اللَّهِ عَلَيكُم وَما أَنزَلَ عَلَيكُم مِنَ الكِتابِ وَالحِكمَةِ يَعِظُكُم بِهِ ۚ وَاتَّقُوا اللَّهَ وَاعلَموا أَنَّ اللَّهَ بِكُلِّ شَيءٍ عَليمٌ",
-      "englishText": "And do not take the verses of Allah in jest. And remember the favor of Allah upon you and what has been revealed to you of the Book and wisdom by which He instructs you. And fear Allah and know that Allah is Knowing of all things.",
-      "hindiText": "और ख़ुदा के एहकाम को कुछ हँसी ठट्टा न समझो और ख़ुदा ने जो तुम्हें नेअमतें दी हैं उन्हें याद करो और जो किताब और अक्ल की बातें तुम पर नाज़िल की उनसे तुम्हारी नसीहत करता है और ख़ुदा से डरते रहो और समझ रखो कि ख़ुदा हर चीज़ को ज़रुर जानता है",
-      "urduText": "تم اللہ کے احکام کو ہنسی کھیل نہ بناؤ اور اللہ کا احسان جو تم پر ہے یاد کرو اور جو کچھ کتاب وحکمت اس نے نازل فرمائی ہے جس سے تمہیں نصیحت کر رہا ہے، اسے بھی۔ اور اللہ تعالیٰ سے ڈرتے رہا کرو اور جان رکھو کہ اللہ تعالیٰ ہر چیز کو جانتا ہے",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 231
-        }
-      ]
-    },
-    {
-      "arabicText": "وَاللَّهُ يَعلَمُ وَأَنتُم لا تَعلَمونَ",
-      "englishText": "And Allah knows and you know not.",
-      "hindiText": "और उसकी ख़ूबी ख़ुदा खूब जानता है और तुम (वैसा) नहीं जानते हो",
-      "urduText": "اللہ تعالیٰ جانتا ہے اور تم نہیں جانتے",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 232
-        }
-      ]
-    },
-    {
-      "arabicText": "وَاتَّقُوا اللَّهَ وَاعلَموا أَنَّ اللَّهَ بِما تَعمَلونَ بَصيرٌ",
-      "englishText": "And fear Allah and know that Allah is Seeing of what you do.",
-      "hindiText": "और ख़ुदा से डरते रहो और जान रखो कि जो कुछ तुम करते हो ख़ुदा ज़रुर देखता है",
-      "urduText": "اللہ تعالیٰ سے ڈرتے رہو اور جانتے رہو کہ اللہ تعالیٰ تمہارے اعمال کی دیکھ بھال کر رہا ہے",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 233
-        }
-      ]
-    },
-    {
-      "arabicText": "وَاعلَموا أَنَّ اللَّهَ يَعلَمُ ما في أَنفُسِكُم فَاحذَروهُ ۚ وَاعلَموا أَنَّ اللَّهَ غَفورٌ حَليمٌ",
-      "englishText": "And know that Allah knows what is within yourselves, so beware of Him. And know that Allah is Forgiving and Forbearing.",
-      "hindiText": "और समझ रखो कि जो कुछ तुम्हारी दिल में है ख़ुदा उस को ज़रुर जानता है तो उस से डरते रहो और (ये भी) जान लो कि ख़ुदा बड़ा बख्शने वाला बुर्दबार है",
-      "urduText": "تم اس سے خوف کھاتے رہا کرو اور یہ بھی جان رکھو کہ اللہ تعالیٰ بخشش اور علم واﻻ ہے",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 235
-        }
-      ]
-    },
-    {
-      "arabicText": "وَقاتِلوا في سَبيلِ اللَّهِ وَاعلَموا أَنَّ اللَّهَ سَميعٌ عَليمٌ",
-      "englishText": "And fight in the cause of Allah and know that Allah is Hearing and Knowing.",
-      "hindiText": "और मुसलमानों ख़ुदा की राह मे जिहाद करो और जान रखो कि ख़ुदा ज़रुर सब कुछ सुनता (और) जानता है",
-      "urduText": "اللہ تعالیٰ کی راه میں جہاد کرو اور جان لو کہ اللہ تعالیٰ سنتا، جانتا ہے",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 244
-        }
-      ]
-    },
-    {
-      "arabicText": "قالَ الَّذينَ يَظُنّونَ أَنَّهُم مُلاقُو اللَّهِ كَم مِن فِئَةٍ قَليلَةٍ غَلَبَت فِئَةً كَثيرَةً بِإِذنِ اللَّهِ ۗ وَاللَّهُ مَعَ الصّابِرينَ",
-      "englishText": "But those who were certain that they would meet Allah said, \"How many a small company has overcome a large company by permission of Allah. And Allah is with the patient.\"",
-      "hindiText": "मगर वह लोग जिनको यक़ीन है कि एक दिन ख़ुदा को मुँह दिखाना है बेधड़क बोल उठे कि ऐसा बहुत हुआ कि ख़ुदा के हुक्म से छोटी जमाअत बड़ी जमाअत पर ग़ालिब आ गयी है और ख़ुदा सब्र करने वालों का साथी है",
-      "urduText": "لیکن اللہ تعالیٰ کی ملاقات پر یقین رکھنے والوں نے کہا، بسا اوقات چھوٹی اور تھوڑی سی جماعتیں بڑی اور بہت سی جماعتوں پر اللہ کے حکم سے غلبہ پالیتی ہیں، اللہ تعالیٰ صبر والوں کے ساتھ ہے",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 249
-        }
-      ]
-    },
-    {
-      "arabicText": "وَلَولا دَفعُ اللَّهِ النّاسَ بَعضَهُم بِبَعضٍ لَفَسَدَتِ الأَرضُ وَلٰكِنَّ اللَّهَ ذو فَضلٍ عَلَى العالَمينَ",
-      "englishText": "And if it were not for Allah checking [some] people by means of others, the earth would have been corrupted, but Allah is full of bounty to the worlds.",
-      "hindiText": "और अगर ख़ुदा बाज़ लोगों के ज़रिए से बाज़ का दफाए (शर) न करता तो तमाम रुए ज़मीन पर फ़साद फैल जाता मगर ख़ुदा तो सारे जहाँन के लोगों पर फज़ल व रहम करता है",
-      "urduText": "اگر اللہ تعالیٰ بعض لوگوں کو بعض سے دفع نہ کرتا تو زمین میں فساد پھیل جاتا، لیکن اللہ تعالیٰ دنیا والوں پر بڑا فضل وکرم کرنے واﻻ ہے",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 251
-        }
-      ]
-    },
-    {
-      "arabicText": "أَلَم تَرَ إِلَى الَّذي حاجَّ إِبراهيمَ في رَبِّهِ أَن آتاهُ اللَّهُ المُلكَ إِذ قالَ إِبراهيمُ رَبِّيَ الَّذي يُحيي وَيُميتُ قالَ أَنا أُحيي وَأُميتُ ۖ قالَ إِبراهيمُ فَإِنَّ اللَّهَ يَأتي بِالشَّمسِ مِنَ المَشرِقِ فَأتِ بِها مِنَ المَغرِبِ فَبُهِتَ الَّذي كَفَرَ ۗ وَاللَّهُ لا يَهدِي القَومَ الظّالِمينَ",
-      "englishText": "Have you not considered the one who argued with Abraham about his Lord [merely] because Allah had given him kingship? When Abraham said, \"My Lord is the one who gives life and causes death,\" he said, \"I give life and cause death.\" Abraham said, \"Indeed, Allah brings up the sun from the east, so bring it up from the west.\" So the disbeliever was overwhelmed [by astonishment], and Allah does not guide the wrongdoing people.",
-      "hindiText": "(ऐ रसूल) क्या तुम ने उस शख्स (के हाल) पर नज़र नहीं की जो सिर्फ़ इस बिरते पर कि ख़ुदा ने उसे सल्तनत दी थी इब्राहीम से उनके परवरदिगार के बारे में उलझ पड़ा कि जब इब्राहीम ने (उससे) कहा कि मेरा परवरदिगार तो वह है जो (लोगों को) जिलाता और मारता है तो वो भी (शेख़ी में) आकर कहने लगा मैं भी जिलाता और मारता हूं (तुम्हारे ख़ुदा ही में कौन सा कमाल है) इब्राहीम ने कहा (अच्छा) खुदा तो आफ़ताब को पूरब से निकालता है भला तुम उसको पश्चिम से निकालो इस पर वह काफ़िर हक्का बक्का हो कर रह गया (मगर ईमान न लाया) और ख़ुदा ज़ालिमों को मंज़िले मक़सूद तक नहीं पहुंचाया करता",
-      "urduText": "کیا تونے اسے نہیں دیکھا جو سلطنت پا کر ابراہیم (علیہ السلام) سے اس کے رب کے بارے میں جھگڑ رہا تھا، جب ابراہیم (علیہ السلام) نے کہا کہ میرا رب تو وه ہے جو جلاتا ہے اور مارتا ہے، وه کہنے لگا میں بھی جلاتا اور مارتا ہوں، ابراہیم (علیہ السلام) نے کہا اللہ تعالیٰ سورج کو مشرق کی طرف سے لے آتا ہے تو اسے مغرب کی جانب سے لے آ۔ اب تو وه کافر بھونچکا ره گیا، اور اللہ تعالیٰ ﻇالموں کو ہدایت نہیں دیتا",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 258
-        }
-      ]
-    },
-    {
-      "arabicText": "أَو كَالَّذي مَرَّ عَلىٰ قَريَةٍ وَهِيَ خاوِيَةٌ عَلىٰ عُروشِها قالَ أَنّىٰ يُحيي هٰذِهِ اللَّهُ بَعدَ مَوتِها ۖ فَأَماتَهُ اللَّهُ مِائَةَ عامٍ ثُمَّ بَعَثَهُ ۖ قالَ كَم لَبِثتَ ۖ قالَ لَبِثتُ يَومًا أَو بَعضَ يَومٍ ۖ قالَ بَل لَبِثتَ مِائَةَ عامٍ فَانظُر إِلىٰ طَعامِكَ وَشَرابِكَ لَم يَتَسَنَّه ۖ وَانظُر إِلىٰ حِمارِكَ وَلِنَجعَلَكَ آيَةً لِلنّاسِ ۖ وَانظُر إِلَى العِظامِ كَيفَ نُنشِزُها ثُمَّ نَكسوها لَحمًا ۚ فَلَمّا تَبَيَّنَ لَهُ قالَ أَعلَمُ أَنَّ اللَّهَ عَلىٰ كُلِّ شَيءٍ قَديرٌ",
-      "englishText": "Or [consider such an example] as the one who passed by a township which had fallen into ruin. He said, \"How will Allah bring this to life after its death?\" So Allah caused him to die for a hundred years; then He revived him. He said, \"How long have you remained?\" The man said, \"I have remained a day or part of a day.\" He said, \"Rather, you have remained one hundred years. Look at your food and your drink; it has not changed with time. And look at your donkey; and We will make you a sign for the people. And look at the bones [of this donkey] - how We raise them and then We cover them with flesh.\" And when it became clear to him, he said, \"I know that Allah is over all things competent.\"",
-      "hindiText": "(ऐ रसूल तुमने) मसलन उस (बन्दे के हाल पर भी नज़र की जो एक गॉव पर से होकर गुज़रा और वो ऐसा उजड़ा था कि अपनी छतों पर से ढह के गिर पड़ा था ये देखकर वह बन्दा (कहने लगा) अल्लाह अब इस गॉव को ऐसी वीरानी के बाद क्योंकर आबाद करेगा इस पर ख़ुदा ने उसको (मार डाला) सौ बरस तक मुर्दा रखा फिर उसको जिला उठाया (तब) पूछा तुम कितनी देर पड़े रहे अर्ज क़ी एक दिन पड़ा रहा एक दिन से भी कम फ़रमाया नहीं तुम (इसी हालत में) सौ बरस पड़े रहे अब ज़रा अपने खाने पीने (की चीज़ों) को देखो कि बुसा तक नहीं और ज़रा अपने गधे (सवारी) को तो देखो कि उसकी हड्डियाँ ढेर पड़ी हैं और सब इस वास्ते किया है ताकि लोगों के लिये तुम्हें क़ुदरत का नमूना बनाये और अच्छा अब (इस गधे की) हड्डियों की तरफ़ नज़र करो कि हम क्योंकर जोड़ जाड़ कर ढाँचा बनाते हैं फिर उनपर गोश्त चढ़ाते हैं पस जब ये उनपर ज़ाहिर हुआ तो बेसाख्ता बोल उठे कि (अब) मैं ये यक़ीने कामिल जानता हूं कि ख़ुदा हर चीज़ पर क़ादिर है",
-      "urduText": "یا اس شخص کے مانند کہ جس کا گزر اس بستی پر ہوا جو چھت کے بل اوندھی پڑی ہوئی تھی، وه کہنے لگا اس کی موت کے بعد اللہ تعالیٰ اسے کس طرح زنده کرے گا؟ تو اللہ تعالی نے اسے مار دیا سو سال کے لئے، پھر اسے اٹھایا، پوچھا کتنی مدت تجھ پر گزری؟ کہنے لگا ایک دن یا دن کا کچھ حصہ، فرمایا بلکہ تو سو سال تک رہا، پھر اب تو اپنے کھانے پینے کو دیکھ کہ بالکل خراب نہیں ہوا اور اپنے گدھے کو بھی دیکھ، ہم تجھے لوگوں کے لئے ایک نشانی بناتے ہیں تو دیکھ کہ ہم ہڈیوں کو کس طرح اٹھاتے ہیں، پھر ان پر گوشت چڑھاتے ہیں، جب یہ سب ﻇاہر ہو چکا تو کہنے لگا میں جانتا ہوں کہ اللہ تعالیٰ ہر چیز پر قادر ہے",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 259
-        }
-      ]
-    },
-    {
-      "arabicText": "وَإِذ قالَ إِبراهيمُ رَبِّ أَرِني كَيفَ تُحيِي المَوتىٰ ۖ قالَ أَوَلَم تُؤمِن ۖ قالَ بَلىٰ وَلٰكِن لِيَطمَئِنَّ قَلبي ۖ قالَ فَخُذ أَربَعَةً مِنَ الطَّيرِ فَصُرهُنَّ إِلَيكَ ثُمَّ اجعَل عَلىٰ كُلِّ جَبَلٍ مِنهُنَّ جُزءًا ثُمَّ ادعُهُنَّ يَأتينَكَ سَعيًا ۚ وَاعلَم أَنَّ اللَّهَ عَزيزٌ حَكيمٌ",
-      "englishText": "And [mention] when Abraham said, \"My Lord, show me how You give life to the dead.\" [Allah] said, \"Have you not believed?\" He said, \"Yes, but [I ask] only that my heart may be satisfied.\" [Allah] said, \"Take four birds and commit them to yourself. Then [after slaughtering them] put on each hill a portion of them; then call them - they will come [flying] to you in haste. And know that Allah is Exalted in Might and Wise.\"",
-      "hindiText": "और (ऐ रसूल) वह वाकेया भी याद करो जब इबराहीम ने (खुदा से) दरख्वास्त की कि ऐ मेरे परवरदिगार तू मुझे भी तो दिखा दे कि तू मुर्दों को क्योंकर ज़िन्दा करता है ख़ुदा ने फ़रमाया क्या तुम्हें (इसका) यक़ीन नहीं इबराहीम ने अर्ज़ की (क्यों नहीं) यक़ीन तो है मगर ऑंख से देखना इसलिए चाहता हूं कि मेरे दिल को पूरा इत्मिनान हो जाए फ़रमाया (अगर ये चाहते हो) तो चार परिन्दे लो और उनको अपने पास मॅगवा लो और टुकड़े टुकड़े कर डालो फिर हर पहाड़ पर उनका एक एक टुकड़ा रख दो उसके बाद उनको बुलाओ (फिर देखो तो क्यों कर वह सब के सब तुम्हारे पास दौड़े हुए आते हैं और समझ रखो कि ख़ुदा बेशक ग़ालिब और हिकमत वाला है",
-      "urduText": "اور جب ابراہیم (علیہ السلام) نے کہا کہ اے میرے پروردگار! مجھے دکھا تو مُردوں کو کس طرح زنده کرے گا؟ (جناب باری تعالیٰ نے) فرمایا، کیا تمہیں ایمان نہیں؟ جواب دیا ایمان تو ہے لیکن میرے دل کی تسکین ہو جائے گی، فرمایا چار پرند لو، ان کے ٹکڑے کر ڈالو، پھر ہر پہاڑ پر ان کا ایک ایک ٹکڑا رکھ دو پھر انہیں پکارو، تمہارے پاس دوڑتے ہوئے آجائیں گے اور جان رکھو کہ اللہ تعالیٰ غالب ہے حکمتوں واﻻ ہے",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 260
-        }
-      ]
-    },
-    {
-      "arabicText": "مَثَلُ الَّذينَ يُنفِقونَ أَموالَهُم في سَبيلِ اللَّهِ كَمَثَلِ حَبَّةٍ أَنبَتَت سَبعَ سَنابِلَ في كُلِّ سُنبُلَةٍ مِائَةُ حَبَّةٍ ۗ وَاللَّهُ يُضاعِفُ لِمَن يَشاءُ ۗ وَاللَّهُ واسِعٌ عَليمٌ",
-      "englishText": "The example of those who spend their wealth in the way of Allah is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains. And Allah multiplies [His reward] for whom He wills. And Allah is all-Encompassing and Knowing.",
-      "hindiText": "जो लोग अपने माल खुदा की राह में खर्च करते हैं उनके (खर्च) की मिसाल उस दाने की सी मिसाल है जिसकी सात बालियॉ निकलें (और) हर बाली में सौ (सौ) दाने हों और ख़ुदा जिसके लिये चाहता है दूना कर देता है और खुदा बड़ी गुन्जाइश वाला (हर चीज़ से) वाक़िफ़ है",
-      "urduText": "جو لوگ اپنا مال اللہ تعالیٰ کی راه میں خرچ کرتے ہیں اس کی مثال اس دانے جیسی ہے جس میں سے سات بالیاں نکلیں اور ہر بالی میں سودانے ہوں، اور اللہ تعالیٰ جسے چاہے بڑھا چڑھا کر دے اور اللہ تعالیٰ کشادگی واﻻ اور علم واﻻ ہے",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 261
-        }
-      ]
-    },
-    {
       "arabicText": "قَولٌ مَعروفٌ وَمَغفِرَةٌ خَيرٌ مِن صَدَقَةٍ يَتبَعُها أَذًى",
       "englishText": "Kind speech and forgiveness are better than charity followed by injury.",
       "hindiText": "(सायल को) नरमी से जवाब दे देना और (उसके इसरार पर न झिड़कना बल्कि) उससे दरगुज़र करना उस खैरात से कहीं बेहतर है जिसके बाद (सायल को) ईज़ा पहुंचे",
       "urduText": "نرم بات کہنا اور معاف کردینا اس صدقہ سے بہتر ہے جس کے بعد ایذا رسانی ہو",
+      "phraseType": "anonymous",
       "references": [
         {
           "surahNumber": 2,
@@ -208,10 +233,24 @@
       ]
     },
     {
-      "arabicText": "وَمَثَلُ الَّذينَ يُنفِقونَ أَموالَهُمُ ابتِغاءَ مَرضاتِ اللَّهِ وَتَثبيتًا مِن أَنفُسِهِم كَمَثَلِ جَنَّةٍ بِرَبوَةٍ أَصابَها وابِلٌ فَآتَت أُكُلَها ضِعفَينِ فَإِن لَم يُصِبها وابِلٌ فَطَلٌّ",
-      "englishText": "And the example of those who spend their wealth seeking means to the approval of Allah and assuring [reward for] themselves is like a garden on high ground which is hit by a downpour - so it yields its fruits in double. And [even] if it is not hit by a downpour, then a drizzle [is sufficient].",
-      "hindiText": "और जो लोग ख़ुदा की ख़ुशनूदी के लिए और अपने दिली एतक़ाद से अपने माल ख़र्च करते हैं उनकी मिसाल उस (हरे भरे) बाग़ की सी है जो किसी टीले या टीकरे पर लगा हो और उस पर ज़ोर शोर से पानी बरसा तो अपने दुगने फल लाया और अगर उस पर बड़े धड़ल्ले का पानी न भी बरसे तो उसके लिये हल्की फुआर (ही काफ़ी) है",
-      "urduText": "ان لوگوں کی مثال جو اپنا مال اللہ تعالیٰ کی رضامندی کی طلب میں دل کی خوشی اور یقین کے ساتھ خرچ کرتے ہیں اس باغ جیسی ہے جو اونچی زمین پر ہواور زوردار بارش اس پر برسے اور وه اپنا پھل دگنا ﻻوے اور اگر اس پر بارش نہ بھی برسے تو پھوار ہی کافی ہے",
+      "arabicText": "يا أَيُّهَا الَّذينَ آمَنوا لا تُبطِلوا صَدَقاتِكُم بِالمَنِّ وَالأَذىٰ",
+      "englishText": "O you who have believed, do not invalidate your charities with reminders or injury",
+      "hindiText": "ऐ ईमानदारों आपनी खैरात को एहसान जताने और (सायल को) ईज़ा (तकलीफ) देने की वजह से",
+      "urduText": "اے ایمان والو! اپنی خیرات کو احسان جتا کر اور ایذا پہنچا کر برباد نہ کرو",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 2,
+          "ayahNumber": 264
+        }
+      ]
+    },
+    {
+      "arabicText": "وَمَثَلُ الَّذينَ يُنفِقونَ أَموالَهُمُ ابتِغاءَ مَرضاتِ اللَّهِ وَتَثبيتًا مِن أَنفُسِهِم كَمَثَلِ جَنَّةٍ بِرَبوَةٍ أَصابَها وابِلٌ فَآتَت أُكُلَها ضِعفَينِ فَإِن لَم يُصِبها وابِلٌ فَطَلٌّ ۗ وَاللَّهُ بِما تَعمَلونَ بَصيرٌ",
+      "englishText": "And the example of those who spend their wealth seeking means to the approval of Allah and assuring [reward for] themselves is like a garden on high ground which is hit by a downpour - so it yields its fruits in double. And [even] if it is not hit by a downpour, then a drizzle [is sufficient]. And Allah, of what you do, is Seeing.",
+      "hindiText": "और जो लोग ख़ुदा की ख़ुशनूदी के लिए और अपने दिली एतक़ाद से अपने माल ख़र्च करते हैं उनकी मिसाल उस (हरे भरे) बाग़ की सी है जो किसी टीले या टीकरे पर लगा हो और उस पर ज़ोर शोर से पानी बरसा तो अपने दुगने फल लाया और अगर उस पर बड़े धड़ल्ले का पानी न भी बरसे तो उसके लिये हल्की फुआर (ही काफ़ी) है और जो कुछ तुम करते हो ख़ुदा उसकी देखभाल करता रहता है",
+      "urduText": "ان لوگوں کی مثال جو اپنا مال اللہ تعالیٰ کی رضامندی کی طلب میں دل کی خوشی اور یقین کے ساتھ خرچ کرتے ہیں اس باغ جیسی ہے جو اونچی زمین پر ہواور زوردار بارش اس پر برسے اور وه اپنا پھل دگنا ﻻوے اور اگر اس پر بارش نہ بھی برسے تو پھوار ہی کافی ہے اور اللہ تمہارے کام دیکھ رہا ہے",
+      "phraseType": "anonymous",
       "references": [
         {
           "surahNumber": 2,
@@ -220,10 +259,11 @@
       ]
     },
     {
-      "arabicText": "يا أَيُّهَا الَّذينَ آمَنوا أَنفِقوا مِن طَيِّباتِ ما كَسَبتُم وَمِمّا أَخرَجنا لَكُم مِنَ الأَرضِ ۖ وَلا تَيَمَّمُوا الخَبيثَ مِنهُ تُنفِقونَ وَلَستُم بِآخِذيهِ إِلّا أَن تُغمِضوا فيهِ ۚ",
-      "englishText": "O you who have believed, spend from the good things which you have earned and from that which We have produced for you from the earth. And do not aim toward the defective therefrom, spending [from that] while you would not take it [yourself] except with closed eyes.",
-      "hindiText": "ऐ ईमान वालों अपनी पाक कमाई और उन चीज़ों में से जो हमने तुम्हारे लिए ज़मीन से पैदा की हैं (ख़ुदा की राह में) ख़र्च करो और बुरे माल को (ख़ुदा की राह में) देने का क़सद भी न करो हालॉकि अगर ऐसा माल कोई तुमको देना चाहे तो तुम अपनी ख़ुशी से उसके लेने वाले नहीं हो मगर ये कि उस (के लेने) में (अमदन) आंख चुराओ",
-      "urduText": "اے ایمان والو! اپنی پاکیزه کمائی میں سے اور زمین میں سے تمہارے لئے ہماری نکالی ہوئی چیزوں میں سے خرچ کرو، ان میں سے بری چیزوں کے خرچ کرنے کا قصد نہ کرنا، جسے تم خود لینے والے نہیں ہو، ہاں اگر آنکھیں بند کر لو تو",
+      "arabicText": "يا أَيُّهَا الَّذينَ آمَنوا أَنفِقوا مِن طَيِّباتِ ما كَسَبتُم وَمِمّا أَخرَجنا لَكُم مِنَ الأَرضِ ۖ وَلا تَيَمَّمُوا الخَبيثَ مِنهُ تُنفِقونَ وَلَستُم بِآخِذيهِ إِلّا أَن تُغمِضوا فيهِ ۚ وَاعلَموا أَنَّ اللَّهَ غَنِيٌّ حَميدٌ",
+      "englishText": "O you who have believed, spend from the good things which you have earned and from that which We have produced for you from the earth. And do not aim toward the defective therefrom, spending [from that] while you would not take it [yourself] except with closed eyes. And know that Allah is Free of need and Praiseworthy.",
+      "hindiText": "ऐ ईमान वालों अपनी पाक कमाई और उन चीज़ों में से जो हमने तुम्हारे लिए ज़मीन से पैदा की हैं (ख़ुदा की राह में) ख़र्च करो और बुरे माल को (ख़ुदा की राह में) देने का क़सद भी न करो हालॉकि अगर ऐसा माल कोई तुमको देना चाहे तो तुम अपनी ख़ुशी से उसके लेने वाले नहीं हो मगर ये कि उस (के लेने) में (अमदन) आंख चुराओ और जाने रहो कि ख़ुदा बेशक बेनियाज़ (और) सज़ावारे हम्द है",
+      "urduText": "اے ایمان والو! اپنی پاکیزه کمائی میں سے اور زمین میں سے تمہارے لئے ہماری نکالی ہوئی چیزوں میں سے خرچ کرو، ان میں سے بری چیزوں کے خرچ کرنے کا قصد نہ کرنا، جسے تم خود لینے والے نہیں ہو، ہاں اگر آنکھیں بند کر لو تو، اور جان لو کہ اللہ تعالیٰ بے پرواه اور خوبیوں واﻻ ہے",
+      "phraseType": "anonymous",
       "references": [
         {
           "surahNumber": 2,
@@ -232,26 +272,762 @@
       ]
     },
     {
-      "arabicText": "لِلَّهِ ما فِي السَّماواتِ وَما فِي الأَرضِ ۗ وَإِن تُبدوا ما في أَنفُسِكُم أَو تُخفوهُ يُحاسِبكُم بِهِ اللَّهُ ۖ فَيَغفِرُ لِمَن يَشاءُ وَيُعَذِّبُ مَن يَشاءُ ۗ وَاللَّهُ عَلىٰ كُلِّ شَيءٍ قَديرٌ",
-      "englishText": "To Allah belongs whatever is in the heavens and whatever is in the earth. Whether you show what is within yourselves or conceal it, Allah will bring you to account for it. Then He will forgive whom He wills and punish whom He wills, and Allah is over all things competent.",
-      "hindiText": "जो कुछ आसमानों में है और जो कुछ ज़मीन में है (ग़रज़) सब कुछ खुदा ही का है और जो कुछ तुम्हारे दिलों में हे ख्वाह तुम उसको ज़ाहिर करो या उसे छिपाओ ख़ुदा तुमसे उसका हिसाब लेगा, फिर जिस को चाहे बख्श दे और जिस पर चाहे अज़ाब करे, और ख़ुदा हर चीज़ पर क़ादिर है",
-      "urduText": "آسمانوں اور زمین کی ہر چیز اللہ تعالیٰ ہی کی ملکیت ہے۔ تمہارے دلوں میں جو کچھ ہے اسے تم ﻇاہر کرو یا چھپاؤ، اللہ تعالیٰ اس کا حساب تم سے لے گا۔ پھر جسے چاہے بخشے اور جسے چاہے سزا دے اور اللہ تعالیٰ ہر چیز پر قادر ہے",
+      "arabicText": "وَاتَّقوا يَومًا تُرجَعونَ فيهِ إِلَى اللَّهِ ۖ ثُمَّ تُوَفّىٰ كُلُّ نَفسٍ ما كَسَبَت وَهُم لا يُظلَمونَ",
+      "englishText": "And fear a Day when you will be returned to Allah. Then every soul will be compensated for what it earned, and they will not be treated unjustly.",
+      "hindiText": "और उस दिन से डरो जिस दिन तुम सब के सब ख़ुदा की तरफ़ लौटाये जाओगे फिर जो कुछ जिस शख्स ने किया है उसका पूरा पूरा बदला दिया जाएगा और उनकी ज़रा भी हक़ तलफ़ी न होगी",
+      "urduText": "اور اس دن سے ڈرو جس میں تم سب اللہ تعالیٰ کی طرف لوٹائے جاؤگے اور ہر شخص کو اس کے اعمال کا پورا پورا بدلہ دیا جائے گا اور ان پر ظلم نہیں کیا جائے گا",
+      "phraseType": "anonymous",
       "references": [
         {
           "surahNumber": 2,
-          "ayahNumber": 284
+          "ayahNumber": 281
         }
       ]
     },
     {
-      "arabicText": "يَختَصُّ بِرَحمَتِهِ مَن يَشاءُ",
-      "englishText": "He selects for His mercy whom He wills.",
-      "hindiText": "जिसको चाहे अपनी रहमत के लिये ख़ास कर लेता है",
-      "urduText": "وه اپنی رحمت کے ساتھ جسے چاہے مخصوص کر لے",
+      "arabicText": "هُوَ الَّذي أَنزَلَ عَلَيكَ الكِتابَ مِنهُ آياتٌ مُحكَماتٌ هُنَّ أُمُّ الكِتابِ وَأُخَرُ مُتَشابِهاتٌ ۖ فَأَمَّا الَّذينَ في قُلوبِهِم زَيغٌ فَيَتَّبِعونَ ما تَشابَهَ مِنهُ ابتِغاءَ الفِتنَةِ وَابتِغاءَ تَأويلِهِ ۗ وَما يَعلَمُ تَأويلَهُ إِلَّا اللَّهُ ۗ وَالرّاسِخونَ فِي العِلمِ يَقولونَ آمَنّا بِهِ كُلٌّ مِن عِندِ رَبِّنا ۗ وَما يَذَّكَّرُ إِلّا أُولُو الأَلبابِ",
+      "englishText": "It is He who has sent down to you, [O Muhammad], the Book; in it are verses [that are] precise - they are the foundation of the Book - and others unspecific. As for those in whose hearts is deviation [from truth], they will follow that of it which is unspecific, seeking discord and seeking an interpretation [suitable to them]. And no one knows its [true] interpretation except Allah. But those firm in knowledge say, \"We believe in it. All [of it] is from our Lord.\" And no one will be reminded except those of understanding.",
+      "hindiText": "वही (हर चीज़ पर) ग़ालिब और दाना है (ए रसूल) वही (वह ख़ुदा) है जिसने तुमपर किताब नाज़िल की उसमें की बाज़ आयतें तो मोहकम (बहुत सरीह) हैं वही (अमल करने के लिए) असल (व बुनियाद) किताब है और कुछ (आयतें) मुतशाबेह (मिलती जुलती) (गोल गोल जिसके मायने में से पहलू निकल सकते हैं) पस जिन लोगों के दिलों में कज़ी है वह उन्हीं आयतों के पीछे पड़े रहते हैं जो मुतशाबेह हैं ताकि फ़साद बरपा करें और इस ख्याल से कि उन्हें मतलब पर ढाले लें हालाँकि ख़ुदा और उन लोगों के सिवा जो इल्म से बड़े पाए पर फ़ायज़ हैं उनका असली मतलब कोई नहीं जानता वह लोग (ये भी) कहते हैं कि हम उस पर ईमान लाए (यह) सब (मोहकम हो या मुतशाबेह) हमारे परवरदिगार की तरफ़ से है और अक्ल वाले ही समझते हैं",
+      "urduText": "وہی اللہ تعالیٰ ہے جس نے تجھ پر کتاب اتاری جس میں واضح مضبوط آیتیں ہیں جو اصل کتاب ہیں اوربعض متشابہ آیتیں ہیں۔ پس جن کے دلوں میں کجی ہے وه تواس کی متشابہ آیتوں کے پیچھے لگ جاتے ہیں، فتنے کی طلب اور ان کی مراد کی جستجو کے لئے، حاﻻنکہ ان کے حقیقی مراد کو سوائے اللہ تعالیٰ کے کوئی نہیں جانتا اور پختہ ومضبوط علم والے یہی کہتے ہیں کہ ہم تو ان پر ایمان ﻻچکے، یہ ہمارے رب کی طرف سے ہیں اور نصیحت تو صرف عقلمند حاصل کرتے ہیں۔",
+      "phraseType": "anonymous",
       "references": [
         {
           "surahNumber": 3,
-          "ayahNumber": 74
+          "ayahNumber": 7
+        }
+      ]
+    },
+    {
+      "arabicText": "قَد كانَ لَكُم آيَةٌ في فِئَتَينِ التَقَتا ۖ فِئَةٌ تُقاتِلُ في سَبيلِ اللَّهِ وَأُخرىٰ كافِرَةٌ يَرَونَهُم مِثلَيهِم رَأيَ العَينِ ۚ وَاللَّهُ يُؤَيِّدُ بِنَصرِهِ مَن يَشاءُ ۗ إِنَّ في ذٰلِكَ لَعِبرَةً لِأُولِي الأَبصارِ",
+      "englishText": "Already there has been for you a sign in the two armies which met - one fighting in the cause of Allah and another of disbelievers. They saw them [to be] twice their [own] number by [their] eyesight. But Allah supports with His victory whom He wills. Indeed in that is a lesson for those of vision.",
+      "hindiText": "बेशक तुम्हारे (समझाने के) वास्ते उन दो (मुख़ालिफ़ गिरोहों में जो (बद्र की लड़ाई में) एक दूसरे के साथ गुथ गए (रसूल की सच्चाई की) बड़ी भारी निशानी है कि एक गिरोह ख़ुदा की राह में जेहाद करता था और दूसरा काफ़िरों का जिनको मुसलमान अपनी ऑख से दुगना देख रहे थे (मगर ख़ुदा ने क़लील ही को फ़तह दी) और ख़ुदा अपनी मदद से जिस की चाहता है ताईद करता है बेशक ऑख वालों के वास्ते इस वाक़ये में बड़ी इबरत है",
+      "urduText": "یقیناً تمہارے لئے عبرت کی نشانی تھی ان دو جماعتوں میں جو گتھ گئی تھیں، ایک جماعت تو اللہ تعالیٰ کی راه میں لڑ رہی تھی اور دوسرا گروه کافروں کا تھا وه انہیں اپنی آنکھوں سے اپنے سے دگنا دیکھتے تھے اور اللہ تعالیٰ جسے چاہے اپنی مدد سے قوی کرتا ہے۔ یقیناً اس میں آنکھوں والوں کے لئے بڑی عبرت ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 13
+        }
+      ]
+    },
+    {
+      "arabicText": "زُيِّنَ لِلنّاسِ حُبُّ الشَّهَواتِ مِنَ النِّساءِ وَالبَنينَ وَالقَناطيرِ المُقَنطَرَةِ مِنَ الذَّهَبِ وَالفِضَّةِ وَالخَيلِ المُسَوَّمَةِ وَالأَنعامِ وَالحَرثِ ۗ ذٰلِكَ مَتاعُ الحَياةِ الدُّنيا ۖ وَاللَّهُ عِندَهُ حُسنُ المَآبِ",
+      "englishText": "Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allah has with Him the best return.",
+      "hindiText": "दुनिया में लोगों को उनकी मरग़ूब चीज़े (मसलन) बीवियों और बेटों और सोने चॉदी के बड़े बड़े लगे हुए ढेरों और उम्दा उम्दा घोड़ों और मवेशियों ओर खेती के साथ उलफ़त भली करके दिखा दी गई है ये सब दुनयावी ज़िन्दगी के (चन्द रोज़ा) फ़ायदे हैं और (हमेशा का) अच्छा ठिकाना तो ख़ुदा ही के यहॉ है",
+      "urduText": "مرغوب چیزوں کی محبت لوگوں کے لئے مزین کر دی گئی ہے، جیسے عورتیں اور بیٹے اور سونے اور چاندی کے جمع کئے ہوئے خزانے اور نشاندار گھوڑے اور چوپائے اور کھیتی، یہ دنیا کی زندگی کا سامان ہے اور لوٹنے کا اچھا ٹھکانا تو اللہ تعالیٰ ہی کے پاس ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 14
+        }
+      ]
+    },
+    {
+      "arabicText": "لَن تَنالُوا البِرَّ حَتّىٰ تُنفِقوا مِمّا تُحِبّونَ ۚ وَما تُنفِقوا مِن شَيءٍ فَإِنَّ اللَّهَ بِهِ عَليمٌ",
+      "englishText": "Never will you attain the good [reward] until you spend [in the way of Allah] from that which you love. And whatever you spend - indeed, Allah is Knowing of it.",
+      "hindiText": "(लोगों) जब तक तुम अपनी पसन्दीदा चीज़ों में से कुछ राहे ख़ुदा में ख़र्च न करोगे हरगिज़ नेकी के दरजे पर फ़ायज़ नहीं हो सकते और तुम कोई",
+      "urduText": "جب تک تم اپنی پسندیده چیز سے اللہ تعالیٰ کی راه میں خرچ نہ کروگے ہرگز بھلائی نہ پاؤ گے، اور تم جو خرچ کرو اسے اللہ تعالیٰ بخوبی جانتا ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 92
+        }
+      ]
+    },
+    {
+      "arabicText": "وَمَن يَعتَصِم بِاللَّهِ فَقَد هُدِيَ إِلىٰ صِراطٍ مُستَقيمٍ",
+      "englishText": "And whoever holds firmly to Allah has [indeed] been guided to a straight path.",
+      "hindiText": "और जो शख्स ख़ुदा से वाबस्ता हो वह (तो) जरूर सीधी राह पर लगा दिया गया",
+      "urduText": "جو شخص اللہ تعالیٰ (کے دین) کو مضبوط تھام لے تو بلاشبہ اسے راه راست دکھادی گئی",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 101
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلتَكُن مِنكُم أُمَّةٌ يَدعونَ إِلَى الخَيرِ وَيَأمُرونَ بِالمَعروفِ وَيَنهَونَ عَنِ المُنكَرِ ۚ وَأُولٰئِكَ هُمُ المُفلِحونَ",
+      "englishText": "And let there be [arising] from you a nation inviting to [all that is] good, enjoining what is right and forbidding what is wrong, and those will be the successful.",
+      "hindiText": "और तुमसे एक गिरोह ऐसे (लोगों का भी) तो होना चाहिये जो (लोगों को) नेकी की तरफ़ बुलाए अच्छे काम का हुक्म दे और बुरे कामों से रोके और ऐसे ही लोग (आख़ेरत में) अपनी दिली मुरादें पायेंगे",
+      "urduText": "تم میں سے ایک جماعت ایسی ہونی چاہئے جو بھلائی کی طرف بلائے اور نیک کاموں کا حکم کرے اور برے کاموں سے روکے، اور یہی لوگ فلاح ونجات پانے والے ہیں",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 104
+        }
+      ]
+    },
+    {
+      "arabicText": "وَعَلَى اللَّهِ فَليَتَوَكَّلِ المُؤمِنونَ",
+      "englishText": "And upon Allah the believers should rely.",
+      "hindiText": "और मोमिनीन को ख़ुदा ही पर भरोसा रखना चाहिये",
+      "urduText": "اور اسی کی پاک ذات پر مومنوں کو بھروسہ رکھنا چاہئے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 122
+        },
+        {
+          "surahNumber": 3,
+          "ayahNumber": 160
+        },
+        {
+          "surahNumber": 5,
+          "ayahNumber": 11
+        }
+      ]
+    },
+    {
+      "arabicText": "وَمَا النَّصرُ إِلّا مِن عِندِ اللَّهِ العَزيزِ الحَكيمِ",
+      "englishText": "And victory is not except from Allah, the Exalted in Might, the Wise",
+      "hindiText": "मदद जब होती है तो ख़ुदा ही की तरफ़ से जो सब पर ग़ालिब (और) हिकमत वाला है",
+      "urduText": "ورنہ مدد تو اللہ ہی کی طرف سے ہے جو غالب اور حکمتوں واﻻ ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 126
+        }
+      ]
+    },
+    {
+      "arabicText": "۞ وَسارِعوا إِلىٰ مَغفِرَةٍ مِن رَبِّكُم وَجَنَّةٍ عَرضُهَا السَّماواتُ وَالأَرضُ أُعِدَّت لِلمُتَّقينَ\nالَّذينَ يُنفِقونَ فِي السَّرّاءِ وَالضَّرّاءِ وَالكاظِمينَ الغَيظَ وَالعافينَ عَنِ النّاسِ ۗ وَاللَّهُ يُحِبُّ المُحسِنينَ\nوَالَّذينَ إِذا فَعَلوا فاحِشَةً أَو ظَلَموا أَنفُسَهُم ذَكَرُوا اللَّهَ فَاستَغفَروا لِذُنوبِهِم وَمَن يَغفِرُ الذُّنوبَ إِلَّا اللَّهُ وَلَم يُصِرّوا عَلىٰ ما فَعَلوا وَهُم يَعلَمونَ\nأُولٰئِكَ جَزاؤُهُم مَغفِرَةٌ مِن رَبِّهِم وَجَنّاتٌ تَجري مِن تَحتِهَا الأَنهارُ خالِدينَ فيها ۚ وَنِعمَ أَجرُ العامِلينَ",
+      "englishText": "And hasten to forgiveness from your Lord and a garden as wide as the heavens and earth, prepared for the righteous\nWho spend [in the cause of Allah] during ease and hardship and who restrain anger and who pardon the people - and Allah loves the doers of good;\nAnd those who, when they commit an immorality or wrong themselves [by transgression], remember Allah and seek forgiveness for their sins - and who can forgive sins except Allah? - and [who] do not persist in what they have done while they know.\nThose - their reward is forgiveness from their Lord and gardens beneath which rivers flow [in Paradise], wherein they will abide eternally; and excellent is the reward of the [righteous] workers.",
+      "hindiText": "और अपने परवरदिगार के (सबब) बख्शिश और जन्नत की तरफ़ दौड़ पड़ो जिसकी (वुसअत सारे) आसमान और ज़मीन के बराबर है और जो परहेज़गारों के लिये मुहय्या की गयी है\nजो ख़ुशहाली और कठिन वक्त में भी (ख़ुदा की राह पर) ख़र्च करते हैं और गुस्से को रोकते हैं और लोगों (की ख़ता) से दरगुज़र करते हैं और नेकी करने वालों से अल्लाह उलफ़त रखता है\nऔर लोग इत्तिफ़ाक़ से कोई बदकारी कर बैठते हैं या आप अपने ऊपर जुल्म करते हैं तो ख़ुदा को याद करते हैं और अपने गुनाहों की माफ़ी मॉगते हैं और ख़ुदा के सिवा गुनाहों का बख्शने वाला और कौन है और जो (क़ूसूर) वह (नागहानी) कर बैठे तो जानबूझ कर उसपर हट नहीं करते\nऐसे ही लोगों की जज़ा उनके परवरदिगार की तरफ़ से बख्शिश है और वह बाग़ात हैं जिनके नीचे नहरें जारी हैं कि वह उनमें हमेशा रहेंगे और (अच्छे) चलन वालों की (भी) ख़ूब खरी मज़दूरी है",
+      "urduText": "اور اپنے رب کی بخشش کی طرف اور اس جنت کی طرف دوڑو جس کا عرض آسمانوں اور زمین کے برابر ہے، جو پرہیزگاروں کے لئے تیار کی گئی ہے\nجو لوگ آسانی میں سختی کے موقع پر بھی اللہ کے راستے میں خرچ کرتے ہیں، غصہ پینے والے اور لوگوں سے درگزر کرنے والے ہیں، اللہ تعالیٰ ان نیک کاروں سے محبت کرتا ہے\nجب ان سے کوئی ناشائستہ کام ہو جائے یا کوئی گناه کر بیٹھیں تو فوراً اللہ کا ذکر اور اپنے گناہوں کے لئے استغفار کرتے ہیں، فیالواقع اللہ تعالیٰ کے سوا اور کون گناہوں کو بخش سکتا ہے؟ اور وه لوگ باوجود علم کے کسی برے کام پر اڑ نہیں جاتے\nانہیں کا بدلہ ان کے رب کی طرف سے مغفرت ہے اور جنتیں ہیں جن کے نیچے نہریں بہتی ہیں، جن میں وه ہمیشہ رہیں گے، ان نیک کاموں کے کرنے والوں کا ﺛواب کیا ہی اچھا ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 133
+        },
+        {
+          "surahNumber": 3,
+          "ayahNumber": 134
+        },
+        {
+          "surahNumber": 3,
+          "ayahNumber": 135
+        },
+        {
+          "surahNumber": 3,
+          "ayahNumber": 136
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلا تَهِنوا وَلا تَحزَنوا وَأَنتُمُ الأَعلَونَ إِن كُنتُم مُؤمِنينَ",
+      "englishText": "So do not weaken and do not grieve, and you will be superior if you are [true] believers.",
+      "hindiText": "और मुसलमानों काहिली न करो और (इस) इत्तफ़ाक़ी शिकस्त (ओहद से) कुढ़ो नहीं (क्योंकि) अगर तुम सच्चे मोमिन हो तो तुम ही ग़ालिब और वर रहोगे",
+      "urduText": "تم نہ سستی کرو اور غمگین ہو، تم ہی غالب رہو گے، اگر تم ایماندار ہو",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 139
+        }
+      ]
+    },
+    {
+      "arabicText": "وَسَيَجزِي اللَّهُ الشّاكِرينَ",
+      "englishText": "But Allah will reward the grateful.",
+      "hindiText": "और अनक़रीब ख़ुदा का शुक्र करने वालों को अच्छा बदला देगा",
+      "urduText": "عنقریب اللہ تعالیٰ شکر گزاروں کو نیک بدلہ دے گا",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 144
+        }
+      ]
+    },
+    {
+      "arabicText": "بَلِ اللَّهُ مَولاكُم ۖ وَهُوَ خَيرُ النّاصِرينَ",
+      "englishText": "But Allah is your protector, and He is the best of helpers.",
+      "hindiText": "(तुम किसी की मदद के मोहताज नहीं) बल्कि ख़ुदा तुम्हारा सरपरस्त है और वह सब मददगारों से बेहतर है",
+      "urduText": "بلکہ اللہ ہی تمہارا موﻻ ہے اور وہی بہترین مددگار ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 150
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ الأَمرَ كُلَّهُ لِلَّهِ",
+      "englishText": "\"Indeed, the matter belongs completely to Allah.\"",
+      "hindiText": "हर अम्र का इख्तियार ख़ुदा ही को है",
+      "urduText": "کام کل کا کل اللہ کے اختیار میں ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 154
+        }
+      ]
+    },
+    {
+      "arabicText": "لَو كُنتُم في بُيوتِكُم لَبَرَزَ الَّذينَ كُتِبَ عَلَيهِمُ القَتلُ إِلىٰ مَضاجِعِهِم",
+      "englishText": "\"Even if you had been inside your houses, those decreed to be killed would have come out to their death beds.\"",
+      "hindiText": "तुम अपने घरों में रहते तो जिन जिन की तकदीर में लड़के मर जाना लिखा था वह अपने (घरो से) निकल निकल के अपने मरने की जगह ज़रूर आ जाते",
+      "urduText": "تم اپنے گھروں میں ہوتے پھر بھی جن کی قمست میں قتل ہونا تھا وه تو مقتل کی طرف چل کھڑے ہوتے،",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 154
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلَئِن قُتِلتُم في سَبيلِ اللَّهِ أَو مُتُّم لَمَغفِرَةٌ مِنَ اللَّهِ وَرَحمَةٌ خَيرٌ مِمّا يَجمَعونَ",
+      "englishText": "And if you are killed in the cause of Allah or die - then forgiveness from Allah and mercy are better than whatever they accumulate [in this world].",
+      "hindiText": "और अगर तुम ख़ुदा की राह में मारे जाओ या (अपनी मौत से) मर जाओ तो बेशक ख़ुदा की बख्शिश और रहमत इस (माल व दौलत) से जिसको तुम जमा करते हो ज़रूर बेहतर है",
+      "urduText": "قسم ہے اگر اللہ تعالیٰ کی راه میں شہید کئے جاؤ یا اپنی موت مرو تو بے شک اللہ تعالیٰ کی بخشش ورحمت اس سے بہتر ہے جسے یہ جمع کر رہے ہیں",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 157
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلا تَحسَبَنَّ الَّذينَ قُتِلوا في سَبيلِ اللَّهِ أَمواتًا ۚ بَل أَحياءٌ عِندَ رَبِّهِم يُرزَقونَ\nفَرِحينَ بِما آتاهُمُ اللَّهُ مِن فَضلِهِ وَيَستَبشِرونَ بِالَّذينَ لَم يَلحَقوا بِهِم مِن خَلفِهِم أَلّا خَوفٌ عَلَيهِم وَلا هُم يَحزَنونَ",
+      "englishText": "And never think of those who have been killed in the cause of Allah as dead. Rather, they are alive with their Lord, receiving provision,\nRejoicing in what Allah has bestowed upon them of His bounty, and they receive good tidings about those [to be martyred] after them who have not yet joined them - that there will be no fear concerning them, nor will they grieve.",
+      "hindiText": "और जो लोग ख़ुदा की राह में शहीद किए गए उन्हें हरगिज़ मुर्दा न समझना बल्कि वह लोग जीते जागते मौजूद हैं अपने परवरदिगार की तरफ़ से वह (तरह तरह की) रोज़ी पाते हैं\nऔर ख़ुदा ने जो फ़ज़ल व करम उन पर किया है उसकी (ख़ुशी) से फूले नहीं समाते और जो लोग उनसे पीछे रह गए और उनमें आकर शामिल नहीं हुए उनकी निस्बत ये (ख्याल करके) ख़ुशियॉ मनाते हैं कि (ये भी शहीद हों तो) उनपर न किसी क़िस्म का ख़ौफ़ होगा और न आज़ुर्दा ख़ातिर होंगे",
+      "urduText": "جو لوگ اللہ کی راه میں شہید کئے گئے ہیں ان کو ہرگز مرده نہ سمجھیں، بلکہ وه زنده ہیں اپنے رب کے پاس روزیاں دیئے جاتے ہیں\nاللہ تعالیٰ نے اپنا فضل جو انہیں دے رکھا ہے اس سے بہت خوش ہیں اور خوشیاں منا رہے ہیں ان لوگوں کی بابت جو اب تک ان سے نہیں ملے ان کے پیچھے ہیں، اس پر کہ انہیں نہ کوئی خوف ہے اور نہ وه غمگین ہوں گے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 169
+        },
+        {
+          "surahNumber": 3,
+          "ayahNumber": 170
+        }
+      ]
+    },
+    {
+      "arabicText": "كُلُّ نَفسٍ ذائِقَةُ المَوتِ",
+      "englishText": "Every soul will taste death",
+      "hindiText": "हर जान एक न एक (दिन) मौत का मज़ा चखेगी",
+      "urduText": "ہر جان موت کا مزه چکھنے والی ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 185
+        }
+      ]
+    },
+    {
+      "arabicText": "وَإِنَّما تُوَفَّونَ أُجورَكُم يَومَ القِيامَةِ",
+      "englishText": "And you will only be given your [full] compensation on the Day of Resurrection.",
+      "hindiText": "और तुम लोग क़यामत के दिन (अपने किए का) पूरा पूरा बदला भर पाओगे",
+      "urduText": "اور قیامت کے دن تم اپنے بدلے پورے پورے دیئے جاؤ گے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 185
+        }
+      ]
+    },
+    {
+      "arabicText": "وَمَا الحَياةُ الدُّنيا إِلّا مَتاعُ الغُرورِ",
+      "englishText": "And what is the life of this world except the enjoyment of delusion.",
+      "hindiText": "और दुनिया की (चन्द रोज़ा) ज़िन्दगी धोखे की टट्टी के सिवा कुछ नहीं",
+      "urduText": "اور دنیا کی زندگی تو صرف دھوکے کی جنس ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 185
+        }
+      ]
+    },
+    {
+      "arabicText": "أَنّي لا أُضيعُ عَمَلَ عامِلٍ مِنكُم مِن ذَكَرٍ أَو أُنثىٰ ۖ بَعضُكُم مِن بَعضٍ ۖ فَالَّذينَ هاجَروا وَأُخرِجوا مِن دِيارِهِم وَأوذوا في سَبيلي وَقاتَلوا وَقُتِلوا لَأُكَفِّرَنَّ عَنهُم سَيِّئَاتِهِم وَلَأُدخِلَنَّهُم جَنّاتٍ تَجري مِن تَحتِهَا الأَنهارُ ثَوابًا مِن عِندِ اللَّهِ ۗ وَاللَّهُ عِندَهُ حُسنُ الثَّوابِ",
+      "englishText": "\"Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another. So those who emigrated or were evicted from their homes or were harmed in My cause or fought or were killed - I will surely remove from them their misdeeds, and I will surely admit them to gardens beneath which rivers flow as reward from Allah, and Allah has with Him the best reward.\"",
+      "hindiText": "हम तुममें से किसी काम करने वाले के काम को अकारत नहीं करते मर्द हो या औरत (उस में कुछ किसी की खुसूसियत नहीं क्योंकि) तुम एक दूसरे (की जिन्स) से हो जो लोग (हमारे लिए वतन आवारा हुए) और शहर बदर किए गए और उन्होंने हमारी राह में अज़ीयतें उठायीं और (कुफ्फ़र से) जंग की और शहीद हुए मैं उनकी बुराईयों से ज़रूर दरगुज़र करूंगा और उन्हें बेहिश्त के उन बाग़ों में ले जाऊॅगा जिनके नीचे नहरें जारी हैं ख़ुदा के यहॉ ये उनके किये का बदला है और ख़ुदा (ऐसा ही है कि उस) के यहॉ तो अच्छा ही बदला है",
+      "urduText": "تم میں سے کسی کام کرنے والے کے کام کو خواه وه مرد ہو یا عورت میں ہرگز ضائع نہیں کرتا، تم آپس میں ایک دوسرے کے ہم جنس ہو، اس لئے وه لوگ جنہوں نے ہجرت کی اور اپنے گھروں سے نکال دیئے گئے اور جنہیں میری راه میں ایذا دی گئی اور جنہوں نے جہاد کیا اور شہید کئے گئے، میں ضرور ضرور ان کی برائیاں ان سے دور کر دوں گا اور بالیقین انہیں ان جنتوں میں لے جاؤں گا جن کے نیچے نہریں بہہ رہی ہیں، یہ ہے ﺛواب اللہ تعالیٰ کی طرف سے اور اللہ تعالیٰ ہی کے پاس بہترین ﺛواب ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 195
+        }
+      ]
+    },
+    {
+      "arabicText": "لا يَغُرَّنَّكَ تَقَلُّبُ الَّذينَ كَفَروا فِي البِلادِ\nمَتاعٌ قَليلٌ ثُمَّ مَأواهُم جَهَنَّمُ ۚ وَبِئسَ المِهادُ",
+      "englishText": "Be not deceived by the [uninhibited] movement of the disbelievers throughout the land.\n[It is but] a small enjoyment; then their [final] refuge is Hell, and wretched is the resting place.",
+      "hindiText": "(ऐ रसूल) काफ़िरों का शहरों शहरों चैन करते फिरना तुम्हे धोखे में न डाले\nये चन्द रोज़ा फ़ायदा हैं फिर तो (आख़िरकार) उनका ठिकाना जहन्नुम ही है और क्या ही बुरा ठिकाना है",
+      "urduText": "تجھے کافروں کا شہروں میں چلنا پھرنا فریب میں نہ ڈال دے،\nیہ تو بہت ہی تھوڑا فائده ہے، اس کے بعد ان کا ٹھکانہ تو جہنم ہے اور وه بری جگہ ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 196
+        },
+        {
+          "surahNumber": 3,
+          "ayahNumber": 197
+        }
+      ]
+    },
+    {
+      "arabicText": "يا أَيُّهَا الَّذينَ آمَنُوا اصبِروا وَصابِروا وَرابِطوا وَاتَّقُوا اللَّهَ لَعَلَّكُم تُفلِحونَ",
+      "englishText": "O you who have believed, persevere and endure and remain stationed and fear Allah that you may be successful.",
+      "hindiText": "ऐ ईमानदारों (दीन की तकलीफ़ों को) और दूसरों को बर्दाश्त की तालीम दो और (जिहाद के लिए) कमरें कस लो और ख़ुदा ही से डरो ताकि तुम अपनी दिली मुराद पाओ",
+      "urduText": "اے ایمان والو! تم ﺛابت قدم رہو اور ایک دوسرے کو تھامے رکھو اور جہاد کے لئے تیار رہو اور اللہ تعالیٰ سے ڈرتے رہو تاکہ تم مراد کو پہنچو",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 3,
+          "ayahNumber": 200
+        }
+      ]
+    },
+    {
+      "arabicText": "وَآتُوا اليَتامىٰ أَموالَهُم ۖ وَلا تَتَبَدَّلُوا الخَبيثَ بِالطَّيِّبِ ۖ وَلا تَأكُلوا أَموالَهُم إِلىٰ أَموالِكُم ۚ إِنَّهُ كانَ حوبًا كَبيرًا",
+      "englishText": "And give to the orphans their properties and do not substitute the defective [of your own] for the good [of theirs]. And do not consume their properties into your own. Indeed, that is ever a great sin.",
+      "hindiText": "और यतीमों को उनके माल दे दो और बुरी चीज़ (माले हराम) को भली चीज़ (माले हलाल) के बदले में न लो और उनके माल अपने मालों में मिलाकर न चख जाओ क्योंकि ये बहुत बड़ा गुनाह है",
+      "urduText": "اور یتیموں کو ان کے مال دے دو اور پاک اور حلال چیز کے بدلے ناپاک اور حرام چیز نہ لو، اور اپنے مالوں کے ساتھ ان کے مال ملا کر کھا نہ جاؤ، بے شک یہ بہت بڑا گناه ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 2
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلا تُؤتُوا السُّفَهاءَ أَموالَكُمُ الَّتي جَعَلَ اللَّهُ لَكُم قِيامًا وَارزُقوهُم فيها وَاكسوهُم وَقولوا لَهُم قَولًا مَعروفًا",
+      "englishText": "And do not give the weak-minded your property, which Allah has made a means of sustenance for you, but provide for them with it and clothe them and speak to them words of appropriate kindness.",
+      "hindiText": "और अपने वह माल जिनपर ख़ुदा ने तुम्हारी गुज़र न क़रार दी है बेवकूफ़ों (ना समझ यतीम) को न दे बैठो हॉ उसमें से उन्हें खिलाओ और उनको पहनाओ (तो मज़ाएक़ा नहीं) और उनसे (शौक़ से) अच्छी तरह बात करो",
+      "urduText": "بے عقل لوگوں کو اپنا مال نہ دے دو جس مال کو اللہ تعالیٰ نے تمہاری گزران کے قائم رکھنے کا ذریعہ بنایا ہے، ہاں انہیں اس مال سے کھلاؤ پلاؤ، پہناؤ، اوڑھاؤ اور انہیں معقولیت سے نرم بات کہو",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 5
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ الَّذينَ يَأكُلونَ أَموالَ اليَتامىٰ ظُلمًا إِنَّما يَأكُلونَ في بُطونِهِم نارًا ۖ وَسَيَصلَونَ سَعيرًا",
+      "englishText": "Indeed, those who devour the property of orphans unjustly are only consuming into their bellies fire. And they will be burned in a Blaze.",
+      "hindiText": "जो यतीमों के माल नाहक़ चट कर जाया करते हैं वह अपने पेट में बस अंगारे भरते हैं और अनक़रीब जहन्नुम वासिल होंगे",
+      "urduText": "جو لوگ ناحق ﻇلم سے یتیموں کا مال کھا جاتے ہیں، وه اپنے پیٹ میں آگ ہی بھر رہے ہیں اور عنقریب وه دوزخ میں جائیں گے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 10
+        }
+      ]
+    },
+    {
+      "arabicText": "فَإِن كَرِهتُموهُنَّ فَعَسىٰ أَن تَكرَهوا شَيئًا وَيَجعَلَ اللَّهُ فيهِ خَيرًا كَثيرًا",
+      "englishText": "For if you dislike them - perhaps you dislike a thing and Allah makes therein much good.",
+      "hindiText": "और अगर तुम किसी वजह से उन्हें नापसन्द करो (तो भी सब्र करो क्योंकि) अजब नहीं कि किसी चीज़ को तुम नापसन्द करते हो और ख़ुदा तुम्हारे लिए उसमें बहुत बेहतरी कर दे",
+      "urduText": "تم انہیں ناپسند کرو لیکن بہت ممکن ہے کہ تم کسی چیز کو برا جانو، اور اللہ تعالیٰ اس میں بہت ہی بھلائی کر دے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 19
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاللَّهُ أَعلَمُ بِإيمانِكُم",
+      "englishText": "And Allah is most knowing about your faith.",
+      "hindiText": "और ख़ुदा तुम्हारे ईमान से ख़ूब वाक़िफ़ है",
+      "urduText": "اللہ تمہارے اعمال کو بخوبی جاننے واﻻ ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 25
+        }
+      ]
+    },
+    {
+      "arabicText": "يُريدُ اللَّهُ أَن يُخَفِّفَ عَنكُم ۚ وَخُلِقَ الإِنسانُ ضَعيفًا",
+      "englishText": "And Allah wants to lighten for you [your difficulties]; and mankind was created weak.",
+      "hindiText": "करे और जो लोग नफ़सियानी ख्वाहिश के पीछे पडे हैं वह ये चाहते हैं कि तुम लोग (राहे हक़ से) बहुत दूर हट जाओ और ख़ुदा चाहता है कि तुमसे बार में तख़फ़ीफ़ कर दें क्योंकि आदमी तो बहुत कमज़ोर पैदा किया गया है",
+      "urduText": "اللہ چاہتا ہے کہ تم سے تخفیف کر دے کیونکہ انسان کمزور پیدا کیا گیا ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 28
+        }
+      ]
+    },
+    {
+      "arabicText": "إِن تَجتَنِبوا كَبائِرَ ما تُنهَونَ عَنهُ نُكَفِّر عَنكُم سَيِّئَاتِكُم وَنُدخِلكُم مُدخَلًا كَريمًا",
+      "englishText": "If you avoid the major sins which you are forbidden, We will remove from you your lesser sins and admit you to a noble entrance [into Paradise].",
+      "hindiText": "जिन कामों की तुम्हें मनाही की जाती है अगर उनमें से तुम गुनाहे कबीरा से बचते रहे तो हम तुम्हारे (सग़ीरा) गुनाहों से भी दरगुज़र करेंगे और तुमको बहुत अच्छी इज्ज़त की जगह पहुंचा देंगे",
+      "urduText": "اگر تم ان بڑے گناہوں سے بچتے رہوگے جن سے تم کو منع کیا جاتا ہے تو ہم تمہارے چھوٹے گناه دور کر دیں گے اور عزت وبزرگی کی جگہ داخل کریں گے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 31
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلا تَتَمَنَّوا ما فَضَّلَ اللَّهُ بِهِ بَعضَكُم عَلىٰ بَعضٍ ۚ لِلرِّجالِ نَصيبٌ مِمَّا اكتَسَبوا ۖ وَلِلنِّساءِ نَصيبٌ مِمَّا اكتَسَبنَ ۚ وَاسأَلُوا اللَّهَ مِن فَضلِهِ ۗ إِنَّ اللَّهَ كانَ بِكُلِّ شَيءٍ عَليمًا",
+      "englishText": "And do not wish for that by which Allah has made some of you exceed others. For men is a share of what they have earned, and for women is a share of what they have earned. And ask Allah of his bounty. Indeed Allah is ever, of all things, Knowing.",
+      "hindiText": "और ख़ुदा ने जो तुममें से एक दूसरे पर तरजीह दी है उसकी हवस न करो (क्योंकि फ़ज़ीलत तो आमाल से है) मर्दो को अपने किए का हिस्सा है और औरतों को अपने किए का हिस्सा और ये और बात है कि तुम ख़ुदा से उसके फज़ल व करम की ख्वाहिश करो ख़ुदा तो हर चीज़े से वाक़िफ़ है",
+      "urduText": "اوراس چیز کی آرزو نہ کرو جس کے باعﺚ اللہ تعالیٰ نے تم میں سے بعض کو بعض پر بزرگی دی ہے، مردوں کا اس میں سے حصہ ہے جو انہوں نے کمایا اور عورتوں کے لئے ان میں سے حصہ ہے جو انہوں نے کمایا، اور اللہ تعالیٰ سے اس کا فضل مانگو، یقیناً اللہ ہر چیز کا جاننے واﻻ ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 32
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاللَّهُ أَعلَمُ بِأَعدائِكُم",
+      "englishText": "And Allah is most knowing of your enemies",
+      "hindiText": "और ख़ुदा तुम्हारे दुशमनों से ख़ूब वाक़िफ़ है",
+      "urduText": "اللہ تعالیٰ تمہارے دشمنوں کو خوب جاننے واﻻ ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 45
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ نِعِمّا يَعِظُكُم بِهِ",
+      "englishText": "Excellent is that which Allah instructs you.",
+      "hindiText": "",
+      "urduText": "یقیناً وه بہتر چیز ہے جس کی نصیحت تمہیں اللہ تعالیٰ کر رہا ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 58
+        }
+      ]
+    },
+    {
+      "arabicText": "كُلٌّ مِن عِندِ اللَّهِ",
+      "englishText": "\"All [things] are from Allah.\"",
+      "hindiText": "सब ख़ुदा की तरफ़ से है",
+      "urduText": "سب کچھ اللہ تعالیٰ کی طرف سے ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 78
+        }
+      ]
+    },
+    {
+      "arabicText": "ما أَصابَكَ مِن حَسَنَةٍ فَمِنَ اللَّهِ ۖ وَما أَصابَكَ مِن سَيِّئَةٍ فَمِن نَفسِكَ ۚ",
+      "englishText": "What comes to you of good is from Allah, but what comes to you of evil, [O man], is from yourself.",
+      "hindiText": "हालॉकि (सच तो यूं है कि) जब तुमको कोई फ़ायदा पहुंचे तो (समझो कि) ख़ुदा की तरफ़ से है और जब तुमको कोई फ़ायदा पहुंचे तो (समझो कि) ख़ुद तुम्हारी बदौलत है",
+      "urduText": "تجھے جو بھلائی ملتی ہے وه اللہ تعالیٰ کی طرف سے ہے اور جو برائی پہنچتی ہے وه تیرے اپنے نفس کی طرف سے ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 79
+        }
+      ]
+    },
+    {
+      "arabicText": "۞ فَما لَكُم فِي المُنافِقينَ فِئَتَينِ وَاللَّهُ أَركَسَهُم بِما كَسَبوا ۚ أَتُريدونَ أَن تَهدوا مَن أَضَلَّ اللَّهُ ۖ وَمَن يُضلِلِ اللَّهُ فَلَن تَجِدَ لَهُ سَبيلًا",
+      "englishText": "What is [the matter] with you [that you are] two groups concerning the hypocrites, while Allah has made them fall back [into error and disbelief] for what they earned. Do you wish to guide those whom Allah has sent astray? And he whom Allah sends astray - never will you find for him a way [of guidance].",
+      "hindiText": "(मुसलमानों) फिर तुमको क्या हो गया है कि तुम मुनाफ़िक़ों के बारे में दो फ़रीक़ हो गए हो (एक मुवाफ़िक़ एक मुख़ालिफ़) हालॉकि ख़ुद ख़ुदा ने उनके करतूतों की बदौलत उनकी अक्लों को उलट पुलट दिया है क्या तुम ये चाहते हो कि जिसको ख़ुदा ने गुमराही में छोड़ दिया है तुम उसे राहे रास्त पर ले आओ हालॉकि ख़ुदा ने जिसको गुमराही में छोड़ दिया है उसके लिए तुममें से कोई शख्स रास्ता निकाल ही नहीं सकता",
+      "urduText": "تمہیں کیا ہوگیا ہے؟ کہ منافقوں کے بارے میں دو گروه ہو رہے ہو؟ انہیں تو ان کے اعمال کی وجہ سے اللہ تعالیٰ نے اوندھا کر دیا ہے۔ اب کیا تم یہ منصوبے باندھ رہے ہو کہ اللہ تعالیٰ کے گمراه کئے ہوؤں کو تم راه راست پر ﻻکھڑا کرو، جسے اللہ تعالیٰ راه بھلا دے تو ہرگز اس کے لئے کوئی راه نہ پائے گا",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 88
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاستَغفِرِ اللَّهَ",
+      "englishText": "And seek forgiveness of Allah",
+      "hindiText": "और (अपनी उम्मत के लिये) ख़ुदा से मग़फ़िरत की दुआ मॉगों",
+      "urduText": "اور اللہ تعالیٰ سے بخشش مانگو",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 106
+        }
+      ]
+    },
+    {
+      "arabicText": "وَمَن يَعمَل سوءًا أَو يَظلِم نَفسَهُ ثُمَّ يَستَغفِرِ اللَّهَ يَجِدِ اللَّهَ غَفورًا رَحيمًا",
+      "englishText": "And whoever does a wrong or wrongs himself but then seeks forgiveness of Allah will find Allah Forgiving and Merciful.",
+      "hindiText": "और जो शख्स कोई बुरा काम करे या (किसी तरह) अपने नफ्स पर ज़ुल्म करे उसके बाद ख़ुदा से अपनी मग़फ़िरत की दुआ मॉगे तो ख़ुदा को बड़ा बख्शने वाला मेहरबान पाएगा",
+      "urduText": "جو شخص کوئی برائی کرے یا اپنی جان پر ﻇلم کرے پھر اللہ سے استغفار کرے تو وه اللہ کو بخشنے واﻻ، مہربانی کرنے واﻻ پائے گا",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 110
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلا يَجرِمَنَّكُم شَنَآنُ قَومٍ أَن صَدّوكُم عَنِ المَسجِدِ الحَرامِ أَن تَعتَدوا ۘ وَتَعاوَنوا عَلَى البِرِّ وَالتَّقوىٰ",
+      "englishText": "And do not let the hatred of a people for having obstructed you from al-Masjid al-Haram lead you to transgress.",
+      "hindiText": "तुम्हें उन लोगों ने ख़ानाए काबा (में जाने) से रोका था इस जुर्म में न फॅसवा दे कि तुम उनपर ज्यादती करने लगो",
+      "urduText": "جن لوگوں نے تمہیں مسجد حرام سے روکا تھا ان کی دشمنی تمہیں اس بات پر آماده نہ کرے کہ تم حد سے گزر جاؤ",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 5,
+          "ayahNumber": 2
+        }
+      ]
+    },
+    {
+      "arabicText": "وَعَدَ اللَّهُ الَّذينَ آمَنوا وَعَمِلُوا الصّالِحاتِ ۙ لَهُم مَغفِرَةٌ وَأَجرٌ عَظيمٌ",
+      "englishText": "Allah has promised those who believe and do righteous deeds [that] for them there is forgiveness and great reward.",
+      "hindiText": "और जिन लोगों ने ईमान क़ुबूल किया और अच्छे अच्छे काम किए ख़ुदा ने वायदा किया है कि उनके लिए (आख़िरत में) मग़फेरत और बड़ा सवाब है",
+      "urduText": "اللہ تعالیٰ کا وعده ہے کہ جو ایمان ﻻئیں اور نیک کام کریں ان کے لئے وسیع مغفرت اور بہت بڑا اجر و ﺛواب ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 5,
+          "ayahNumber": 9
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلَو شاءَ اللَّهُ لَجَعَلَكُم أُمَّةً واحِدَةً وَلٰكِن لِيَبلُوَكُم في ما آتاكُم ۖ فَاستَبِقُوا الخَيراتِ ۚ إِلَى اللَّهِ مَرجِعُكُم جَميعًا فَيُنَبِّئُكُم بِما كُنتُم فيهِ تَختَلِفونَ",
+      "englishText": "Had Allah willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good. To Allah is your return all together, and He will [then] inform you concerning that over which you used to differ.",
+      "hindiText": "अगर ख़ुदा चाहता तो तुम सब के सब को एक ही (शरीयत की) उम्मत बना देता मगर (मुख़तलिफ़ शरीयतों से) ख़ुदा का मतलब यह था कि जो कुछ तुम्हें दिया है उसमें तुम्हारा इमतेहान करे बस तुम नेकी में लपक कर आगे बढ़ जाओ और (यक़ीन जानो कि) तुम सब को ख़ुदा ही की तरफ़ लौट कर जाना है",
+      "urduText": "اگر منظور مولیٰ ہوتا تو تم سب کو ایک ہی امت بنا دیتا، لیکن اس کی چاہت ہے کہ جو تمہیں دیا ہے اس میں تمہیں آزمائے، تم نیکیوں کی طرف جلدی کرو، تم سب کا رجوع اللہ ہی کی طرف ہے، پھر وه تمہیں ہر وه چیز بتا دے گا جس میں تم اختلاف کرتے رہتے ہو",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 5,
+          "ayahNumber": 48
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّما وَلِيُّكُمُ اللَّهُ وَرَسولُهُ وَالَّذينَ آمَنُوا الَّذينَ يُقيمونَ الصَّلاةَ وَيُؤتونَ الزَّكاةَ وَهُم راكِعونَ",
+      "englishText": "Your ally is none but Allah and [therefore] His Messenger and those who have believed - those who establish prayer and give zakah, and they bow [in worship].",
+      "hindiText": "(ऐ ईमानदारों) तुम्हारे मालिक सरपरस्त तो बस यही हैं ख़ुदा और उसका रसूल और वह मोमिनीन जो पाबन्दी से नमाज़ अदा करते हैं और हालत रूकूउ में ज़कात देते हैं",
+      "urduText": "(مسلمانو)! تمہارا دوست خود اللہ ہے اور اس کا رسول ہے اور ایمان والے ہیں جو نمازوں کی پابندی کرتے ہیں اور زکوٰة ادا کرتے ہیں اور وه رکوع (خشوع وخضوع) کرنے والے ہیں",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 5,
+          "ayahNumber": 55
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ لا يُحِبُّ المُعتَدينَ",
+      "englishText": "Indeed, Allah does not like transgressors.",
+      "hindiText": "ख़ुदा हद से बढ़ जाने वालों को हरगिज़ दोस्त नहीं रखता",
+      "urduText": "بےشک اللہ تعالیٰ حد سے نکلنے والوں کو پسند نہیں کرتا",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 5,
+          "ayahNumber": 87
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاللَّهُ يَعلَمُ ما تُبدونَ وَما تَكتُمونَ",
+      "englishText": "And Allah knows whatever you reveal and whatever you conceal.",
+      "hindiText": "और जो कुछ तुम ज़ाहिर बा ज़ाहिर करते हो और जो कुछ तुम छुपा कर करते हो ख़ुदा सब जानता है",
+      "urduText": "اور اللہ تعالیٰ سب جانتا ہے جو کچھ تم ﻇاہر کرتے ہو اور جو کچھ پوشیده رکھتے ہو",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 5,
+          "ayahNumber": 99
+        }
+      ]
+    },
+    {
+      "arabicText": "وَإِن يَمسَسكَ اللَّهُ بِضُرٍّ فَلا كاشِفَ لَهُ إِلّا هُوَ ۖ وَإِن يَمسَسكَ بِخَيرٍ فَهُوَ عَلىٰ كُلِّ شَيءٍ قَديرٌ",
+      "englishText": "And if Allah should touch you with adversity, there is no remover of it except Him. And if He touches you with good - then He is over all things competent.",
+      "hindiText": "और अगर ख़ुदा तुम को किसी क़िस्म की तकलीफ पहुचाए तो उसके सिवा कोई उसका दफा करने वाला नहीं है और अगर तुम्हें कुछ फायदा) पहुंचाए तो भी (कोई रोक नहीं सकता क्योंकि) वह हर चीज़ पर क़ादिर है",
+      "urduText": "اور اگر تجھ کو اللہ تعالیٰ کوئی تکلیف پہنچائے تو اس کا دور کرنے واﻻ سوائے اللہ تعالیٰ کے اور کوئی نہیں۔ اور اگر تجھ کو اللہ تعالیٰ کوئی نفع پہنچائے تو وه ہر چیز پر پوری قدرت رکھنے واﻻ ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 6,
+          "ayahNumber": 17
+        }
+      ]
+    },
+    {
+      "arabicText": "مَن يَشَإِ اللَّهُ يُضلِلهُ وَمَن يَشَأ يَجعَلهُ عَلىٰ صِراطٍ مُستَقيمٍ",
+      "englishText": "Whomever Allah wills - He leaves astray; and whomever He wills - He puts him on a straight path.",
+      "hindiText": "ख़ुदा जिसे चाहे उसे गुमराही में छोड़ दे और जिसे चाहे उसे सीधे ढर्रे पर लगा दे",
+      "urduText": "اللہ جس کو چاہے بے راه کردے اور وه جس کو چاہے سیدھی راه پر لگا دے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 6,
+          "ayahNumber": 39
+        }
+      ]
+    },
+    {
+      "arabicText": "وَما عَلَى الَّذينَ يَتَّقونَ مِن حِسابِهِم مِن شَيءٍ وَلٰكِن ذِكرىٰ لَعَلَّهُم يَتَّقونَ",
+      "englishText": "And those who fear Allah are not held accountable for the disbelievers at all, but [only for] a reminder - that perhaps they will fear Him.",
+      "hindiText": "और ऐसे लोगों (के हिसाब किताब) का जवाब देही कुछ परहेज़गारो पर तो है नहीं मगर (सिर्फ नसीहतन) याद दिलाना (चाहिए) ताकि ये लोग भी परहेज़गार बनें",
+      "urduText": "اور جو لوگ پرہیزگار ہیں ان پر ان کی باز پرس کا کوئی اﺛر نہ پہنچے گا اور لیکن ان کے ذمہ نصیحت کردینا ہے شاید وه تقویٰ اختیار کریں",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 6,
+          "ayahNumber": 69
+        }
+      ]
+    },
+    {
+      "arabicText": "وَإِذا فَعَلوا فاحِشَةً قالوا وَجَدنا عَلَيها آباءَنا وَاللَّهُ أَمَرَنا بِها ۗ قُل إِنَّ اللَّهَ لا يَأمُرُ بِالفَحشاءِ ۖ أَتَقولونَ عَلَى اللَّهِ ما لا تَعلَمونَ",
+      "englishText": "And when they commit an immorality, they say, \"We found our fathers doing it, and Allah has ordered us to do it.\" Say, \"Indeed, Allah does not order immorality. Do you say about Allah that which you do not know?\"",
+      "hindiText": "जो ईमान नही रखते और वह लोग जब कोई बुरा काम करते हैं कि हमने उस तरीके पर अपने बाप दादाओं को पाया और ख़ुदा ने (भी) यही हुक्म दिया है (ऐ रसूल) तुम साफ कह दो कि ख़ुदा ने (भी) यही हुक्म दिया है (ऐ रसूल) तुम (साफ) कह दो कि ख़ुदा हरगिज़ बुरे काम का हुक्म नहीं देता क्या तुम लोग ख़ुदा पर (इफ्तिरा करके) वह बातें कहते हो जो तुम नहीं जानते",
+      "urduText": "اور وه لوگ جب کوئی فحش کام کرتے ہیں تو کہتے ہیں کہ ہم نے اپنے باپ دادا کو اسی طریق پر پایا ہے اور اللہ نے بھی ہم کو یہی بتایا ہے۔ آپ کہہ دیجیئے کہ اللہ تعالیٰ فحش بات کی تعلیم نہیں دیتا، کیا اللہ کے ذمہ ایسی بات لگاتے ہو جس کی تم سند نہیں رکھتے؟",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 7,
+          "ayahNumber": 28
+        }
+      ]
+    },
+    {
+      "arabicText": "ادعوا رَبَّكُم تَضَرُّعًا وَخُفيَةً ۚ إِنَّهُ لا يُحِبُّ المُعتَدينَ",
+      "englishText": "Call upon your Lord in humility and privately; indeed, He does not like transgressors.",
+      "hindiText": "देखो हुकूमत और पैदा करना बस ख़ास उसी के लिए है वह ख़ुदा जो सारे जहाँन का परवरदिगार बरक़त वाला है",
+      "urduText": "تم لوگ اپنے پروردگار سے دعا کیا کرو گڑگڑا کر کے بھی اور چپکے چپکے بھی۔ واقعی اللہ تعالیٰ ان لوگوں کو ناپسند کرتا ہے جو حد سے نکل جائیں",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 7,
+          "ayahNumber": 55
+        }
+      ]
+    },
+    {
+      "arabicText": "قالَ موسىٰ لِقَومِهِ استَعينوا بِاللَّهِ وَاصبِروا ۖ إِنَّ الأَرضَ لِلَّهِ يورِثُها مَن يَشاءُ مِن عِبادِهِ ۖ وَالعاقِبَةُ لِلمُتَّقينَ\nقالوا أوذينا مِن قَبلِ أَن تَأتِيَنا وَمِن بَعدِ ما جِئتَنا ۚ قالَ عَسىٰ رَبُّكُم أَن يُهلِكَ عَدُوَّكُم وَيَستَخلِفَكُم فِي الأَرضِ فَيَنظُرَ كَيفَ تَعمَلونَ",
+      "englishText": "Said Moses to his people, \"Seek help through Allah and be patient. Indeed, the earth belongs to Allah. He causes to inherit it whom He wills of His servants. And the [best] outcome is for the righteous.\"\nThey said, \"We have been harmed before you came to us and after you have come to us.\" He said, \"Perhaps your Lord will destroy your enemy and grant you succession in the land and see how you will do.\"",
+      "hindiText": "(ये सुनकर) मूसा ने अपनी क़ौम से कहा कि (भाइयों) ख़ुदा से मदद माँगों और सब्र करो सारी ज़मीन तो ख़ुदा ही की है वह अपने बन्दों में जिसकी चाहे उसका वारिस (व मालिक) बनाए और ख़ातमा बिल ख़ैर तो सब परहेज़गार ही का है\nवह लोग कहने लगे कि (ऐ मूसा) तुम्हारे आने के क़ब्ल (पहले) ही से और तुम्हारे आने के बाद भी हम को तो बराबर तकलीफ ही पहुँच रही है (आख़िर कहाँ तक सब्र करें) मूसा ने कहा अनकरीब ही तुम्हारा परवरदिगार तुम्हारे दुश्मन को हलाक़ करेगा और तुम्हें (उसका जानशीन) बनाएगा फिर देखेगा कि तुम कैसा काम करते हो",
+      "urduText": "موسیٰ (علیہ السلام) نے اپنی قوم سے فرمایا اللہ تعالیٰ کا سہارا حاصل کرو اور صبر کرو، یہ زمین اللہ تعالیٰ کی ہے، اپنے بندوں میں سے جس کو چاہے وه مالک بنا دے اور اخیر کامیابی ان ہی کی ہوتی ہے جو اللہ سے ڈرتے ہیں\nقوم کے لوگ کہنے لگے کہ ہم تو ہمیشہ مصیبت ہی میں رہے، آپ کی تشریف آوری سے قبل بھی اور آپ کی تشریف آوری کے بعد بھی۔ موسیٰ (علیہ السلام) نے فرمایا کہ بہت جلد اللہ تمہارے دشمن کو ہلاک کر دے گا اور بجائے ان کے تم کو اس سرزمین کا خلیفہ بنا دے گا پھر تمہارا طرز عمل دیکھے گا",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 7,
+          "ayahNumber": 128
+        },
+        {
+          "surahNumber": 7,
+          "ayahNumber": 129
+        }
+      ]
+    },
+    {
+      "arabicText": "أَلا إِنَّما طائِرُهُم عِندَ اللَّهِ وَلٰكِنَّ أَكثَرَهُم لا يَعلَمونَ",
+      "englishText": "Unquestionably, their fortune is with Allah, but most of them do not know.",
+      "hindiText": "देखो उनकी बदशुगूनी तो ख़ुदा के हा (लिखी जा चुकी) थी मगर बहुतेरे लोग नही जानते हैं",
+      "urduText": "یاد رکھو کہ ان کی نحوست اللہ تعالیٰ کے پاس ہے، لیکن ان کے اکثر لوگ نہیں جانتے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 7,
+          "ayahNumber": 131
+        }
+      ]
+    },
+    {
+      "arabicText": "وَفي ذٰلِكُم بَلاءٌ مِن رَبِّكُم عَظيمٌ",
+      "englishText": "And in that was a great trial from your Lord.",
+      "hindiText": "और उसमें तुम्हारे परवरदिगार की तरफ से तुम्हारे (सब्र की) सख्त आज़माइश थी",
+      "urduText": "اور اس میں تمہارے پروردگار کی طرف سے بڑی بھاری آزمائش تھی",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 7,
+          "ayahNumber": 141
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ وَلِيِّيَ اللَّهُ الَّذي نَزَّلَ الكِتابَ ۖ وَهُوَ يَتَوَلَّى الصّالِحينَ",
+      "englishText": "Indeed, my protector is Allah, who has sent down the Book; and He is an ally to the righteous.",
+      "hindiText": "(फिर देखो मेरा क्या बना सकते हो) बेशक मेरा मालिक व मुमताज़ तो बस ख़ुदा है जिस ने किताब क़ुरान को नाज़िल फरमाया और वही (अपने) नेक बन्दों का हाली (मददगार) है",
+      "urduText": "یقیناً میرا مددگار اللہ تعالیٰ ہے جس نے یہ کتاب نازل فرمائی اور وه نیک بندوں کی مدد کرتا ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 7,
+          "ayahNumber": 196
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاذكُر رَبَّكَ في نَفسِكَ تَضَرُّعًا وَخيفَةً وَدونَ الجَهرِ مِنَ القَولِ بِالغُدُوِّ وَالآصالِ وَلا تَكُن مِنَ الغافِلينَ",
+      "englishText": "And remember your Lord within yourself in humility and in fear without being apparent in speech - in the mornings and the evenings. And do not be among the heedless.",
+      "hindiText": "और अपने परवरदिगार को अपने जी ही में गिड़गिड़ा के और डर के और बहुत चीख़ के नहीं (धीमी) आवाज़ से सुबह व शाम याद किया करो और (उसकी याद से) ग़ाफिल बिल्कुल न हो जाओ",
+      "urduText": "اور اے شخص! اپنے رب کی یاد کیا کر اپنے دل میں عاجزی کے ساتھ اور خوف کے ساتھ اور زور کی آواز کی نسبت کم آواز کے ساتھ صبح اور شام اور اہل غفلت میں سے مت ہونا",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 7,
+          "ayahNumber": 205
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاعلَموا أَنَّما أَموالُكُم وَأَولادُكُم فِتنَةٌ وَأَنَّ اللَّهَ عِندَهُ أَجرٌ عَظيمٌ",
+      "englishText": "And know that your properties and your children are but a trial and that Allah has with Him a great reward.",
+      "hindiText": "और यक़ीन जानों कि तुम्हारे माल और तुम्हारी औलाद तुम्हारी आज़माइश (इम्तेहान) की चीज़े हैं कि जो उनकी मोहब्बत में भी ख़ुदा को न भूले और वह दीनदार है",
+      "urduText": "اور تم اس بات کو جان رکھو کہ تمہارے اموال اور تمہاری اوﻻد ایک امتحان کی چیز ہے۔ اور اس بات کو بھی جان رکھو کہ اللہ تعالیٰ کے پاس بڑا بھاری اجر ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 8,
+          "ayahNumber": 28
+        }
+      ]
+    },
+    {
+      "arabicText": "يا أَيُّهَا النَّبِيُّ حَسبُكَ اللَّهُ وَمَنِ اتَّبَعَكَ مِنَ المُؤمِنينَ",
+      "englishText": "O Prophet, sufficient for you is Allah and for whoever follows you of the believers.",
+      "hindiText": "ऐ रसूल तुमको बस ख़ुदा और जो मोमिनीन तुम्हारे ताबेए फरमान (फरमाबरदार) है काफी है",
+      "urduText": "اے نبی! تجھے اللہ کافی ہے اور ان مومنوں کو جو تیری پیروی کر رہے ہیں",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 8,
+          "ayahNumber": 64
         }
       ]
     }
