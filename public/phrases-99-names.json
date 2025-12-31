@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-25T07:54:08.826Z",
+  "timestamp": "2025-12-31T17:49:25.726Z",
   "phraseType": "99-names",
-  "totalPhrases": 56,
+  "totalPhrases": 59,
   "phrases": [
     {
       "arabicText": "إِنَّ اللَّهَ عَلىٰ كُلِّ شَيءٍ قَديرٌ",
@@ -100,6 +100,14 @@
         {
           "surahNumber": 9,
           "ayahNumber": 5
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 99
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 102
         }
       ]
     },
@@ -154,6 +162,14 @@
         {
           "surahNumber": 8,
           "ayahNumber": 70
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 27
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 91
         }
       ]
     },
@@ -175,6 +191,10 @@
         {
           "surahNumber": 8,
           "ayahNumber": 49
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 71
         }
       ]
     },
@@ -200,6 +220,14 @@
         {
           "surahNumber": 3,
           "ayahNumber": 121
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 98
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 103
         }
       ]
     },
@@ -238,6 +266,10 @@
         {
           "surahNumber": 5,
           "ayahNumber": 38
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 40
         }
       ]
     },
@@ -330,6 +362,10 @@
         {
           "surahNumber": 8,
           "ayahNumber": 41
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 39
         }
       ]
     },
@@ -531,6 +567,26 @@
         {
           "surahNumber": 8,
           "ayahNumber": 71
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 15
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 60
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 97
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 106
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 110
         }
       ]
     },
@@ -924,14 +980,57 @@
     },
     {
       "arabicText": "إِنَّ اللَّهَ بِكُلِّ شَيءٍ عَليمٌ",
+      "englishText": "Indeed, Allah is Knowing of all things.",
+      "hindiText": "बेशक ख़ुदा हर चीज़ से (वाक़िफ है)",
+      "urduText": "بیشک اللہ تعالیٰ ہر چیز کو خوب جانتا ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 8,
+          "ayahNumber": 75
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 115
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ عَليمٌ حَكيمٌ",
       "englishText": "",
       "hindiText": "",
       "urduText": "",
       "phraseType": "99-names",
       "references": [
         {
-          "surahNumber": 8,
-          "ayahNumber": 75
+          "surahNumber": 9,
+          "ayahNumber": 28
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاعلَموا أَنَّ اللَّهَ مَعَ المُتَّقينَ",
+      "englishText": "",
+      "hindiText": "",
+      "urduText": "",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 9,
+          "ayahNumber": 36
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ هُوَ التَّوّابُ الرَّحيمُ",
+      "englishText": "",
+      "hindiText": "",
+      "urduText": "",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 9,
+          "ayahNumber": 118
         }
       ]
     }

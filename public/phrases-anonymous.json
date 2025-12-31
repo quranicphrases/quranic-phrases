@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-25T07:54:08.819Z",
+  "timestamp": "2025-12-31T17:49:25.716Z",
   "phraseType": "anonymous",
-  "totalPhrases": 76,
+  "totalPhrases": 81,
   "phrases": [
     {
       "arabicText": "فَلا تَجعَلوا لِلَّهِ أَندادًا وَأَنتُم تَعلَمونَ",
@@ -380,6 +380,10 @@
         {
           "surahNumber": 5,
           "ayahNumber": 11
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 51
         }
       ]
     },
@@ -1028,6 +1032,79 @@
         {
           "surahNumber": 8,
           "ayahNumber": 64
+        }
+      ]
+    },
+    {
+      "arabicText": "الَّذينَ آمَنوا وَهاجَروا وَجاهَدوا في سَبيلِ اللَّهِ بِأَموالِهِم وَأَنفُسِهِم أَعظَمُ دَرَجَةً عِندَ اللَّهِ ۚ وَأُولٰئِكَ هُمُ الفائِزونَ",
+      "englishText": "The ones who have believed, emigrated and striven in the cause of Allah with their wealth and their lives are greater in rank in the sight of Allah. And it is those who are the attainers [of success].",
+      "hindiText": "जिन लोगों ने ईमान क़ुबूल किया और (ख़ुदा के लिए) हिजरत एख्तियार की और अपने मालों से और अपनी जानों से ख़ुदा की राह में जिहाद किया वह लोग ख़ुदा के नज़दीक दर्जें में कही बढ़ कर हैं और यही लोग (आला दर्जे पर) फायज़ होने वाले हैं",
+      "urduText": "جو لوگ ایمان ﻻئے، ہجرت کی، اللہ کی راه میں اپنے مال اور اپنی جان سے جہاد کیا وه اللہ کے ہاں بہت بڑے مرتبہ والے ہیں، اور یہی لوگ مراد پانے والے ہیں",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 9,
+          "ayahNumber": 20
+        }
+      ]
+    },
+    {
+      "arabicText": "۞ يا أَيُّهَا الَّذينَ آمَنوا إِنَّ كَثيرًا مِنَ الأَحبارِ وَالرُّهبانِ لَيَأكُلونَ أَموالَ النّاسِ بِالباطِلِ وَيَصُدّونَ عَن سَبيلِ اللَّهِ ۗ وَالَّذينَ يَكنِزونَ الذَّهَبَ وَالفِضَّةَ وَلا يُنفِقونَها في سَبيلِ اللَّهِ فَبَشِّرهُم بِعَذابٍ أَليمٍ",
+      "englishText": "O you who have believed, indeed many of the scholars and the monks devour the wealth of people unjustly and avert [them] from the way of Allah. And those who hoard gold and silver and spend it not in the way of Allah - give them tidings of a painful punishment.",
+      "hindiText": "ऐ ईमानदारों इसमें उसमें शक़ नहीं कि (यहूद व नसारा के) बहुतेरे आलिम ज़ाहिद लोगों के माल (नाहक़) चख जाते है और (लोगों को) ख़ुदा की राह से रोकते हैं और जो लोग सोना और चाँदी जमा करते जाते हैं और उसको ख़ुदा की राह में खर्च नहीं करते तो (ऐ रसूल) उन को दर्दनाक अज़ाब की ख़ुशखबरी सुना दो",
+      "urduText": "اے ایمان والو! اکثر علما اور عابد، لوگوں کا مال ناحق کھا جاتے ہیں اور اللہ کی راه سے روک دیتے ہیں اور جو لوگ سونے چاندی کا خزانہ رکھتے ہیں اور اللہ کی راه میں خرچ نہیں کرتے، انہیں دردناک عذاب کی خبر پہنچا دیجئے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 9,
+          "ayahNumber": 34
+        }
+      ]
+    },
+    {
+      "arabicText": "حَسبُنَا اللَّهُ سَيُؤتينَا اللَّهُ مِن فَضلِهِ وَرَسولُهُ إِنّا إِلَى اللَّهِ راغِبونَ",
+      "englishText": "\"Sufficient for us is Allah; Allah will give us of His bounty, and [so will] His Messenger; indeed, we are desirous toward Allah,\"",
+      "hindiText": "ख़ुदा हमारे वास्ते काफी है (उस वक्त नहीं तो) अनक़रीब ही खुदा हमें अपने फज़ल व करम से उसका रसूल दे ही देगा हम तो यक़ीनन अल्लाह ही की तरफ लौ लगाए बैठे हैं",
+      "urduText": "اللہ ہمیں کافی ہے اللہ ہمیں اپنے فضل سے دے گا اور اس کا رسول بھی، ہم تو اللہ کی ذات سے ہی توقع رکھنے والے ہیں",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 9,
+          "ayahNumber": 59
+        }
+      ]
+    },
+    {
+      "arabicText": "وَعَدَ اللَّهُ المُؤمِنينَ وَالمُؤمِناتِ جَنّاتٍ تَجري مِن تَحتِهَا الأَنهارُ خالِدينَ فيها وَمَساكِنَ طَيِّبَةً في جَنّاتِ عَدنٍ ۚ وَرِضوانٌ مِنَ اللَّهِ أَكبَرُ ۚ ذٰلِكَ هُوَ الفَوزُ العَظيمُ",
+      "englishText": "Allah has promised the believing men and believing women gardens beneath which rivers flow, wherein they abide eternally, and pleasant dwellings in gardens of perpetual residence; but approval from Allah is greater. It is that which is the great attainment.",
+      "hindiText": "ख़ुदा ने ईमानदार मर्दों और ईमानदारा औरतों से (बेहश्त के) उन बाग़ों का वायदा कर लिया है जिनके नीचे नहरें जारी हैं और वह उनमें हमेशा रहेगें (बेहश्त) अदन के बाग़ो में उम्दा उम्दा मकानात का (भी वायदा फरमाया) और ख़ुदा की ख़ुशनूदी उन सबसे बालातर है- यही तो बड़ी (आला दर्जे की) कामयाबी है",
+      "urduText": "ان ایمان دار مردوں اور عورتوں سے اللہ نے ان جنتوں کا وعده فرمایا ہے جن کے نیچے نہریں لہریں لے رہی ہیں جہاں وه ہمیشہ ہمیشہ رہنے والے ہیں اور ان صاف ستھرے پاکیزه محلات کا جو ان ہمیشگی والی جنتوں میں ہیں، اور اللہ کی رضامندی سب سے بڑی چیز ہے، یہی زبردست کامیابی ہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 9,
+          "ayahNumber": 72
+        }
+      ]
+    },
+    {
+      "arabicText": "۞ وَمِنهُم مَن عاهَدَ اللَّهَ لَئِن آتانا مِن فَضلِهِ لَنَصَّدَّقَنَّ وَلَنَكونَنَّ مِنَ الصّالِحينَ\nفَلَمّا آتاهُم مِن فَضلِهِ بَخِلوا بِهِ وَتَوَلَّوا وَهُم مُعرِضونَ\nفَأَعقَبَهُم نِفاقًا في قُلوبِهِم إِلىٰ يَومِ يَلقَونَهُ بِما أَخلَفُوا اللَّهَ ما وَعَدوهُ وَبِما كانوا يَكذِبونَ",
+      "englishText": "And among them are those who made a covenant with Allah, [saying], \"If He should give us from His bounty, we will surely spend in charity, and we will surely be among the righteous.\"\nBut when he gave them from His bounty, they were stingy with it and turned away while they refused.\nSo He penalized them with hypocrisy in their hearts until the Day they will meet Him - because they failed Allah in what they promised Him and because they [habitually] used to lie.",
+      "hindiText": "और इन (मुनाफेक़ीन) में से बाज़ ऐसे भी हैं जो ख़ुदा से क़ौल क़रार कर चुके थे कि अगर हमें अपने फज़ल (व करम) से (कुछ माल) देगा तो हम ज़रूर ख़ैरात किया करेगें और नेकोकार बन्दे हो जाऎंगे\nतो जब ख़ुदा ने अपने फज़ल (व करम) से उन्हें अता फरमाया-तो लगे उसमें बुख्ल करने और कतराकर मुंह फेरने\nफिर उनसे उनके ख़ामयाजे (बदले) में अपनी मुलाक़ात के दिन (क़यामत) तक उनके दिल में (गोया खुद) निफाक डाल दिया इस वजह से उन लोगों ने जो ख़ुदा से वायदा किया था उसके ख़िलाफ किया और इस वजह से कि झूठ बोला करते थे",
+      "urduText": "ان میں وه بھی ہیں جنہوں نے اللہ سے عہد کیا تھا کہ اگر وه ہمیں اپنے فضل سے مال دے گا تو ہم ضرور صدقہ وخیرات کریں گے اور پکی طرح نیکو کاروں میں ہو جائیں گے\nلیکن جب اللہ نے اپنے فضل سے انہیں دیا تو یہ اس میں بخیلی کرنے لگے اور ٹال مٹول کرکے منھ موڑ لیا\nپس اس کی سزا میں اللہ نے ان کے دلوں میں نفاق ڈال دیا اللہ سے ملنے کے دنوں تک، کیونکہ انہوں نے اللہ سے کئے ہوئے وعدے کا خلاف کیا اور کیوں کہ جھوٹ بولتے رہے",
+      "phraseType": "anonymous",
+      "references": [
+        {
+          "surahNumber": 9,
+          "ayahNumber": 75
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 76
+        },
+        {
+          "surahNumber": 9,
+          "ayahNumber": 77
         }
       ]
     }

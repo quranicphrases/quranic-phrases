@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-25T07:54:08.809Z",
+  "timestamp": "2025-12-31T17:49:25.701Z",
   "phraseType": "praise-0",
-  "totalPhrases": 54,
+  "totalPhrases": 60,
   "phrases": [
     {
       "arabicText": "الحَمدُ لِلَّهِ رَبِّ العالَمينَ\nالرَّحمٰنِ الرَّحيمِ\nمالِكِ يَومِ الدّينِ\nإِيّاكَ نَعبُدُ وَإِيّاكَ نَستَعينُ",
@@ -766,6 +766,84 @@
         {
           "surahNumber": 8,
           "ayahNumber": 52
+        }
+      ]
+    },
+    {
+      "arabicText": "وَيَتوبُ اللَّهُ عَلىٰ مَن يَشاءُ",
+      "englishText": "And Allah turns in forgiveness to whom He wills",
+      "hindiText": "और ख़ुदा जिसकी चाहे तौबा क़ुबूल करे",
+      "urduText": "اور وه جس کی طرف چاہتا ہے رحمت سے توجہ فرماتا ہے",
+      "phraseType": "praise-0",
+      "references": [
+        {
+          "surahNumber": 9,
+          "ayahNumber": 15
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ عِندَهُ أَجرٌ عَظيمٌ",
+      "englishText": "",
+      "hindiText": "",
+      "urduText": "",
+      "phraseType": "praise-0",
+      "references": [
+        {
+          "surahNumber": 9,
+          "ayahNumber": 22
+        }
+      ]
+    },
+    {
+      "arabicText": "لَن يُصيبَنا إِلّا ما كَتَبَ اللَّهُ لَنا هُوَ مَولانا",
+      "englishText": "\"Never will we be struck except by what Allah has decreed for us; He is our protector.\"",
+      "hindiText": "हम पर हरगिज़ कोई मुसीबत पड़ नही सकती मगर जो ख़ुदा ने तुम्हारे लिए (हमारी तक़दीर में) लिख दिया है वही हमारा मालिक है",
+      "urduText": "ہمیں سوائے اللہ کے ہمارے حق میں لکھے ہوئے کہ کوئی چیز پہنچ ہی نہیں سکتی وه ہمارا کار ساز اور مولیٰ ہے",
+      "phraseType": "praise-0",
+      "references": [
+        {
+          "surahNumber": 9,
+          "ayahNumber": 51
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ لَهُ مُلكُ السَّماواتِ وَالأَرضِ ۖ يُحيي وَيُميتُ",
+      "englishText": "Indeed, to Allah belongs the dominion of the heavens and the earth; He gives life and causes death.",
+      "hindiText": "इसमें तो शक़ ही नहीं कि सारे आसमान व ज़मीन की हुकूमत ख़ुदा ही के लिए ख़ास है वही (जिसे चाहे) जिलाता है और (जिसे चाहे) मारता है",
+      "urduText": "بلاشبہ اللہ ہی کی سلطنت ہے آسمانوں اور زمین میں۔ وہی جلاتا اور مارتا ہے",
+      "phraseType": "praise-0",
+      "references": [
+        {
+          "surahNumber": 9,
+          "ayahNumber": 116
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ لا يُضيعُ أَجرَ المُحسِنينَ",
+      "englishText": "Indeed, Allah does not allow to be lost the reward of the doers of good.",
+      "hindiText": "बेशक ख़ुदा नेकी करने वालों का अज्र (व सवाब) बरबाद नहीं करता है",
+      "urduText": "یقیناً اللہ تعالیٰ مخلصین کا اجر ضائع نہیں کرتا",
+      "phraseType": "praise-0",
+      "references": [
+        {
+          "surahNumber": 9,
+          "ayahNumber": 120
+        }
+      ]
+    },
+    {
+      "arabicText": "حَسبِيَ اللَّهُ لا إِلٰهَ إِلّا هُوَ ۖ عَلَيهِ تَوَكَّلتُ ۖ وَهُوَ رَبُّ العَرشِ العَظيمِ",
+      "englishText": "\"Sufficient for me is Allah; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.\"",
+      "hindiText": "मेरे लिए ख़ुदा काफी है उसके सिवा कोई माबूद नहीं मैने उस पर भरोसा रखा है वही अर्श (ऐसे) बुर्जूग (मख़लूका का) मालिक है",
+      "urduText": "میرے لیے اللہ کافی ہے، اس کے سوا کوئی معبود نہیں۔ میں نے اسی پر بھروسہ کیا اور وه بڑے عرش کا مالک ہے",
+      "phraseType": "praise-0",
+      "references": [
+        {
+          "surahNumber": 9,
+          "ayahNumber": 129
         }
       ]
     }
