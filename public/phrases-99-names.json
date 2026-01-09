@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-31T18:38:07.765Z",
+  "timestamp": "2026-01-09T17:44:56.114Z",
   "phraseType": "99-names",
-  "totalPhrases": 58,
+  "totalPhrases": 114,
   "phrases": [
     {
       "arabicText": "إِنَّ اللَّهَ عَلىٰ كُلِّ شَيءٍ قَديرٌ",
@@ -25,6 +25,18 @@
         {
           "surahNumber": 3,
           "ayahNumber": 165
+        },
+        {
+          "surahNumber": 16,
+          "ayahNumber": 77
+        },
+        {
+          "surahNumber": 24,
+          "ayahNumber": 45
+        },
+        {
+          "surahNumber": 35,
+          "ayahNumber": 1
         }
       ]
     },
@@ -51,6 +63,10 @@
         {
           "surahNumber": 2,
           "ayahNumber": 143
+        },
+        {
+          "surahNumber": 22,
+          "ayahNumber": 65
         }
       ]
     },
@@ -108,6 +124,38 @@
         {
           "surahNumber": 9,
           "ayahNumber": 102
+        },
+        {
+          "surahNumber": 16,
+          "ayahNumber": 115
+        },
+        {
+          "surahNumber": 24,
+          "ayahNumber": 5
+        },
+        {
+          "surahNumber": 24,
+          "ayahNumber": 62
+        },
+        {
+          "surahNumber": 49,
+          "ayahNumber": 14
+        },
+        {
+          "surahNumber": 58,
+          "ayahNumber": 12
+        },
+        {
+          "surahNumber": 60,
+          "ayahNumber": 12
+        },
+        {
+          "surahNumber": 64,
+          "ayahNumber": 14
+        },
+        {
+          "surahNumber": 73,
+          "ayahNumber": 20
         }
       ]
     },
@@ -129,6 +177,10 @@
         {
           "surahNumber": 8,
           "ayahNumber": 17
+        },
+        {
+          "surahNumber": 49,
+          "ayahNumber": 1
         }
       ]
     },
@@ -170,6 +222,26 @@
         {
           "surahNumber": 9,
           "ayahNumber": 91
+        },
+        {
+          "surahNumber": 24,
+          "ayahNumber": 22
+        },
+        {
+          "surahNumber": 49,
+          "ayahNumber": 5
+        },
+        {
+          "surahNumber": 57,
+          "ayahNumber": 28
+        },
+        {
+          "surahNumber": 60,
+          "ayahNumber": 7
+        },
+        {
+          "surahNumber": 66,
+          "ayahNumber": 1
         }
       ]
     },
@@ -195,6 +267,10 @@
         {
           "surahNumber": 9,
           "ayahNumber": 71
+        },
+        {
+          "surahNumber": 31,
+          "ayahNumber": 27
         }
       ]
     },
@@ -228,6 +304,14 @@
         {
           "surahNumber": 9,
           "ayahNumber": 103
+        },
+        {
+          "surahNumber": 24,
+          "ayahNumber": 21
+        },
+        {
+          "surahNumber": 24,
+          "ayahNumber": 60
         }
       ]
     },
@@ -299,6 +383,10 @@
         {
           "surahNumber": 5,
           "ayahNumber": 54
+        },
+        {
+          "surahNumber": 24,
+          "ayahNumber": 32
         }
       ]
     },
@@ -329,6 +417,22 @@
         {
           "surahNumber": 4,
           "ayahNumber": 176
+        },
+        {
+          "surahNumber": 24,
+          "ayahNumber": 35
+        },
+        {
+          "surahNumber": 24,
+          "ayahNumber": 64
+        },
+        {
+          "surahNumber": 49,
+          "ayahNumber": 16
+        },
+        {
+          "surahNumber": 64,
+          "ayahNumber": 11
         }
       ]
     },
@@ -366,6 +470,10 @@
         {
           "surahNumber": 9,
           "ayahNumber": 39
+        },
+        {
+          "surahNumber": 59,
+          "ayahNumber": 6
         }
       ]
     },
@@ -474,6 +582,35 @@
         {
           "surahNumber": 4,
           "ayahNumber": 6
+        },
+        {
+          "surahNumber": 33,
+          "ayahNumber": 39
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ كانَ عَليمًا حَكيمًا",
+      "englishText": "Indeed, Allah is ever Knowing and Wise.",
+      "hindiText": "ख़ुदा तो ज़रूर हर चीज़ को जानता और तदबीर वाला है",
+      "urduText": "بے شک اللہ تعالیٰ پورے علم اور کامل حکمتوں واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 4,
+          "ayahNumber": 11
+        },
+        {
+          "surahNumber": 4,
+          "ayahNumber": 24
+        },
+        {
+          "surahNumber": 33,
+          "ayahNumber": 1
+        },
+        {
+          "surahNumber": 76,
+          "ayahNumber": 30
         }
       ]
     },
@@ -529,6 +666,10 @@
         {
           "surahNumber": 4,
           "ayahNumber": 170
+        },
+        {
+          "surahNumber": 48,
+          "ayahNumber": 4
         }
       ]
     },
@@ -550,6 +691,10 @@
         {
           "surahNumber": 4,
           "ayahNumber": 129
+        },
+        {
+          "surahNumber": 33,
+          "ayahNumber": 24
         }
       ]
     },
@@ -587,6 +732,30 @@
         {
           "surahNumber": 9,
           "ayahNumber": 110
+        },
+        {
+          "surahNumber": 22,
+          "ayahNumber": 52
+        },
+        {
+          "surahNumber": 24,
+          "ayahNumber": 18
+        },
+        {
+          "surahNumber": 24,
+          "ayahNumber": 58
+        },
+        {
+          "surahNumber": 24,
+          "ayahNumber": 59
+        },
+        {
+          "surahNumber": 49,
+          "ayahNumber": 8
+        },
+        {
+          "surahNumber": 60,
+          "ayahNumber": 10
         }
       ]
     },
@@ -600,6 +769,10 @@
         {
           "surahNumber": 4,
           "ayahNumber": 32
+        },
+        {
+          "surahNumber": 33,
+          "ayahNumber": 54
         }
       ]
     },
@@ -613,6 +786,10 @@
         {
           "surahNumber": 4,
           "ayahNumber": 33
+        },
+        {
+          "surahNumber": 33,
+          "ayahNumber": 55
         }
       ]
     },
@@ -708,6 +885,10 @@
         {
           "surahNumber": 4,
           "ayahNumber": 166
+        },
+        {
+          "surahNumber": 48,
+          "ayahNumber": 28
         }
       ]
     },
@@ -729,6 +910,10 @@
         {
           "surahNumber": 4,
           "ayahNumber": 171
+        },
+        {
+          "surahNumber": 33,
+          "ayahNumber": 48
         }
       ]
     },
@@ -763,6 +948,26 @@
         {
           "surahNumber": 4,
           "ayahNumber": 152
+        },
+        {
+          "surahNumber": 33,
+          "ayahNumber": 5
+        },
+        {
+          "surahNumber": 33,
+          "ayahNumber": 50
+        },
+        {
+          "surahNumber": 33,
+          "ayahNumber": 59
+        },
+        {
+          "surahNumber": 33,
+          "ayahNumber": 73
+        },
+        {
+          "surahNumber": 48,
+          "ayahNumber": 14
         }
       ]
     },
@@ -897,6 +1102,14 @@
         {
           "surahNumber": 4,
           "ayahNumber": 165
+        },
+        {
+          "surahNumber": 48,
+          "ayahNumber": 7
+        },
+        {
+          "surahNumber": 48,
+          "ayahNumber": 19
         }
       ]
     },
@@ -949,6 +1162,10 @@
         {
           "surahNumber": 7,
           "ayahNumber": 87
+        },
+        {
+          "surahNumber": 10,
+          "ayahNumber": 109
         }
       ]
     },
@@ -992,6 +1209,14 @@
         {
           "surahNumber": 9,
           "ayahNumber": 115
+        },
+        {
+          "surahNumber": 29,
+          "ayahNumber": 62
+        },
+        {
+          "surahNumber": 58,
+          "ayahNumber": 7
         }
       ]
     },
@@ -1018,6 +1243,761 @@
         {
           "surahNumber": 9,
           "ayahNumber": 118
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاللَّهُ عَلىٰ كُلِّ شَيءٍ وَكيلٌ",
+      "englishText": "And Allah is Disposer of all things.",
+      "hindiText": "और ख़ुदा हर चीज़ का ज़िम्मेदार है",
+      "urduText": "اور ہر چیز کا ذمہ دار اللہ تعالیٰ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 11,
+          "ayahNumber": 12
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ رَبّي عَلىٰ كُلِّ شَيءٍ حَفيظٌ",
+      "englishText": "Indeed my Lord is, over all things, Guardian.",
+      "hindiText": "इसमें तो शक़ नहीं है कि मेरा परवरदिगार हर चीज़ का निगेहबान है",
+      "urduText": "یقیناً میرا پروردگار ہر چیز پر نگہبان ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 11,
+          "ayahNumber": 57
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ رَبّي قَريبٌ مُجيبٌ",
+      "englishText": "Indeed, my Lord is near and responsive.",
+      "hindiText": "(बेशक मेरा परवरदिगार (हर शख़्श के) क़रीब और सबकी सुनता और दुआ क़ुबूल करता है",
+      "urduText": "بیشک میرا رب قریب اور دعاؤں کا قبول کرنے واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 11,
+          "ayahNumber": 61
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ رَبَّكَ هُوَ القَوِيُّ العَزيزُ",
+      "englishText": "Indeed, it is your Lord who is the Powerful, the Exalted in Might.",
+      "hindiText": "इसमें शक़ नहीं कि तेरा परवरदिगार ज़बरदस्त ग़ालिब है",
+      "urduText": "یقیناً تیرا رب نہایت توانا اور غالب ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 11,
+          "ayahNumber": 66
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّهُ حَميدٌ مَجيدٌ",
+      "englishText": "Indeed, He is Praiseworthy and Honorable.",
+      "hindiText": "इसमें शक़ नहीं कि वह क़ाबिल हम्द (वासना) बुज़ुर्ग हैं",
+      "urduText": "بیشک اللہ حمد وﺛنا کا سزاوار اور بڑی شان واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 11,
+          "ayahNumber": 73
+        }
+      ]
+    },
+    {
+      "arabicText": "فَاللَّهُ خَيرٌ حافِظًا ۖ وَهُوَ أَرحَمُ الرّاحِمينَ",
+      "englishText": "But Allah is the best guardian, and He is the most merciful of the merciful.",
+      "hindiText": "ख़ुद उसका सबसे बेहतर हिफाज़त करने वाला है और वही सब से ज्यादा रहम करने वाला है",
+      "urduText": "بس اللہ ہی بہترین حافﻆ ہے اور وه سب مہربانوں سے بڑا مہربان ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 12,
+          "ayahNumber": 64
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ رَبّي لَطيفٌ لِما يَشاءُ ۚ إِنَّهُ هُوَ العَليمُ الحَكيمُ",
+      "englishText": "Indeed, my Lord is Subtle in what He wills. Indeed, it is He who is the Knowing, the Wise.",
+      "hindiText": "बेशक मेरा परवरदिगार जो कुछ करता है उसकी तद्बीर खूब जानता है बेशक वह बड़ा वाकिफकार हकीम है",
+      "urduText": "میرا رب جو چاہے اس کے لئے بہترین تدبیر کرنے واﻻ ہے۔ اور وه بہت علم وحکمت واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 12,
+          "ayahNumber": 100
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ لَغَنِيٌّ حَميدٌ",
+      "englishText": "Indeed, Allah is Free of need and Praiseworthy.",
+      "hindiText": "ख़ुदा (को ज़रा भी परवाह नहीं क्योंकि वह तो बिल्कुल) बे नियाज़ है",
+      "urduText": "اللہ بے نیاز اور تعریفوں واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 14,
+          "ayahNumber": 8
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ عَزيزٌ ذُو انتِقامٍ",
+      "englishText": "Indeed, Allah is Exalted in Might and Owner of Retribution.",
+      "hindiText": "इसमें शक़ नहीं कि ख़ुदा (सबसे) ज़बरदस्त बदला लेने वाला है",
+      "urduText": "اللہ بڑا ہی غالب اور بدلہ لینے واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 14,
+          "ayahNumber": 47
+        }
+      ]
+    },
+    {
+      "arabicText": "وَنَحنُ الوارِثونَ",
+      "englishText": "And We are the Inheritor.",
+      "hindiText": "और (फिर) हम ही (सब के) वाली वारिस हैं",
+      "urduText": "اور ہم ہی (بالﺂخر) وارث ہیں",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 15,
+          "ayahNumber": 23
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ لَغَفورٌ رَحيمٌ",
+      "englishText": "Indeed, Allah is Forgiving and Merciful.",
+      "hindiText": "बेशक ख़ुदा बड़ा बख्शने वाला मेहरबान है कि (तुम्हारी नाफरमानी पर भी नेअमत देता है)",
+      "urduText": "بیشک اللہ بڑا بخشنے واﻻ مہربان ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 16,
+          "ayahNumber": 18
+        }
+      ]
+    },
+    {
+      "arabicText": "وَكانَ اللَّهُ عَلىٰ كُلِّ شَيءٍ مُقتَدِرًا",
+      "englishText": "And Allah is ever, over all things, Perfect in Ability.",
+      "hindiText": "और ख़ुदा हर चीज़ पर क़ादिर है",
+      "urduText": "اللہ تعالیٰ ہر چیز پر قادر ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 18,
+          "ayahNumber": 45
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّكَ كُنتَ بِنا بَصيرًا",
+      "englishText": "Indeed, You are of us ever Seeing.",
+      "hindiText": "तू तो हमारी हालत देख ही रहा है",
+      "urduText": "بیشک تو ہمیں خوب دیکھنے بھالنے واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 20,
+          "ayahNumber": 35
+        }
+      ]
+    },
+    {
+      "arabicText": "فَتَعالَى اللَّهُ المَلِكُ الحَقُّ",
+      "englishText": "So high [above all] is Allah, the Sovereign, the Truth.",
+      "hindiText": "पस (दो जहाँ का) सच्चा बादशाह खुदा बरतर व आला है",
+      "urduText": "پس اللہ عالی شان واﻻ سچا اور حقیقی بادشاه ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 20,
+          "ayahNumber": 114
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ عَلىٰ كُلِّ شَيءٍ شَهيدٌ",
+      "englishText": "Indeed Allah is, over all things, Witness.",
+      "hindiText": "इसमें शक नहीं कि खुदा हर चीज़ को देख रहा है",
+      "urduText": "اللہ تعالیٰ ہر ہر چیز پر گواه ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 22,
+          "ayahNumber": 17
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ لَقَوِيٌّ عَزيزٌ",
+      "englishText": "Indeed, Allah is Powerful and Exalted in Might.",
+      "hindiText": "बेशक खुदा ज़रूर ज़बरदस्त ग़ालिब है",
+      "urduText": "بیشک اللہ تعالیٰ بڑی قوتوں واﻻ بڑے غلبے واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 22,
+          "ayahNumber": 40
+        },
+        {
+          "surahNumber": 22,
+          "ayahNumber": 74
+        }
+      ]
+    },
+    {
+      "arabicText": "وَإِنَّ اللَّهَ لَعَليمٌ حَليمٌ",
+      "englishText": "And indeed, Allah is Knowing and Forbearing.",
+      "hindiText": "और खुदा तो बेशक बड़ा वाक़िफकार बुर्दवार है",
+      "urduText": "بیشک اللہ تعالیٰ علم اور بردباری واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 22,
+          "ayahNumber": 59
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ لَعَفُوٌّ غَفورٌ",
+      "englishText": "Indeed, Allah is Pardoning and Forgiving.",
+      "hindiText": "बेशक खुदा बड़ा माफ करने वाला बख़शने वाला है",
+      "urduText": "بیشک اللہ درگزر کرنے واﻻ بخشنے واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 22,
+          "ayahNumber": 60
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ لَطيفٌ خَبيرٌ",
+      "englishText": "Indeed, Allah is Subtle and Acquainted.",
+      "hindiText": "बेशक खुदा (बन्दों के हाल पर) बड़ा मेहरबान वाक़िफ़कार है",
+      "urduText": "بے شک اللہ تعالیٰ مہربان اور باخبر ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 22,
+          "ayahNumber": 63
+        },
+        {
+          "surahNumber": 31,
+          "ayahNumber": 16
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ لَهُوَ الغَنِيُّ الحَميدُ",
+      "englishText": "Indeed, Allah is the Free of need, the Praiseworthy.",
+      "hindiText": "खुदा (सबसे) बेपरवाह (और) सज़ावार हम्द है",
+      "urduText": "یقیناً اللہ وہی ہے بے نیاز تعریفوں واﻻ",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 22,
+          "ayahNumber": 64
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ سَميعٌ بَصيرٌ",
+      "englishText": "Indeed, Allah is Hearing and Seeing.",
+      "hindiText": "बेशक खुदा (सबकी) सुनता देखता है",
+      "urduText": "اللہ تعالیٰ سننے واﻻ دیکھنے واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 22,
+          "ayahNumber": 75
+        },
+        {
+          "surahNumber": 31,
+          "ayahNumber": 28
+        },
+        {
+          "surahNumber": 58,
+          "ayahNumber": 1
+        }
+      ]
+    },
+    {
+      "arabicText": "اللَّهَ تَوّابٌ حَكيمٌ",
+      "englishText": "Allah is Accepting of repentance and Wise.",
+      "hindiText": "ख़ुदा बड़ा तौबा क़ुबूल करने वाला हकीम है",
+      "urduText": "اور اللہ تعالیٰ توبہ قبول کرنے واﻻ باحکمت ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 24,
+          "ayahNumber": 10
+        }
+      ]
+    },
+    {
+      "arabicText": "اللَّهَ رَءوفٌ رَحيمٌ",
+      "englishText": "Allah is Kind and Merciful.",
+      "hindiText": "ख़ुदा (अपने बन्दों पर) बड़ा शफीक़ मेहरबान है",
+      "urduText": "اللہ تعالیٰ بڑی شفقت رکھنے واﻻ مہربان ہے۔ (تو تم پر عذاب اتر جاتا)",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 24,
+          "ayahNumber": 20
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبُّ المَشرِقِ وَالمَغرِبِ وَما بَينَهُما",
+      "englishText": "Lord of the east and the west and that between them",
+      "hindiText": "पूरब पश्चिम और जो कुछ इन दोनों के दरमियान (सबका) मालिक है",
+      "urduText": "وہی مشرق ومغرب کا اور ان کے درمیان کی تمام چیزوں کا رب ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 26,
+          "ayahNumber": 28
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ لَغَنِيٌّ عَنِ العالَمينَ",
+      "englishText": "Indeed, Allah is free from need of the worlds.",
+      "hindiText": "इसमें तो शक ही नहीं कि ख़ुदा सारे जहाँन (की इबादत) से बेनियाज़ है",
+      "urduText": "ویسے تو اللہ تعالیٰ تمام جہان والوں سے بےنیاز ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 29,
+          "ayahNumber": 6
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ غَنِيٌّ حَميدٌ",
+      "englishText": "Indeed, Allah is Free of need and Praiseworthy.",
+      "hindiText": "ख़ुदा तो (बहरहाल) बे परवाह (और) क़ाबिल हमदो सना है",
+      "urduText": "اللہ تعالیٰ بے نیاز اور تعریفوں واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 31,
+          "ayahNumber": 12
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ عَليمٌ خَبيرٌ",
+      "englishText": "Indeed, Allah is Knowing and Acquainted.",
+      "hindiText": "बेशक ख़ुदा (सब बातों से) आगाह ख़बरदार है",
+      "urduText": "اللہ تعالیٰ ہی پورے علم واﻻ اور صحیح خبروں واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 31,
+          "ayahNumber": 34
+        },
+        {
+          "surahNumber": 49,
+          "ayahNumber": 13
+        }
+      ]
+    },
+    {
+      "arabicText": "وَكانَ اللَّهُ قَوِيًّا عَزيزًا",
+      "englishText": "And ever is Allah Powerful and Exalted in Might.",
+      "hindiText": "और खुदा तो (बड़ा) ज़बरदस्त (और) ग़ालिब हैं",
+      "urduText": "اللہ تعالیٰ بڑی قوتوں واﻻ اور غالب ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 33,
+          "ayahNumber": 25
+        }
+      ]
+    },
+    {
+      "arabicText": "وَكانَ اللَّهُ عَلىٰ كُلِّ شَيءٍ قَديرًا",
+      "englishText": "And ever is Allah, over all things, competent.",
+      "hindiText": "और खुदा तो हर चीज़ पर क़ादिर वतवाना है",
+      "urduText": "اللہ تعالیٰ ہر چیز پر قادر ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 33,
+          "ayahNumber": 27
+        },
+        {
+          "surahNumber": 48,
+          "ayahNumber": 21
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ كانَ لَطيفًا خَبيرًا",
+      "englishText": "Indeed, Allah is ever Subtle and Acquainted [with all things].",
+      "hindiText": "बेशक ख़ुदा बड़ा बारीक है वाक़िफकार है",
+      "urduText": "یقیناً اللہ تعالیٰ لطف کرنے واﻻ خبردار ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 33,
+          "ayahNumber": 34
+        }
+      ]
+    },
+    {
+      "arabicText": "وَكانَ اللَّهُ بِكُلِّ شَيءٍ عَليمًا",
+      "englishText": "And ever is Allah, of all things, Knowing.",
+      "hindiText": "और खुदा तो हर चीज़ से खूब वाक़िफ है",
+      "urduText": "اور اللہ تعالی ہر چیز کا (بخوبی) جاننے واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 33,
+          "ayahNumber": 40
+        },
+        {
+          "surahNumber": 48,
+          "ayahNumber": 26
+        }
+      ]
+    },
+    {
+      "arabicText": "وَكانَ اللَّهُ عَليمًا حَليمًا",
+      "englishText": "And ever is Allah Knowing and Forbearing.",
+      "hindiText": "और खुदा तो बड़ा वाक़िफकार बुर्दबार है",
+      "urduText": "اللہ تعالیٰ بڑا ہی علم اور حلم واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 33,
+          "ayahNumber": 51
+        }
+      ]
+    },
+    {
+      "arabicText": "وَكانَ اللَّهُ عَلىٰ كُلِّ شَيءٍ رَقيبًا",
+      "englishText": "And ever is Allah, over all things, an Observer.",
+      "hindiText": "और खुदा तो हर चीज़ का निगरॉ है",
+      "urduText": "اور اللہ تعالیٰ ہر چیز کا (پورا) نگہبان ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 33,
+          "ayahNumber": 52
+        }
+      ]
+    },
+    {
+      "arabicText": "وَرَبُّكَ عَلىٰ كُلِّ شَيءٍ حَفيظٌ",
+      "englishText": "And your Lord, over all things, is Guardian.",
+      "hindiText": "और तुम्हारा परवरदिगार तो हर चीज़ का निगरॉ है",
+      "urduText": "اور آپ کا رب (ہر) ہر چیز پر نگہبان ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 34,
+          "ayahNumber": 21
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ عَزيزٌ غَفورٌ",
+      "englishText": "Indeed, Allah is Exalted in Might and Forgiving.",
+      "hindiText": "बेशक खुदा (सबसे) ग़ालिब और बख्शने वाला है",
+      "urduText": "واقعی اللہ تعالیٰ زبردست بڑا بخشنے واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 35,
+          "ayahNumber": 28
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّهُ غَفورٌ شَكورٌ",
+      "englishText": "Indeed, He is Forgiving and Appreciative.",
+      "hindiText": "बेशक वह बड़ा बख्शने वाला है (और) बड़ा क़द्रदान है",
+      "urduText": "بےشک وه بڑا بخشنے واﻻ قدردان ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 35,
+          "ayahNumber": 30
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ بِعِبادِهِ لَخَبيرٌ بَصيرٌ",
+      "englishText": "Indeed, Allah, of His servants, is Acquainted and Seeing.",
+      "hindiText": "बेशक खुदा अपने बन्दों (के हालात) से खूब वाक़िफ है (और) देख रहा है",
+      "urduText": "اللہ تعالیٰ اپنے بندوں کی پوری خبر رکھنے واﻻ خوب دیکھنے واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 35,
+          "ayahNumber": 31
+        }
+      ]
+    },
+    {
+      "arabicText": "سُبحانَهُ ۖ هُوَ اللَّهُ الواحِدُ القَهّارُ\nأَلا هُوَ العَزيزُ الغَفّارُ",
+      "englishText": "Exalted is He; He is Allah, the One, the Prevailing.\nUnquestionably, He is the Exalted in Might, the Perpetual Forgiver.",
+      "hindiText": "वह तो पाक व पाकीज़ा है वह तो यकता बड़ा ज़बरदस्त अल्लाह है\nवही ग़ालिब बड़ा बख्शने वाला है",
+      "urduText": "(لیکن) وه تو پاک ہے، وه وہی اللہ تعالیٰ ہے یگانہ اور قوت واﻻ\nیقین مانو کہ وہی زبردست اور گناہوں کا بخشنے واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 39,
+          "ayahNumber": 4
+        },
+        {
+          "surahNumber": 39,
+          "ayahNumber": 5
+        }
+      ]
+    },
+    {
+      "arabicText": "لِلَّهِ الواحِدِ القَهّارِ",
+      "englishText": "Allah, the One, the Prevailing.",
+      "hindiText": "ख़ुदा जो अकेला (और) ग़ालिब है",
+      "urduText": "اللہ واحد و قہار",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 40,
+          "ayahNumber": 16
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ هُوَ السَّميعُ البَصيرُ",
+      "englishText": "Indeed, Allah - He is the Hearing, the Seeing.",
+      "hindiText": "इसमें शक नहीं कि ख़ुदा सुनने वाला देखने वाला है",
+      "urduText": "بیشک اللہ تعالیٰ خوب سنتا خوب دیکھتا ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 40,
+          "ayahNumber": 20
+        }
+      ]
+    },
+    {
+      "arabicText": "أَلا إِنَّ اللَّهَ هُوَ الغَفورُ الرَّحيمُ",
+      "englishText": "Unquestionably, it is Allah who is the Forgiving, the Merciful.",
+      "hindiText": "ख़ुदा ही यक़ीनन बड़ा बख्शने वाला मेहरबान है",
+      "urduText": "اللہ تعالیٰ ہی معاف فرمانے واﻻ رحمت واﻻ ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 42,
+          "ayahNumber": 5
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ غَفورٌ شَكورٌ",
+      "englishText": "Indeed, Allah is Forgiving and Appreciative.",
+      "hindiText": "बेशक वह बड़ा बख्शने वाला क़दरदान है",
+      "urduText": "بیشک اللہ تعالیٰ بخشنے واﻻ (اور) بہت قدر دان ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 42,
+          "ayahNumber": 23
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ تَوّابٌ رَحيمٌ",
+      "englishText": "Indeed, Allah is Accepting of repentance and Merciful.",
+      "hindiText": "बेशक ख़ुदा बड़ा तौबा क़ुबूल करने वाला मेहरबान है",
+      "urduText": "بیشک اللہ توبہ قبول کرنے واﻻ مہربان ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 49,
+          "ayahNumber": 12
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ هُوَ الغَنِيُّ الحَميدُ",
+      "englishText": "Indeed, Allah is the Free of need, the Praiseworthy.",
+      "hindiText": "ख़ुदा भी बेपरवा सज़ावारे हम्दोसना है",
+      "urduText": "اللہ بےنیاز اور سزاوار حمد وﺛنا ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 57,
+          "ayahNumber": 24
+        },
+        {
+          "surahNumber": 60,
+          "ayahNumber": 6
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ قَوِيٌّ عَزيزٌ",
+      "englishText": "Indeed, Allah is Powerful and Exalted in Might.",
+      "hindiText": "बेशक ख़ुदा बहुत ज़बरदस्त ग़ालिब है",
+      "urduText": "بیشک اللہ قوت واﻻ اور زبردست ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 57,
+          "ayahNumber": 25
+        },
+        {
+          "surahNumber": 58,
+          "ayahNumber": 21
+        }
+      ]
+    },
+    {
+      "arabicText": "وَإِنَّ اللَّهَ لَعَفُوٌّ غَفورٌ",
+      "englishText": "",
+      "hindiText": "",
+      "urduText": "",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 58,
+          "ayahNumber": 2
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاللَّهُ عَلىٰ كُلِّ شَيءٍ شَهيدٌ",
+      "englishText": "",
+      "hindiText": "",
+      "urduText": "",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 58,
+          "ayahNumber": 6
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّمَا النَّجوىٰ مِنَ الشَّيطانِ لِيَحزُنَ الَّذينَ آمَنوا وَلَيسَ بِضارِّهِم شَيئًا إِلّا بِإِذنِ اللَّهِ ۚ وَعَلَى اللَّهِ فَليَتَوَكَّلِ المُؤمِنونَ",
+      "englishText": "Private conversation is only from Satan that he may grieve those who have believed, but he will not harm them at all except by permission of Allah. And upon Allah let the believers rely.",
+      "hindiText": "(बरी बातों की) सरगोशी तो बस एक शैतानी काम है (और इसलिए करते हैं) ताकि ईमानदारों को उससे रंज पहुँचे हालॉकि ख़ुदा की तरफ से आज़ादी दिए बग़ैर सरगोशी उनका कुछ बिगाड़ नहीं सकती और मोमिनीन को तो ख़ुदा ही पर भरोसा रखना चाहिए",
+      "urduText": "(بری) سرگوشیاں، پس شیطانی کام ہے جس سے ایمان داروں کو رنج پہنچے۔ گو اللہ تعالیٰ کی اجازت کے بغیر وه انہیں کوئی نقصان نہیں پہنچا سکتا۔ اور ایمان والوں کو چاہئے کہ اللہ ہی پر بھروسہ رکھیں",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 58,
+          "ayahNumber": 10
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاللَّهُ قَديرٌ",
+      "englishText": "And Allah is competent",
+      "hindiText": "और ख़ुदा तो क़ादिर है",
+      "urduText": "اللہ کو سب قدرتیں ہیں",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 60,
+          "ayahNumber": 7
+        }
+      ]
+    },
+    {
+      "arabicText": "بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ يُسَبِّحُ لِلَّهِ ما فِي السَّماواتِ وَما فِي الأَرضِ المَلِكِ القُدّوسِ العَزيزِ الحَكيمِ",
+      "englishText": "Whatever is in the heavens and whatever is on the earth is exalting Allah, the Sovereign, the Pure, the Exalted in Might, the Wise.",
+      "hindiText": "जो चीज़ आसमानों में है और जो चीज़ ज़मीन में है (सब) ख़ुदा की तस्बीह करती हैं जो (हक़ीक़ी) बादशाह पाक ज़ात ग़ालिब हिकमत वाला है",
+      "urduText": "(ساری چیزیں) جو آسمانوں اور زمین میں ہیں اللہ تعالیٰ کی پاکی بیان کرتی ہیں (جو) بادشاه نہایت پاک (ہے) غالب وباحکمت ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 62,
+          "ayahNumber": 1
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاللَّهُ غَنِيٌّ حَميدٌ",
+      "englishText": "",
+      "hindiText": "",
+      "urduText": "",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 64,
+          "ayahNumber": 6
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاللَّهُ شَكورٌ حَليمٌ",
+      "englishText": "And Allah is Most Appreciative and Forbearing.",
+      "hindiText": "और ख़ुदा तो बड़ा क़द्रदान व बुर्दबार है",
+      "urduText": "اللہ بڑا قدر دان بڑا بردبار ہے",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 64,
+          "ayahNumber": 17
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاللَّهُ عَلىٰ كُلِّ شَيءٍ شَهيدٌ",
+      "englishText": "",
+      "hindiText": "",
+      "urduText": "",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 85,
+          "ayahNumber": 9
+        }
+      ]
+    },
+    {
+      "arabicText": "وَتَأكُلونَ التُّراثَ أَكلًا لَمًّا",
+      "englishText": "And you consume inheritance, devouring [it] altogether,",
+      "hindiText": "और मीरारा के माल (हलाल व हराम) को समेट कर चख जाते हो",
+      "urduText": "اور (مردوں کی) میراث سمیٹ سمیٹ کر کھاتے ہو",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 89,
+          "ayahNumber": 19
+        }
+      ]
+    },
+    {
+      "arabicText": "وَتُحِبّونَ المالَ حُبًّا جَمًّا",
+      "englishText": "And you love wealth with immense love.",
+      "hindiText": "और माल को बहुत ही अज़ीज़ रखते हो",
+      "urduText": "اور مال کو جی بھر کر عزیز رکھتے ہو",
+      "phraseType": "99-names",
+      "references": [
+        {
+          "surahNumber": 89,
+          "ayahNumber": 20
         }
       ]
     }

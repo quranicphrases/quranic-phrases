@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-31T18:38:07.761Z",
+  "timestamp": "2026-01-09T17:44:56.105Z",
   "phraseType": "praise-1",
-  "totalPhrases": 94,
+  "totalPhrases": 185,
   "phrases": [
     {
       "arabicText": "وَاللَّهُ مُحيطٌ بِالكافِرينَ",
@@ -102,27 +102,6 @@
       ]
     },
     {
-      "arabicText": "وَاللَّهُ عَليمٌ بِالظّالِمينَ",
-      "englishText": "And Allah is Knowing of the wrongdoers.",
-      "hindiText": "और खुदा ज़ालिमों से खूब वाक़िफ है",
-      "urduText": "اللہ تعالیٰ ﻇالموں کو خوب جانتا ہے",
-      "phraseType": "praise-1",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 95
-        },
-        {
-          "surahNumber": 2,
-          "ayahNumber": 246
-        },
-        {
-          "surahNumber": 9,
-          "ayahNumber": 47
-        }
-      ]
-    },
-    {
       "arabicText": "وَاللَّهُ بَصيرٌ بِما يَعمَلونَ",
       "englishText": "And Allah is Seeing of whatever they do.",
       "hindiText": "और जो कुछ वह लोग करते हैं खुदा उसे देख रहा है",
@@ -213,19 +192,6 @@
       ]
     },
     {
-      "arabicText": "وَهُوَ السَّميعُ العَليمُ",
-      "englishText": "And He is the Hearing, the Knowing.",
-      "hindiText": "और वह (सबकी हालत) खूब जानता (और) सुनता है",
-      "urduText": "اور وه خوب سننے اور جاننے واﻻ ہے",
-      "phraseType": "praise-1",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 137
-        }
-      ]
-    },
-    {
       "arabicText": "أَأَنتُم أَعلَمُ أَمِ اللَّهُ",
       "englishText": "Are you more knowing or is Allah?",
       "hindiText": "तुम ज्यादा वाक़िफ़ हो या खुदा",
@@ -295,23 +261,6 @@
       ]
     },
     {
-      "arabicText": "أَنَّ اللَّهَ عَزيزٌ حَكيمٌ",
-      "englishText": "That Allah is Exalted in Might and Wise.",
-      "hindiText": "ख़ुदा (हर तरह) ग़ालिब और तदबीर वाला है",
-      "urduText": "اللہ تعالیٰ غلبہ واﻻ اور حکمت واﻻ ہے",
-      "phraseType": "praise-1",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 209
-        },
-        {
-          "surahNumber": 2,
-          "ayahNumber": 260
-        }
-      ]
-    },
-    {
       "arabicText": "وَاللَّهُ يَعلَمُ وَأَنتُم لا تَعلَمونَ",
       "englishText": "And Allah Knows, while you know not.",
       "hindiText": "और ख़ुदा (तो) जानता ही है मगर तुम नही जानते हो",
@@ -329,6 +278,10 @@
         {
           "surahNumber": 3,
           "ayahNumber": 66
+        },
+        {
+          "surahNumber": 24,
+          "ayahNumber": 19
         }
       ]
     },
@@ -457,19 +410,6 @@
       ]
     },
     {
-      "arabicText": "أَنَّ اللَّهَ غَنِيٌّ حَميدٌ",
-      "englishText": "That Allah is Free of need and Praiseworthy.",
-      "hindiText": "कि ख़ुदा बेशक बेनियाज़ (और) सज़ावारे हम्द है",
-      "urduText": "کہ اللہ تعالیٰ بے پرواه اور خوبیوں واﻻ ہے",
-      "phraseType": "praise-1",
-      "references": [
-        {
-          "surahNumber": 2,
-          "ayahNumber": 267
-        }
-      ]
-    },
-    {
       "arabicText": "يُؤتِي الحِكمَةَ مَن يَشاءُ",
       "englishText": "He gives wisdom to whom He wills",
       "hindiText": "वह जिसको चाहता है हिकमत अता फ़रमाता है",
@@ -505,6 +445,10 @@
         {
           "surahNumber": 2,
           "ayahNumber": 283
+        },
+        {
+          "surahNumber": 24,
+          "ayahNumber": 28
         }
       ]
     },
@@ -587,19 +531,6 @@
         {
           "surahNumber": 3,
           "ayahNumber": 18
-        }
-      ]
-    },
-    {
-      "arabicText": "وَإِلَى اللَّهِ المَصيرُ",
-      "englishText": "And to Allah is the [final] destination.",
-      "hindiText": "और ख़ुदा ही की तरफ़ लौट कर जाना है",
-      "urduText": "اور اللہ تعالیٰ ہی کی طرف لوٹ جانا ہے",
-      "phraseType": "praise-1",
-      "references": [
-        {
-          "surahNumber": 3,
-          "ayahNumber": 28
         }
       ]
     },
@@ -725,23 +656,6 @@
         {
           "surahNumber": 3,
           "ayahNumber": 83
-        }
-      ]
-    },
-    {
-      "arabicText": "وَاللَّهُ لا يَهدِي القَومَ الظّالِمينَ",
-      "englishText": "And Allah does not guide the wrongdoing people.",
-      "hindiText": "और ख़ुदा ऐसी हठधर्मी करने वाले लोगों की हिदायत नहीं करता",
-      "urduText": "اللہ تعالیٰ ایسے بے انصاف لوگوں کو راه راست پرنہیں ﻻتا",
-      "phraseType": "praise-1",
-      "references": [
-        {
-          "surahNumber": 3,
-          "ayahNumber": 86
-        },
-        {
-          "surahNumber": 9,
-          "ayahNumber": 109
         }
       ]
     },
@@ -905,6 +819,10 @@
         {
           "surahNumber": 4,
           "ayahNumber": 135
+        },
+        {
+          "surahNumber": 33,
+          "ayahNumber": 2
         }
       ]
     },
@@ -1013,19 +931,6 @@
       ]
     },
     {
-      "arabicText": "إِنَّ اللَّهَ يُحِبُّ المُقسِطينَ",
-      "englishText": "Indeed, Allah loves those who act justly.",
-      "hindiText": "ख़ुदा इन्साफ़ करने वालों को दोस्त रखता है",
-      "urduText": "یقیناً عدل والوں کے ساتھ اللہ محبت رکھتا ہے",
-      "phraseType": "praise-1",
-      "references": [
-        {
-          "surahNumber": 5,
-          "ayahNumber": 42
-        }
-      ]
-    },
-    {
       "arabicText": "إِنَّ اللَّهَ لا يَهدِي القَومَ الظّالِمينَ",
       "englishText": "Indeed, Allah guides not the wrongdoing people.",
       "hindiText": "बेशक ख़ुदा ज़ालिम लोगों को राहे रास्त पर नहीं लाता",
@@ -1035,6 +940,14 @@
         {
           "surahNumber": 5,
           "ayahNumber": 51
+        },
+        {
+          "surahNumber": 28,
+          "ayahNumber": 50
+        },
+        {
+          "surahNumber": 46,
+          "ayahNumber": 10
         }
       ]
     },
@@ -1234,19 +1147,6 @@
       ]
     },
     {
-      "arabicText": "إِنَّهُ هُوَ السَّميعُ العَليمُ",
-      "englishText": "Indeed, it is He who is the Hearing, the Knowing.",
-      "hindiText": "वह बेशक (सब कुछ) सुनता जानता है",
-      "urduText": "قیناً وه بہت سننے جاننے واﻻ ہے",
-      "phraseType": "praise-1",
-      "references": [
-        {
-          "surahNumber": 8,
-          "ayahNumber": 61
-        }
-      ]
-    },
-    {
       "arabicText": "إِنَّهُ عَزيزٌ حَكيمٌ",
       "englishText": "Indeed, He is Exalted in Might and Wise.",
       "hindiText": "बेशक वह ज़बरदस्त हिक़मत वाला है",
@@ -1256,19 +1156,6 @@
         {
           "surahNumber": 8,
           "ayahNumber": 63
-        }
-      ]
-    },
-    {
-      "arabicText": "وَاللَّهُ لا يَهدِي القَومَ الفاسِقينَ",
-      "englishText": "And Allah does not guide the defiantly disobedient people.",
-      "hindiText": "और ख़ुदा नाफरमान लोगों की हिदायत नहीं करता",
-      "urduText": "اللہ تعالیٰ فاسقوں کو ہدایت نہیں دیتا",
-      "phraseType": "praise-1",
-      "references": [
-        {
-          "surahNumber": 9,
-          "ayahNumber": 24
         }
       ]
     },
@@ -1334,6 +1221,1438 @@
         {
           "surahNumber": 9,
           "ayahNumber": 116
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ رَبَّكُمُ اللَّهُ الَّذي خَلَقَ السَّماواتِ وَالأَرضَ في سِتَّةِ أَيّامٍ ثُمَّ استَوىٰ عَلَى العَرشِ ۖ يُدَبِّرُ الأَمرَ ۖ ما مِن شَفيعٍ إِلّا مِن بَعدِ إِذنِهِ ۚ ذٰلِكُمُ اللَّهُ رَبُّكُم فَاعبُدوهُ ۚ أَفَلا تَذَكَّرونَ\nإِلَيهِ مَرجِعُكُم جَميعًا ۖ وَعدَ اللَّهِ حَقًّا ۚ إِنَّهُ يَبدَأُ الخَلقَ ثُمَّ يُعيدُهُ لِيَجزِيَ الَّذينَ آمَنوا وَعَمِلُوا الصّالِحاتِ بِالقِسطِ ۚ وَالَّذينَ كَفَروا لَهُم شَرابٌ مِن حَميمٍ وَعَذابٌ أَليمٌ بِما كانوا يَكفُرونَ\nهُوَ الَّذي جَعَلَ الشَّمسَ ضِياءً وَالقَمَرَ نورًا وَقَدَّرَهُ مَنازِلَ لِتَعلَموا عَدَدَ السِّنينَ وَالحِسابَ ۚ ما خَلَقَ اللَّهُ ذٰلِكَ إِلّا بِالحَقِّ ۚ يُفَصِّلُ الآياتِ لِقَومٍ يَعلَمونَ",
+      "englishText": "Indeed, your Lord is Allah, who created the heavens and the earth in six days and then established Himself above the Throne, arranging the matter [of His creation]. There is no intercessor except after His permission. That is Allah, your Lord, so worship Him. Then will you not remember?\nTo Him is your return all together. [It is] the promise of Allah [which is] truth. Indeed, He begins the [process of] creation and then repeats it that He may reward those who have believed and done righteous deeds, in justice. But those who disbelieved will have a drink of scalding water and a painful punishment for what they used to deny.\nIt is He who made the sun a shining light and the moon a derived light and determined for it phases - that you may know the number of years and account [of time]. Allah has not created this except in truth. He details the signs for a people who know",
+      "hindiText": "इसमें तो शक़ ही नहीं कि तुमरा परवरदिगार वही ख़ुदा है जिसने सारे आसमान व ज़मीन को 6 दिन में पैदा किया फिर उसने अर्श को बुलन्द किया वही हर काम का इन्तज़ाम करता है (उसके सामने) कोई (किसी का) सिफारिशी नहीं (हो सकता) मगर उसकी इजाज़त के बाद वही ख़ुदा तो तुम्हारा परवरदिगार है तो उसी की इबादत करो तो क्या तुम अब भी ग़ौर नही करते\nतुम सबको (आख़िर) उसी की तरफ लौटना है ख़ुदा का वायदा सच्चा है वही यक़ीनन मख़लूक को पहली मरतबा पैदा करता है फिर (मरने के बाद) वही दुबारा जिन्दा करेगा ताकि जिन लोगों ने ईमान कुबूल किया और अच्छे अच्छे काम किए उनको इन्साफ के साथ जज़ाए (ख़ैर) अता फरमाएगा और जिन लोगों ने कुफ्र एख्तियार किया उन के लिए उनके कुफ्र की सज़ा में पीने को खौलता हुआ पानी और दर्दनाक अज़ाब होगा\nवही वह (ख़ुदाए क़ादिर) है जिसने आफ़ताब को चमकदार और महताब को रौशन बनाया और उसकी मंज़िलें मुक़र्रर की ताकि तुम लोग बरसों की गिनती और हिसाब मालूम करो ख़ुदा ने उसे हिकमत व मसलहत से बनाया है वह (अपनी) आयतों का वाक़िफ़कार लोगों के लिए तफ़सीलदार बयान करता है",
+      "urduText": "بلاشبہ تمہارا رب اللہ ہی ہے جس نے آسمانوں اور زمین کو چھ روز میں پیدا کردیا پھر عرش پر قائم ہوا وه ہر کام کی تدبیر کرتا ہے۔ اس کی اجازت کے بغیر کوئی اس کے پاس سفارش کرنے واﻻ نہیں ایسا اللہ تمہارا رب ہے سو تم اس کی عبادت کرو، کیا تم پھر بھی نصیحت نہیں پکڑتے\nتم سب کو اللہ ہی کے پاس جانا ہے، اللہ نے سچا وعده کر رکھا ہے۔ بیشک وہی پہلی بار بھی پیدا کرتا ہے پھر وہی دوباره بھی پیدا کرے گا تاکہ ایسے لوگوں کو جو کہ ایمان ﻻئے اور انہوں نے نیک کام کیے انصاف کے ساتھ جزا دے اور جن لوگوں نے کفر کیا ان کے واسطے کھولتا ہوا پانی پینے کو ملے گا اور دردناک عذاب ہوگا ان کے کفر کی وجہ سے\nوه اللہ تعالیٰ ایسا ہے جس نے آفتاب کو چمکتا ہوا بنایا اور چاند کو نورانی بنایا اور اس کے لیے منزلیں مقرر کیں تاکہ تم برسوں کی گنتی اور حساب معلوم کرلیا کرو۔ اللہ تعالیٰ نے یہ چیزیں بے فائده نہیں پیدا کیں۔ وه یہ دﻻئل ان کو صاف صاف بتلا رہا ہے جو دانش رکھتے ہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 10,
+          "ayahNumber": 3
+        },
+        {
+          "surahNumber": 10,
+          "ayahNumber": 4
+        },
+        {
+          "surahNumber": 10,
+          "ayahNumber": 5
+        }
+      ]
+    },
+    {
+      "arabicText": "سُبحانَهُ وَتَعالىٰ عَمّا يُشرِكونَ",
+      "englishText": "Exalted is He and high above what they associate with Him",
+      "hindiText": "उससे वह पाक साफ और बरतर है",
+      "urduText": "وه پاک اور برتر ہے ان لوگوں کے شرک سے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 10,
+          "ayahNumber": 18
+        }
+      ]
+    },
+    {
+      "arabicText": "قُل مَن يَرزُقُكُم مِنَ السَّماءِ وَالأَرضِ أَمَّن يَملِكُ السَّمعَ وَالأَبصارَ وَمَن يُخرِجُ الحَيَّ مِنَ المَيِّتِ وَيُخرِجُ المَيِّتَ مِنَ الحَيِّ وَمَن يُدَبِّرُ الأَمرَ ۚ فَسَيَقولونَ اللَّهُ ۚ فَقُل أَفَلا تَتَّقونَ\nفَذٰلِكُمُ اللَّهُ رَبُّكُمُ الحَقُّ ۖ فَماذا بَعدَ الحَقِّ إِلَّا الضَّلالُ ۖ فَأَنّىٰ تُصرَفونَ",
+      "englishText": "Say, \"Who provides for you from the heaven and the earth? Or who controls hearing and sight and who brings the living out of the dead and brings the dead out of the living and who arranges [every] matter?\" They will say, \"Allah,\" so say, \"Then will you not fear Him?\"\nFor that is Allah, your Lord, the Truth. And what can be beyond truth except error? So how are you averted?",
+      "hindiText": "ऐ रसूल तुम उने ज़रा पूछो तो कि तुम्हें आसमान व ज़मीन से कौन रोज़ी देता है या (तुम्हारे) कान और (तुम्हारी) ऑंखों का कौन मालिक है और कौन शख़्श मुर्दे से ज़िन्दा को निकालता है और ज़िन्दा से मुर्दे को निकालता है और हर अम्र (काम) का बन्दोबस्त कौन करता है तो फौरन बोल उठेंगे कि ख़ुदा (ऐ रसूल) तुम कहो तो क्या तुम इस पर भी (उससे) नहीं डरते हो\nफिर वही ख़ुदा तो तुम्हारा सच्चा रब है फिर हक़ बात के बाद गुमराही के सिवा और क्या है फिर तुम कहाँ फिरे चले जा रहे हो",
+      "urduText": "آپ کہیے کہ وه کون ہے جو تم کو آسمان اور زمین سے رزق پہنچاتا ہے یا وه کون ہے جو کانوں اور آنکھوں پر پورا اختیار رکھتا ہے اور وه کون ہے جو زنده کو مرده سے نکالتا ہے اور مرده کو زنده سے نکالتا ہے اور وه کون ہے جو تمام کاموں کی تدبیر کرتا ہے؟ ضرور وه یہی کہیں گے کہ اللہ تو ان سے کہیے کہ پھر کیوں نہیں ڈرتے\nسو یہ ہے اللہ تعالیٰ جو تمہارا رب حقیقی ہے۔ پھر حق کے بعد اور کیا ره گیا بجز گمراہی کے، پھر کہاں پھرے جاتے ہو؟",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 10,
+          "ayahNumber": 31
+        },
+        {
+          "surahNumber": 10,
+          "ayahNumber": 32
+        }
+      ]
+    },
+    {
+      "arabicText": "قُل هَل مِن شُرَكائِكُم مَن يَبدَأُ الخَلقَ ثُمَّ يُعيدُهُ ۚ قُلِ اللَّهُ يَبدَأُ الخَلقَ ثُمَّ يُعيدُهُ ۖ فَأَنّىٰ تُؤفَكونَ",
+      "englishText": "Say, \"Are there of your 'partners' any who begins creation and then repeats it?\" Say, \"Allah begins creation and then repeats it, so how are you deluded?\"",
+      "hindiText": "(ऐ रसूल) उनसे पूछो तो कि तुम ने जिन लोगों को (ख़ुदा का) शरीक बनाया है कोई भी ऐसा है जो मख़लूकात को पहली बार पैदा करे फिर उन को (मरने के बाद) दोबारा ज़िन्दा करे (तो क्या जवाब देगें) तुम्ही कहो कि ख़ुदा ही पहले भी पैदा करता है फिर वही दोबारा ज़िन्दा करता है तो किधर तुम उल्टे जा रहे हो",
+      "urduText": "آپ یوں کہیے کہ کیا تمہارے شرکا میں کوئی ایسا ہے جو پہلی بار بھی پیدا کرے، پھر دوباره بھی پیدا کرے؟ آپ کہہ دیجئے کہ اللہ ہی پہلی بار پیدا کرتا ہے پھر وہی دوباره بھی پیدا کرے گا۔ پھر تم کہاں پھرے جاتے ہو؟",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 10,
+          "ayahNumber": 34
+        }
+      ]
+    },
+    {
+      "arabicText": "قُل هَل مِن شُرَكائِكُم مَن يَهدي إِلَى الحَقِّ ۚ قُلِ اللَّهُ يَهدي لِلحَقِّ ۗ أَفَمَن يَهدي إِلَى الحَقِّ أَحَقُّ أَن يُتَّبَعَ أَمَّن لا يَهِدّي إِلّا أَن يُهدىٰ ۖ فَما لَكُم كَيفَ تَحكُمونَ",
+      "englishText": "Say, \"Are there of your 'partners' any who guides to the truth?\" Say, \"Allah guides to the truth. So is He who guides to the truth more worthy to be followed or he who guides not unless he is guided? Then what is [wrong] with you - how do you judge?\"",
+      "hindiText": "(ऐ रसूल उनसे) कहो तो कि तुम्हारे (बनाए हुए) शरीकों में से कोई ऐसा भी है जो तुम्हें (दीन) हक़ की राह दिखा सके तुम ही कह दो कि (ख़ुदा) दीन की राह दिखाता है तो जो तुम्हे दीने हक़ की राह दिखाता है क्या वह ज्यादा हक़दार है कि उसके हुक्म की पैरवी की जाए या वह शख़्श जो (दूसरे) की हिदायत तो दर किनार खुद ही जब तक दूसरा उसको राह न दिखाए राह नही देख पाता तो तुम लोगों को क्या हो गया है",
+      "urduText": "آپ کہیے کہ تمہارے شرکا میں کوئی ایسا ہے کہ حق کا راستہ بتاتا ہو؟ آپ کہہ دیجئے کہ اللہ ہی حق کا راستہ بتاتا ہے۔ تو پھر آیا جو شخص حق کا راستہ بتاتا ہو وه زیاده اتباع کے ﻻئق ہے یا وه شخص جس کو بغیر بتائے خود ہی راستہ نہ سوجھے؟ پس تم کو کیا ہوگیا ہے تم کیسے فیصلے کرتے ہو",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 10,
+          "ayahNumber": 35
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ عَليمٌ بِما يَفعَلونَ",
+      "englishText": "Indeed, Allah is Knowing of what they do.",
+      "hindiText": "बेशक वह लोग जो कुछ (भी) कर रहे हैं खुदा उसे खूब जानता है",
+      "urduText": "یہ جو کچھ کررہے ہیں یقیناً اللہ کو سب خبر ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 10,
+          "ayahNumber": 36
+        }
+      ]
+    },
+    {
+      "arabicText": "وَإِن يَمسَسكَ اللَّهُ بِضُرٍّ فَلا كاشِفَ لَهُ إِلّا هُوَ ۖ وَإِن يُرِدكَ بِخَيرٍ فَلا رادَّ لِفَضلِهِ ۚ يُصيبُ بِهِ مَن يَشاءُ مِن عِبادِهِ ۚ وَهُوَ الغَفورُ الرَّحيمُ",
+      "englishText": "And if Allah should touch you with adversity, there is no remover of it except Him; and if He intends for you good, then there is no repeller of His bounty. He causes it to reach whom He wills of His servants. And He is the Forgiving, the Merciful",
+      "hindiText": "और (याद रखो कि) अगर ख़ुदा की तरफ से तुम्हें कोई बुराई छू भी गई तो फिर उसके सिवा कोई उसका दफा करने वाला नहीं होगा और अगर तुम्हारे साथ भलाई का इरादा करे तो फिर उसके फज़ल व करम का लपेटने वाला भी कोई नहीं वह अपने बन्दों में से जिसको चाहे फायदा पहुँचाएँ और वह बड़ा बख्शने वाला मेहरबान है",
+      "urduText": "اور اگر تم کو اللہ کوئی تکلیف پہنچائے تو بجز اس کے اور کوئی اس کو دور کرنے واﻻ نہیں ہے اور اگر وه تم کو کوئی خیر پہنچانا چاہے تو اس کے فضل کا کوئی ہٹانے واﻻ نہیں، وه اپنا فضل اپنے بندوں میں سے جس پر چاہے نچھاور کردے اور وه بڑی مغفرت بڑی رحمت واﻻ ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 10,
+          "ayahNumber": 107
+        }
+      ]
+    },
+    {
+      "arabicText": "۞ وَما مِن دابَّةٍ فِي الأَرضِ إِلّا عَلَى اللَّهِ رِزقُها وَيَعلَمُ مُستَقَرَّها وَمُستَودَعَها ۚ كُلٌّ في كِتابٍ مُبينٍ",
+      "englishText": "And there is no creature on earth but that upon Allah is its provision, and He knows its place of dwelling and place of storage. All is in a clear register.",
+      "hindiText": "और ज़मीन पर चलने वालों में कोई ऐसा नहीं जिसकी रोज़ी ख़ुदा के ज़िम्मे न हो और ख़ुदा उनके ठिकाने और (मरने के बाद) उनके सौपे जाने की जगह (क़ब्र) को भी जानता है सब कुछ रौशन किताब (लौहे महफूज़) में मौजूद है",
+      "urduText": "زمین پر چلنے پھرنے والے جتنے جاندار ہیں سب کی روزیاں اللہ تعالیٰ پر ہیں وہی ان کے رہنے سہنے کی جگہ کو جانتا ہےاور ان کے سونپے جانے کی جگہ کو بھی، سب کچھ واضح کتاب میں موجود ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 11,
+          "ayahNumber": 6
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنّي تَوَكَّلتُ عَلَى اللَّهِ رَبّي وَرَبِّكُم ۚ ما مِن دابَّةٍ إِلّا هُوَ آخِذٌ بِناصِيَتِها ۚ إِنَّ رَبّي عَلىٰ صِراطٍ مُستَقيمٍ",
+      "englishText": "Indeed, I have relied upon Allah, my Lord and your Lord. There is no creature but that He holds its forelock. Indeed, my Lord is on a path [that is] straight.\"",
+      "hindiText": "मै तो सिर्फ ख़ुदा पर भरोसा रखता हूँ जो मेरा भी परवरदिगार है और तुम्हारा भी परवरदिगार है और रुए ज़मीन पर जितने चलने वाले हैं सबकी चोटी उसी के साथ है इसमें तो शक़ ही नहीं कि मेरा परवरदिगार (इन्साफ की) सीधी राह पर है",
+      "urduText": "میرا بھروسہ صرف اللہ تعالیٰ پر ہی ہے، جو میرا اور تم سب کا پروردگار ہے جتنے بھی پاؤں دھرنے والے ہیں سب کی پیشانی وہی تھامے ہوئے ہے۔ یقیناً میرا رب بالکل صحیح راه پر ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 11,
+          "ayahNumber": 56
+        }
+      ]
+    },
+    {
+      "arabicText": "خالِدينَ فيها ما دامَتِ السَّماواتُ وَالأَرضُ إِلّا ما شاءَ رَبُّكَ ۚ إِنَّ رَبَّكَ فَعّالٌ لِما يُريدُ\n۞ وَأَمَّا الَّذينَ سُعِدوا فَفِي الجَنَّةِ خالِدينَ فيها ما دامَتِ السَّماواتُ وَالأَرضُ إِلّا ما شاءَ رَبُّكَ ۖ عَطاءً غَيرَ مَجذوذٍ",
+      "englishText": "[They will be] abiding therein as long as the heavens and the earth endure, except what your Lord should will. Indeed, your Lord is an effecter of what He intends.\nAnd as for those who were [destined to be] prosperous, they will be in Paradise, abiding therein as long as the heavens and the earth endure, except what your Lord should will - a bestowal uninterrupted.",
+      "hindiText": "वह लोग जब तक आसमान और ज़मीन में है हमेशा उसी मे रहेगें मगर जब तुम्हारा परवरदिगार (नजात देना) चाहे बेशक तुम्हारा परवरदिगार जो चाहता है कर ही डालता है\nऔर जो लोग नेक बख्त हैं वह तो बेहश्त में होगें (और) जब तक आसमान व ज़मीन (बाक़ी) है वह हमेशा उसी में रहेगें मगर जब तेरा परवरदिगार चाहे (सज़ा देकर आख़िर में जन्नत में ले जाए",
+      "urduText": "وه وہیں ہمیشہ رہنے والے ہیں جب تک آسمان وزمین برقرار رہیں۔ سوائے اس وقت کے جو تمہارا رب چاہے۔ یقیناً تیرا رب جو کچھ چاہے کر گزرتا ہے\nلیکن جو نیک بخت کئے گئے وه جنت میں ہوں گے جہاں ہمیشہ رہیں گے جب تک آسمان وزمین باقی رہے مگر جو تیرا پروردگار چاہے۔ یہ بے انتہا بخشش ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 11,
+          "ayahNumber": 107
+        },
+        {
+          "surahNumber": 11,
+          "ayahNumber": 108
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلِلَّهِ غَيبُ السَّماواتِ وَالأَرضِ وَإِلَيهِ يُرجَعُ الأَمرُ كُلُّهُ فَاعبُدهُ وَتَوَكَّل عَلَيهِ ۚ وَما رَبُّكَ بِغافِلٍ عَمّا تَعمَلونَ",
+      "englishText": "And to Allah belong the unseen [aspects] of the heavens and the earth and to Him will be returned the matter, all of it, so worship Him and rely upon Him. And your Lord is not unaware of that which you do.",
+      "hindiText": "और सारे आसमान व ज़मीन की पोशीदा बातों का इल्म ख़ास ख़ुदा ही को है और उसी की तरफ हर काम हिर फिर कर लौटता है तुम उसी की इबादत करो और उसी पर भरोसा रखो और जो कुछ तुम लोग करते हो उससे ख़ुदा बेख़बर नहीं",
+      "urduText": "زمینوں اور آسمانوں کا علم غیب اللہ تعالیٰ ہی کو ہے، تمام معاملات کا رجوع بھی اسی کی جانب ہے، پس تجھے اسی کی عبادت کرنی چاہئے اور اسی پر بھروسہ رکھنا چاہئے اور تم جو کچھ کرتے ہو اس سے اللہ تعالیٰ بے خبر نہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 11,
+          "ayahNumber": 123
+        }
+      ]
+    },
+    {
+      "arabicText": "يا صاحِبَيِ السِّجنِ أَأَربابٌ مُتَفَرِّقونَ خَيرٌ أَمِ اللَّهُ الواحِدُ القَهّارُ",
+      "englishText": "O [my] two companions of prison, are separate lords better or Allah, the One, the Prevailing?",
+      "hindiText": "ऐ मेरे कैद ख़ाने के दोनो रफीक़ों (साथियों) (ज़रा ग़ौर तो करो कि) भला जुदा जुदा माबूद अच्छे या ख़ुदाए यकता ज़बरदस्त (अफसोस)",
+      "urduText": "اے میرے قید خانے کے ساتھیو! کیا متفرق کئی ایک پروردگار بہتر ہیں؟ یا ایک اللہ زبردست طاقتور؟",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 12,
+          "ayahNumber": 39
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ يَجزِي المُتَصَدِّقينَ",
+      "englishText": "Indeed, Allah rewards the charitable.",
+      "hindiText": "ख़ुदा सदक़ा ख़ैरात देने वालों को जजाए ख़ैर देता है",
+      "urduText": "اللہ تعالیٰ خیرات کرنے والوں کو بدلہ دیتا ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 12,
+          "ayahNumber": 88
+        }
+      ]
+    },
+    {
+      "arabicText": "وَإِنَّ رَبَّكَ لَذو مَغفِرَةٍ لِلنّاسِ عَلىٰ ظُلمِهِم ۖ وَإِنَّ رَبَّكَ لَشَديدُ العِقابِ",
+      "englishText": "And indeed, your Lord is full of forgiveness for the people despite their wrongdoing, and indeed, your Lord is severe in penalty.",
+      "hindiText": "और इसमें शक़ नहीं की तुम्हारा परवरदिगार बावजूद उनकी शरारत के लोगों पर बड़ा बख़शिश (करम) वाला है और इसमें भी शक़ नहीं कि तुम्हारा परवरदिगार यक़ीनन सख्त अज़ाब वाला है",
+      "urduText": "اور بیشک تیرا رب البتہ بخشنے واﻻ ہے لوگوں کے بے جا ﻇلم پر بھی۔ اور یہ بھی یقینی بات ہے کہ تیرا رب بڑی سخت سزا دینے واﻻ بھی ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 13,
+          "ayahNumber": 6
+        }
+      ]
+    },
+    {
+      "arabicText": "وَيُسَبِّحُ الرَّعدُ بِحَمدِهِ وَالمَلائِكَةُ مِن خيفَتِهِ وَيُرسِلُ الصَّواعِقَ فَيُصيبُ بِها مَن يَشاءُ وَهُم يُجادِلونَ فِي اللَّهِ وَهُوَ شَديدُ المِحالِ",
+      "englishText": "And the thunder exalts [Allah] with praise of Him - and the angels [as well] from fear of Him - and He sends thunderbolts and strikes therewith whom He wills while they dispute about Allah; and He is severe in assault.",
+      "hindiText": "और ग़र्ज और फरिश्ते उसके ख़ौफ से उसकी हम्दो सना की तस्बीह किया करते हैं वही (आसमान से) बिजलियों को भेजता है फिर उसे जिस पर चाहता है गिरा भी देता है और ये लोग ख़ुदा के बारे में (ख्वामाख्वाह) झगड़े करते हैं हालॉकि वह बड़ा सख्त क़ूवत वाला है",
+      "urduText": "گرج اس کی تسبیح وتعریف کرتی ہے اور فرشتے بھی، اس کے خوف سے۔ وہی آسمان سے بجلیاں گراتا ہے اور جس پر چاہتا ہے اس پر ڈالتا ہے کفار اللہ کی بابت لڑ جھگڑ رہے ہیں اور اللہ سخت قوت والا ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 13,
+          "ayahNumber": 13
+        }
+      ]
+    },
+    {
+      "arabicText": "هُوَ رَبّي لا إِلٰهَ إِلّا هُوَ عَلَيهِ تَوَكَّلتُ وَإِلَيهِ مَتابِ",
+      "englishText": "\"He is my Lord; there is no deity except Him. Upon Him I rely, and to Him is my return.\"",
+      "hindiText": "वही मेरा परवरदिगार है उसके सिवा कोई माबूद नहीं मै उसी पर भरोसा रखता हूँ और उसी तरफ रुज़ू करता हूँ",
+      "urduText": "میرا پالنے واﻻ تو وہی ہے اس کے سوا درحقیقت کوئی بھی ﻻئق عبادت نہیں، اسی کے اوپر میرا بھروسہ ہے اور اسی کی جانب میرا رجوع ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 13,
+          "ayahNumber": 30
+        }
+      ]
+    },
+    {
+      "arabicText": "أَلَم تَرَ أَنَّ اللَّهَ خَلَقَ السَّماواتِ وَالأَرضَ بِالحَقِّ ۚ إِن يَشَأ يُذهِبكُم وَيَأتِ بِخَلقٍ جَديدٍ",
+      "englishText": "Have you not seen that Allah created the heavens and the earth in truth? If He wills, He can do away with you and produce a new creation.",
+      "hindiText": "क्या तूने नहीं देखा कि ख़ुदा ही ने सारे आसमान व ज़मीन ज़रुर मसलहत से पैदा किए अगर वह चाहे तो सबको मिटाकर एक नई खिलक़त (बस्ती) ला बसाए",
+      "urduText": "کیا تو نے نہیں دیکھا کہ اللہ تعالیٰ نے آسمانوں کو اور زمین کو بہترین تدبیر کے ساتھ پیدا کیا ہے۔ اگر وه چاہے تو تم سب کو فنا کردے اور نئی مخلوق ﻻئے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 14,
+          "ayahNumber": 19
+        }
+      ]
+    },
+    {
+      "arabicText": "يُثَبِّتُ اللَّهُ الَّذينَ آمَنوا بِالقَولِ الثّابِتِ فِي الحَياةِ الدُّنيا وَفِي الآخِرَةِ ۖ وَيُضِلُّ اللَّهُ الظّالِمينَ ۚ وَيَفعَلُ اللَّهُ ما يَشاءُ",
+      "englishText": "Allah keeps firm those who believe, with the firm word, in worldly life and in the Hereafter. And Allah sends astray the wrongdoers. And Allah does what He wills.",
+      "hindiText": "जो लोग पक्की बात (कलमा तौहीद) पर (सदक़ दिल से ईमान ला चुके उनको ख़ुदा दुनिया की ज़िन्दगी में भी साबित क़दम रखता है और आख़िरत में भी साबित क़दम रखेगा (और) उन्हें सवाल व जवाब में कोई वक्त न होगा और सरकशों को ख़ुदा गुमराही में छोड़ देता है और ख़ुदा जो चाहता है करता है",
+      "urduText": "ایمان والوں کو اللہ تعالیٰ پکی بات کے ساتھ مضبوط رکھتا ہے، دنیا کی زندگی میں بھی اور آخرت میں بھی، ہاں ناانصاف لوگوں کو اللہ بہکا دیتا ہے اور اللہ جو چاہے کر گزرے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 14,
+          "ayahNumber": 27
+        }
+      ]
+    },
+    {
+      "arabicText": "يَومَ تُبَدَّلُ الأَرضُ غَيرَ الأَرضِ وَالسَّماواتُ ۖ وَبَرَزوا لِلَّهِ الواحِدِ القَهّارِ",
+      "englishText": "[It will be] on the Day the earth will be replaced by another earth, and the heavens [as well], and all creatures will come out before Allah, the One, the Prevailing.",
+      "hindiText": "(मगर कब) जिस दिन ये ज़मीन बदलकर दूसरी ज़मीन कर दी जाएगी और (इसी तरह) आसमान (भी बदल दिए जाएँगें) और सब लोग यकता क़हार (ज़बरदस्त) ख़ुदा के रुबरु (अपनी अपनी जगह से) निकल खड़े होगें",
+      "urduText": "جس دن زمین اس زمین کے سوا اور ہی بدل دی جائے گی اور آسمان بھی، اور سب کے سب اللہ واحد غلبے والے کے روبرو ہوں گے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 14,
+          "ayahNumber": 48
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ رَبَّكَ هُوَ الخَلّاقُ العَليمُ",
+      "englishText": "Indeed, your Lord - He is the Knowing Creator.",
+      "hindiText": "इसमें शक़ नहीं कि तुम्हारा परवरदिगार बड़ा पैदा करने वाला है",
+      "urduText": "یقیناً تیرا پروردگار ہی پیدا کرنے واﻻ اور جاننے واﻻ ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 15,
+          "ayahNumber": 86
+        }
+      ]
+    },
+    {
+      "arabicText": "وَيَخلُقُ ما لا تَعلَمونَ",
+      "englishText": "And He creates that which you do not know.",
+      "hindiText": "(उसके अलावा) और चीज़े भी पैदा करेगा जिनको तुम नहीं जानते हो",
+      "urduText": "اور بھی وه ایسی بہت چیزیں پیدا کرتا ہے جن کا تمہیں علم بھی نہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 16,
+          "ayahNumber": 8
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّهُ لا يُحِبُّ المُستَكبِرينَ",
+      "englishText": "Indeed, He does not like the arrogant.",
+      "hindiText": "वह हरगिज़ तकब्बुर करने वालों को पसन्द नहीं करता",
+      "urduText": "وه غرور کرنے والوں کو پسند نہیں فرماتا",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 16,
+          "ayahNumber": 23
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلِلَّهِ يَسجُدُ ما فِي السَّماواتِ وَما فِي الأَرضِ مِن دابَّةٍ وَالمَلائِكَةُ وَهُم لا يَستَكبِرونَ",
+      "englishText": "And to Allah prostrates whatever is in the heavens and whatever is on the earth of creatures, and the angels [as well], and they are not arrogant.",
+      "hindiText": "और जितनी चीज़ें (चादँ सूरज वग़ैरह) आसमानों में हैं और जितने जानवर ज़मीन में हैं सब ख़ुदा ही के आगे सर सजूद हैं और फरिश्ते तो (है ही) और वह हुक्में ख़ुदा से सरकशी नहीं करते (49) (सजदा)",
+      "urduText": "یقیناً آسمان وزمین کے کل جاندار اور تمام فرشتے اللہ تعالیٰ کے سامنے سجدے کرتے ہیں اور ذرا بھی تکبر نہیں کرتے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 16,
+          "ayahNumber": 49
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاللَّهُ خَلَقَكُم ثُمَّ يَتَوَفّاكُم ۚ وَمِنكُم مَن يُرَدُّ إِلىٰ أَرذَلِ العُمُرِ لِكَي لا يَعلَمَ بَعدَ عِلمٍ شَيئًا ۚ إِنَّ اللَّهَ عَليمٌ قَديرٌ",
+      "englishText": "And Allah created you; then He will take you in death. And among you is he who is reversed to the most decrepit [old] age so that he will not know, after [having had] knowledge, a thing. Indeed, Allah is Knowing and Competent.",
+      "hindiText": "और ख़ुदा ही ने तुमको पैदा किया फिर वही तुमको (दुनिया से) उठा लेगा और तुममें से बाज़ ऐसे भी हैं जो ज़लील ज़िन्दगी (सख्त बुढ़ापे) की तरफ लौटाए जाते हैं (बहुत कुछ) जानने के बाद (ऐसे सड़ीले हो गए कि) कुछ नहीं जान सके बेशक ख़ुदा (सब कुछ) जानता और (हर तरह की) कुदरत रखता है",
+      "urduText": "اللہ تعالیٰ نے ہی تم سب کو پیدا کیا ہے وہی پھر تمہیں فوت کرے گا، تم میں ایسے بھی ہیں جو بدترین عمر کی طرف لوٹائے جاتے ہیں کہ بہت کچھ جاننے بوجھنے کے بعد بھی نہ جانیں۔ بیشک اللہ دانا اور توانا ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 16,
+          "ayahNumber": 70
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ يَعلَمُ وَأَنتُم لا تَعلَمونَ",
+      "englishText": "Indeed, Allah knows and you do not know.",
+      "hindiText": "बेशक ख़ुदा (सब कुछ) जानता है और तुम नहीं जानते",
+      "urduText": "اللہ تعالیٰ خوب جانتا ہے اور تم نہیں جانتے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 16,
+          "ayahNumber": 74
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ مَعَ الَّذينَ اتَّقَوا وَالَّذينَ هُم مُحسِنونَ",
+      "englishText": "Indeed, Allah is with those who fear Him and those who are doers of good.",
+      "hindiText": "जो लोग परहेज़गार हैं और जो लोग नेको कार हैं ख़ुदा उनका साथी है",
+      "urduText": "یقین مانو کہ اللہ تعالیٰ پرہیزگاروں اور نیک کاروں کے ساتھ ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 16,
+          "ayahNumber": 128
+        }
+      ]
+    },
+    {
+      "arabicText": "سُبحانَهُ وَتَعالىٰ عَمّا يَقولونَ عُلُوًّا كَبيرًا",
+      "englishText": "Exalted is He and high above what they say by great sublimity.",
+      "hindiText": "जो बेहूदा बातें ये लोग (ख़ुदा की निस्बत) कहा करते हैं वह उनसे बहुत बढ़के पाक व पाकीज़ा और बरतर है",
+      "urduText": "جو کچھ یہ کہتے ہیں اس سے وه پاک اور باﻻتر، بہت دور اور بہت بلند ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 17,
+          "ayahNumber": 43
+        }
+      ]
+    },
+    {
+      "arabicText": "تُسَبِّحُ لَهُ السَّماواتُ السَّبعُ وَالأَرضُ وَمَن فيهِنَّ ۚ وَإِن مِن شَيءٍ إِلّا يُسَبِّحُ بِحَمدِهِ وَلٰكِن لا تَفقَهونَ تَسبيحَهُم ۗ إِنَّهُ كانَ حَليمًا غَفورًا",
+      "englishText": "The seven heavens and the earth and whatever is in them exalt Him. And there is not a thing except that it exalts [Allah] by His praise, but you do not understand their [way of] exalting. Indeed, He is ever Forbearing and Forgiving.",
+      "hindiText": "सातों आसमान और ज़मीन और जो लोग इनमें (सब) उसकी तस्बीह करते हैं और (सारे जहाँन) में कोई चीज़ ऐसी नहीं जो उसकी (हम्द व सना) की तस्बीह न करती हो मगर तुम लोग उनकी तस्बीह नहीं समझते इसमें शक़ नहीं कि वह बड़ा बुर्दबार बख्शने वाला है",
+      "urduText": "ساتوں آسمان اور زمین اور جو بھی ان میں ہے اسی کی تسبیح کر رہے ہیں۔ ایسی کوئی چیز نہیں جو اسے پاکیزگی اور تعریف کے ساتھ یاد نہ کرتی ہو۔ ہاں یہ صحیح ہے کہ تم اس کی تسبیح سمجھ نہیں سکتے۔ وه بڑا بردبار اور بخشنے واﻻ ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 17,
+          "ayahNumber": 44
+        }
+      ]
+    },
+    {
+      "arabicText": "وَقُلِ الحَمدُ لِلَّهِ الَّذي لَم يَتَّخِذ وَلَدًا وَلَم يَكُن لَهُ شَريكٌ فِي المُلكِ وَلَم يَكُن لَهُ وَلِيٌّ مِنَ الذُّلِّ ۖ وَكَبِّرهُ تَكبيرًا",
+      "englishText": "And say, \"Praise to Allah, who has not taken a son and has had no partner in [His] dominion and has no [need of a] protector out of weakness; and glorify Him with [great] glorification.\"",
+      "hindiText": "और कहो कि हर तरह की तारीफ उसी ख़ुदा को (सज़ावार) है जो न तो कोई औलाद रखता है और न (सारे जहाँन की) सल्तनत में उसका कोई साझेदार है और न उसे किसी तरह की कमज़ोरी है न कोई उसका सरपरस्त हो और उसकी बड़ाई अच्छी तरह करते रहा करो",
+      "urduText": "اور یہ کہہ دیجیئے کہ تمام تعریفیں اللہ ہی کے لئے ہیں جو نہ اوﻻد رکھتا ہے نہ اپنی بادشاہت میں کسی کو شریک وساجھی رکھتا ہے اور نہ وه کمزور ہے کہ اسے کسی حمایتی کی ضرورت ہو اور تو اس کی پوری پوری بڑائی بیان کرتا ره",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 17,
+          "ayahNumber": 111
+        }
+      ]
+    },
+    {
+      "arabicText": "وَما نَتَنَزَّلُ إِلّا بِأَمرِ رَبِّكَ ۖ لَهُ ما بَينَ أَيدينا وَما خَلفَنا وَما بَينَ ذٰلِكَ ۚ وَما كانَ رَبُّكَ نَسِيًّا\nرَبُّ السَّماواتِ وَالأَرضِ وَما بَينَهُما فَاعبُدهُ وَاصطَبِر لِعِبادَتِهِ ۚ هَل تَعلَمُ لَهُ سَمِيًّا",
+      "englishText": "[Gabriel said], \"And we [angels] descend not except by the order of your Lord. To Him belongs that before us and that behind us and what is in between. And never is your Lord forgetful -\nLord of the heavens and the earth and whatever is between them - so worship Him and have patience for His worship. Do you know of any similarity to Him?\"",
+      "hindiText": "और (ऐ रसूल) हम लोग फ़रिश्ते आप के परवरदिगार के हुक्म के बग़ैर (दुनिया में) नहीं नाज़िल होते जो कुछ हमारे सामने है और जो कुछ हमारे पीठ पीछे है और जो कुछ उनके दरमियान में है (ग़रज़ सबकुछ) उसी का है\nऔर तुम्हारा परवरदिगार कुछ भूलने वाला नहीं है सारे आसमान और ज़मीन का मालिक है और उन चीज़ों का भी जो दोनों के दरमियान में है तो तुम उसकी इबादत करो (और उसकी इबादत पर साबित) क़दम रहो भला तुम्हारे इल्म में उसका कोई हमनाम भी है",
+      "urduText": "ہم بغیر تیرے رب کے حکم کے اتر نہیں سکتے، ہمارے آگے پیچھے اور ان کے درمیان کی کل چیزیں اسی کی ملکیت میں ہیں، تیرا پروردگار بھولنے واﻻ نہیں\nآسمانوں کا، زمین کا اور جو کچھ ان کے درمیان ہے سب کا رب وہی ہے تو اسی کی بندگی کر اور اس کی عبادت پر جم جا۔ کیا تیرے علم میں اس کا ہمنام ہم پلہ کوئی اور بھی ہے؟",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 19,
+          "ayahNumber": 64
+        },
+        {
+          "surahNumber": 19,
+          "ayahNumber": 65
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّني أَنَا اللَّهُ لا إِلٰهَ إِلّا أَنا فَاعبُدني وَأَقِمِ الصَّلاةَ لِذِكري",
+      "englishText": "Indeed, I am Allah. There is no deity except Me, so worship Me and establish prayer for My remembrance.",
+      "hindiText": "इसमें शक नहीं कि मैं ही वह अल्लाह हूँ कि मेरे सिवा कोई माबूद नहीं तो मेरी ही इबादत करो और मेरी याद के लिए नमाज़ बराबर पढ़ा करो",
+      "urduText": "بیشک میں ہی اللہ ہوں، میرے سوا عبادت کے ﻻئق اور کوئی نہیں پس تو میری ہی عبادت کر، اور میری یاد کے لئے نماز قائم رکھ",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 20,
+          "ayahNumber": 14
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّما إِلٰهُكُمُ اللَّهُ الَّذي لا إِلٰهَ إِلّا هُوَ ۚ وَسِعَ كُلَّ شَيءٍ عِلمًا",
+      "englishText": "Your god is only Allah, except for whom there is no deity. He has encompassed all things in knowledge.\"",
+      "hindiText": "तुम्हारा माबूद तो बस वही ख़ुदा है जिसके सिवा कोई और माबूद बरहक़ नहीं कि उसका इल्म हर चीज़ पर छा गया है",
+      "urduText": "اصل بات یہی ہے کہ تم سب کا معبود برحق صرف اللہ ہی ہے اس کے سوا کوئی پرستش کے قابل نہیں۔ اس کا علم تمام چیزوں پر حاوی ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 20,
+          "ayahNumber": 98
+        }
+      ]
+    },
+    {
+      "arabicText": "لا يُسأَلُ عَمّا يَفعَلُ وَهُم يُسأَلونَ",
+      "englishText": "He is not questioned about what He does, but they will be questioned.",
+      "hindiText": "जो कुछ वह करता है उसकी पूछगछ नहीं हो सकती",
+      "urduText": "وه اپنے کاموں کے لئے (کسی کےآگے) جواب ده نہیں اور سب (اس کےآگے) جواب ده ہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 21,
+          "ayahNumber": 23
+        }
+      ]
+    },
+    {
+      "arabicText": "ذٰلِكَ بِأَنَّ اللَّهَ هُوَ الحَقُّ وَأَنَّ ما يَدعونَ مِن دونِهِ هُوَ الباطِلُ وَأَنَّ اللَّهَ هُوَ العَلِيُّ الكَبيرُ",
+      "englishText": "That is because Allah is the Truth, and that which they call upon other than Him is falsehood, and because Allah is the Most High, the Grand.",
+      "hindiText": "(और) इस वजह से (भी) कि यक़ीनन खुदा ही बरहक़ है और उसके सिवा जिनको लोग (वक्ते मुसीबत) पुकारा करते हैं (सबके सब) बातिल हैं और (ये भी) यक़ीनी (है कि) खुदा ही (सबसे) बुलन्द मर्तबा बुर्जुग़ है",
+      "urduText": "یہ سب اس لئے کہ اللہ ہی حق ہے اور اس کے سوا جسے بھی یہ پکارتے ہیں وه باطل ہے اور بیشک اللہ ہی بلندی واﻻ کبریائی واﻻ ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 22,
+          "ayahNumber": 62
+        }
+      ]
+    },
+    {
+      "arabicText": "اعبُدُوا اللَّهَ ما لَكُم مِن إِلٰهٍ غَيرُهُ ۖ أَفَلا تَتَّقونَ",
+      "englishText": "\"Worship Allah; you have no deity other than Him; then will you not fear Him?\"",
+      "hindiText": "खुदा की इबादत करो उसके सिवा कोई तुम्हारा माबूद नहीं तो क्या तुम (उससे डरते नही हो)",
+      "urduText": "تم سب اللہ کی عبادت کرو اس کے سوا تمہارا کوئی معبود نہیں، تم کیوں نہیں ڈرتے؟",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 23,
+          "ayahNumber": 32
+        }
+      ]
+    },
+    {
+      "arabicText": "مَن رَبُّ السَّماواتِ السَّبعِ وَرَبُّ العَرشِ العَظيمِ",
+      "englishText": "\"Who is Lord of the seven heavens and Lord of the Great Throne?\"",
+      "hindiText": "कि सातों आसमानों का मालिक और (इतने) बड़े अर्श का मालिक कौन है तो फौरन जवाब देगें कि (सब कुछ) खुदा ही का है",
+      "urduText": "ساتوں آسمان کا اور بہت باعظمت عرش کا رب کون ہے؟",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 23,
+          "ayahNumber": 86
+        }
+      ]
+    },
+    {
+      "arabicText": "مَن بِيَدِهِ مَلَكوتُ كُلِّ شَيءٍ وَهُوَ يُجيرُ وَلا يُجارُ عَلَيهِ إِن كُنتُم تَعلَمونَ",
+      "englishText": "\"In whose hand is the realm of all things - and He protects while none can protect against Him - if you should know?\"",
+      "hindiText": "भला अगर तुम कुछ जानते हो (तो बताओ) कि वह कौन शख्स है- जिसके एख्तेयार में हर चीज़ की बादशाहत है वह (जिसे चाहता है) पनाह देता है और उस (के अज़ाब) से पनाह नहीं दी जा सकती",
+      "urduText": "تمام چیزوں کا اختیار کس کے ہاتھ میں ہے؟ جو پناه دیتا ہے اور جس کے مقابلے میں کوئی پناه نہیں دیا جاتا، اگر تم جانتے ہو تو بتلا دو؟",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 23,
+          "ayahNumber": 88
+        }
+      ]
+    },
+    {
+      "arabicText": "يَومَئِذٍ يُوَفّيهِمُ اللَّهُ دينَهُمُ الحَقَّ وَيَعلَمونَ أَنَّ اللَّهَ هُوَ الحَقُّ المُبينُ",
+      "englishText": "That Day, Allah will pay them in full their deserved recompense, and they will know that it is Allah who is the perfect in justice.",
+      "hindiText": "उस दिन ख़ुदा उनको ठीक उनका पूरा पूरा बदला देगा और जान जाएँगें कि ख़ुदा बिल्कुल बरहक़ और (हक़ का) ज़ाहिर करने वाला है",
+      "urduText": "اس دن اللہ تعالیٰ انہیں پورا پورا بدلہ حق و انصاف کے ساتھ دے گا اور وه جان لیں گے کہ اللہ تعالیٰ ہی حق ہے (اور وہی) ﻇاہر کرنے واﻻ ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 24,
+          "ayahNumber": 25
+        }
+      ]
+    },
+    {
+      "arabicText": "أَلا إِنَّ لِلَّهِ ما فِي السَّماواتِ وَالأَرضِ ۖ قَد يَعلَمُ ما أَنتُم عَلَيهِ وَيَومَ يُرجَعونَ إِلَيهِ فَيُنَبِّئُهُم بِما عَمِلوا ۗ وَاللَّهُ بِكُلِّ شَيءٍ عَليمٌ",
+      "englishText": "Unquestionably, to Allah belongs whatever is in the heavens and earth. Already He knows that upon which you [stand] and [knows] the Day when they will be returned to Him and He will inform them of what they have done. And Allah is Knowing of all things.",
+      "hindiText": "ख़बरदार जो कुछ सारे आसमान व ज़मीन में है (सब) यक़ीनन ख़ुदा ही का है जिस हालत पर तुम हो ख़ुदा ख़ूब जानता है और जिस दिन उसके पास ये लोग लौटा कर लाएँ जाएँगें तो जो कुछ उन लोगों ने किया कराया है बता देगा और ख़ुदा तो हर चीज़ से खूब वाकिफ है",
+      "urduText": "آگاه ہو جاؤ کہ آسمان وزمین میں جو کچھ ہے سب اللہ تعالیٰ ہی کا ہے۔ جس روش پر تم ہو وه اسے بخوبی جانتا ہے، اور جس دن یہ سب اس کی طرف لوٹائے جائیں گے اس دن ان کو ان کے کئے سے وه خبردار کر دے گا۔ اللہ تعالیٰ سب کچھ جاننے واﻻ ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 24,
+          "ayahNumber": 64
+        }
+      ]
+    },
+    {
+      "arabicText": "بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ تَبارَكَ الَّذي نَزَّلَ الفُرقانَ عَلىٰ عَبدِهِ لِيَكونَ لِلعالَمينَ نَذيرًا\nالَّذي لَهُ مُلكُ السَّماواتِ وَالأَرضِ وَلَم يَتَّخِذ وَلَدًا وَلَم يَكُن لَهُ شَريكٌ فِي المُلكِ وَخَلَقَ كُلَّ شَيءٍ فَقَدَّرَهُ تَقديرًا\nوَاتَّخَذوا مِن دونِهِ آلِهَةً لا يَخلُقونَ شَيئًا وَهُم يُخلَقونَ وَلا يَملِكونَ لِأَنفُسِهِم ضَرًّا وَلا نَفعًا وَلا يَملِكونَ مَوتًا وَلا حَياةً وَلا نُشورًا",
+      "englishText": "Blessed is He who sent down the Criterion upon His Servant that he may be to the worlds a warner -\nHe to whom belongs the dominion of the heavens and the earth and who has not taken a son and has not had a partner in dominion and has created each thing and determined it with [precise] determination.\nBut they have taken besides Him gods which create nothing, while they are created, and possess not for themselves any harm or benefit and possess not [power to cause] death or life or resurrection.",
+      "hindiText": "(ख़ुदा) बहुत बाबरकत है जिसने अपने बन्दे (मोहम्मद) पर कुरान नाज़िल किया ताकि सारे जहॉन के लिए (ख़ुदा के अज़ाब से) डराने वाला हो\nवह खुदा कि सारे आसमान व ज़मीन की बादशाहत उसी की है और उसने (किसी को) न अपना लड़का बनाया और न सल्तनत में उसका कोई शरीक है और हर चीज़ को (उसी ने पैदा किया) फिर उस अन्दाज़े से दुरुस्त किया\nऔर लोगों ने उसके सिवा दूसरे दूसरे माबूद बना रखें हैं जो कुछ भी पैदा नहीं कर सकते बल्कि वह खुद दूसरे के पैदा किए हुए हैं और वह खुद अपने लिए भी न नुक़सान पर क़ाबू रखते हैं न नफा पर और न मौत ही पर एख़्तियार रखते हैं और न ज़िन्दगी पर और न मरने बाद जी उठने पर",
+      "urduText": "بہت بابرکت ہے وه اللہ تعالیٰ جس نے اپنے بندے پر فرقان اتارا تاکہ وه تمام لوگوں کے لئے آگاه کرنے واﻻ بن جائے\nاسی اللہ کی سلطنت ہے آسمانوں اور زمین کی اور وه کوئی اوﻻد نہیں رکھتا، نہ اس کی سلطنت میں کوئی اس کا ساجھی ہے اور ہر چیز کو اس نے پیدا کرکے ایک مناسب اندازه ٹھہرا دیا ہے\nان لوگوں نے اللہ کے سوا جنہیں اپنے معبود ٹھہرا رکھے ہیں وه کسی چیز کو پیدا نہیں کرسکتے بلکہ وه خود پیدا کئے جاتے ہیں، یہ تو اپنی جان کے نقصان نفع کا بھی اختیارنہیں رکھتے اور نہ موت وحیات کے اور نہ دوباره جی اٹھنے کے وه مالک ہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 25,
+          "ayahNumber": 1
+        },
+        {
+          "surahNumber": 25,
+          "ayahNumber": 2
+        },
+        {
+          "surahNumber": 25,
+          "ayahNumber": 3
+        }
+      ]
+    },
+    {
+      "arabicText": "أَنزَلَهُ الَّذي يَعلَمُ السِّرَّ فِي السَّماواتِ وَالأَرضِ ۚ إِنَّهُ كانَ غَفورًا رَحيمًا",
+      "englishText": "\"It has been revealed by He who knows [every] secret within the heavens and the earth. Indeed, He is ever Forgiving and Merciful.\"",
+      "hindiText": "इसको उस शख्स ने नाज़िल किया है जो सारे आसमान व ज़मीन की पोशीदा बातों को ख़ूब जानता है बेशक वह बड़ा बख्शने वाला मेहरबान है",
+      "urduText": "اسے تو اس اللہ نے اتارا ہے جو آسمان وزمین کی تمام پوشیده باتوں کو جانتا ہے۔ بےشک وه بڑا ہی بخشنے واﻻ مہربان ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 25,
+          "ayahNumber": 6
+        }
+      ]
+    },
+    {
+      "arabicText": "قالوا سُبحانَكَ ما كانَ يَنبَغي لَنا أَن نَتَّخِذَ مِن دونِكَ مِن أَولِياءَ وَلٰكِن مَتَّعتَهُم وَآباءَهُم حَتّىٰ نَسُوا الذِّكرَ وَكانوا قَومًا بورًا",
+      "englishText": "They will say, \"Exalted are You! It was not for us to take besides You any allies. But You provided comforts for them and their fathers until they forgot the message and became a people ruined.\"",
+      "hindiText": "(उनके माबूद) अर्ज़ करेंगें- सुबहान अल्लाह (हम तो ख़ुद तेरे बन्दे थे) हमें ये किसी तरह ज़ेबा न था कि हम तुझे छोड़कर दूसरे को अपना सरपरस्त बनाते (फिर अपने को क्यों कर माबूद बनाते) मगर बात तो ये है कि तू ही ने इनको बाप दादाओं को चैन दिया-यहाँ तक कि इन लोगों ने (तेरी) याद भुला दी और ये ख़ुद हलाक होने वाले लोग थे",
+      "urduText": "وه جواب دیں گے کہ تو پاک ذات ہے خود ہمیں ہی یہ زیبا نہ تھا کہ تیرے سوا اوروں کو اپنا کارساز بناتے بات یہ ہے کہ تو نے انہیں اور ان کے باپ دادوں کو آسودگیاں عطا فرمائیں یہاں تک کہ وه نصیحت بھلا بیٹھے، یہ لوگ تھے ہی ہلاک ہونے والے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 25,
+          "ayahNumber": 18
+        }
+      ]
+    },
+    {
+      "arabicText": "وَكَفىٰ بِرَبِّكَ هادِيًا وَنَصيرًا",
+      "englishText": "But sufficient is your Lord as a guide and a helper.",
+      "hindiText": "और तुम्हारा परवरदिगार हिदायत और मददगारी के लिए काफी है",
+      "urduText": "اور تیرا رب ہی ہدایت کرنے واﻻ اور مدد کرنے واﻻ کافی ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 25,
+          "ayahNumber": 31
+        }
+      ]
+    },
+    {
+      "arabicText": "وَهُوَ الَّذي خَلَقَ مِنَ الماءِ بَشَرًا فَجَعَلَهُ نَسَبًا وَصِهرًا ۗ وَكانَ رَبُّكَ قَديرًا",
+      "englishText": "And it is He who has created from water a human being and made him [a relative by] lineage and marriage. And ever is your Lord competent [concerning creation].",
+      "hindiText": "और वही तो वह (ख़ुदा) है जिसने पानी (मनी) से आदमी को पैदा किया फिर उसको ख़ानदान और सुसराल वाला बनाया और (ऐ रसूल) तुम्हारा परवरदिगार हर चीज़ पर क़ादिर है",
+      "urduText": "وه ہے جس نے پانی سے انسان کو پیدا کیا، پھر اسے نسب واﻻ اور سسرالی رشتوں واﻻ کردیا۔ بلاشبہ آپ کا پروردگار (ہر چیز پر) قادر ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 25,
+          "ayahNumber": 54
+        }
+      ]
+    },
+    {
+      "arabicText": "وَتَوَكَّل عَلَى الحَيِّ الَّذي لا يَموتُ وَسَبِّح بِحَمدِهِ ۚ وَكَفىٰ بِهِ بِذُنوبِ عِبادِهِ خَبيرًا",
+      "englishText": "And rely upon the Ever-Living who does not die, and exalt [Allah] with His praise. And sufficient is He to be, with the sins of His servants, Acquainted -",
+      "hindiText": "और (ऐ रसूल) तुम उस (ख़ुदा) पर भरोसा रखो जो ऐसा ज़िन्दा है कि कभी नहीं मरेगा और उसकी हम्द व सना की तस्बीह पढ़ो और वह अपने बन्दों के गुनाहों की वाक़िफ कारी में काफी है (वह ख़ुद समझ लेगा)",
+      "urduText": "اس ہمیشہ زنده رہنے والے اللہ تعالیٰ پر توکل کریں جسے کبھی موت نہیں اور اس کی تعریف کے ساتھ پاکیزگی بیان کرتے رہیں، وه اپنے بندوں کے گناہوں سے کافی خبردار ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 25,
+          "ayahNumber": 58
+        }
+      ]
+    },
+    {
+      "arabicText": "الَّذي خَلَقَ السَّماواتِ وَالأَرضَ وَما بَينَهُما في سِتَّةِ أَيّامٍ ثُمَّ استَوىٰ عَلَى العَرشِ ۚ الرَّحمٰنُ فَاسأَل بِهِ خَبيرًا",
+      "englishText": "He who created the heavens and the earth and what is between them in six days and then established Himself above the Throne - the Most Merciful, so ask about Him one well informed.",
+      "hindiText": "जिसने सारे आसमान व ज़मीन और जो कुछ उन दोनों में है छह: दिन में पैदा किया फिर अर्श (के बनाने) पर आमादा हुआ और वह बड़ा मेहरबान है तो तुम उसका हाल किसी बाख़बर ही से पूछना",
+      "urduText": "وہی ہے جس نے آسمانوں اور زمین اوران کے درمیان کی سب چیزوں کو چھ دن میں پیدا کردیا ہے، پھر عرش پر مستوی ہوا، وه رحمٰن ہے، آپ اس کے بارے میں کسی خبردار سے پوچھ لیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 25,
+          "ayahNumber": 59
+        }
+      ]
+    },
+    {
+      "arabicText": "وَإِنَّ رَبَّكَ لَهُوَ العَزيزُ الرَّحيمُ",
+      "englishText": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+      "hindiText": "और इसमें शक नहीं कि तेरा परवरदिगार यक़ीनन (हर चीज़ पर) ग़ालिब (और) मेहरबान है",
+      "urduText": "اور تیرا رب یقیناً وہی غالب اور مہربان ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 26,
+          "ayahNumber": 9
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 104
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 122
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 140
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 159
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 175
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 191
+        }
+      ]
+    },
+    {
+      "arabicText": "وَتَوَكَّل عَلَى العَزيزِ الرَّحيمِ\nالَّذي يَراكَ حينَ تَقومُ\nوَتَقَلُّبَكَ فِي السّاجِدينَ\nإِنَّهُ هُوَ السَّميعُ العَليمُ",
+      "englishText": "And rely upon the Exalted in Might, the Merciful,\nWho sees you when you arise\nAnd your movement among those who prostrate.\nIndeed, He is the Hearing, the Knowing.",
+      "hindiText": "और तुम उस (ख़ुदा) पर जो सबसे (ग़ालिब और) मेहरबान है\nभरोसा रखो कि जब तुम (नमाजे तहज्जुद में) खड़े होते हो\nऔर सजदा\nकरने वालों (की जमाअत) में तुम्हारा फिरना (उठना बैठना सजदा रुकूउ वगैरह सब) देखता है",
+      "urduText": "اپنا پورا بھروسہ غالب مہربان اللہ پر رکھ\nجو تجھے دیکھتا رہتا ہے جبکہ تو کھڑا ہوتا ہے\nاور سجده کرنے والوں کے درمیان تیرا گھومنا پھرنا بھی\nوه بڑا ہی سننے واﻻ اور خوب ہی جاننے واﻻ ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 26,
+          "ayahNumber": 217
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 218
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 219
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 220
+        }
+      ]
+    },
+    {
+      "arabicText": "أَمَّن خَلَقَ السَّماواتِ وَالأَرضَ وَأَنزَلَ لَكُم مِنَ السَّماءِ ماءً فَأَنبَتنا بِهِ حَدائِقَ ذاتَ بَهجَةٍ ما كانَ لَكُم أَن تُنبِتوا شَجَرَها ۗ أَإِلٰهٌ مَعَ اللَّهِ ۚ بَل هُم قَومٌ يَعدِلونَ\nأَمَّن جَعَلَ الأَرضَ قَرارًا وَجَعَلَ خِلالَها أَنهارًا وَجَعَلَ لَها رَواسِيَ وَجَعَلَ بَينَ البَحرَينِ حاجِزًا ۗ أَإِلٰهٌ مَعَ اللَّهِ ۚ بَل أَكثَرُهُم لا يَعلَمونَ\nأَمَّن يُجيبُ المُضطَرَّ إِذا دَعاهُ وَيَكشِفُ السّوءَ وَيَجعَلُكُم خُلَفاءَ الأَرضِ ۗ أَإِلٰهٌ مَعَ اللَّهِ ۚ قَليلًا ما تَذَكَّرونَ\nأَمَّن يَهديكُم في ظُلُماتِ البَرِّ وَالبَحرِ وَمَن يُرسِلُ الرِّياحَ بُشرًا بَينَ يَدَي رَحمَتِهِ ۗ أَإِلٰهٌ مَعَ اللَّهِ ۚ تَعالَى اللَّهُ عَمّا يُشرِكونَ\nأَمَّن يَبدَأُ الخَلقَ ثُمَّ يُعيدُهُ وَمَن يَرزُقُكُم مِنَ السَّماءِ وَالأَرضِ ۗ أَإِلٰهٌ مَعَ اللَّهِ ۚ قُل هاتوا بُرهانَكُم إِن كُنتُم صادِقينَ",
+      "englishText": "[More precisely], is He [not best] who created the heavens and the earth and sent down for you rain from the sky, causing to grow thereby gardens of joyful beauty which you could not [otherwise] have grown the trees thereof? Is there a deity with Allah? [No], but they are a people who ascribe equals [to Him].\nIs He [not best] who made the earth a stable ground and placed within it rivers and made for it firmly set mountains and placed between the two seas a barrier? Is there a deity with Allah? [No], but most of them do not know.\nIs He [not best] who responds to the desperate one when he calls upon Him and removes evil and makes you inheritors of the earth? Is there a deity with Allah? Little do you remember.\nIs He [not best] who guides you through the darknesses of the land and sea and who sends the winds as good tidings before His mercy? Is there a deity with Allah? High is Allah above whatever they associate with Him.\nIs He [not best] who begins creation and then repeats it and who provides for you from the heaven and earth? Is there a deity with Allah? Say, \"Produce your proof, if you should be truthful.\"",
+      "hindiText": "भला वह कौन है जिसने आसमान और ज़मीन को पैदा किया और तुम्हारे वास्ते आसमान से पानी बरसाया फिर हम ही ने पानी से दिल चस्प (ख़ुशनुमा) बाग़ उठाए तुम्हारे तो ये बस की बात न थी कि तुम उनके दरख्तों को उगा सकते तो क्या ख़ुदा के साथ कोई और माबूद भी है (हरगिज़ नहीं) बल्कि ये लोग खुद अपने जी से गढ़ के बुतो को उसके बराबर बनाते हैं\nभला वह कौन है जिसने ज़मीन को (लोगों के) ठहरने की जगह बनाया और उसके दरमियान जा बजा नहरें दौड़ायी और उसकी मज़बूती के वास्ते पहाड़ बनाए और (मीठे खारी) दरियाओं के दरमियान हदे फासिल बनाया तो क्या ख़ुदा के साथ कोई और माबूद भी है (हरगिज़ नहीं) बल्कि उनमें के अकसर कुछ जानते ही नहीं\nभला वह कौन है कि जब मुज़तर उसे पुकारे तो दुआ क़ुबूल करता है और मुसीबत को दूर करता है और तुम लोगों को ज़मीन में (अपना) नायब बनाता है तो क्या ख़ुदा के साथ कोई और माबूद है (हरगिज़ नहीं) उस पर भी तुम लोग बहुत कम नसीहत व इबरत हासिल करते हो\nभला वह कौन है जो तुम लोगों की ख़़ुश्की और तरी की तारिक़ियों में राह दिखाता है और कौन उसकी बाराने रहमत के आगे आगे (बारिश की) ख़ुशखबरी लेकर हवाओं को भेजता है-क्या ख़ुदा के साथ कोई और माबूद भी है (हरगिज़ नहीं) ये लोग जिन चीज़ों को ख़ुदा का शरीक ठहराते हैं ख़ुदा उससे बालातर है\nभला वह कौन हैं जो ख़िलकत को नए सिरे से पैदा करता है फिर उसे दोबारा (मरने के बाद) पैदा करेगा और कौन है जो तुम लोगों को आसमान व ज़मीन से रिज़क़ देता है- तो क्या ख़ुदा के साथ कोई और माबूद भी है (हरग़िज़ नहीं) (ऐ रसूल) तुम (इन मुशरेकीन से) कहा दो कि अगर तुम सच्चे हो तो अपनी दलील पेश करो",
+      "urduText": "بھلا بتاؤ تو؟ کہ آسمانوں کو اور زمین کو کس نے پیدا کیا؟ کس نے آسمان سے بارش برسائی؟ پھر اس سے ہرے بھرے بارونق باغات اگا دیئے؟ ان باغوں کے درختوں کو تم ہر گز نہ اگا سکتے، کیا اللہ کے ساتھ اور کوئی معبود بھی ہے؟ بلکہ یہ لوگ ہٹ جاتے ہیں (سیدھی راه سے)\nکیا وه جس نے زمین کو قرار گاه بنایا اور اس کے درمیان نہریں جاری کر دیں اور اس کے لیے پہاڑ بنائے اور دو سمندروں کے درمیان روک بنا دی کیا اللہ کے ساتھ اور کوئی معبود بھی ہے؟ بلکہ ان میں سے اکثر کچھ جانتے ہی نہیں\nبے کس کی پکار کو جب کہ وه پکارے، کون قبول کرکے سختی کو دور کر دیتا ہے؟ اور تمہیں زمین کا خلیفہ بناتا ہے، کیا اللہ تعالیٰ کے ساتھ اور معبود ہے؟ تم بہت کم نصیحت وعبرت حاصل کرتے ہو\nکیا وه جو تمہیں خشکی اور تری کی تاریکیوں میں راه دکھاتا ہے اور جو اپنی رحمت سے پہلے ہی خوشخبریاں دینے والی ہوائیں چلاتا ہے، کیا اللہ کے ساتھ کوئی اور معبود بھی ہے جنہیں یہ شریک کرتے ہیں ان سب سے اللہ بلند وباﻻتر ہے\nکیا وه جو مخلوق کی اول دفعہ پیدائش کرتا ہے پھر اسے لوٹائے گا اور جو تمہیں آسمان اور زمین سے روزیاں دے رہا ہے، کیا اللہ کے ساتھ کوئی اور معبود ہے کہہ دیجئے کہ اگر سچے ہو تو اپنی دلیل ﻻؤ",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 27,
+          "ayahNumber": 60
+        },
+        {
+          "surahNumber": 27,
+          "ayahNumber": 61
+        },
+        {
+          "surahNumber": 27,
+          "ayahNumber": 62
+        },
+        {
+          "surahNumber": 27,
+          "ayahNumber": 63
+        },
+        {
+          "surahNumber": 27,
+          "ayahNumber": 64
+        }
+      ]
+    },
+    {
+      "arabicText": "وَهُوَ اللَّهُ لا إِلٰهَ إِلّا هُوَ ۖ لَهُ الحَمدُ فِي الأولىٰ وَالآخِرَةِ ۖ وَلَهُ الحُكمُ وَإِلَيهِ تُرجَعونَ",
+      "englishText": "And He is Allah; there is no deity except Him. To Him is [due all] praise in the first [life] and the Hereafter. And His is the [final] decision, and to Him you will be returned.",
+      "hindiText": "और वही ख़ुदा है उसके सिवा कोई क़ाबिले परसतिश नहीं दुनिया और आख़िरत में उस की तारीफ़ है और उसकी हुकूमत है और तुम लोग (मरने के बाद) उसकी तरफ लौटाए जाओगे",
+      "urduText": "وہی اللہ ہے اس کے سوا کوئی ﻻئق عبادت نہیں، دنیا اور آخرت میں اسی کی تعریف ہے۔ اسی کے لیے فرمانروائی ہے اور اسی کی طرف تم سب پھیرے جاؤ گے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 28,
+          "ayahNumber": 70
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلا تَدعُ مَعَ اللَّهِ إِلٰهًا آخَرَ ۘ لا إِلٰهَ إِلّا هُوَ ۚ كُلُّ شَيءٍ هالِكٌ إِلّا وَجهَهُ ۚ لَهُ الحُكمُ وَإِلَيهِ تُرجَعونَ",
+      "englishText": "And do not invoke with Allah another deity. There is no deity except Him. Everything will be destroyed except His Face. His is the judgement, and to Him you will be returned.",
+      "hindiText": "और ख़ुदा के सिवा किसी और माबूद की परसतिश न करना उसके सिवा कोई क़ाबिले परसतिश नहीं उसकी ज़ात के सिवा हर चीज़ फना होने वाली है उसकी हुकूमत है और तुम लोग उसकी तरफ़ (मरने के बाद) लौटाये जाओगे",
+      "urduText": "اللہ تعالیٰ کے ساتھ کسی اور معبود کو نہ پکارنا بجز اللہ تعالیٰ کے کوئی اور معبود نہیں، ہر چیز فنا ہونے والی ہے مگر اسی کا منھ (اور ذات) ۔ اسی کے لیے فرمانروائی ہے اور تم اسی کی طرف لوٹائے جاؤ گے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 28,
+          "ayahNumber": 88
+        }
+      ]
+    },
+    {
+      "arabicText": "قُل كَفىٰ بِاللَّهِ بَيني وَبَينَكُم شَهيدًا ۖ يَعلَمُ ما فِي السَّماواتِ وَالأَرضِ ۗ وَالَّذينَ آمَنوا بِالباطِلِ وَكَفَروا بِاللَّهِ أُولٰئِكَ هُمُ الخاسِرونَ",
+      "englishText": "Say, \"Sufficient is Allah between me and you as Witness. He knows what is in the heavens and earth. And they who have believed in falsehood and disbelieved in Allah - it is those who are the losers.\"",
+      "hindiText": "तुम कह दो कि मेरे और तुम्हारे दरमियान गवाही के वास्ते ख़ुदा ही काफी है जो सारे आसमान व ज़मीन की चीज़ों को जानता है-और जिन लोगों ने बातिल को माना और ख़ुदा से इन्कार किया वही लोग बड़े घाटे में रहेंगे",
+      "urduText": "کہہ دیجئے کہ مجھ میں اور تم میں اللہ تعالیٰ گواه ہونا کافی ہے وه آسمان وزمین کی ہر چیز کا عالم ہے، جو لوگ باطل کے ماننے والے اور اللہ تعالیٰ سے کفر کرنے والے ہیں وه زبردست نقصان اور گھاٹے میں ہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 29,
+          "ayahNumber": 52
+        }
+      ]
+    },
+    {
+      "arabicText": "يَنصُرُ مَن يَشاءُ",
+      "englishText": "He gives victory to whom He wills",
+      "hindiText": "वह जिसकी चाहता है मदद करता है",
+      "urduText": "وه جس کی چاہتا ہے مدد کرتا ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 30,
+          "ayahNumber": 5
+        }
+      ]
+    },
+    {
+      "arabicText": "وَهُوَ العَزيزُ الرَّحيمُ",
+      "englishText": "And He is the Exalted in Might, the Merciful.",
+      "hindiText": "और वह (सब पर) ग़ालिब रहम करने वाला है",
+      "urduText": "اصل غالب اور مہربان وہی ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 30,
+          "ayahNumber": 5
+        }
+      ]
+    },
+    {
+      "arabicText": "ذٰلِكَ عالِمُ الغَيبِ وَالشَّهادَةِ العَزيزُ الرَّحيمُ",
+      "englishText": "That is the Knower of the unseen and the witnessed, the Exalted in Might, the Merciful,",
+      "hindiText": "वही (मुदब्बिर) पोशीदा और ज़ाहिर का जानने वाला (सब पर) ग़ालिब मेहरबान है",
+      "urduText": "یہی ہے چھپے کھلے کا جاننے واﻻ، زبردست غالب بہت ہی مہربان",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 32,
+          "ayahNumber": 6
+        }
+      ]
+    },
+    {
+      "arabicText": "وَاللَّهُ يَعلَمُ ما في قُلوبِكُم",
+      "englishText": "And Allah knows what is in your hearts.",
+      "hindiText": "और जो कुछ तुम्हारे दिलों में है खुदा उसको ख़ुब जानता है",
+      "urduText": "تمہارے دلوں میں جو کچھ ہے اسے اللہ (خوب) جانتا ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 33,
+          "ayahNumber": 51
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ اللَّهَ يُضِلُّ مَن يَشاءُ وَيَهدي مَن يَشاءُ",
+      "englishText": "Indeed, Allah sends astray whom He wills and guides whom He wills.",
+      "hindiText": "ख़ुदा जिसे चाहता है गुमराही में छोड़ देता है और जिसे चाहता है राहे रास्त पर आने (की तौफ़ीक़) देता है",
+      "urduText": "(یقین مانو) کہ اللہ جسے چاہے گمراه کرتا ہے اور جسے چاہے راه راست دکھاتا ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 35,
+          "ayahNumber": 8
+        }
+      ]
+    },
+    {
+      "arabicText": "قُل يُحييهَا الَّذي أَنشَأَها أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلقٍ عَليمٌ\nالَّذي جَعَلَ لَكُم مِنَ الشَّجَرِ الأَخضَرِ نارًا فَإِذا أَنتُم مِنهُ توقِدونَ\nأَوَلَيسَ الَّذي خَلَقَ السَّماواتِ وَالأَرضَ بِقادِرٍ عَلىٰ أَن يَخلُقَ مِثلَهُم ۚ بَلىٰ وَهُوَ الخَلّاقُ العَليمُ\nإِنَّما أَمرُهُ إِذا أَرادَ شَيئًا أَن يَقولَ لَهُ كُن فَيَكونُ\nفَسُبحانَ الَّذي بِيَدِهِ مَلَكوتُ كُلِّ شَيءٍ وَإِلَيهِ تُرجَعونَ",
+      "englishText": "Say, \"He will give them life who produced them the first time; and He is, of all creation, Knowing.\"\n[It is] He who made for you from the green tree, fire, and then from it you ignite.\nIs not He who created the heavens and the earth Able to create the likes of them? Yes, [it is so]; and He is the Knowing Creator.\nHis command is only when He intends a thing that He says to it, \"Be,\" and it is.\nSo exalted is He in whose hand is the realm of all things, and to Him you will be returned.",
+      "hindiText": "(ऐ रसूल) तुम कह दो कि उसको वही ज़िन्दा करेगा जिसने उनको (जब ये कुछ न थे) पहली बार ज़िन्दा कर (रखा)\nऔर वह हर तरह की पैदाइश से वाक़िफ है जिसने तुम्हारे वास्ते (मिर्ख़ और अफ़ार के) हरे दरख्त से आग पैदा कर दी फिर तुम उससे (और) आग सुलगा लेते हो\n(भला) जिस (खुदा) ने सारे आसमान और ज़मीन पैदा किए क्या वह इस पर क़ाबू नहीं रखता कि उनके मिस्ल (दोबारा) पैदा कर दे हाँ (ज़रूर क़ाबू रखता है) और वह तो पैदा करने वाला वाक़िफ़कार है\nउसकी शान तो ये है कि जब किसी चीज़ को (पैदा करना) चाहता है तो वह कह देता है कि ''हो जा'' तो (फौरन) हो जाती है\nतो वह ख़ुद (हर नफ्स से) पाक साफ़ है जिसके क़ब्ज़े कुदरत में हर चीज़ की हिकमत है और तुम लोग उसी की तरफ लौट कर जाओगे",
+      "urduText": "آپ جواب دیجئے! کہ انہیں وه زنده کرے گا جس نے انہیں اول مرتبہ پیدا کیا ہے، جو سب طرح کی پیدائش کا بخوبی جاننے واﻻ ہے\nوہی جس نے تمہارے لئے سبز درخت سے آگ پیدا کر دی جس سے تم یکایک آگ سلگاتے ہو\nجس نے آسمانوں اور زمین کو پیدا کیا ہے کیا وه ان جیسوں کے پیدا کرنے پرقادر نہیں، بےشک قادر ہے۔ اور وہی تو پیدا کرنے واﻻ دانا (بینا) ہے\nوه جب کبھی کسی چیز کا اراده کرتا ہے اسے اتنا فرما دینا (کافی ہے) کہ ہو جا، وه اسی وقت ہو جاتی ہے\nپس پاک ہے وه اللہ جس کے ہاتھ میں ہر چیز کی بادشاہت ہے اور جس کی طرف تم سب لوٹائے جاؤ گے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 36,
+          "ayahNumber": 79
+        },
+        {
+          "surahNumber": 36,
+          "ayahNumber": 80
+        },
+        {
+          "surahNumber": 36,
+          "ayahNumber": 81
+        },
+        {
+          "surahNumber": 36,
+          "ayahNumber": 82
+        },
+        {
+          "surahNumber": 36,
+          "ayahNumber": 83
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّ إِلٰهَكُم لَواحِدٌ\nرَبُّ السَّماواتِ وَالأَرضِ وَما بَينَهُما وَرَبُّ المَشارِقِ",
+      "englishText": "Indeed, your God is One,\nLord of the heavens and the earth and that between them and Lord of the sunrises.",
+      "hindiText": "तुम्हारा माबूद (यक़ीनी) एक ही है\nजो सारे आसमान ज़मीन का और जो कुछ इन दोनों के दरमियान है (सबका) परवरदिगार है",
+      "urduText": "یقیناً تم سب کا معبود ایک ہی ہے\nآسمانوں اور زمین اور ان کے درمیان کی تمام چیزوں اور مَشرقوں کا رب وہی ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 37,
+          "ayahNumber": 4
+        },
+        {
+          "surahNumber": 37,
+          "ayahNumber": 5
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلَقَد نادانا نوحٌ فَلَنِعمَ المُجيبونَ",
+      "englishText": "And Noah had certainly called Us, and [We are] the best of responders.",
+      "hindiText": "और नूह ने (अपनी कौम से मायूस होकर) हमें ज़रूर पुकारा था (देखो हम) क्या खूब जवाब देने वाले थे",
+      "urduText": "اور ہمیں نوح (علیہ السلام) نے پکارا تو (دیکھ لو) ہم کیسے اچھے دعا قبول کرنے والے ہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 37,
+          "ayahNumber": 75
+        }
+      ]
+    },
+    {
+      "arabicText": "أَم عِندَهُم خَزائِنُ رَحمَةِ رَبِّكَ العَزيزِ الوَهّابِ",
+      "englishText": "Or do they have the depositories of the mercy of your Lord, the Exalted in Might, the Bestower?",
+      "hindiText": "(इस वजह से ये शरारत है) (ऐ रसूल) तुम्हारे ज़बरदस्त फ़य्याज़ परवरदिगार के रहमत के ख़ज़ाने इनके पास हैं",
+      "urduText": "یا کیا ان کے پاس تیرے زبردست فیاض رب کی رحمت کے خزانے ہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 38,
+          "ayahNumber": 9
+        }
+      ]
+    },
+    {
+      "arabicText": "لِلَّهِ الشَّفاعَةُ جَميعًا ۖ لَهُ مُلكُ السَّماواتِ وَالأَرضِ ۖ ثُمَّ إِلَيهِ تُرجَعونَ",
+      "englishText": "\"To Allah belongs [the right to allow] intercession entirely. To Him belongs the dominion of the heavens and the earth. Then to Him you will be returned.\"",
+      "hindiText": "सारी सिफारिश तो ख़ुदा के लिए ख़ास है- सारे आसमान व ज़मीन की हुकूमत उसी के लिए ख़ास है, फिर तुम लोगों को उसकी तरफ लौट कर जाना है",
+      "urduText": "تمام سفارش کا مختار اللہ ہی ہے۔ تمام آسمانوں اور زمین کا راج اسی کے لیے ہے تم سب اسی کی طرف پھیرے جاؤ گے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 39,
+          "ayahNumber": 44
+        }
+      ]
+    },
+    {
+      "arabicText": "وَما قَدَرُوا اللَّهَ حَقَّ قَدرِهِ وَالأَرضُ جَميعًا قَبضَتُهُ يَومَ القِيامَةِ وَالسَّماواتُ مَطوِيّاتٌ بِيَمينِهِ ۚ سُبحانَهُ وَتَعالىٰ عَمّا يُشرِكونَ",
+      "englishText": "They have not appraised Allah with true appraisal, while the earth entirely will be [within] His grip on the Day of Resurrection, and the heavens will be folded in His right hand. Exalted is He and high above what they associate with Him.",
+      "hindiText": "और उन लोगों ने ख़ुदा की जैसी क़द्र दानी करनी चाहिए थी उसकी ( कुछ भी ) कद्र न की हालाँकि ( वह ऐसा क़ादिर है कि) क़यामत के दिन सारी ज़मीन (गोया) उसकी मुट्ठी में होगी और सारे आसमान (गोया) उसके दाहिने हाथ में लिपटे हुए हैं जिसे ये लोग उसका शरीक बनाते हैं वह उससे पाकीज़ा और बरतर है",
+      "urduText": "اور ان لوگوں نے جیسی قدر اللہ تعالیٰ کی کرنی چاہئے تھی نہیں کی، ساری زمین قیامت کے دن اس کی مٹھی میں ہوگی اور تمام آسمان اس کے داہنے ہاتھ میں لپیٹے ہوئے ہوں گے، وه پاک اور برتر ہے ہر اس چیز سے جسے لوگ اس کا شریک بنائیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 39,
+          "ayahNumber": 67
+        }
+      ]
+    },
+    {
+      "arabicText": "تَنزيلُ الكِتابِ مِنَ اللَّهِ العَزيزِ العَليمِ\nغافِرِ الذَّنبِ وَقابِلِ التَّوبِ شَديدِ العِقابِ ذِي الطَّولِ ۖ لا إِلٰهَ إِلّا هُوَ ۖ إِلَيهِ المَصيرُ",
+      "englishText": "The revelation of the Book is from Allah, the Exalted in Might, the Knowing.\nThe forgiver of sin, acceptor of repentance, severe in punishment, owner of abundance. There is no deity except Him; to Him is the destination.",
+      "hindiText": "(इस) किताब (कुरान) का नाज़िल करना (ख़ास बारगाहे) ख़ुदा से है जो (सबसे) ग़ालिब बड़ा वाक़िफ़कार है\nगुनाहों का बख्शने वाला और तौबा का क़ुबूल करने वाला सख्त अज़ाब देने वाला साहिबे फज़ल व करम है उसके सिवा कोई माबूद नहीं उसी की तरफ (सबको) लौट कर जाना है",
+      "urduText": "اس کتاب کا نازل فرمانا اس اللہ کی طرف سے ہے جو غالب اور دانا ہے\nگناه کا بخشنے واﻻ اور توبہ کا قبول فرمانے واﻻ سخت عذاب واﻻ انعام و قدرت واﻻ، جس کے سوا کوئی معبود نہیں۔ اسی کی طرف واپس لوٹنا ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 40,
+          "ayahNumber": 2
+        },
+        {
+          "surahNumber": 40,
+          "ayahNumber": 3
+        }
+      ]
+    },
+    {
+      "arabicText": "فَالحُكمُ لِلَّهِ العَلِيِّ الكَبيرِ",
+      "englishText": "So the judgement is with Allah, the Most High, the Grand.\"",
+      "hindiText": "ख़ुदा की हुकूमत है जो आलीशान (और) बुर्ज़ुग है",
+      "urduText": "اللہ بلند و بزرگ ہی کا ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 40,
+          "ayahNumber": 12
+        }
+      ]
+    },
+    {
+      "arabicText": "رَفيعُ الدَّرَجاتِ ذُو العَرشِ يُلقِي الرّوحَ مِن أَمرِهِ عَلىٰ مَن يَشاءُ مِن عِبادِهِ لِيُنذِرَ يَومَ التَّلاقِ",
+      "englishText": "[He is] the Exalted above [all] degrees, Owner of the Throne; He places the inspiration of His command upon whom He wills of His servants to warn of the Day of Meeting.",
+      "hindiText": "ख़ुदा तो बड़ा आली मरतबा अर्श का मालिक है, वह अपने बन्दों में से जिस पर चाहता है अपने हुक्म से 'वही' नाज़िल करता है ताकि (लोगों को) मुलाकात (क़यामत) के दिन से डराएं",
+      "urduText": "بلند درجوں واﻻ عرش کامالک وه اپنے بندوں میں سے جس پر چاہتا ہے وحی نازل فرماتا ہے، تاکہ وه ملاقات کے دن سے ڈرائے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 40,
+          "ayahNumber": 15
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّهُ قَوِيٌّ شَديدُ العِقابِ",
+      "englishText": "Indeed, He is Powerful and severe in punishment.",
+      "hindiText": "इसमें तो शक ही नहीं कि वह क़वी (और) सख्त अज़ाब वाला है",
+      "urduText": "یقیناً وه طاقتور اور سخت عذاب واﻻ ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 40,
+          "ayahNumber": 22
+        }
+      ]
+    },
+    {
+      "arabicText": "ذٰلِكُمُ اللَّهُ رَبُّكُم خالِقُ كُلِّ شَيءٍ لا إِلٰهَ إِلّا هُوَ ۖ فَأَنّىٰ تُؤفَكونَ",
+      "englishText": "That is Allah, your Lord, Creator of all things; there is no deity except Him, so how are you deluded?",
+      "hindiText": "यही ख़ुदा तुम्हारा परवरदिगार है जो हर चीज़ का ख़ालिक़ है, और उसके सिवा कोई माबूद नहीं, फिर तुम कहाँ बहके जा रहे हो",
+      "urduText": "یہی اللہ ہے تم سب کا رب ہر چیز کا خالق اس کے سوا کوئی معبود نہیں پھر کہاں تم پھرے جاتے ہو",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 40,
+          "ayahNumber": 62
+        }
+      ]
+    },
+    {
+      "arabicText": "ذٰلِكُمُ اللَّهُ رَبُّكُم ۖ فَتَبارَكَ اللَّهُ رَبُّ العالَمينَ\nهُوَ الحَيُّ لا إِلٰهَ إِلّا هُوَ فَادعوهُ مُخلِصينَ لَهُ الدّينَ ۗ الحَمدُ لِلَّهِ رَبِّ العالَمينَ",
+      "englishText": "That is Allah, your Lord; then blessed is Allah, Lord of the worlds.\nHe is the Ever-Living; there is no deity except Him, so call upon Him, [being] sincere to Him in religion. [All] praise is [due] to Allah, Lord of the worlds.",
+      "hindiText": "यही अल्लाह तो तुम्हारा परवरदिगार है तो ख़ुदा बहुत ही मुतबर्रिक है जो सारे जहाँन का पालने वाला है\nवही (हमेशा) ज़िन्दा है और उसके सिवा कोई माबूद नहीं तो निरी खरी उसी की इबादत करके उसी से ये दुआ माँगो, सब तारीफ ख़ुदा ही को सज़ावार है और जो सारे जहाँन का पालने वाला है",
+      "urduText": "یہی اللہ تمہارا پروردگار ہے، پس بہت ہی برکتوں واﻻ اللہ ہے سارے جہان کا پرورش کرنے واﻻ\nوه زنده ہے جس کے سوا کوئی معبود نہیں پس تم خالص اس کی عبادت کرتے ہوئے اسے پکارو، تمام خوبیاں اللہ ہی کے لیے ہیں جو تمام جہانوں کا رب ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 40,
+          "ayahNumber": 64
+        },
+        {
+          "surahNumber": 40,
+          "ayahNumber": 65
+        }
+      ]
+    },
+    {
+      "arabicText": "هُوَ الَّذي يُحيي وَيُميتُ ۖ فَإِذا قَضىٰ أَمرًا فَإِنَّما يَقولُ لَهُ كُن فَيَكونُ",
+      "englishText": "He it is who gives life and causes death; and when He decrees a matter, He but says to it, \"Be,\" and it is.",
+      "hindiText": "और ताकि तुम (उसकी क़ुदरत को समझो) वह वही (ख़ुदा) है जो जिलाता और मारता है, फिर जब वह किसी काम का करना ठान लेता है तो बस उससे कह देता है कि 'हो जा' तो वह फ़ौरन हो जाता है",
+      "urduText": "وہی ہے جو جلاتا ہے اور مار ڈالتا ہے، پھر جب وه کسی کام کا کرنا مقرر کرتا ہے تو اسے صرف یہ کہتا ہے کہ ہو جا پس وه ہو جاتا ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 40,
+          "ayahNumber": 68
+        }
+      ]
+    },
+    {
+      "arabicText": "وَالَّذينَ اتَّخَذوا مِن دونِهِ أَولِياءَ اللَّهُ حَفيظٌ عَلَيهِم وَما أَنتَ عَلَيهِم بِوَكيلٍ",
+      "englishText": "And those who take as allies other than Him - Allah is [yet] Guardian over them; and you, [O Muhammad], are not over them a manager.",
+      "hindiText": "और जिन लोगों ने ख़ुदा को छोड़ कर (और) अपने सरपरस्त बना रखे हैं ख़ुदा उनकी निगरानी कर रहा है (ऐ रसूल) तुम उनके निगेहबान नहीं हो",
+      "urduText": "اور جن لوگوں نے اس کے سوا دوسروں کو کارساز بنالیا ہے اللہ تعالیٰ ان پر نگران ہے اور آپ ان کے ذمہ دار نہیں ہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 42,
+          "ayahNumber": 6
+        }
+      ]
+    },
+    {
+      "arabicText": "وَهُوَ الوَلِيُّ الحَميدُ",
+      "englishText": "And He is the Protector, the Praiseworthy.",
+      "hindiText": "और वही कारसाज़ (और) हम्द व सना के लायक़ है",
+      "urduText": "وہی ہے کارساز اور قابل حمد و ثنا",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 42,
+          "ayahNumber": 28
+        }
+      ]
+    },
+    {
+      "arabicText": "وَهُوَ عَلىٰ جَمعِهِم إِذا يَشاءُ قَديرٌ",
+      "englishText": "And He, for gathering them when He wills, is competent.",
+      "hindiText": "और जब चाहे उनके जमा कर लेने पर (भी) क़ादिर है",
+      "urduText": "وه اس پر بھی قادر ہے کہ جب چاہے انہیں جمع کردے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 42,
+          "ayahNumber": 29
+        }
+      ]
+    },
+    {
+      "arabicText": "وَيَعفُ عَن كَثيرٍ",
+      "englishText": "But He pardons much.",
+      "hindiText": "वह बहुत कुछ माफ कर देता है",
+      "urduText": "وه تو بہت سے خطاؤں سے درگزر فرمایا کرتا ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 42,
+          "ayahNumber": 34
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنّا عَلَيهِم مُقتَدِرونَ",
+      "englishText": "Indeed, We are Perfect in Ability.",
+      "hindiText": "उन पर हर तरह क़ाबू रखते हैं",
+      "urduText": "ہم ان پر بھی قدرت رکھتے ہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 43,
+          "ayahNumber": 42
+        }
+      ]
+    },
+    {
+      "arabicText": "وَتَبارَكَ الَّذي لَهُ مُلكُ السَّماواتِ وَالأَرضِ وَما بَينَهُما وَعِندَهُ عِلمُ السّاعَةِ وَإِلَيهِ تُرجَعونَ",
+      "englishText": "And blessed is He to whom belongs the dominion of the heavens and the earth and whatever is between them and with whom is knowledge of the Hour and to whom you will be returned.",
+      "hindiText": "और वही बहुत बाबरकत है जिसके लिए सारे आसमान व ज़मीन और दोनों के दरमियान की हुक़ुमत है और क़यामत की ख़बर भी उसी को है और तुम लोग उसकी तरफ लौटाए जाओगे",
+      "urduText": "اور وه بہت برکتوں واﻻ ہے جس کے پاس آسمان وزمین اور ان کے درمیان کی بادشاہت ہے، اور قیامت کا علم بھی اسی کے پاس ہے اور اسی کی جانب تم سب لوٹائے جاؤ گے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 43,
+          "ayahNumber": 85
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلِلَّهِ جُنودُ السَّماواتِ وَالأَرضِ",
+      "englishText": "And to Allah belong the soldiers of the heavens and the earth",
+      "hindiText": "और सारे आसमान व ज़मीन के लशकर तो ख़ुदा ही के हैं",
+      "urduText": "اور آسمانوں اور زمین کے ﴿کل﴾ لشکر اللہ ہی کے ہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 48,
+          "ayahNumber": 4
+        },
+        {
+          "surahNumber": 48,
+          "ayahNumber": 7
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبديلًا",
+      "englishText": "And never will you find in the way of Allah any change.",
+      "hindiText": "और तुम ख़ुदा की आदत को बदलते न देखोगे",
+      "urduText": "تو کبھی بھی اللہ کے قاعدے کو بدلتا ہوا نہ پائے گا",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 48,
+          "ayahNumber": 23
+        }
+      ]
+    },
+    {
+      "arabicText": "أَفَعَيينا بِالخَلقِ الأَوَّلِ ۚ بَل هُم في لَبسٍ مِن خَلقٍ جَديدٍ",
+      "englishText": "Did We fail in the first creation? But they are in confusion over a new creation.",
+      "hindiText": "तो क्या हम पहली बार पैदा करके थक गये हैं (हरगिज़ नहीं) मगर ये लोग अज़ सरे नौ (दोबारा) पैदा करने की निस्बत शक़ में पड़े हैं",
+      "urduText": "کیا ہم پہلی بار کے پیدا کرنے سے تھک گئے؟ بلکہ یہ لوگ نئی پیدائش کی طرف سے شک میں ہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 50,
+          "ayahNumber": 15
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلَقَد خَلَقنَا الإِنسانَ وَنَعلَمُ ما تُوَسوِسُ بِهِ نَفسُهُ ۖ وَنَحنُ أَقرَبُ إِلَيهِ مِن حَبلِ الوَريدِ",
+      "englishText": "And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein",
+      "hindiText": "और बेशक हम ही ने इन्सान को पैदा किया और जो ख्यालात उसके दिल में गुज़रते हैं हम उनको जानते हैं और हम तो उसकी शहरग से भी ज्यादा क़रीब हैं",
+      "urduText": "ہم نے انسان کو پیدا کیا ہے اور اس کے دل میں جو خیاﻻت اٹھتے ہیں ان سے ہم واقف ہیں اور ہم اس کی رگ جان سے بھی زیاده اس سے قریب ہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 50,
+          "ayahNumber": 16
+        }
+      ]
+    },
+    {
+      "arabicText": "وَلَقَد خَلَقنَا السَّماواتِ وَالأَرضَ وَما بَينَهُما في سِتَّةِ أَيّامٍ وَما مَسَّنا مِن لُغوبٍ",
+      "englishText": "And We did certainly create the heavens and earth and what is between them in six days, and there touched Us no weariness.",
+      "hindiText": "और हमने ही यक़ीनन सारे आसमान और ज़मीन और जो कुछ उन दोनों के बीच में है छह: दिन में पैदा किए और थकान तो हमको छुकर भी नहीं गयी",
+      "urduText": "یقیناً ہم نے آسمانوں اور زمین اور جو کچھ اس کے درمیان ہے سب کو (صرف) چھ دن میں پیدا کر دیا اور ہمیں تکان نے چھوا تک نہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 50,
+          "ayahNumber": 38
+        }
+      ]
+    },
+    {
+      "arabicText": "وَما أَمرُنا إِلّا واحِدَةٌ كَلَمحٍ بِالبَصَرِ",
+      "englishText": "And Our command is but one, like a glance of the eye.",
+      "hindiText": "और हमारा हुक्म तो बस ऑंख के झपकने की तरह एक बात होती है",
+      "urduText": "اور ہمارا حکم صرف ایک دفعہ (کا ایک کلمہ) ہی ہوتا ہے جیسے آنکھ کا جھپکنا",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 54,
+          "ayahNumber": 50
+        }
+      ]
+    },
+    {
+      "arabicText": "كُلُّ مَن عَلَيها فانٍ\nوَيَبقىٰ وَجهُ رَبِّكَ ذُو الجَلالِ وَالإِكرامِ",
+      "englishText": "Everyone upon the earth will perish,\nAnd there will remain the Face of your Lord, Owner of Majesty and Honor.",
+      "hindiText": "जो (मख़लूक) ज़मीन पर है सब फ़ना होने वाली है\nऔर सिर्फ तुम्हारे परवरदिगार की ज़ात जो अज़मत और करामत वाली है बाक़ी रहेगी",
+      "urduText": "زمین پر جو ہیں سب فنا ہونے والے ہیں\nصرف تیرے رب کی ذات جو عظمت اور عزت والی ہے باقی ره جائے گی",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 55,
+          "ayahNumber": 26
+        },
+        {
+          "surahNumber": 55,
+          "ayahNumber": 27
+        }
+      ]
+    },
+    {
+      "arabicText": "تَبارَكَ اسمُ رَبِّكَ ذِي الجَلالِ وَالإِكرامِ",
+      "englishText": "Blessed is the name of your Lord, Owner of Majesty and Honor.",
+      "hindiText": "(ऐ रसूल) तुम्हारा परवरदिगार जो साहिबे जलाल व करामत है उसी का नाम बड़ा बाबरकत है",
+      "urduText": "تیرے پروردگار کا نام بابرکت ہے جو عزت وجلال واﻻ ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 55,
+          "ayahNumber": 78
+        }
+      ]
+    },
+    {
+      "arabicText": "هُوَ اللَّهُ الَّذي لا إِلٰهَ إِلّا هُوَ ۖ عالِمُ الغَيبِ وَالشَّهادَةِ ۖ هُوَ الرَّحمٰنُ الرَّحيمُ",
+      "englishText": "He is Allah, other than whom there is no deity, Knower of the unseen and the witnessed. He is the Entirely Merciful, the Especially Merciful.",
+      "hindiText": "वही ख़ुदा है जिसके सिवा कोई माबूद नहीं, पोशीदा और ज़ाहिर का जानने वाला वही बड़ा मेहरबान निहायत रहम वाला है",
+      "urduText": "وہی اللہ ہے جس کے سوا کوئی معبود نہیں، چھپے کھلے کا جاننے واﻻ مہربان اور رحم کرنے واﻻ",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 59,
+          "ayahNumber": 22
+        }
+      ]
+    },
+    {
+      "arabicText": "هُوَ اللَّهُ الَّذي لا إِلٰهَ إِلّا هُوَ المَلِكُ القُدّوسُ السَّلامُ المُؤمِنُ المُهَيمِنُ العَزيزُ الجَبّارُ المُتَكَبِّرُ ۚ سُبحانَ اللَّهِ عَمّا يُشرِكونَ",
+      "englishText": "He is Allah, other than whom there is no deity, the Sovereign, the Pure, the Perfection, the Bestower of Faith, the Overseer, the Exalted in Might, the Compeller, the Superior. Exalted is Allah above whatever they associate with Him.",
+      "hindiText": "वही वह ख़ुदा है जिसके सिवा कोई क़ाबिले इबादत नहीं (हक़ीक़ी) बादशाह, पाक ज़ात (हर ऐब से) बरी अमन देने वाला निगेहबान, ग़ालिब ज़बरदस्त बड़ाई वाला ये लोग जिसको (उसका) शरीक ठहराते हैं उससे पाक है",
+      "urduText": "وہی اللہ ہے جس کے سوا کوئی معبود نہیں، بادشاه، نہایت پاک، سب عیبوں سے صاف، امن دینے واﻻ، نگہبان، غالب زورآور، اور بڑائی واﻻ، پاک ہے اللہ ان چیزوں سے جنہیں یہ اس کا شریک بناتے ہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 59,
+          "ayahNumber": 23
+        }
+      ]
+    },
+    {
+      "arabicText": "هُوَ اللَّهُ الخالِقُ البارِئُ المُصَوِّرُ ۖ لَهُ الأَسماءُ الحُسنىٰ ۚ يُسَبِّحُ لَهُ ما فِي السَّماواتِ وَالأَرضِ ۖ وَهُوَ العَزيزُ الحَكيمُ",
+      "englishText": "He is Allah, the Creator, the Inventor, the Fashioner; to Him belong the best names. Whatever is in the heavens and earth is exalting Him. And He is the Exalted in Might, the Wise.",
+      "hindiText": "वही ख़ुदा (तमाम चीज़ों का ख़ालिक) मुजिद सूरतों का बनाने वाला उसी के अच्छे अच्छे नाम हैं जो चीज़े सारे आसमान व ज़मीन में हैं सब उसी की तसबीह करती हैं, और वही ग़ालिब हिकमत वाला है",
+      "urduText": "وہی اللہ ہے پیدا کرنے واﻻ وجود بخشنے واﻻ، صورت بنانے واﻻ، اسی کے لیے (نہایت) اچھے نام ہیں، ہر چیز خواه وه آسمانوں میں ہو خواه زمین میں ہو اس کی پاکی بیان کرتی ہے، اور وہی غالب حکمت واﻻ ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 59,
+          "ayahNumber": 24
+        }
+      ]
+    },
+    {
+      "arabicText": "عالِمُ الغَيبِ وَالشَّهادَةِ العَزيزُ الحَكيمُ",
+      "englishText": "Knower of the unseen and the witnessed, the Exalted in Might, the Wise.",
+      "hindiText": "पोशीदा और ज़ाहिर का जानने वाला ग़ालिब हिकमत वाला है",
+      "urduText": "وه پوشیده اور ﻇاہر کا جاننے واﻻ ہے زبردست حکمت واﻻ (ہے)",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 64,
+          "ayahNumber": 18
+        }
+      ]
+    },
+    {
+      "arabicText": "اللَّهُ الَّذي خَلَقَ سَبعَ سَماواتٍ وَمِنَ الأَرضِ مِثلَهُنَّ يَتَنَزَّلُ الأَمرُ بَينَهُنَّ لِتَعلَموا أَنَّ اللَّهَ عَلىٰ كُلِّ شَيءٍ قَديرٌ وَأَنَّ اللَّهَ قَد أَحاطَ بِكُلِّ شَيءٍ عِلمًا",
+      "englishText": "It is Allah who has created seven heavens and of the earth, the like of them. [His] command descends among them so you may know that Allah is over all things competent and that Allah has encompassed all things in knowledge.",
+      "hindiText": "ख़ुदा ही तो है जिसने सात आसमान पैदा किए और उन्हीं के बराबर ज़मीन को भी उनमें ख़ुदा का हुक्म नाज़िल होता रहता है - ताकि तुम लोग जान लो कि ख़ुदा हर चीज़ पर कादिर है और बेशक ख़ुदा अपने इल्म से हर चीज़ पर हावी है",
+      "urduText": "اللہ وه ہے جس نے سات آسمان بنائے اور اسی کے مثل زمینیں بھی۔ اس کا حکم ان کے درمیان اترتا ہے تاکہ تم جان لو کہ اللہ ہر چیز پر قادر ہے۔ اور اللہ تعالیٰ نے ہر چیز کو بہ اعتبار علم گھیر رکھا ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 65,
+          "ayahNumber": 12
+        }
+      ]
+    },
+    {
+      "arabicText": "مِنَ اللَّهِ ذِي المَعارِجِ\nتَعرُجُ المَلائِكَةُ وَالرّوحُ إِلَيهِ في يَومٍ كانَ مِقدارُهُ خَمسينَ أَلفَ سَنَةٍ",
+      "englishText": "[It is] from Allah, owner of the ways of ascent.\nThe angels and the Spirit will ascend to Him during a Day the extent of which is fifty thousand years.",
+      "hindiText": "जो दर्जे वाले ख़ुदा की तरफ से (होने वाला) था\nजिसकी तरफ फ़रिश्ते और रूहुल अमीन चढ़ते हैं (और ये) एक दिन में इतनी मुसाफ़त तय करते हैं जिसका अन्दाज़ा पचास हज़ार बरस का होगा",
+      "urduText": "اس اللہ کی طرف سے جو سیڑھیوں واﻻ ہے\nجس کی طرف فرشتے اور روح چڑھتے ہیں ایک دن میں جس کی مقدار پچاس ہزار سال کی ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 70,
+          "ayahNumber": 3
+        },
+        {
+          "surahNumber": 70,
+          "ayahNumber": 4
+        }
+      ]
+    },
+    {
+      "arabicText": "وَما يَذكُرونَ إِلّا أَن يَشاءَ اللَّهُ ۚ هُوَ أَهلُ التَّقوىٰ وَأَهلُ المَغفِرَةِ",
+      "englishText": "And they will not remember except that Allah wills. He is worthy of fear and adequate for [granting] forgiveness.",
+      "hindiText": "और ख़ुदा की मशीयत के बग़ैर ये लोग याद रखने वाले नहीं वही (बन्दों के) डराने के क़ाबिल और बख्यिश का मालिक है",
+      "urduText": "اور وه اس وقت نصیحت حاصل کریں گے جب اللہ تعالیٰ چاہے، وه اسی ﻻئق ہے کہ اس سے ڈریں اور اس ﻻئق بھی کہ وه بخشے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 74,
+          "ayahNumber": 56
+        }
+      ]
+    },
+    {
+      "arabicText": "وَما تَشاءونَ إِلّا أَن يَشاءَ اللَّهُ",
+      "englishText": "And you do not will except that Allah wills.",
+      "hindiText": "और जब तक ख़ुदा को मंज़ूर न हो तुम लोग कुछ भी चाह नहीं सकते",
+      "urduText": "اور تم نہ چاہو گے مگر یہ کہ اللہ تعالیٰ ہی چاہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 76,
+          "ayahNumber": 30
+        },
+        {
+          "surahNumber": 81,
+          "ayahNumber": 29
+        }
+      ]
+    },
+    {
+      "arabicText": "فَقَدَرنا فَنِعمَ القادِرونَ",
+      "englishText": "And We determined [it], and excellent [are We] to determine.",
+      "hindiText": "फिर (उसका) एक अन्दाज़ा मुक़र्रर किया तो हम कैसा अच्छा अन्दाज़ा मुक़र्रर करने वाले हैं",
+      "urduText": "پھر ہم نے اندازه کیا اور ہم کیا خوب اندازه کرنے والے ہیں",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 77,
+          "ayahNumber": 23
+        }
+      ]
+    },
+    {
+      "arabicText": "وَما تَشاءونَ إِلّا أَن يَشاءَ اللَّهُ رَبُّ العالَمينَ",
+      "englishText": "And you do not will except that Allah wills - Lord of the worlds.",
+      "hindiText": "और तुम तो सारे जहॉन के पालने वाले ख़ुदा के चाहे बग़ैर कुछ भी चाह नहीं सकते",
+      "urduText": "اور تم بغیر پروردگار عالم کے چاہے کچھ نہیں چاه سکتے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 81,
+          "ayahNumber": 29
+        }
+      ]
+    },
+    {
+      "arabicText": "يا أَيُّهَا الإِنسانُ ما غَرَّكَ بِرَبِّكَ الكَريمِ",
+      "englishText": "O mankind, what has deceived you concerning your Lord, the Generous,",
+      "hindiText": "ऐ इन्सान तुम्हें अपने परवरदिगार के बारे में किस चीज़ ने धोका दिया",
+      "urduText": "اے انسان! تجھے اپنے رب کریم سے کس چیز نے بہکایا",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 82,
+          "ayahNumber": 6
+        }
+      ]
+    },
+    {
+      "arabicText": "وَهُوَ الغَفورُ الوَدودُ\nذُو العَرشِ المَجيدُ\nفَعّالٌ لِما يُريدُ",
+      "englishText": "And He is the Forgiving, the Affectionate,\nHonorable Owner of the Throne,\nEffecter of what He intends.",
+      "hindiText": "और वही बड़ा बख्शने वाला मोहब्बत करने वाला है\nअर्श का मालिक बड़ा आलीशान है\nजो चाहता है करता है",
+      "urduText": "وه بڑا بخشش کرنے واﻻ اور بہت محبت کرنے واﻻ ہے\nعرش کا مالک عظمت واﻻ ہے\nجو چاہے اسے کر گزرنے واﻻ ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 85,
+          "ayahNumber": 14
+        },
+        {
+          "surahNumber": 85,
+          "ayahNumber": 15
+        },
+        {
+          "surahNumber": 85,
+          "ayahNumber": 16
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنَّهُ عَلىٰ رَجعِهِ لَقادِرٌ",
+      "englishText": "Indeed, Allah, to return him [to life], is Able.",
+      "hindiText": "बेशक ख़ुदा उसके दोबारा (पैदा) करने पर ज़रूर कुदरत रखता है",
+      "urduText": "بیشک وه اسے پھیر ﻻنے پر یقیناً قدرت رکھنے واﻻ ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 86,
+          "ayahNumber": 8
+        }
+      ]
+    },
+    {
+      "arabicText": "سَبِّحِ اسمَ رَبِّكَ الأَعلَى",
+      "englishText": "Exalt the name of your Lord, the Most High,",
+      "hindiText": "ऐ रसूल अपने आलीशान परवरदिगार के नाम की तस्बीह करो",
+      "urduText": "اپنے بہت ہی بلند اللہ کے نام کی پاکیزگی بیان کر",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 87,
+          "ayahNumber": 1
+        }
+      ]
+    },
+    {
+      "arabicText": "أَلَيسَ اللَّهُ بِأَحكَمِ الحاكِمينَ",
+      "englishText": "Is not Allah the most just of judges?",
+      "hindiText": "क्या ख़ुदा सबसे बड़ा हाकिम नहीं है (हाँ ज़रूर है)",
+      "urduText": "کیا اللہ تعالیٰ (سب) حاکموں کا حاکم نہیں ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 95,
+          "ayahNumber": 8
+        }
+      ]
+    },
+    {
+      "arabicText": "وَرَبُّكَ الأَكرَمُ",
+      "englishText": "And your Lord is the most Generous",
+      "hindiText": "और तुम्हारा परवरदिगार बड़ा क़रीम है",
+      "urduText": "تیرا رب بڑے کرم واﻻ ہے",
+      "phraseType": "praise-1",
+      "references": [
+        {
+          "surahNumber": 96,
+          "ayahNumber": 3
         }
       ]
     }

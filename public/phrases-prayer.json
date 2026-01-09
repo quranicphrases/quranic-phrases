@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-31T18:38:07.746Z",
+  "timestamp": "2026-01-09T17:44:56.063Z",
   "phraseType": "prayer",
-  "totalPhrases": 22,
+  "totalPhrases": 66,
   "phrases": [
     {
       "arabicText": "اهدِنَا الصِّراطَ المُستَقيمَ\nصِراطَ الَّذينَ أَنعَمتَ عَلَيهِم غَيرِ المَغضوبِ عَلَيهِم وَلَا الضّالّينَ",
@@ -318,6 +318,690 @@
         {
           "surahNumber": 7,
           "ayahNumber": 189
+        }
+      ]
+    },
+    {
+      "arabicText": "عَلَى اللَّهِ تَوَكَّلنا رَبَّنا لا تَجعَلنا فِتنَةً لِلقَومِ الظّالِمينَ\nوَنَجِّنا بِرَحمَتِكَ مِنَ القَومِ الكافِرينَ",
+      "englishText": "\"Upon Allah do we rely. Our Lord, make us not [objects of] trial for the wrongdoing people\nAnd save us by Your mercy from the disbelieving people.\"",
+      "hindiText": "ऐ हमारे पालने वाले तू हमें ज़ालिम लोगों का (ज़रिया) इम्तिहान न बना\nऔर अपनी रहमत से हमें इन काफ़िर लोगों (के नीचे) से नजात दे",
+      "urduText": "اے ہمارے پروردگار! ہم کو ان ﻇالموں کے لئے فتنہ نہ بنا\nاور ہم کو اپنی رحمت سے ان کافر لوگوں سے نجات دے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 10,
+          "ayahNumber": 85
+        },
+        {
+          "surahNumber": 10,
+          "ayahNumber": 86
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ إِنّي أَعوذُ بِكَ أَن أَسأَلَكَ ما لَيسَ لي بِهِ عِلمٌ ۖ وَإِلّا تَغفِر لي وَتَرحَمني أَكُن مِنَ الخاسِرينَ",
+      "englishText": "\"My Lord, I seek refuge in You from asking that of which I have no knowledge. And unless You forgive me and have mercy upon me, I will be among the losers.\"",
+      "hindiText": "ऐ मेरे परवरदिगार मै तुझ ही से पनाह मागँता हूँ कि जिस चीज़ का मुझे इल्म न हो मै उसकी दरख्वास्त करुँ और अगर तु मुझे (मेरे कसूर न बख्श देगा और मुझ पर रहम न खाएगा तो मैं सख्त घाटा उठाने वालों में हो जाऊँगा",
+      "urduText": "میرے پالنہار میں تیری ہی پناه چاہتا ہوں اس بات سے کہ تجھ سے وه مانگوں جس کا مجھے علم ہی نہ ہو اگر تو مجھے نہ بخشے گا اور تو مجھ پر رحم نہ فرمائے گا، تو میں خساره پانے والوں میں ہو جاؤں گا",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 11,
+          "ayahNumber": 47
+        }
+      ]
+    },
+    {
+      "arabicText": "مَعاذَ اللَّهِ",
+      "englishText": "[I seek] the refuge of Allah",
+      "hindiText": "माज़अल्लाह",
+      "urduText": "اللہ کی پناه!",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 12,
+          "ayahNumber": 23
+        }
+      ]
+    },
+    {
+      "arabicText": "فاطِرَ السَّماواتِ وَالأَرضِ أَنتَ وَلِيّي فِي الدُّنيا وَالآخِرَةِ ۖ تَوَفَّني مُسلِمًا وَأَلحِقني بِالصّالِحينَ",
+      "englishText": "Creator of the heavens and earth, You are my protector in this world and in the Hereafter. Cause me to die a Muslim and join me with the righteous.",
+      "hindiText": "ऐ आसमान और ज़मीन के पैदा करने वाले तू ही मेरा मालिक सरपरस्त है दुनिया में भी और आख़िरत में भी तू मुझे (दुनिया से) मुसलमान उठाये और मुझे नेको कारों में शामिल फरमा",
+      "urduText": "اے آسمان وزمین کے پیدا کرنے والے! تو ہی دنیا وآخرت میں میرا ولی (دوست) اور کارساز ہے، تو مجھے اسلام کی حالت میں فوت کر اور نیکوں میں ملا دے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 12,
+          "ayahNumber": 101
+        }
+      ]
+    },
+    {
+      "arabicText": "اجنُبني وَبَنِيَّ أَن نَعبُدَ الأَصنامَ",
+      "englishText": "Keep me and my sons away from worshipping idols.",
+      "hindiText": "मुझे और मेरी औलाद को इस बात को बचा ले कि बुतों की परसतिश करने लगे",
+      "urduText": "مجھے اور میری اوﻻد کو بت پرستی سے پناه دے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 14,
+          "ayahNumber": 35
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبَّنَا اغفِر لي وَلِوالِدَيَّ وَلِلمُؤمِنينَ يَومَ يَقومُ الحِسابُ",
+      "englishText": "Our Lord, forgive me and my parents and the believers the Day the account is established.",
+      "hindiText": "ऐ हमारे पालने वाले जिस दिन (आमाल का) हिसाब होने लगे मुझको और मेरे माँ बाप को और सारे ईमानदारों को तू बख्श दे",
+      "urduText": "اے ہمارے پروردگار! مجھے بخش دے اور میرے ماں باپ کو بھی بخش اور دیگر مومنوں کو بھی بخش جس دن حساب ہونے لگے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 14,
+          "ayahNumber": 41
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ ارحَمهُما كَما رَبَّياني صَغيرًا",
+      "englishText": "\"My Lord, have mercy upon them as they brought me up [when I was] small.\"",
+      "hindiText": "मेरे पालने वाले जिस तरह इन दोनों ने मेरे छोटेपन में मेरी मेरी परवरिश की है इसी तरह तू भी इन पर रहम फरमा",
+      "urduText": "اے میرے پروردگار! ان پر ویسا ہی رحم کر جیسا انہوں نے میرے بچپن میں میری پرورش کی ہے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 17,
+          "ayahNumber": 24
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ أَدخِلني مُدخَلَ صِدقٍ وَأَخرِجني مُخرَجَ صِدقٍ وَاجعَل لي مِن لَدُنكَ سُلطانًا نَصيرًا",
+      "englishText": "\"My Lord, cause me to enter a sound entrance and to exit a sound exit and grant me from Yourself a supporting authority.\"",
+      "hindiText": "ऐ मेरे परवरदिगार मुझे (जहाँ) पहुँचा अच्छी तरह पहुँचा और मुझे (जहाँ से निकाल) तो अच्छी तरह निकाल और मुझे ख़ास अपनी बारगाह से एक हुकूमत अता फरमा जिस से (हर क़िस्म की) मदद पहुँचे",
+      "urduText": "اے میرے پروردگار مجھے جہاں لے جا اچھی طرح لے جا اور جہاں سے نکال اچھی طرح نکال اور میرے لئے اپنے پاس سے غلبہ اور امداد مقرر فرما دے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 17,
+          "ayahNumber": 80
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبَّنا آتِنا مِن لَدُنكَ رَحمَةً وَهَيِّئ لَنا مِن أَمرِنا رَشَدًا",
+      "englishText": "\"Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.\"",
+      "hindiText": "ऐ हमारे परवरदिगार हमें अपनी बारगाह से रहमत अता फरमा-और हमारे वास्ते हमारे काम में कामयाबी इनायत कर",
+      "urduText": "اے ہمارے پروردگار! ہمیں اپنے پاس سے رحمت عطا فرما اور ہمارے کام میں ہمارے لئے راه یابی کو آسان کردے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 18,
+          "ayahNumber": 10
+        }
+      ]
+    },
+    {
+      "arabicText": "عَسىٰ أَن يَهدِيَنِ رَبّي لِأَقرَبَ مِن هٰذا رَشَدًا",
+      "englishText": "\"Perhaps my Lord will guide me to what is nearer than this to right conduct.\"",
+      "hindiText": "उम्मीद है कि मेरा परवरदिगार मुझे ऐसी बात की हिदायत फरमाए जो रहनुमाई में उससे भी ज्यादा क़रीब हो",
+      "urduText": "مجھے پوری امید ہے کہ میرا رب مجھے اس سے بھی زیاده ہدایت کے قریب کی بات کی رہبری کرے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 18,
+          "ayahNumber": 24
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ إِنّي وَهَنَ العَظمُ مِنّي وَاشتَعَلَ الرَّأسُ شَيبًا وَلَم أَكُن بِدُعائِكَ رَبِّ شَقِيًّا\nوَإِنّي خِفتُ المَوالِيَ مِن وَرائي وَكانَتِ امرَأَتي عاقِرًا فَهَب لي مِن لَدُنكَ وَلِيًّا\nيَرِثُني وَيَرِثُ مِن آلِ يَعقوبَ ۖ وَاجعَلهُ رَبِّ رَضِيًّا",
+      "englishText": "\"My Lord, indeed my bones have weakened, and my head has filled with white, and never have I been in my supplication to You, my Lord, unhappy.\nAnd indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir\nWho will inherit me and inherit from the family of Jacob. And make him, my Lord, pleasing [to You].\"",
+      "hindiText": "ऐ मेरे पालने वाले मेरी हड्डियां कमज़ोर हो गई और सर है कि बुढ़ापे की (आग से) भड़क उठा (सेफद हो गया) है और ऐ मेरे पालने वाले मैं तेरी बारगाह में दुआ कर के कभी महरूम नहीं रहा हूँ\nऔर मैं अपने (मरने के) बाद अपने वारिसों से सहम जाता हूँ (कि मुबादा दीन को बरबाद करें) और मेरी बीबी उम्मे कुलसूम बिनते इमरान बांझ है पस तू मुझको अपनी बारगाह से एक जाँनशीन फरज़न्द अता फ़रमा\nजो मेरी और याकूब की नस्ल की मीरास का मालिक हो ऐ मेरे परवरदिगार और उसको अपना पसन्दीदा बन्दा बना",
+      "urduText": "اے میرے پروردگار! میری ہڈیاں کمزور ہوگئی ہیں اور سر بڑھاپے کی وجہ سے بھڑک اٹھا ہے، لیکن میں کبھی بھی تجھ سے دعا کر کے محروم نہیں رہا\nمجھے اپنے مرنے کے بعد اپنے قرابت والوں کا ڈر ہے، میری بیوی بھی بانجھ ہے پس تو مجھے اپنے پاس سے وارث عطا فرما\nجو میرا بھی وارث ہو اور یعقوب (علیہ السلام) کے خاندان کا بھی جانشین اور میرے رب! تو اسے مقبول بنده بنا لے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 19,
+          "ayahNumber": 4
+        },
+        {
+          "surahNumber": 19,
+          "ayahNumber": 5
+        },
+        {
+          "surahNumber": 19,
+          "ayahNumber": 6
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنّي أَعوذُ بِالرَّحمٰنِ مِنكَ إِن كُنتَ تَقِيًّا",
+      "englishText": "\"Indeed, I seek refuge in the Most Merciful from you, [so leave me], if you should be fearing of Allah.\"",
+      "hindiText": "अगर तू परहेज़गार है तो मैं तुझ से खुदा की पनाह माँगती हूँ",
+      "urduText": "میں تجھ سے رحمٰن کی پناه مانگتی ہوں اگر تو کچھ بھی اللہ سے ڈرنے واﻻ ہے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 19,
+          "ayahNumber": 18
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ زِدني عِلمًا",
+      "englishText": "\"My Lord, increase me in knowledge.\"",
+      "hindiText": "ऐ मेरे पालने वाले मेरे इल्म को और ज्यादा फ़रमा",
+      "urduText": "پروردگار! میرا علم بڑھا",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 20,
+          "ayahNumber": 114
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبَّهُ أَنّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرحَمُ الرّاحِمينَ",
+      "englishText": "\"Indeed, adversity has touched me, and you are the Most Merciful of the merciful.\"",
+      "hindiText": "(ख़ुदा वन्द) बीमारी तो मेरे पीछे लग गई है और तू तो सब रहम करने वालोंसे (बढ़ कर है मुझ पर तरस खा)",
+      "urduText": "مجھے یہ بیماری لگ گئی ہے اور تو رحم کرنے والوں سے زیاده رحم کرنے واﻻ ہے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 21,
+          "ayahNumber": 83
+        }
+      ]
+    },
+    {
+      "arabicText": "لا إِلٰهَ إِلّا أَنتَ سُبحانَكَ إِنّي كُنتُ مِنَ الظّالِمينَ",
+      "englishText": "\"There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.\"",
+      "hindiText": "(परवरदिगार) तेरे सिवा कोई माबूद नहीं तू (हर ऐब से) पाक व पाकीज़ा है बेशक मैं कुसूरवार हूँ",
+      "urduText": "الٰہی تیرے سوا کوئی معبود نہیں تو پاک ہے، بیشک میں ﻇالموں میں ہو گیا",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 21,
+          "ayahNumber": 87
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ لا تَذَرني فَردًا وَأَنتَ خَيرُ الوارِثينَ",
+      "englishText": "\"My Lord, do not leave me alone [with no heir], while you are the best of inheritors.\"",
+      "hindiText": "ऐ मेरे पालने वाले मुझे तन्हा (बे औलाद) न छोड़ और तू तो सब वारिसों से बेहतर है",
+      "urduText": "اے میرے پروردگار! مجھے تنہا نہ چھوڑ، تو سب سے بہتر وارث ہے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 21,
+          "ayahNumber": 89
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ انصُرني بِما كَذَّبونِ",
+      "englishText": "\"My Lord, support me because they have denied me.\"",
+      "hindiText": "तू मेरी मदद कर",
+      "urduText": "پروردگار! ان کے جھٹلانے پر تو میری مدد کر",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 23,
+          "ayahNumber": 39
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ أَعوذُ بِكَ مِن هَمَزاتِ الشَّياطينِ\nوَأَعوذُ بِكَ رَبِّ أَن يَحضُرونِ",
+      "englishText": "\"My Lord, I seek refuge in You from the incitements of the devils,\nAnd I seek refuge in You, my Lord, lest they be present with me.\"",
+      "hindiText": "ऐ मेरे पालने वाले मै शैतान के वसवसों से तेरी पनाह माँगता हूँ\nऔर ऐ मेरे परवरदिगार इससे भी तेरी पनाह माँगता हूँ कि शयातीन मेरे पास आएँ",
+      "urduText": "اے میرے پروردگار! میں شیطانوں کے وسوسوں سے تیری پناه چاہتا ہوں\nاور اے رب! میں تیری پناه چاہتا ہوں کہ وه میرے پاس آجائیں",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 23,
+          "ayahNumber": 97
+        },
+        {
+          "surahNumber": 23,
+          "ayahNumber": 98
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبَّنا آمَنّا فَاغفِر لَنا وَارحَمنا وَأَنتَ خَيرُ الرّاحِمينَ",
+      "englishText": "'Our Lord, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful.'",
+      "hindiText": "ऐ हमारे पालने वाले हम ईमान लाए तो तू हमको बख्श दे और हम पर रहम कर तू तो तमाम रहम करने वालों से बेहतर है",
+      "urduText": "اے ہمارے پروردگار! ہم ایمان ﻻچکے ہیں تو ہمیں بخش اور ہم پر رحم فرما تو سب مہربانوں سے زیاده مہربان ہے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 23,
+          "ayahNumber": 109
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ اغفِر وَارحَم وَأَنتَ خَيرُ الرّاحِمينَ",
+      "englishText": "\"My Lord, forgive and have mercy, and You are the best of the merciful.\"",
+      "hindiText": "परवरदिगार तू (मेरी उम्मत को) बख्श दे और तरस खा और तू तो सब रहम करने वालों से बेहतर है",
+      "urduText": "اے میرے رب! تو بخش اور رحم کر اور تو سب مہربانوں سے بہتر مہربانی کرنے واﻻ ہے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 23,
+          "ayahNumber": 118
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبَّنَا اصرِف عَنّا عَذابَ جَهَنَّمَ ۖ إِنَّ عَذابَها كانَ غَرامًا\nإِنَّها ساءَت مُستَقَرًّا وَمُقامًا",
+      "englishText": "\"Our Lord, avert from us the punishment of Hell. Indeed, its punishment is ever adhering;\nIndeed, it is evil as a settlement and residence.\"",
+      "hindiText": "परवरदिगारा हम से जहन्नुम का अज़ाब फेरे रहना क्योंकि उसका अज़ाब बहुत (सख्त और पाएदार होगा)\nबेशक वह बहुत बुरा ठिकाना और बुरा मक़ाम है",
+      "urduText": "اے ہمارے پروردگار! ہم سے دوزخ کا عذاب پرے ہی پرے رکھ، کیونکہ اس کا عذاب چمٹ جانے واﻻ ہے\nبے شک وه ٹھہرنے اور رہنے کے لحاظ سے بدترین جگہ ہے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 25,
+          "ayahNumber": 65
+        },
+        {
+          "surahNumber": 25,
+          "ayahNumber": 66
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبَّنا هَب لَنا مِن أَزواجِنا وَذُرِّيّاتِنا قُرَّةَ أَعيُنٍ وَاجعَلنا لِلمُتَّقينَ إِمامًا",
+      "englishText": "\"Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous.\"",
+      "hindiText": "परवरदिगार हमें हमारी बीबियों और औलादों की तरफ से ऑंखों की ठन्डक अता फरमा और हमको परहेज़गारों का पेशवा बना",
+      "urduText": "اے ہمارے پروردگار! تو ہمیں ہماری بیویوں اور اوﻻد سے آنکھوں کی ٹھنڈک عطا فرما اور ہمیں پرہیزگاروں کا پیشوا بنا",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 25,
+          "ayahNumber": 74
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ هَب لي حُكمًا وَأَلحِقني بِالصّالِحينَ\nوَاجعَل لي لِسانَ صِدقٍ فِي الآخِرينَ\nوَاجعَلني مِن وَرَثَةِ جَنَّةِ النَّعيمِ\nوَاغفِر لِأَبي إِنَّهُ كانَ مِنَ الضّالّينَ\nوَلا تُخزِني يَومَ يُبعَثونَ\nيَومَ لا يَنفَعُ مالٌ وَلا بَنونَ\nإِلّا مَن أَتَى اللَّهَ بِقَلبٍ سَليمٍ",
+      "englishText": "\"My Lord, grant me authority and join me with the righteous.\nAnd grant me a reputation of honor among later generations.\nAnd place me among the inheritors of the Garden of Pleasure.\nAnd forgive my father. Indeed, he has been of those astray.\nAnd do not disgrace me on the Day they are [all] resurrected -\nThe Day when there will not benefit [anyone] wealth or children\nBut only one who comes to Allah with a sound heart.\"",
+      "hindiText": "परवरदिगार मुझे इल्म व फहम अता फरमा और मुझे नेकों के साथ शामिल कर\nऔर आइन्दा आने वाली नस्लों में मेरा ज़िक्रे ख़ैर क़ायम रख\nऔर मुझे भी नेअमत के बाग़ (बेहश्त) के वारिसों में से बना\nऔर मेरे (मुँह बोले) बाप (चचा आज़र) को बख्श दे क्योंकि वह गुमराहों में से है\nऔर जिस दिन लोग क़ब्रों से उठाए जाएँगें मुझे रुसवा न करना\nजिस दिन न तो माल ही कुछ काम आएगा और न लड़के बाले\nमगर जो शख्स ख़ुदा के सामने (गुनाहों से) पाक दिल लिए हुए हाज़िर होगा (वह फायदे में रहेगा)",
+      "urduText": "اے میرے رب! مجھے قوت فیصلہ عطا فرما اور مجھے نیک لوگوں میں ملا دے\nاور میرا ذکر خیر پچھلے لوگوں میں بھی باقی رکھ\nمجھے نعمتوں والی جنت کے وارﺛوں میں سے بنادے\nاور میرے باپ کو بخش دے یقیناً وه گمراہوں میں سے تھا\nاور جس دن کے لوگ دوباره جلائے جائیں مجھے رسوا نہ کر\nجس دن کہ مال اور اوﻻد کچھ کام نہ آئے گی\nلیکن فائده واﻻ وہی ہوگا جو اللہ تعالیٰ کے سامنے بے عیب دل لے کر جائے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 26,
+          "ayahNumber": 83
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 84
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 85
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 86
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 87
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 88
+        },
+        {
+          "surahNumber": 26,
+          "ayahNumber": 89
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ نَجِّني وَأَهلي مِمّا يَعمَلونَ",
+      "englishText": "My Lord, save me and my family from [the consequence of] what they do.\"",
+      "hindiText": "(और दुआ की) परवरदिगार जो कुछ ये लोग करते है उससे मुझे और मेरे लड़कों को नजात दे",
+      "urduText": "میرے پروردگار! مجھے اور میرے گھرانے کو اس (وبال) سے بچالے جو یہ کرتے ہیں",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 26,
+          "ayahNumber": 169
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ أَوزِعني أَن أَشكُرَ نِعمَتَكَ الَّتي أَنعَمتَ عَلَيَّ وَعَلىٰ والِدَيَّ وَأَن أَعمَلَ صالِحًا تَرضاهُ وَأَدخِلني بِرَحمَتِكَ في عِبادِكَ الصّالِحينَ",
+      "englishText": "\"My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants.\"",
+      "hindiText": "परवरदिगार मुझे तौफीक़ अता फरमा कि जैसी जैसी नेअमतें तूने मुझ पर और मेरे वालदैन पर नाज़िल फरमाई हैं मै (उनका) शुक्रिया अदा करुँ और मैं ऐसे नेक काम करुँ जिसे तू पसन्द फरमाए और तू अपनी ख़ास मेहरबानी से मुझे (अपने) नेकोकार बन्दों में दाखिल कर",
+      "urduText": "اے پروردگار! تو مجھے توفیق دے کہ میں تیری ان نعمتوں کا شکر بجا ﻻؤں جو تو نے مجھ پر انعام کی ہیں اور میرے ماں باپ پر اور میں ایسے نیک اعمال کرتا رہوں جن سے تو خوش رہے مجھے اپنی رحمت سے نیک بندوں میں شامل کر لے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 27,
+          "ayahNumber": 19
+        }
+      ]
+    },
+    {
+      "arabicText": "الحَمدُ لِلَّهِ وَسَلامٌ عَلىٰ عِبادِهِ الَّذينَ اصطَفىٰ",
+      "englishText": "Praise be to Allah, and peace upon His servants whom He has chosen",
+      "hindiText": "खुदा का शुक्र और उसके बरगुज़ीदा बन्दों पर सलाम",
+      "urduText": "تمام تعریف اللہ ہی کے لیے ہے اور اس کے برگزیده بندوں پر سلام ہے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 27,
+          "ayahNumber": 59
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ إِنّي ظَلَمتُ نَفسي فَاغفِر لي",
+      "englishText": "\"My Lord, indeed I have wronged myself, so forgive me,\"",
+      "hindiText": "परवरदिगार बेशक मैने अपने ऊपर आप ज़ुल्म किया (कि इस शहर में आया) तो तू मुझे (दुश्मनों से) पोशीदा रख",
+      "urduText": "اے پروردگار! میں نے خود اپنے اوپر ﻇلم کیا، تو مجھے معاف فرما دے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 28,
+          "ayahNumber": 16
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ نَجِّني مِنَ القَومِ الظّالِمينَ",
+      "englishText": "\"My Lord, save me from the wrongdoing people.\"",
+      "hindiText": "परवरदिगार मुझे ज़ालिम लोगों (के हाथ) से नजात दे",
+      "urduText": "اے پروردگار! مجھے ﻇالموں کے گروه سے بچا لے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 28,
+          "ayahNumber": 21
+        }
+      ]
+    },
+    {
+      "arabicText": "عَسىٰ رَبّي أَن يَهدِيَني سَواءَ السَّبيلِ",
+      "englishText": "\"Perhaps my Lord will guide me to the sound way.\"",
+      "hindiText": "मुझे उम्मीद है कि मेरा परवरदिगार मुझे सीधे रास्ता दिखा दे",
+      "urduText": "مجھے امید ہے کہ میرا رب مجھے سیدھی راه لے چلے گا",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 28,
+          "ayahNumber": 22
+        }
+      ]
+    },
+    {
+      "arabicText": "إِنّي لِما أَنزَلتَ إِلَيَّ مِن خَيرٍ فَقيرٌ",
+      "englishText": "\"My Lord, indeed I am, for whatever good You would send down to me, in need.\"",
+      "hindiText": "परवरदिगार (उस वक्त) ज़ो नेअमत तू मेरे पास भेज दे मै उसका सख्त हाजत मन्द हूँ",
+      "urduText": "اے پروردگار! تو جو کچھ بھلائی میری طرف اتارے میں اس کا محتاج ہوں",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 28,
+          "ayahNumber": 24
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ انصُرني عَلَى القَومِ المُفسِدينَ",
+      "englishText": "\"My Lord, support me against the corrupting people.\"",
+      "hindiText": "परवरदिगार इन मुफ़सिद लोगों के मुक़ाबले में मेरी मदद कर",
+      "urduText": "پروردگار! اس مفسد قوم پر میری مدد فرما",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 29,
+          "ayahNumber": 30
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ هَب لي مِنَ الصّالِحينَ",
+      "englishText": "My Lord, grant me [a child] from among the righteous.",
+      "hindiText": "परवरदिगार मुझे एक नेको कार (फरज़न्द) इनायत फरमा",
+      "urduText": "اے میرے رب! مجھے نیک بخت اوﻻد عطا فرما",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 37,
+          "ayahNumber": 100
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ اغفِر لي وَهَب لي مُلكًا لا يَنبَغي لِأَحَدٍ مِن بَعدي ۖ إِنَّكَ أَنتَ الوَهّابُ",
+      "englishText": "\"My Lord, forgive me and grant me a kingdom such as will not belong to anyone after me. Indeed, You are the Bestower.\"",
+      "hindiText": "परवरदिगार मुझे बख्श दे और मुझे वह मुल्क अता फरमा जो मेरे बाद किसी के वास्ते शायाँह न हो इसमें तो शक नहीं कि तू बड़ा बख्शने वाला है",
+      "urduText": "اے میرے رب! مجھے بخش دے اور مجھے ایسا ملک عطا فرما جو میرے سوا کسی (شخص) کے ﻻئق نہ ہو، تو بڑا ہی دینے واﻻ ہے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 38,
+          "ayahNumber": 35
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبَّنا وَسِعتَ كُلَّ شَيءٍ رَحمَةً وَعِلمًا فَاغفِر لِلَّذينَ تابوا وَاتَّبَعوا سَبيلَكَ وَقِهِم عَذابَ الجَحيمِ\nرَبَّنا وَأَدخِلهُم جَنّاتِ عَدنٍ الَّتي وَعَدتَهُم وَمَن صَلَحَ مِن آبائِهِم وَأَزواجِهِم وَذُرِّيّاتِهِم ۚ إِنَّكَ أَنتَ العَزيزُ الحَكيمُ\nوَقِهِمُ السَّيِّئَاتِ ۚ وَمَن تَقِ السَّيِّئَاتِ يَومَئِذٍ فَقَد رَحِمتَهُ ۚ وَذٰلِكَ هُوَ الفَوزُ العَظيمُ",
+      "englishText": "\"Our Lord, You have encompassed all things in mercy and knowledge, so forgive those who have repented and followed Your way and protect them from the punishment of Hellfire.\nOur Lord, and admit them to gardens of perpetual residence which You have promised them and whoever was righteous among their fathers, their spouses and their offspring. Indeed, it is You who is the Exalted in Might, the Wise.\nAnd protect them from the evil consequences [of their deeds]. And he whom You protect from evil consequences that Day - You will have given him mercy. And that is the great attainment.\"",
+      "hindiText": "परवरदिगार तेरी रहमत और तेरा इल्म हर चीज़ पर अहाता किए हुए हैं, तो जिन लोगों ने (सच्चे) दिल से तौबा कर ली और तेरे रास्ते पर चले उनको बख्श दे और उनको जहन्नुम के अज़ाब से बचा ले\nऐ हमारे पालने वाले इन को सदाबहार बाग़ों में जिनका तूने उन से वायदा किया है दाख़िल कर और उनके बाप दादाओं और उनकी बीवीयों और उनकी औलाद में से जो लोग नेक हो उनको (भी बख्श दें) बेशक तू ही ज़बरदस्त (और) हिकमत वाला है\nऔर उनको हर किस्म की बुराइयों से महफूज़ रख और जिसको तूने उस दिन ( कयामत ) के अज़ाबों से बचा लिया उस पर तूने बड़ा रहम किया और यही तो बड़ी कामयाबी है",
+      "urduText": "اے ہمارے پروردگار! تو نے ہر چیز کو اپنی بخشش اور علم سے گھیر رکھا ہے، پس تو انہیں بخش دے جو توبہ کریں اور تیری راه کی پیروی کریں اور تو انہیں دوزخ کے عذاب سے بھی بچا لے\nاے ہمارے رب! تو انہیں ہمیشگی والی جنتوں میں لے جا جن کا تو نے ان سے وعده کیا ہے اور ان کے باپ دادوں اور بیویوں اور اوﻻد میں سے (بھی) ان (سب) کو جو نیک عمل ہیں۔ یقیناً تو تو غالب و باحکمت ہے\nانہیں برائیوں سے بھی محفوظ رکھ، حق تو یہ ہے کہ اس دن تونے جسے برائیوں سے بچا لیا اس پر تو نے رحمت کر دی اور بہت بڑی کامیابی تو یہی ہے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 40,
+          "ayahNumber": 7
+        },
+        {
+          "surahNumber": 40,
+          "ayahNumber": 8
+        },
+        {
+          "surahNumber": 40,
+          "ayahNumber": 9
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ أَوزِعني أَن أَشكُرَ نِعمَتَكَ الَّتي أَنعَمتَ عَلَيَّ وَعَلىٰ والِدَيَّ وَأَن أَعمَلَ صالِحًا تَرضاهُ وَأَصلِح لي في ذُرِّيَّتي ۖ إِنّي تُبتُ إِلَيكَ وَإِنّي مِنَ المُسلِمينَ",
+      "englishText": "\"My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to work righteousness of which You will approve and make righteous for me my offspring. Indeed, I have repented to You, and indeed, I am of the Muslims.\"",
+      "hindiText": "परवरदिगार तो मुझे तौफ़ीक़ अता फरमा कि तूने जो एहसानात मुझ पर और मेरे वालदैन पर किये हैं मैं उन एहसानों का शुक्रिया अदा करूँ और ये (भी तौफीक दे) कि मैं ऐसा नेक काम करूँ जिसे तू पसन्द करे और मेरे लिए मेरी औलाद में सुलाह व तक़वा पैदा करे तेरी तरफ रूजू करता हूँ और मैं यक़ीनन फरमाबरदारो में हूँ",
+      "urduText": "اے میرے پروردگار! مجھے توفیق دے کہ میں تیری اس نعمت کا شکر بجا ﻻؤں جو تو نے مجھ پر اور میرے ماں باپ پر انعام کی ہے اور یہ کہ میں ایسے نیک عمل کروں جن سے تو خوش ہو جائے اور تو میری اوﻻد بھی صالح بنا، میں تیری طرف رجوع کرتا ہوں اور میں مسلمانوں میں سے ہوں",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 46,
+          "ayahNumber": 15
+        }
+      ]
+    },
+    {
+      "arabicText": "أَنّي مَغلوبٌ فَانتَصِر",
+      "englishText": "\"Indeed, I am overpowered, so help.\"",
+      "hindiText": "मैं इनके मुक़ाबले में कमज़ोर हूँ तो अब तू ही (इनसे) बदला ले",
+      "urduText": "میں بے بس ہوں تو میری مدد کر",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 54,
+          "ayahNumber": 10
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبَّنَا اغفِر لَنا وَلِإِخوانِنَا الَّذينَ سَبَقونا بِالإيمانِ وَلا تَجعَل في قُلوبِنا غِلًّا لِلَّذينَ آمَنوا رَبَّنا إِنَّكَ رَءوفٌ رَحيمٌ",
+      "englishText": "\"Our Lord, forgive us and our brothers who preceded us in faith and put not in our hearts [any] resentment toward those who have believed. Our Lord, indeed You are Kind and Merciful.\"",
+      "hindiText": "परवरदिगारा हमारी और उन लोगों की जो हमसे पहले ईमान ला चुके मग़फेरत कर और मोमिनों की तरफ से हमारे दिलों में किसी तरह का कीना न आने दे परवरदिगार बेशक तू बड़ा शफीक़ निहायत रहम वाला है",
+      "urduText": "اے ہمارے پروردگار ہمیں بخش دے اور ہمارے ان بھائیوں کو بھی جو ہم سے پہلے ایمان ﻻچکے ہیں اور ایمان داروں کی طرف سے ہمارے دل میں کینہ (اور دشمنی) نہ ڈال، اے ہمارے رب بیشک تو شفقت ومہربانی کرنے واﻻ ہے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 59,
+          "ayahNumber": 10
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبَّنا عَلَيكَ تَوَكَّلنا وَإِلَيكَ أَنَبنا وَإِلَيكَ المَصيرُ\nرَبَّنا لا تَجعَلنا فِتنَةً لِلَّذينَ كَفَروا وَاغفِر لَنا رَبَّنا ۖ إِنَّكَ أَنتَ العَزيزُ الحَكيمُ",
+      "englishText": "Our Lord, upon You we have relied, and to You we have returned, and to You is the destination.\nOur Lord, make us not [objects of] torment for the disbelievers and forgive us, our Lord. Indeed, it is You who is the Exalted in Might, the Wise.\"",
+      "hindiText": "ऐ हमारे पालने वाले (ख़ुदा) हमने तुझी पर भरोसा कर लिया है और तेरी ही तरफ हम रूजू करते हैं\nऔर तेरी तरफ हमें लौट कर जाना है ऐ हमारे पालने वाले तू हम लोगों को काफ़िरों की आज़माइश (का ज़रिया) न क़रार दे और परवरदिगार तू हमें बख्श दे बेशक तू ग़ालिब (और) हिकमत वाला है",
+      "urduText": "اے ہمارے رب! تو ہمیں کافروں کی آزمائش میں نہ ڈال اور اے ہمارے پالنے والے ہماری خطاؤں کو بخش دے، بیشک تو ہی غالب، حکمت واﻻ ہے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 60,
+          "ayahNumber": 4
+        },
+        {
+          "surahNumber": 60,
+          "ayahNumber": 5
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبَّنا أَتمِم لَنا نورَنا وَاغفِر لَنا ۖ إِنَّكَ عَلىٰ كُلِّ شَيءٍ قَديرٌ",
+      "englishText": "\"Our Lord, perfect for us our light and forgive us. Indeed, You are over all things competent.\"",
+      "hindiText": "परवरदिगार हमारे लिए हमारा नूर पूरा कर और हमें बख्य दे बेशक तू हर चीज़ पर कादिर है",
+      "urduText": "اے ہمارے رب ہمیں کامل نور عطا فرما اور ہمیں بخش دے یقیناً تو ہر چیز پر قادر ہے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 66,
+          "ayahNumber": 8
+        }
+      ]
+    },
+    {
+      "arabicText": "رَبِّ ابنِ لي عِندَكَ بَيتًا فِي الجَنَّةِ وَنَجِّني مِن فِرعَونَ وَعَمَلِهِ وَنَجِّني مِنَ القَومِ الظّالِمينَ",
+      "englishText": "\"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\"",
+      "hindiText": "परवरदिगार मेरे लिए अपने यहाँ बेहिश्त में एक घर बना और मुझे फिरऔन और उसकी कारस्तानी से नजात दे और मुझे ज़ालिम लोगो (के हाथ) से छुटकारा अता फ़रमा",
+      "urduText": "اے میرے رب! میرے لیے اپنے پاس جنت میں مکان بنا اور مجھے فرعون سے اور اس کے عمل سے بچا اور مجھے ﻇالم لوگوں سے خلاصی دے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 66,
+          "ayahNumber": 11
+        }
+      ]
+    },
+    {
+      "arabicText": "سُبحانَ رَبِّنا إِنّا كُنّا ظالِمينَ\nيا وَيلَنا إِنّا كُنّا طاغينَ\nعَسىٰ رَبُّنا أَن يُبدِلَنا خَيرًا مِنها إِنّا إِلىٰ رَبِّنا راغِبونَ",
+      "englishText": "\"Exalted is our Lord! Indeed, we were wrongdoers.\"\n\"O woe to us; indeed we were transgressors.\nPerhaps our Lord will substitute for us [one] better than it. Indeed, we are toward our Lord desirous.\"",
+      "hindiText": "हमारा परवरदिगार पाक है बेशक हमीं ही कुसूरवार हैं\nहाए अफसोस बेशक हम ही ख़ुद सरकश थे\nउम्मीद है कि हमारा परवरदिगार हमें इससे बेहतर बाग़ इनायत फ़रमाए हम अपने परवरदिगार की तरफ रूजू करते हैं",
+      "urduText": "ہمارا رب پاک ہے بیشک ہم ہی ﻇالم تھے\nہائے افسوس! یقیناً ہم سرکش تھے\nکیا عجب ہے کہ ہمارا رب ہمیں اس سے بہتر بدلہ دے دے ہم تو اب اپنے رب سے ہی آرزو رکھتے ہیں",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 68,
+          "ayahNumber": 29
+        },
+        {
+          "surahNumber": 68,
+          "ayahNumber": 31
+        },
+        {
+          "surahNumber": 68,
+          "ayahNumber": 32
+        }
+      ]
+    },
+    {
+      "arabicText": "قُل هُوَ اللَّهُ أَحَدٌ\nاللَّهُ الصَّمَدُ\nلَم يَلِد وَلَم يولَد\nوَلَم يَكُن لَهُ كُفُوًا أَحَدٌ",
+      "englishText": "Say, \"He is Allah, [who is] One,\nAllah, the Eternal Refuge.\nHe neither begets nor is born,\nNor is there to Him any equivalent.\"",
+      "hindiText": "(ऐ रसूल) तुम कह दो कि ख़ुदा एक है\nख़ुदा बरहक़ बेनियाज़ है\nन उसने किसी को जना न उसको किसी ने जना,\nऔर उसका कोई हमसर नहीं",
+      "urduText": "آپ کہہ دیجئے کہ وه اللہ تعالیٰ ایک (ہی) ہے\nاللہ تعالیٰ بے نیاز ہے\nنہ اس سے کوئی پیدا ہوا نہ وه کسی سے پیدا ہوا\nاور نہ کوئی اس کا ہمسر ہے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 112,
+          "ayahNumber": 1
+        },
+        {
+          "surahNumber": 112,
+          "ayahNumber": 2
+        },
+        {
+          "surahNumber": 112,
+          "ayahNumber": 3
+        },
+        {
+          "surahNumber": 112,
+          "ayahNumber": 4
+        }
+      ]
+    },
+    {
+      "arabicText": "قُل أَعوذُ بِرَبِّ الفَلَقِ\nمِن شَرِّ ما خَلَقَ\nوَمِن شَرِّ غاسِقٍ إِذا وَقَبَ\nوَمِن شَرِّ النَّفّاثاتِ فِي العُقَدِ\nوَمِن شَرِّ حاسِدٍ إِذا حَسَدَ",
+      "englishText": "Say, \"I seek refuge in the Lord of daybreak\nFrom the evil of that which He created\nAnd from the evil of darkness when it settles\nAnd from the evil of the blowers in knots\nAnd from the evil of an envier when he envies.\"",
+      "hindiText": "(ऐ रसूल) तुम कह दो कि मैं सुबह के मालिक की\nहर चीज़ की बुराई से जो उसने पैदा की पनाह माँगता हूँ\nऔर अंधेरीरात की बुराई से जब उसका अंधेरा छा जाए\nऔर गन्डों पर फूँकने वालियों की बुराई से\n(जब फूँके) और हसद करने वाले की बुराई से",
+      "urduText": "آپ کہہ دیجئے! کہ میں صبح کے رب کی پناه میں آتا ہوں\nہر اس چیز کے شر سے جو اس نے پیدا کی ہے\nاور اندھیری رات کی تاریکی کے شر سے جب اس کا اندھیرا پھیل جائے\nاور گره (لگا کر ان) میں پھونکنے والیوں کے شر سے (بھی)\nاور حسد کرنے والے کی برائی سے بھی جب وه حسد کرے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 113,
+          "ayahNumber": 1
+        },
+        {
+          "surahNumber": 113,
+          "ayahNumber": 2
+        },
+        {
+          "surahNumber": 113,
+          "ayahNumber": 3
+        },
+        {
+          "surahNumber": 113,
+          "ayahNumber": 4
+        },
+        {
+          "surahNumber": 113,
+          "ayahNumber": 5
+        }
+      ]
+    },
+    {
+      "arabicText": "قُل أَعوذُ بِرَبِّ النّاسِ\nمَلِكِ النّاسِ\nإِلٰهِ النّاسِ\nمِن شَرِّ الوَسواسِ الخَنّاسِ\nالَّذي يُوَسوِسُ في صُدورِ النّاسِ\nمِنَ الجِنَّةِ وَالنّاسِ",
+      "englishText": "Say, \"I seek refuge in the Lord of mankind,\nThe Sovereign of mankind.\nThe God of mankind,\nFrom the evil of the retreating whisperer -\nWho whispers [evil] into the breasts of mankind -\nFrom among the jinn and mankind.\"",
+      "hindiText": "(ऐ रसूल) तुम कह दो मैं लोगों के परवरदिगार\nलोगों के बादशाह\nलोगों के माबूद की (शैतानी)\nवसवसे की बुराई से पनाह माँगता हूँ\nजो (ख़ुदा के नाम से) पीछे हट जाता है जो लोगों के दिलों में वसवसे डाला करता है\nजिन्नात में से ख्वाह आदमियों में से",
+      "urduText": "آپ کہہ دیجئے! کہ میں لوگوں کے پروردگار کی پناه میں آتا ہوں\nلوگوں کے مالک کی (اور)\nلوگوں کے معبود کی (پناه میں)\nوسوسہ ڈالنے والے پیچھے ہٹ جانے والے کے شر سے\nجو لوگوں کے سینوں میں وسوسہ ڈالتا ہے\n(خواه) وه جن میں سے ہو یا انسان میں سے",
+      "phraseType": "prayer",
+      "references": [
+        {
+          "surahNumber": 114,
+          "ayahNumber": 1
+        },
+        {
+          "surahNumber": 114,
+          "ayahNumber": 2
+        },
+        {
+          "surahNumber": 114,
+          "ayahNumber": 3
+        },
+        {
+          "surahNumber": 114,
+          "ayahNumber": 4
+        },
+        {
+          "surahNumber": 114,
+          "ayahNumber": 5
+        },
+        {
+          "surahNumber": 114,
+          "ayahNumber": 6
         }
       ]
     }
