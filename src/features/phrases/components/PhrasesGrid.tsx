@@ -11,6 +11,7 @@ interface PhrasesGridProps {
   ariaLabel?: string;
   onPhraseClick: (phrase: QuranicPhrase) => void;
   aboutSectionRef?: React.RefObject<HTMLDivElement | null>;
+  onReferenceClick?: (reference: string) => void; // Added this property
 }
 
 /**
