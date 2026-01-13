@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-01-09T17:44:56.114Z",
+  "timestamp": "2026-01-13T16:47:02.237Z",
   "phraseType": "99-names",
-  "totalPhrases": 114,
+  "totalPhrases": 113,
   "phrases": [
     {
       "arabicText": "إِنَّ اللَّهَ عَلىٰ كُلِّ شَيءٍ قَديرٌ",
@@ -1873,9 +1873,9 @@
     },
     {
       "arabicText": "وَإِنَّ اللَّهَ لَعَفُوٌّ غَفورٌ",
-      "englishText": "",
-      "hindiText": "",
-      "urduText": "",
+      "englishText": "But indeed, Allah is Pardoning and Forgiving.",
+      "hindiText": "और ख़ुदा बेशक माफ करने वाला और बड़ा बख्शने वाला है",
+      "urduText": "بیشک اللہ تعالیٰ معاف کرنے واﻻ اور بخشنے واﻻ ہے",
       "phraseType": "99-names",
       "references": [
         {
@@ -1886,14 +1886,18 @@
     },
     {
       "arabicText": "وَاللَّهُ عَلىٰ كُلِّ شَيءٍ شَهيدٌ",
-      "englishText": "",
-      "hindiText": "",
-      "urduText": "",
+      "englishText": "And Allah is, over all things, Witness.",
+      "hindiText": "और ख़ुदा तो हर चीज़ का गवाह है",
+      "urduText": "اور اللہ تعالیٰ ہر چیز سے واقف ہے",
       "phraseType": "99-names",
       "references": [
         {
           "surahNumber": 58,
           "ayahNumber": 6
+        },
+        {
+          "surahNumber": 85,
+          "ayahNumber": 9
         }
       ]
     },
@@ -1938,9 +1942,9 @@
     },
     {
       "arabicText": "وَاللَّهُ غَنِيٌّ حَميدٌ",
-      "englishText": "",
-      "hindiText": "",
-      "urduText": "",
+      "englishText": "And Allah is Free of need and Praiseworthy.",
+      "hindiText": "और ख़ुदा तो बे परवा सज़ावारे हम्द है",
+      "urduText": "اور اللہ تو ہے ہی بہت بےنیاز سب خوبیوں واﻻ",
       "phraseType": "99-names",
       "references": [
         {
@@ -1959,19 +1963,6 @@
         {
           "surahNumber": 64,
           "ayahNumber": 17
-        }
-      ]
-    },
-    {
-      "arabicText": "وَاللَّهُ عَلىٰ كُلِّ شَيءٍ شَهيدٌ",
-      "englishText": "",
-      "hindiText": "",
-      "urduText": "",
-      "phraseType": "99-names",
-      "references": [
-        {
-          "surahNumber": 85,
-          "ayahNumber": 9
         }
       ]
     },

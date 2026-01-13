@@ -32,4 +32,9 @@ export const pages: PageLink[] = [
     label: 'Anonymous',
     ariaLabel: 'Navigate to Anonymous Quranic Phrases page',
   },
+  {
+    path: '/noteworthy',
+    label: 'Noteworthy',
+    ariaLabel: 'Navigate to Noteworthy Quranic Phrases page',
+  },
 ];

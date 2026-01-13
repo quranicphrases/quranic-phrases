@@ -23,6 +23,8 @@ export interface PhraseTextProps {
   multiLine?: boolean;
   /** Whether text is interactive (focusable) - true for modal, false for grid */
   isInteractive?: boolean;
+  /** Prevent Google Translate from translating this text - use for sacred Arabic Quranic text */
+  noTranslate?: boolean;
 }
 
 const PhraseText: React.FC<PhraseTextProps> = ({
@@ -36,6 +38,7 @@ const PhraseText: React.FC<PhraseTextProps> = ({
   usePaper = false,
   multiLine = false,
   isInteractive = true,
+  noTranslate = false,
 }) => {
   // Determine Material-UI text alignment
   const muiTextAlign = textAlign as 'left' | 'right' | 'center';
@@ -82,6 +85,7 @@ const PhraseText: React.FC<PhraseTextProps> = ({
           variant={variant}
           component='p'
           lang={languageCode}
+          translate={noTranslate ? 'no' : undefined}
           sx={{
             textAlign: muiTextAlign,
             direction,

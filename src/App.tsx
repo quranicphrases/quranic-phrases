@@ -13,6 +13,7 @@ import AnonymousPage from './pages/AnonymousPage';
 import PraisesPage from './pages/PraisesPage';
 import InfoPage from './pages/InfoPage';
 import PrayersPage from './pages/PrayersPage';
+import NoteworthyPage from './pages/NoteworthyPage';
 import { pages } from './config/navigationConfig';
 
 const theme = createTheme({
@@ -56,6 +57,7 @@ function App() {
               <Route path='/prayers' element={<PrayersPage />} />
               <Route path='/info' element={<InfoPage />} />
               <Route path='/anonymous' element={<AnonymousPage />} />
+              <Route path='/noteworthy' element={<NoteworthyPage />} />
 
               {/* Fallback route for unknown paths */}
               <Route path='*' element={<Navigate to='/overview' replace />} />

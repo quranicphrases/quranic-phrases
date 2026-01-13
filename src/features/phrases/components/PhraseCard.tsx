@@ -8,22 +8,18 @@ export interface PhraseCardProps {
   /** Arabic text content */
   arabic: {
     text: string;
-    edition: string;
   };
   /** English text content */
   english: {
     text: string;
-    edition: string;
   };
   /** Hindi text content */
   hindi: {
     text: string;
-    edition: string;
   };
   /** Urdu text content */
   urdu: {
     text: string;
-    edition: string;
   };
   /** Array of reference strings */
   references: string[];
@@ -120,6 +116,7 @@ const PhraseCard: React.FC<PhraseCardProps> = ({
             fontFamily="'Amiri', 'Times New Roman', serif"
             multiLine={multiLine}
             isInteractive={isInteractive}
+            noTranslate={true}
             sx={{
               '& #phrase-content': {
                 id: arabicId,

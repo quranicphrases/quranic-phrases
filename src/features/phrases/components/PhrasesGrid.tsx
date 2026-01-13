@@ -171,19 +171,15 @@ export default function PhrasesGrid({
               <PhraseCard
                 arabic={{
                   text: phrase.arabicText,
-                  edition: 'القرآن الكريم',
                 }}
                 english={{
                   text: phrase.englishText,
-                  edition: 'Sahih International',
                 }}
                 hindi={{
                   text: phrase.hindiText || 'Translation not available',
-                  edition: 'फ़ारूकी',
                 }}
                 urdu={{
                   text: phrase.urduText,
-                  edition: 'احمد علی',
                 }}
                 references={formatReferences(phrase.references)}
                 elevation={2}

@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect, type FC } from 'react';
 import { Container, Typography, Box } from '@mui/material';
 import AboutSection from '../features/phrases/components/AboutSection';
 import PhrasesGrid from '../features/phrases/components/PhrasesGrid';
@@ -22,6 +22,7 @@ export interface PhrasePageTemplateProps {
   onReferenceClick?: (reference: string) => void;
   loading?: boolean;
   error?: string | null;
+  hidePhrasesList?: boolean;
 }
 
 /**
@@ -29,7 +30,7 @@ export interface PhrasePageTemplateProps {
  * Composes AboutSection, PhrasesGrid, and PhraseModal components
  * Handles loading, error, and empty states
  */
-export default function PhrasePageTemplate({
+const PhrasePageTemplate: FC<PhrasePageTemplateProps> = ({
   pageTitle,
   aboutTitle,
   aboutText,
@@ -40,7 +41,8 @@ export default function PhrasePageTemplate({
   onReferenceClick,
   loading = false,
   error = null,
-}: PhrasePageTemplateProps) {
+  hidePhrasesList = false,
+}) => {
   // Extract phrases array from either format
   const phrasesArray = Array.isArray(phrases) ? phrases : phrases.phrases;
 
@@ -155,46 +157,48 @@ export default function PhrasePageTemplate({
       />
 
       {/* Phrases Cards Section */}
-      <Box
-        component='section'
-        id='main-content'
-        aria-labelledby={sectionTitleId}
-        sx={{
-          flexGrow: 1,
-        }}
-      >
-        <Typography
-          id={sectionTitleId}
-          variant='h4'
-          component='h2'
-          align='center'
-          gutterBottom
+      {!hidePhrasesList && (
+        <Box
+          component='section'
+          id='main-content'
+          aria-labelledby={sectionTitleId}
           sx={{
-            mb: 4,
-            color: 'primary.main',
-            fontWeight: 'medium',
+            flexGrow: 1,
           }}
         >
-          {sectionTitle}
-        </Typography>
+          <Typography
+            id={sectionTitleId}
+            variant='h4'
+            component='h2'
+            align='center'
+            gutterBottom
+            sx={{
+              mb: 4,
+              color: 'primary.main',
+              fontWeight: 'medium',
+            }}
+          >
+            {sectionTitle}
+          </Typography>
 
-        {/* Data States: Loading, Error, Empty, or Content */}
-        <DataState
-          loading={loading}
-          error={error}
-          isEmpty={phrasesArray.length === 0}
-          emptyMessage='No phrases available at this time.'
-        >
-          <PhrasesGrid
-            phrases={phrasesArray}
-            idPrefix={idPrefix}
-            ariaLabel={collectionAriaLabel}
-            onPhraseClick={handlePhraseClick}
-            onReferenceClick={handleReferenceClick}
-            aboutSectionRef={aboutSectionRef}
-          />
-        </DataState>
-      </Box>
+          {/* Data States: Loading, Error, Empty, or Content */}
+          <DataState
+            loading={loading}
+            error={error}
+            isEmpty={phrasesArray.length === 0}
+            emptyMessage='No phrases available at this time.'
+          >
+            <PhrasesGrid
+              phrases={phrasesArray}
+              idPrefix={idPrefix}
+              ariaLabel={collectionAriaLabel}
+              onPhraseClick={handlePhraseClick}
+              onReferenceClick={handleReferenceClick}
+              aboutSectionRef={aboutSectionRef}
+            />
+          </DataState>
+        </Box>
+      )}
 
       {/* Phrase Modal */}
       {selectedPhrase && (
@@ -204,19 +208,15 @@ export default function PhrasePageTemplate({
           phraseCardProps={{
             arabic: {
               text: selectedPhrase.arabicText,
-              edition: 'القرآن الكريم',
             },
             english: {
               text: selectedPhrase.englishText,
-              edition: 'Sahih International',
             },
             hindi: {
               text: selectedPhrase.hindiText || 'Translation not available',
-              edition: 'फ़ारूकी',
             },
             urdu: {
               text: selectedPhrase.urduText,
-              edition: 'احمد علی',
             },
             references: formatReferences(selectedPhrase.references),
             onReferenceClick: handleReferenceClick,
@@ -225,4 +225,6 @@ export default function PhrasePageTemplate({
       )}
     </Container>
   );
-}
+};
+
+export default PhrasePageTemplate;
